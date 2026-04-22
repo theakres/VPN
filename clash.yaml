@@ -1,0 +1,11 @@
+proxy-groups: 
+- name: PROXY
+  type: select
+  use:
+    - Sub
+proxy-providers:
+  Sub:
+    type: http
+    url: "https://github.com/theakres/VPN/raw/main/sub.txt"
+    path: ./proxy_providers/sub.yml
+    interval: 3600
