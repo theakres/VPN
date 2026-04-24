@@ -1,6 +1,2 @@
-vless://f2ecddc4-3ae6-414b-b8d4-f0ac2782e5db@185.91.53.55:8443?encryption=none&type=grpc&security=reality&mode=gun&fp=QQ&sni=ads.x5.ru&pbk=dPXfrAC0Vcq2522VqYkyq-iALA91M13_YvPhm4G3S3E&sid=7ada97aa&spx=/#🇱🇹 Lithuania 1
-vless://f2ecddc4-3ae6-414b-b8d4-f0ac2782e5db@5.178.85.225:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=ObBnqYiOaiWqvELvFMZRiWrHYZ5wsyq0WWSwhBteYQw&sid=7a1197aa&spx=/#🇱🇹 Lithuania 2
-vless://6a33f94e-4cc6-4a60-b76e-edb004396012@5.178.85.225:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=ObBnqYiOaiWqvELvFMZRiWrHYZ5wsyq0WWSwhBteYQw&sid=7a1197aa&spx=/#🇱🇹 Lithuania 3
-vless://6a33f94e-4cc6-4a60-b76e-edb004396012@185.91.53.55:8443?encryption=none&type=grpc&security=reality&mode=gun&fp=QQ&sni=ads.x5.ru&pbk=dPXfrAC0Vcq2522VqYkyq-iALA91M13_YvPhm4G3S3E&sid=7ada97aa&spx=/#🇱🇹 Lithuania 4
-vless://dfac89eb-06b0-426f-9dd6-c46bf2032f8a@185.91.53.55:8443?encryption=none&type=grpc&security=reality&mode=gun&fp=QQ&sni=ads.x5.ru&pbk=dPXfrAC0Vcq2522VqYkyq-iALA91M13_YvPhm4G3S3E&sid=7ada97aa&spx=/#🇱🇹 Lithuania 5
-vless://dfac89eb-06b0-426f-9dd6-c46bf2032f8a@5.178.85.225:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=ObBnqYiOaiWqvELvFMZRiWrHYZ5wsyq0WWSwhBteYQw&sid=7a1197aa&spx=/#🇱🇹 Lithuania 6
+vless://dfac89eb-06b0-426f-9dd6-c46bf2032f8a@185.91.53.55:8443?encryption=none&type=grpc&security=reality&mode=gun&fp=QQ&sni=ads.x5.ru&pbk=dPXfrAC0Vcq2522VqYkyq-iALA91M13_YvPhm4G3S3E&sid=7ada97aa&spx=/#🇱🇹 Lithuania 1
+vless://dfac89eb-06b0-426f-9dd6-c46bf2032f8a@5.178.85.225:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=ObBnqYiOaiWqvELvFMZRiWrHYZ5wsyq0WWSwhBteYQw&sid=7a1197aa&spx=/#🇱🇹 Lithuania 2
