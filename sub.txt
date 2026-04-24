@@ -65,3 +65,9 @@ vless://a1eb984f-2683-44a7-b116-9c3872ffe569@5.188.115.153:12443?encryption=none
 vless://a1eb984f-2683-44a7-b116-9c3872ffe569@176.109.110.195:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=m.vk.com&fp=chrome&pbk=AytllHWmFcorPhR5QgIPF7t1fFK0DahMTyAPV-_-HFY&sid=846229eb47b3a5c9&spx=/#🇷🇺 ОБХОД Б/С #3 - T2, Beeline
 vless://a1eb984f-2683-44a7-b116-9c3872ffe569@46.243.234.197:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=m.vk.com&fp=chrome&pbk=xf2RxLgoGp8VWmcTP54KV7NiLAgq0TshG2ZCyUERTF4&sid=846229eb47b3a5c9&spx=/#🇷🇺 ОБХОД Б/С #5 - Все Операторы
 vless://a1eb984f-2683-44a7-b116-9c3872ffe569@46.243.234.197:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=chrome&pbk=xf2RxLgoGp8VWmcTP54KV7NiLAgq0TshG2ZCyUERTF4&sid=846229eb47b3a5c9&spx=/#🇷🇺 ОБХОД Б/С #6 - Все Операторы
+
+# 27.04
+vless://0b9b53cf-f716-41e6-b8f9-8ab2671086f3@193.27.19.254:20983?encryption=none&type=grpc&security=reality&sni=deepl.com&pbk=rio81biuLC4S9Tr4KlQ5A1lXT9XRNBItriC075yKZD8&sid=eb72642f9d6ef59f&fp=safari&serviceName=api#🇩🇪 Германия
+vless://0b9b53cf-f716-41e6-b8f9-8ab2671086f3@193.27.19.253:20983?encryption=none&type=grpc&security=reality&sni=deepl.com&pbk=rio81biuLC4S9Tr4KlQ5A1lXT9XRNBItriC075yKZD8&sid=eb72642f9d6ef59f&fp=safari&serviceName=api#🇱🇻 Латвия
+vless://0b9b53cf-f716-41e6-b8f9-8ab2671086f3@185.215.184.129:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=teamcity.org&pbk=qcAfQSTfVA35VumSBwSaCFynkCIHBop9vFD_GClKtBk&sid=f1b2f5daadb1f511&fp=edge#🇪🇪 Эстония
+vless://0b9b53cf-f716-41e6-b8f9-8ab2671086f3@173.208.173.58:36412?encryption=none&type=grpc&security=reality&sni=deepl.com&pbk=8Er4YHIXCrNs9Dg7T7HFT9JHqb2z0ZVUHgcZO60PfkY&sid=b312e84f4235750e&fp=ios&serviceName=auth#🇺🇸 США
