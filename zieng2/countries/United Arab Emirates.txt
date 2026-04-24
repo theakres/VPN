@@ -1,2 +1,0 @@
-vless://ca295b31-9d8d-4ced-979a-04fd44ee2620@217.16.27.124:443?encryption=none&type=grpc&security=tls&mode=gun&serviceName=grpc-tunnel&authority=api-two.cheapgo.cc&fp=chrome&sni=api-two.cheapgo.cc&alpn=h2#🇦🇪 United Arab Emirates 1
-vless://ca295b31-9d8d-4ced-979a-04fd44ee2620@217.16.27.124:993?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=5d1FknwpCrOGvqiSnlCg0JuVx3BptawN1BDen38bLho&sid=ad7dab462a323a#🇦🇪 United Arab Emirates 2
