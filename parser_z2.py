@@ -10,7 +10,7 @@ URLS = [
 ]
 
 BASE_DIR   = os.path.dirname(os.path.abspath(__file__))
-OUTPUT_ROOT   = BASE_DIR
+OUTPUT_ROOT   = os.path.join(BASE_DIR, "zieng2")
 COUNTRIES_DIR = os.path.join(OUTPUT_ROOT, "countries")
 TRANSPORTS_DIR = os.path.join(OUTPUT_ROOT, "transports")
 SECURITY_DIR  = os.path.join(OUTPUT_ROOT, "security")
