@@ -1,2 +1,0 @@
-vless://344c13db-02c0-4b72-8747-5603b29aaa21@144.31.130.115:40443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=chrome&sni=google.com&pbk=Of_X4TS7QYUBptRh8_qqjDZ_OeNF16b2Gs5D-G-1YEE&sid=f8e2341536544fc4&spx=/#🇹🇷 Turkey 1
-vless://344c13db-02c0-4b72-8747-5603b29aaa21@144.31.130.115:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=Of_X4TS7QYUBptRh8_qqjDZ_OeNF16b2Gs5D-G-1YEE&sid=f8e2341536544fc4&spx=/#🇹🇷 Turkey 2

@@ -1,1 +1,0 @@
-vless://344c13db-02c0-4b72-8747-5603b29aaa21@38.180.126.231:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=-tEqI4a3R1KIyY77AjdMf_bTNZjUtiRsputprZ7Zi1A&sid=cdd712faa31645e6&spx=/#🇨🇦 Canada
