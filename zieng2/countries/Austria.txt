@@ -1,0 +1,2 @@
+vless://63a45bd0-02f3-4a0a-97c8-6b043bfe59bf@158.160.42.20:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=OUTme8tBK1dzVY4volPJ-FcMpGuVbc-E0ssp1XnuVHk#🇦🇹 Austria 1
+vless://63a45bd0-02f3-4a0a-97c8-6b043bfe59bf@158.160.42.212:443?encryption=none&type=xhttp&security=reality&path=/api/v2/updates&mode=stream-one&extra=null&fp=qq&sni=ads.x5.ru&pbk=GPwzyu9IblW7VN8rQt3i4ZIzrb1F84e47ylBpdXvqTY&sid=6ba85179e30d4fc2#🇦🇹 Austria 2
