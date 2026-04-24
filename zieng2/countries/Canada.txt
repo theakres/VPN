@@ -1,0 +1,4 @@
+vless://06cd22ba-33bb-46eb-8680-9a272f7a49dc@38.180.126.231:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=-tEqI4a3R1KIyY77AjdMf_bTNZjUtiRsputprZ7Zi1A&sid=cdd712faa31645e6&spx=/#🇨🇦 Canada 1
+vless://06cd22ba-33bb-46eb-8680-9a272f7a49dc@38.180.126.231:40443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=chrome&sni=apple.com&pbk=-tEqI4a3R1KIyY77AjdMf_bTNZjUtiRsputprZ7Zi1A&sid=cdd712faa31645e6&spx=/#🇨🇦 Canada 2
+vless://989f91d7-463a-4e66-b9f5-4a1d01020b92@38.180.126.231:40443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=chrome&sni=apple.com&pbk=-tEqI4a3R1KIyY77AjdMf_bTNZjUtiRsputprZ7Zi1A&sid=cdd712faa31645e6&spx=/#🇨🇦 Canada 3
+vless://989f91d7-463a-4e66-b9f5-4a1d01020b92@38.180.126.231:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=-tEqI4a3R1KIyY77AjdMf_bTNZjUtiRsputprZ7Zi1A&sid=cdd712faa31645e6&spx=/#🇨🇦 Canada 4
