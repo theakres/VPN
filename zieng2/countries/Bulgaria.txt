@@ -1,1 +1,2 @@
-vless://103de528-36da-469f-88e9-4afb9115a45b@158.160.122.239:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇧🇬 Bulgaria
+vless://87c89fb2-29ff-42c6-81db-27727e130e8c@158.160.122.239:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇧🇬 Bulgaria 1
+vless://87c89fb2-29ff-42c6-81db-27727e130e8c@84.201.152.230:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇧🇬 Bulgaria 2

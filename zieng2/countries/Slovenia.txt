@@ -1,1 +1,0 @@
-vless://7a231cfb-2b76-42a8-bc0d-a42eea7b9a19@146.185.197.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=yJZmZ7VTuIUmUNa4YSWOfPf7iKjVXe1-13KZQ-LZVno&sid=91d363fa707d2487#🇸🇮 Slovenia
