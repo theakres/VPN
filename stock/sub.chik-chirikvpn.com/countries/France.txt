@@ -1,2 +1,2 @@
-vless://190a9cf6-d502-4e93-838f-984de6a16a9e@145.223.69.9:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=akagi.chik-chirik-app.su&pbk=20WPhouy5MKvU8PYUuSDoJ0i5p4VX35w5KjUnwjzmx0&sid=e483272387296c9a&fp=chrome#🇫🇷 Франция 1
-vless://190a9cf6-d502-4e93-838f-984de6a16a9e@145.223.69.9:443?encryption=none&type=xhttp&security=tls&sni=akagi.chik-chirik-app.su&path=/lovelive/&mode=auto#🇫🇷 Франция 2
+vless://0cd76278-c1ba-4371-bf83-3971c8f4b56c@145.223.69.9:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=akagi.chik-chirik-app.su&pbk=20WPhouy5MKvU8PYUuSDoJ0i5p4VX35w5KjUnwjzmx0&sid=e483272387296c9a&fp=chrome#🇫🇷 Франция 1
+vless://0cd76278-c1ba-4371-bf83-3971c8f4b56c@145.223.69.9:443?encryption=none&type=xhttp&security=tls&sni=akagi.chik-chirik-app.su&path=/lovelive/&mode=auto#🇫🇷 Франция 2

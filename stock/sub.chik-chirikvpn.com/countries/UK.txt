@@ -1,1 +1,1 @@
-vless://190a9cf6-d502-4e93-838f-984de6a16a9e@83.147.19.20:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=gb.chick-team.ru&pbk=QCA_NBcnkrZywx1OCUQgLEtFjC9jUyUaHYVaicpzkS8&sid=cad7ebb239d9f52e&fp=chrome#🇬🇧 Великобритания
+vless://0cd76278-c1ba-4371-bf83-3971c8f4b56c@83.147.19.20:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=gb.chick-team.ru&pbk=QCA_NBcnkrZywx1OCUQgLEtFjC9jUyUaHYVaicpzkS8&sid=cad7ebb239d9f52e&fp=chrome#🇬🇧 Великобритания

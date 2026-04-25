@@ -1,1 +1,1 @@
-vless://TrueVPN_21979916@144.124.250.59:8443?fp=random&pbk=O3_boKXuhQyilevBHxZMcqiDrqyAK6dQSTDa83Ywpko&security=reality&sid=ffffffffff&sni=ozon.ru&spx=/qYua4a1g58vDbdF&type=tcp#🇳🇱 Нидерланды
+vless://TrueVPN_21979916@144.124.250.59:8443?fp=random&pbk=O3_boKXuhQyilevBHxZMcqiDrqyAK6dQSTDa83Ywpko&security=reality&sid=ffffffffff&sni=ozon.ru&spx=/99BWZJa3sfpTMn3&type=tcp#🇳🇱 Нидерланды
