@@ -1,9 +1,9 @@
 # VPN Configs
 
-Обновлено: **2026-04-25 17:37 UTC**
-Всего конфигов: **313**
+Обновлено: **2026-04-25 18:54 UTC**
+Всего конфигов: **312**
 
-- **VLESS**: 294 — транспорты: TCP (265), gRPC (16), XHTTP (13) — защита: Reality (294)
+- **VLESS**: 293 — транспорты: TCP (264), gRPC (16), XHTTP (13) — защита: Reality (293)
 - **Trojan**: 6 — транспорты: TCP (6) — защита: Reality (6)
 
 ---
@@ -16,17 +16,17 @@
 
 ## Протоколы
 
-### VLESS (294)
+### VLESS (293)
 
 [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/vless.txt)
 
 **По защите:**
 
-- Reality (294) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/security/reality.txt)
+- Reality (293) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/security/reality.txt)
 
 **По транспорту:**
 
-- TCP (265) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/tcp.txt)
+- TCP (264) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/tcp.txt)
 - gRPC (16) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/grpc.txt)
 - XHTTP (13) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/xhttp.txt)
 
@@ -58,8 +58,8 @@
 - 🇸🇪 **Швеция** (15) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Sweden.txt)
 - 🇱🇻 **Латвия** (14) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Latvia.txt)
 - 🇵🇱 **Польша** (13) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Poland.txt)
-- 🇪🇪 **Эстония** (13) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Estonia.txt)
 - 🇹🇷 **Турция** (12) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Turkey.txt)
+- 🇪🇪 **Эстония** (12) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Estonia.txt)
 - 🇳🇴 **Норвегия** (11) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Norway.txt)
 - 🇧🇪 **Бельгия** (6) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Belgium.txt)
 - 🇨🇦 **Канада** (6) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Canada.txt)
