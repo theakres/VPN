@@ -1,2 +1,2 @@
-vless://dfac89eb-06b0-426f-9dd6-c46bf2032f8a@185.91.53.55:8443?encryption=none&type=grpc&security=reality&mode=gun&fp=QQ&sni=ads.x5.ru&pbk=dPXfrAC0Vcq2522VqYkyq-iALA91M13_YvPhm4G3S3E&sid=7ada97aa&spx=/#🇱🇹 Lithuania 1
-vless://dfac89eb-06b0-426f-9dd6-c46bf2032f8a@5.178.85.225:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=ObBnqYiOaiWqvELvFMZRiWrHYZ5wsyq0WWSwhBteYQw&sid=7a1197aa&spx=/#🇱🇹 Lithuania 2
+vless://7c9ac5a7-fbc3-4701-a012-abb30be282be@5.178.85.225:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=ObBnqYiOaiWqvELvFMZRiWrHYZ5wsyq0WWSwhBteYQw&sid=7a1197aa&spx=/#🇱🇹 Lithuania 1
+vless://7c9ac5a7-fbc3-4701-a012-abb30be282be@185.91.53.55:8443?encryption=none&type=grpc&security=reality&mode=gun&fp=QQ&sni=ads.x5.ru&pbk=dPXfrAC0Vcq2522VqYkyq-iALA91M13_YvPhm4G3S3E&sid=7ada97aa&spx=/#🇱🇹 Lithuania 2

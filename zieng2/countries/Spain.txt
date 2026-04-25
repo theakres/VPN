@@ -1,2 +1,3 @@
 vless://765d27af-6a6e-44e0-85f0-49c96afab7ce@84.201.152.16:51190?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=b3bd6f5b168c4d61#🇪🇸 Spain 1
 vless://765d27af-6a6e-44e0-85f0-49c96afab7ce@84.201.152.16:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=b3bd6f5b168c4d61#🇪🇸 Spain 2
+vless://765d27af-6a6e-44e0-85f0-49c96afab7ce@84.201.152.16:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=b3bd6f5b168c4d61#🇪🇸 Spain 3
