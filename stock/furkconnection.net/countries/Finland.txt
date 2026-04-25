@@ -1,2 +1,2 @@
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.137.69.91:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fi.furkbalancer.net&fp=chrome#🇫🇮 Финляндия 1
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.137.69.90:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fi.furkbalancer.net&fp=chrome#🇫🇮 Финляндия 1
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.149.147.44:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fi.learnyouthinspire.co.uk&fp=chrome#🇫🇮 Финляндия 2
