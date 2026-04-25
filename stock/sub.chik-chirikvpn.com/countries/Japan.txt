@@ -1,1 +1,0 @@
-vless://0cd76278-c1ba-4371-bf83-3971c8f4b56c@5.253.41.156:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=jp.chick-team.ru&pbk=6-REVWq51xr9OwJAE4VlW98QvZN9NCYe3BK5RKd7YBw&sid=c643a34162d37587&fp=chrome#🇯🇵 Япония

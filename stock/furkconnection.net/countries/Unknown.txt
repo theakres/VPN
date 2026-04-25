@@ -1,1 +1,0 @@
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@0.0.0.0:2083?encryption=none&type=tcp&security=tls&sni=bg.learnyouthinspire.co.uk&fp=chrome#Неизвестно
