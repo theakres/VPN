@@ -1,3 +1,3 @@
-vless://6a27b959-c9f7-4f2d-a64d-66eaa605a2c0@144.124.242.130:443?encryption=none&type=xhttp&security=tls&sni=xnl.chick-team.ru&path=/xhttppath/&host=xnl.chick-team.ru&mode=auto#🇳🇱 Нидерланды
-vless://6a27b959-c9f7-4f2d-a64d-66eaa605a2c0@51.250.30.255:443?encryption=none&type=xhttp&security=tls&sni=eve.chick-team.ru&path=/lovelive/&mode=auto#🇷🇺 Россия
-vless://6a27b959-c9f7-4f2d-a64d-66eaa605a2c0@145.223.69.9:443?encryption=none&type=xhttp&security=tls&sni=akagi.chik-chirik-app.su&path=/lovelive/&mode=auto#🇫🇷 Франция
+vless://190a9cf6-d502-4e93-838f-984de6a16a9e@144.124.242.130:443?encryption=none&type=xhttp&security=tls&sni=xnl.chick-team.ru&path=/xhttppath/&host=xnl.chick-team.ru&mode=auto#🇳🇱 Нидерланды
+vless://190a9cf6-d502-4e93-838f-984de6a16a9e@51.250.30.255:443?encryption=none&type=xhttp&security=tls&sni=eve.chick-team.ru&path=/lovelive/&mode=auto#🇷🇺 Россия
+vless://190a9cf6-d502-4e93-838f-984de6a16a9e@145.223.69.9:443?encryption=none&type=xhttp&security=tls&sni=akagi.chik-chirik-app.su&path=/lovelive/&mode=auto#🇫🇷 Франция

@@ -1,1 +1,1 @@
-vless://775da75e-1530-4ab8-809e-bebae912d3d9@94.183.233.38:8443?encryption=none&type=xhttp&security=reality&sni=www.ups.com&pbk=vlr8yVb-r0LM0zYDU8Ye3WWVRURoW_LEDyrrstNHYXw&sid=6e3b5a9d7c1f8240&fp=chrome&path=/api/v2/stream/events&mode=auto#🇺🇸 США
+vless://775da75e-1530-4ab8-809e-bebae912d3d9@94.183.233.38:8443?encryption=none&type=xhttp&security=reality&sni=www.ups.com&pbk=vlr8yVb-r0LM0zYDU8Ye3WWVRURoW_LEDyrrstNHYXw&sid=7f6e2c1a8d5b4390&fp=chrome&path=/api/v2/stream/events&mode=auto#🇺🇸 США
