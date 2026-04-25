@@ -1,2 +1,1 @@
-vless://091cd574-7bf7-4dc3-9033-1359d6f9b6b2@212.233.72.250:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=nDq00UeDI5TKKFipI6rgdVCqiTO98ncHKn90Qp3EsBE&sid=f2b78452f9233f26#🇰🇿 Kazakhstan 1
-vless://7564cdb5-e6a7-4ce4-be10-ece844cd9b08@188.225.75.128:9880?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=www.id.vk.ru&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4#🇰🇿 Kazakhstan 2
+vless://091cd574-7bf7-4dc3-9033-1359d6f9b6b2@212.233.72.250:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=nDq00UeDI5TKKFipI6rgdVCqiTO98ncHKn90Qp3EsBE&sid=f2b78452f9233f26#🇰🇿 Kazakhstan
