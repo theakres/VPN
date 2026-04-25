@@ -1,15 +1,15 @@
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@91.186.196.13:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de.chocolatemango.live&fp=chrome#🇩🇪 Германия 1
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@159.195.79.13:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de-nuremberg.chocolatemango.live&fp=chrome#🇩🇪 Германия 2
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.153.70.144:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de.chocolatemango.live&fp=chrome#🇩🇪 Германия 1
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@159.195.79.108:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de-nuremberg.chocolatemango.live&fp=chrome#🇩🇪 Германия 2
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@213.109.147.50:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=nl.chocolatemango.live&fp=chrome#🇳🇱 Нидерланды 1
 vless://6a27b959-c9f7-4f2d-a64d-66eaa605a2c0@144.124.242.130:443?encryption=none&type=xhttp&security=tls&sni=xnl.chick-team.ru&path=/xhttppath/&host=xnl.chick-team.ru&mode=auto#🇳🇱 Нидерланды 2
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.137.69.91:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fi.furkbalancer.net&fp=chrome#🇫🇮 Финляндия 1
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.149.147.44:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fi.learnyouthinspire.co.uk&fp=chrome#🇫🇮 Финляндия 2
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@91.186.196.13:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fr.learnyouthinspire.co.uk&fp=chrome#🇫🇷 Франция 1
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.153.70.144:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fr.learnyouthinspire.co.uk&fp=chrome#🇫🇷 Франция 1
 vless://6a27b959-c9f7-4f2d-a64d-66eaa605a2c0@145.223.69.9:443?encryption=none&type=xhttp&security=tls&sni=akagi.chik-chirik-app.su&path=/lovelive/&mode=auto#🇫🇷 Франция 2
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@152.53.113.50:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=at.chocolatemango.live&fp=chrome#🇦🇹 Австрия
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@217.13.104.64:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=hu.chocolatemango.live&fp=chrome#🇭🇺 Венгрия
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@91.186.196.13:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=it.learnyouthinspire.co.uk&fp=chrome#🇮🇹 Италия
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.153.70.144:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=it.learnyouthinspire.co.uk&fp=chrome#🇮🇹 Италия
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@46.247.43.148:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kz.furkbalancer.net&fp=chrome#🇰🇿 Казахстан
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@91.186.196.13:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=pl.learnyouthinspire.co.uk&fp=chrome#🇵🇱 Польша
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.153.70.144:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=pl.learnyouthinspire.co.uk&fp=chrome#🇵🇱 Польша
 vless://6a27b959-c9f7-4f2d-a64d-66eaa605a2c0@51.250.30.255:443?encryption=none&type=xhttp&security=tls&sni=eve.chick-team.ru&path=/lovelive/&mode=auto#🇷🇺 Россия
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@185.33.84.26:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=usa-il.chocolatemango.live&fp=chrome#🇺🇸 США
