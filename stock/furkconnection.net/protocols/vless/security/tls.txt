@@ -1,13 +1,13 @@
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.8.96.152:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de.chocolatemango.live&fp=chrome#🇩🇪 Германия 1
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@159.195.79.119:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de-nuremberg.chocolatemango.live&fp=chrome#🇩🇪 Германия 2
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.137.69.90:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fi.furkbalancer.net&fp=chrome#🇫🇮 Финляндия 1
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@188.225.57.207:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de.chocolatemango.live&fp=chrome#🇩🇪 Германия 1
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@159.195.79.197:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de-nuremberg.chocolatemango.live&fp=chrome#🇩🇪 Германия 2
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.137.69.91:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fi.furkbalancer.net&fp=chrome#🇫🇮 Финляндия 1
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.149.147.44:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fi.learnyouthinspire.co.uk&fp=chrome#🇫🇮 Финляндия 2
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@152.53.113.50:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=at.chocolatemango.live&fp=chrome#🇦🇹 Австрия
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@217.13.104.243:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=hu.chocolatemango.live&fp=chrome#🇭🇺 Венгрия
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.8.96.152:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=it.learnyouthinspire.co.uk&fp=chrome#🇮🇹 Италия
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@217.13.104.23:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=hu.chocolatemango.live&fp=chrome#🇭🇺 Венгрия
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@188.225.57.207:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=it.learnyouthinspire.co.uk&fp=chrome#🇮🇹 Италия
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@46.247.43.148:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kz.furkbalancer.net&fp=chrome#🇰🇿 Казахстан
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@0.0.0.0:2083?encryption=none&type=tcp&security=tls&sni=bg.learnyouthinspire.co.uk&fp=chrome#Неизвестно
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@213.109.147.50:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=nl.chocolatemango.live&fp=chrome#🇳🇱 Нидерланды
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.8.96.152:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=pl.learnyouthinspire.co.uk&fp=chrome#🇵🇱 Польша
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@188.225.57.207:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=pl.learnyouthinspire.co.uk&fp=chrome#🇵🇱 Польша
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@185.33.84.26:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=usa-il.chocolatemango.live&fp=chrome#🇺🇸 США
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.8.96.152:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fr.learnyouthinspire.co.uk&fp=chrome#🇫🇷 Франция
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@188.225.57.207:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fr.learnyouthinspire.co.uk&fp=chrome#🇫🇷 Франция
