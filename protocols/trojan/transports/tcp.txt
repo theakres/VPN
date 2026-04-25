@@ -1,0 +1,6 @@
+trojan://3G3hWDqx7TVxpvxVojQnyaEZbP5R9FBe@dk.darknet.cv:8443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=o8GYa-qNBYhnBxsJA7iDKI4EDuglTMEvJ1sqNg9_GRA&sid=a1b323d4&spx=/#🇩🇰 DK
+trojan://3G3hWDqx7TVxpvxVojQnyaEZbP5R9FBe@be.darknet.cv:8443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=cn3875ekZDMnmWmdhFGkPXqOc0xdxqhLiZCoTyUBNSQ&sid=a1b323d4&spx=/#🇧🇪 Бельгия
+trojan://3G3hWDqx7TVxpvxVojQnyaEZbP5R9FBe@ca.darknet.cv:8443?type=tcp&security=reality&sni=gmail.com&fp=chrome&pbk=UlQc1F6gVxSpcqxrga5rOOIHoOmvXifgKlbhfMdz6xc&sid=a1b323d4&spx=/#🇨🇦 Канада
+trojan://3G3hWDqx7TVxpvxVojQnyaEZbP5R9FBe@no.darknet.cv:8443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=D2f-Sck2r_aVv8r7Nm8URfOV6XpPTTnmkQr5BsInDRA&sid=a1b323d4&spx=/#🇳🇴 Норвегия
+trojan://3G3hWDqx7TVxpvxVojQnyaEZbP5R9FBe@us.darknet.cv:8443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=Rdr5sS8b2zL7i75s72H00mB8lViKcXHjyufgQ2weXUc&sid=a1b323d4&spx=/#🇺🇸 США
+trojan://3G3hWDqx7TVxpvxVojQnyaEZbP5R9FBe@se.darknet.cv:8443?type=tcp&security=reality&sni=gmail.com&fp=chrome&pbk=tPundD704_MrpORJWymOrBC5FKlUu5sZRzhZxfa0snI&sid=a1b323d4&spx=/#🇸🇪 Швеция

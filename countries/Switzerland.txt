@@ -1,0 +1,2 @@
+vless://a1eb984f-2683-44a7-b116-9c3872ffe569@ch2.darknet.cv:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=ch2.darknet.cv&fp=chrome&pbk=f_G7_2CFkExCv7QiZacSURTaA8cAHt0YVrGD5wckxl4&sid=a2b223d4&spx=/#🇨🇭 Швейцария 1
+vless://a1eb984f-2683-44a7-b116-9c3872ffe569@ch3.darknet.cv:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=4FWuvllWmhKuqQ5av5v46bN10WPnaB81HL2ZdmMhcX0&sid=a2b223d4&spx=/#🇨🇭 Швейцария 2
