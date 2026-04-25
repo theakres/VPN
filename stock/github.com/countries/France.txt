@@ -1,5 +1,0 @@
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@217.60.39.139:8443?plugin=v2ray-plugin;mode=websocket;host=mfvpn.fuchen.indevs.in;path=3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560;tls;mux=0#🇫🇷 Франция 1
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@46.8.224.250:8443?plugin=v2ray-plugin;mode=websocket;host=mfvpn.fuchen.indevs.in;path=3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560;tls;mux=0#🇫🇷 Франция 2
-hysteria2://dongtaiwang.com@163.172.113.118:40022/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&insecure=1&sni=www.microsoft.com#🇫🇷 Франция 3
-hysteria2://dongtaiwang.com@163.172.113.118:40022?headerType=none&encryption=none&sni=www.microsoft.com&insecure=1#🇫🇷 Франция 4
-hysteria2://dongtaiwang.com@163.172.113.118:40022?security=tls&insecure=1&sni=www.microsoft.com#🇫🇷 Франция 5

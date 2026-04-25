@@ -1,0 +1,1 @@
+vless://0cd76278-c1ba-4371-bf83-3971c8f4b56c@91.224.74.180:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=kz.chick-team.ru&pbk=93924LbE6cwVVF6kCIT1Z0hoKmWJu_0RmnKzQsTz_SM&sid=f9f1d5f7fa9ce307&fp=chrome#🇰🇿 Казахстан

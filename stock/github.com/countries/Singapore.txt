@@ -1,4 +1,0 @@
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@47.237.71.245:15430?plugin=v2ray-plugin;mode=websocket;host=ylnhh.us.ci;path=14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560;tls;mux=0#🇸🇬 Сингапур 1
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@47.237.71.245:15430?plugin=v2ray-plugin;mode=websocket;host=mfvpn.fuchen.indevs.in;path=3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560;tls;mux=0#🇸🇬 Сингапур 2
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@8.219.154.217:8443?plugin=v2ray-plugin;mode=websocket;host=mfvpn.fuchen.indevs.in;path=3e96ef7d-8637-42c2-ac73-75182196e755/?ed\=2560;tls;mux=0#🇸🇬 Сингапур 3
-ss://bm9uZTpUZWxlZ3JhbfCfh6jwn4ezIEBXYW5nQ2FpMg@5.223.60.212:443?plugin=v2ray-plugin;mode=websocket;host=ylnhh.us.ci;path=14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed\=2560;tls;sni=Telegram🇨🇳;mux=0;skip-cert-verify=true#🇸🇬 Сингапур 4

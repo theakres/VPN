@@ -1,0 +1,1 @@
+vless://0cd76278-c1ba-4371-bf83-3971c8f4b56c@144.31.63.127:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de.chick-team.ru&pbk=bi6nc3_PcMa3ZxOkUH87JrRz8E7yiBJpv6Qnr46HCDY&sid=4098a82e9c343413&fp=chrome#🇩🇪 Германия

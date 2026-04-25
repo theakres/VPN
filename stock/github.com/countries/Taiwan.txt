@@ -1,2 +1,0 @@
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@160.187.100.84:443/?insecure=1&sni=vpn-tw-001.fastervpn.world#🇹🇼 Тайвань 1
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@160.187.100.84:443?headerType=none&encryption=none&sni=vpn-tw-001.fastervpn.world&insecure=1#🇹🇼 Тайвань 2

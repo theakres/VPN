@@ -1,0 +1,1 @@
+vless://0cd76278-c1ba-4371-bf83-3971c8f4b56c@217.60.61.68:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fi.chick-team.ru&pbk=MXfd9WXeMKb5RApiIBz3do37MVVs7eSjAolIRoVT6zk&sid=26b1888d30cae1f1&fp=chrome#🇫🇮 Финляндия
