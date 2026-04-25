@@ -1,14 +1,16 @@
 # VPN Configs
 
-> Обновлено: **2026-04-25 14:57 UTC** &nbsp;|&nbsp; Всего конфигов: **76**
+Обновлено: **2026-04-25 15:08 UTC**
+Всего конфигов: **76**
+
+- **VLESS**: 70 — транспорты: gRPC (3), TCP (67) — защита: reality (70)
+- **Trojan**: 6 — транспорты: TCP (6) — защита: reality (6)
 
 ---
 
 ## Все конфиги
 
-| Файл | Ссылка |
-|------|--------|
-| `all.txt` | [Скачать](https://github.com/theakres/VPN/raw/main/all.txt) &nbsp; <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/all.txt')" title="Скопировать ссылку">Копировать</a> |
+[https://github.com/theakres/VPN/raw/main/all.txt](https://github.com/theakres/VPN/raw/main/all.txt)
 
 ---
 
@@ -16,92 +18,73 @@
 
 ### VLESS (70)
 
-| Файл | Ссылка |
-|------|--------|
-| Все VLESS | [Скачать](https://github.com/theakres/VPN/raw/main/protocols/vless/vless.txt) &nbsp; <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/protocols/vless/vless.txt')" title="Скопировать ссылку">Копировать</a> |
+[https://github.com/theakres/VPN/raw/main/protocols/vless/vless.txt](https://github.com/theakres/VPN/raw/main/protocols/vless/vless.txt)
 
 **По защите:**
 
-| Тип | Ссылка |
-|-----|--------|
-| `reality` (70) | [Скачать](https://github.com/theakres/VPN/raw/main/protocols/vless/security/reality.txt) &nbsp; <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/protocols/vless/security/reality.txt')" title="Скопировать ссылку">Копировать</a> |
+- `reality` (70) — [https://github.com/theakres/VPN/raw/main/protocols/vless/security/reality.txt](https://github.com/theakres/VPN/raw/main/protocols/vless/security/reality.txt)
 
 **По транспорту:**
 
-| Тип | Ссылка |
-|-----|--------|
-| `gRPC` (3) | [Скачать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/grpc.txt) &nbsp; <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/protocols/vless/transports/grpc.txt')" title="Скопировать ссылку">Копировать</a> |
-| `TCP` (67) | [Скачать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/tcp.txt) &nbsp; <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/protocols/vless/transports/tcp.txt')" title="Скопировать ссылку">Копировать</a> |
+- `gRPC` (3) — [https://github.com/theakres/VPN/raw/main/protocols/vless/transports/grpc.txt](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/grpc.txt)
+- `TCP` (67) — [https://github.com/theakres/VPN/raw/main/protocols/vless/transports/tcp.txt](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/tcp.txt)
 
 ---
 
 ### Trojan (6)
 
-| Файл | Ссылка |
-|------|--------|
-| Все Trojan | [Скачать](https://github.com/theakres/VPN/raw/main/protocols/trojan/trojan.txt) &nbsp; <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/protocols/trojan/trojan.txt')" title="Скопировать ссылку">Копировать</a> |
+[https://github.com/theakres/VPN/raw/main/protocols/trojan/trojan.txt](https://github.com/theakres/VPN/raw/main/protocols/trojan/trojan.txt)
 
 **По защите:**
 
-| Тип | Ссылка |
-|-----|--------|
-| `reality` (6) | [Скачать](https://github.com/theakres/VPN/raw/main/protocols/trojan/security/reality.txt) &nbsp; <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/protocols/trojan/security/reality.txt')" title="Скопировать ссылку">Копировать</a> |
+- `reality` (6) — [https://github.com/theakres/VPN/raw/main/protocols/trojan/security/reality.txt](https://github.com/theakres/VPN/raw/main/protocols/trojan/security/reality.txt)
 
 **По транспорту:**
 
-| Тип | Ссылка |
-|-----|--------|
-| `TCP` (6) | [Скачать](https://github.com/theakres/VPN/raw/main/protocols/trojan/transports/tcp.txt) &nbsp; <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/protocols/trojan/transports/tcp.txt')" title="Скопировать ссылку">Копировать</a> |
+- `TCP` (6) — [https://github.com/theakres/VPN/raw/main/protocols/trojan/transports/tcp.txt](https://github.com/theakres/VPN/raw/main/protocols/trojan/transports/tcp.txt)
 
 ---
 
 ## По странам
 
-| Страна | Кол-во | Ссылка |
-|--------|--------|--------|
-| 🇷🇺 Россия | 15 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Russia.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇩🇪 Германия | 4 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Germany.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇱🇻 Латвия | 4 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Latvia.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇸🇪 Швеция | 4 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Sweden.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇵🇱 Польша | 3 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Poland.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇳🇱 Нидерланды | 3 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Netherlands.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇺🇸 США | 3 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/USA.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇪🇪 Эстония | 3 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Estonia.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇫🇮 Финляндия | 3 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Finland.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇱🇹 Литва | 2 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Lithuania.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇦🇹 Австрия | 2 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Austria.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇨🇦 Канада | 2 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Canada.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇧🇪 Бельгия | 2 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Belgium.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇩🇰 Дания | 2 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Denmark.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇳🇴 Норвегия | 2 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Norway.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇨🇭 Швейцария | 2 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Switzerland.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇭🇺 Венгрия | 2 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Hungary.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇦🇱 Албания | 1 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Albania.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇬🇧 Великобритания | 1 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/UK.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇪🇸 Испания | 1 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Spain.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇫🇷 Франция | 1 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/France.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇮🇹 Италия | 1 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Italy.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇨🇿 Чехия | 1 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Czechia.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇸🇮 Словения | 1 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Slovenia.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇧🇬 Болгария | 1 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Bulgaria.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇹🇷 Турция | 1 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Turkey.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇯🇵 Япония | 1 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Japan.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇭🇰 Гонконг | 1 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Hong_Kong.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇻🇳 Вьетнам | 1 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Vietnam.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇹🇭 Таиланд | 1 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Thailand.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇸🇬 Сингапур | 1 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Singapore.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇳🇬 Нигерия | 1 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Nigeria.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇦🇷 Аргентина | 1 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Argentina.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇧🇷 Бразилия | 1 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/Brazil.txt')" title="Скопировать ссылку">Копировать</a> |
-| 🇨🇳 Китай | 1 | <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('https://github.com/theakres/VPN/raw/main/countries/China.txt')" title="Скопировать ссылку">Копировать</a> |
+- 🇷🇺 **Россия** (15) — [https://github.com/theakres/VPN/raw/main/countries/Russia.txt](https://github.com/theakres/VPN/raw/main/countries/Russia.txt)
+- 🇩🇪 **Германия** (4) — [https://github.com/theakres/VPN/raw/main/countries/Germany.txt](https://github.com/theakres/VPN/raw/main/countries/Germany.txt)
+- 🇱🇻 **Латвия** (4) — [https://github.com/theakres/VPN/raw/main/countries/Latvia.txt](https://github.com/theakres/VPN/raw/main/countries/Latvia.txt)
+- 🇸🇪 **Швеция** (4) — [https://github.com/theakres/VPN/raw/main/countries/Sweden.txt](https://github.com/theakres/VPN/raw/main/countries/Sweden.txt)
+- 🇵🇱 **Польша** (3) — [https://github.com/theakres/VPN/raw/main/countries/Poland.txt](https://github.com/theakres/VPN/raw/main/countries/Poland.txt)
+- 🇳🇱 **Нидерланды** (3) — [https://github.com/theakres/VPN/raw/main/countries/Netherlands.txt](https://github.com/theakres/VPN/raw/main/countries/Netherlands.txt)
+- 🇺🇸 **США** (3) — [https://github.com/theakres/VPN/raw/main/countries/USA.txt](https://github.com/theakres/VPN/raw/main/countries/USA.txt)
+- 🇪🇪 **Эстония** (3) — [https://github.com/theakres/VPN/raw/main/countries/Estonia.txt](https://github.com/theakres/VPN/raw/main/countries/Estonia.txt)
+- 🇫🇮 **Финляндия** (3) — [https://github.com/theakres/VPN/raw/main/countries/Finland.txt](https://github.com/theakres/VPN/raw/main/countries/Finland.txt)
+- 🇱🇹 **Литва** (2) — [https://github.com/theakres/VPN/raw/main/countries/Lithuania.txt](https://github.com/theakres/VPN/raw/main/countries/Lithuania.txt)
+- 🇦🇹 **Австрия** (2) — [https://github.com/theakres/VPN/raw/main/countries/Austria.txt](https://github.com/theakres/VPN/raw/main/countries/Austria.txt)
+- 🇨🇦 **Канада** (2) — [https://github.com/theakres/VPN/raw/main/countries/Canada.txt](https://github.com/theakres/VPN/raw/main/countries/Canada.txt)
+- 🇧🇪 **Бельгия** (2) — [https://github.com/theakres/VPN/raw/main/countries/Belgium.txt](https://github.com/theakres/VPN/raw/main/countries/Belgium.txt)
+- 🇩🇰 **Дания** (2) — [https://github.com/theakres/VPN/raw/main/countries/Denmark.txt](https://github.com/theakres/VPN/raw/main/countries/Denmark.txt)
+- 🇳🇴 **Норвегия** (2) — [https://github.com/theakres/VPN/raw/main/countries/Norway.txt](https://github.com/theakres/VPN/raw/main/countries/Norway.txt)
+- 🇨🇭 **Швейцария** (2) — [https://github.com/theakres/VPN/raw/main/countries/Switzerland.txt](https://github.com/theakres/VPN/raw/main/countries/Switzerland.txt)
+- 🇭🇺 **Венгрия** (2) — [https://github.com/theakres/VPN/raw/main/countries/Hungary.txt](https://github.com/theakres/VPN/raw/main/countries/Hungary.txt)
+- 🇦🇱 **Албания** (1) — [https://github.com/theakres/VPN/raw/main/countries/Albania.txt](https://github.com/theakres/VPN/raw/main/countries/Albania.txt)
+- 🇬🇧 **Великобритания** (1) — [https://github.com/theakres/VPN/raw/main/countries/UK.txt](https://github.com/theakres/VPN/raw/main/countries/UK.txt)
+- 🇪🇸 **Испания** (1) — [https://github.com/theakres/VPN/raw/main/countries/Spain.txt](https://github.com/theakres/VPN/raw/main/countries/Spain.txt)
+- 🇫🇷 **Франция** (1) — [https://github.com/theakres/VPN/raw/main/countries/France.txt](https://github.com/theakres/VPN/raw/main/countries/France.txt)
+- 🇮🇹 **Италия** (1) — [https://github.com/theakres/VPN/raw/main/countries/Italy.txt](https://github.com/theakres/VPN/raw/main/countries/Italy.txt)
+- 🇨🇿 **Чехия** (1) — [https://github.com/theakres/VPN/raw/main/countries/Czechia.txt](https://github.com/theakres/VPN/raw/main/countries/Czechia.txt)
+- 🇸🇮 **Словения** (1) — [https://github.com/theakres/VPN/raw/main/countries/Slovenia.txt](https://github.com/theakres/VPN/raw/main/countries/Slovenia.txt)
+- 🇧🇬 **Болгария** (1) — [https://github.com/theakres/VPN/raw/main/countries/Bulgaria.txt](https://github.com/theakres/VPN/raw/main/countries/Bulgaria.txt)
+- 🇹🇷 **Турция** (1) — [https://github.com/theakres/VPN/raw/main/countries/Turkey.txt](https://github.com/theakres/VPN/raw/main/countries/Turkey.txt)
+- 🇯🇵 **Япония** (1) — [https://github.com/theakres/VPN/raw/main/countries/Japan.txt](https://github.com/theakres/VPN/raw/main/countries/Japan.txt)
+- 🇭🇰 **Гонконг** (1) — [https://github.com/theakres/VPN/raw/main/countries/Hong_Kong.txt](https://github.com/theakres/VPN/raw/main/countries/Hong_Kong.txt)
+- 🇻🇳 **Вьетнам** (1) — [https://github.com/theakres/VPN/raw/main/countries/Vietnam.txt](https://github.com/theakres/VPN/raw/main/countries/Vietnam.txt)
+- 🇹🇭 **Таиланд** (1) — [https://github.com/theakres/VPN/raw/main/countries/Thailand.txt](https://github.com/theakres/VPN/raw/main/countries/Thailand.txt)
+- 🇸🇬 **Сингапур** (1) — [https://github.com/theakres/VPN/raw/main/countries/Singapore.txt](https://github.com/theakres/VPN/raw/main/countries/Singapore.txt)
+- 🇳🇬 **Нигерия** (1) — [https://github.com/theakres/VPN/raw/main/countries/Nigeria.txt](https://github.com/theakres/VPN/raw/main/countries/Nigeria.txt)
+- 🇦🇷 **Аргентина** (1) — [https://github.com/theakres/VPN/raw/main/countries/Argentina.txt](https://github.com/theakres/VPN/raw/main/countries/Argentina.txt)
+- 🇧🇷 **Бразилия** (1) — [https://github.com/theakres/VPN/raw/main/countries/Brazil.txt](https://github.com/theakres/VPN/raw/main/countries/Brazil.txt)
+- 🇨🇳 **Китай** (1) — [https://github.com/theakres/VPN/raw/main/countries/China.txt](https://github.com/theakres/VPN/raw/main/countries/China.txt)
 
 ---
-
-<details>
-<summary>О проекте</summary>
 
 Конфиги автоматически собираются каждый час из открытых источников.
 Страны определяются по флагу в названии или через ip-api.com.
 Дубликаты удаляются автоматически.
-
-</details>
