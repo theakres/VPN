@@ -1,6 +1,6 @@
 # VPN Configs
 
-Обновлено: **2026-04-25 22:25 МСК**  |  Всего конфигов: **365**
+Обновлено: **2026-04-25 22:43 МСК**  |  Всего конфигов: **366**
 
 ---
 
@@ -12,20 +12,20 @@
 
 ## Протоколы
 
-### VLESS (359)
+### VLESS (360)
 
 [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/vless.txt)
 
 **По защите:**
 
-- Reality (344) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/security/reality.txt)
+- Reality (345) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/security/reality.txt)
 - TLS (15) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/security/tls.txt)
 
 **По транспорту:**
 
 - TCP (311) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/tcp.txt)
 - XHTTP (33) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/xhttp.txt)
-- gRPC (15) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/grpc.txt)
+- gRPC (16) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/grpc.txt)
 
 ---
 
@@ -54,8 +54,8 @@
 - 🇬🇧 **Великобритания** (17) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/UK.txt)
 - 🇵🇱 **Польша** (17) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Poland.txt)
 - 🇸🇪 **Швеция** (17) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Sweden.txt)
+- 🇱🇻 **Латвия** (13) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Latvia.txt)
 - 🇹🇷 **Турция** (13) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Turkey.txt)
-- 🇱🇻 **Латвия** (12) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Latvia.txt)
 - 🇪🇪 **Эстония** (12) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Estonia.txt)
 - 🇳🇴 **Норвегия** (10) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Norway.txt)
 - 🇨🇦 **Канада** (7) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Canada.txt)

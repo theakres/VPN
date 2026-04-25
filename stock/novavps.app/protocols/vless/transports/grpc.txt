@@ -1,2 +1,3 @@
-vless://0b9b53cf-f716-41e6-b8f9-8ab2671086f3@193.27.19.253:20983?encryption=none&type=grpc&security=reality&sni=deepl.com&pbk=rio81biuLC4S9Tr4KlQ5A1lXT9XRNBItriC075yKZD8&sid=eb72642f9d6ef59f&fp=safari&serviceName=api#🇩🇪 Германия
+vless://0b9b53cf-f716-41e6-b8f9-8ab2671086f3@193.27.19.251:20983?encryption=none&type=grpc&security=reality&sni=deepl.com&pbk=rio81biuLC4S9Tr4KlQ5A1lXT9XRNBItriC075yKZD8&sid=eb72642f9d6ef59f&fp=safari&serviceName=api#🇩🇪 Германия
+vless://0b9b53cf-f716-41e6-b8f9-8ab2671086f3@193.27.19.250:20983?encryption=none&type=grpc&security=reality&sni=deepl.com&pbk=rio81biuLC4S9Tr4KlQ5A1lXT9XRNBItriC075yKZD8&sid=eb72642f9d6ef59f&fp=safari&serviceName=api#🇱🇻 Латвия
 vless://0b9b53cf-f716-41e6-b8f9-8ab2671086f3@173.208.173.58:36412?encryption=none&type=grpc&security=reality&sni=deepl.com&pbk=8Er4YHIXCrNs9Dg7T7HFT9JHqb2z0ZVUHgcZO60PfkY&sid=b312e84f4235750e&fp=ios&serviceName=auth#🇺🇸 США

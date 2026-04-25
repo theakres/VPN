@@ -1,1 +1,1 @@
-vless://8134b223-0aad-4f8c-ba37-06f8acfdb392@45.151.182.35:55268?encryption=none&security=reality&type=tcp&headerType=none&fm=null&sni=sso.passport.yandex.ru&fp=chrome&pbk=zActfG7j1iIjclCzN1Eid1jR85-_U9-ZR2nedr142Hk&sid=9f8d1450dbb432e9#🇦🇺 Австралия
+vless://8134b223-0aad-4f8c-ba37-06f8acfdb392@45.142.208.170:55268?encryption=none&security=reality&type=tcp&headerType=none&fm=null&sni=sso.passport.yandex.ru&fp=chrome&pbk=zActfG7j1iIjclCzN1Eid1jR85-_U9-ZR2nedr142Hk&sid=a8ac91fd6a3c63ca#🇦🇺 Австралия
