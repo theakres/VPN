@@ -1,0 +1,1 @@
+vless://6a27b959-c9f7-4f2d-a64d-66eaa605a2c0@209.200.246.130:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=eidos.chick-team.ru&pbk=DZ9WtBLSxRMvAzBMjcaAX9LCQztQkIks4UUQ4gsPtQA&sid=975205ed8e68eced&fp=chrome#🇨🇦 Канада
