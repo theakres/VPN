@@ -1,2 +1,2 @@
-vless://a1eb984f-2683-44a7-b116-9c3872ffe569@be.darknet.cv:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=7r6oa-JKl3aj7i9b_AHgsitAXWJVFinBrZbqfi8XkEU&sid=a1b323d4&spx=/#🇧🇪 Бельгия 1
-trojan://3G3hWDqx7TVxpvxVojQnyaEZbP5R9FBe@be.darknet.cv:8443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=cn3875ekZDMnmWmdhFGkPXqOc0xdxqhLiZCoTyUBNSQ&sid=a1b323d4&spx=/#🇧🇪 Бельгия 2
+vless://a1eb984f-2683-44a7-b116-9c3872ffe569@144.31.219.5:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=7r6oa-JKl3aj7i9b_AHgsitAXWJVFinBrZbqfi8XkEU&sid=a1b323d4&spx=/#🇧🇪 Бельгия 1
+trojan://3G3hWDqx7TVxpvxVojQnyaEZbP5R9FBe@144.31.219.5:8443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=cn3875ekZDMnmWmdhFGkPXqOc0xdxqhLiZCoTyUBNSQ&sid=a1b323d4&spx=/#🇧🇪 Бельгия 2

@@ -1,2 +1,0 @@
-vless://0b9b53cf-f716-41e6-b8f9-8ab2671086f3@api-2.appl.chat:20983?encryption=none&type=grpc&security=reality&sni=deepl.com&pbk=rio81biuLC4S9Tr4KlQ5A1lXT9XRNBItriC075yKZD8&sid=eb72642f9d6ef59f&fp=safari&serviceName=api#🇪🇺 EU 1
-vless://0b9b53cf-f716-41e6-b8f9-8ab2671086f3@teamcity.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=teamcity.org&pbk=qcAfQSTfVA35VumSBwSaCFynkCIHBop9vFD_GClKtBk&sid=f1b2f5daadb1f511&fp=edge#🇪🇺 EU 2

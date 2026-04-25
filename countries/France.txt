@@ -1,1 +1,1 @@
-vless://a1eb984f-2683-44a7-b116-9c3872ffe569@fr3.darknet.cv:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=h7bBsluvh9tfSO0Y-Y_WDCFeTJxG21q-0MD3Y-Xyr34&sid=a2b223d4&spx=/#🇫🇷 Франция
+vless://a1eb984f-2683-44a7-b116-9c3872ffe569@104.253.79.157:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=h7bBsluvh9tfSO0Y-Y_WDCFeTJxG21q-0MD3Y-Xyr34&sid=a2b223d4&spx=/#🇫🇷 Франция
