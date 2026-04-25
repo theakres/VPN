@@ -1,1 +1,1 @@
-vless://b4a47982-b3f4-40f4-bb0c-c4b1dac27d2f@5.199.165.16:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=sg.capynode.com&pbk=wBGbKVrmLkLakVB5dfsYqkyrZNCUAvTe0xe0EkiG-Ek&sid=c2df4d52a3ecca8b&spx=/#🇸🇬 Singapore
+vless://05f756d6-49d0-41e5-bf7f-ffb77dbec588@5.199.165.16:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=sg.capynode.com&pbk=wBGbKVrmLkLakVB5dfsYqkyrZNCUAvTe0xe0EkiG-Ek&sid=c2df4d52a3ecca8b&spx=/#🇸🇬 Singapore

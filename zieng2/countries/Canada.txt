@@ -1,2 +1,1 @@
-vless://316c0daf-c50b-45cd-ac27-aac975d1ceea@38.180.126.231:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=-tEqI4a3R1KIyY77AjdMf_bTNZjUtiRsputprZ7Zi1A&sid=cdd712faa31645e6&spx=/#🇨🇦 Canada 1
-vless://316c0daf-c50b-45cd-ac27-aac975d1ceea@38.180.126.231:40443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=chrome&sni=apple.com&pbk=-tEqI4a3R1KIyY77AjdMf_bTNZjUtiRsputprZ7Zi1A&sid=cdd712faa31645e6&spx=/#🇨🇦 Canada 2
+vless://6a30f559-b99d-497f-858a-3002b33c9a95@38.180.126.231:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=-tEqI4a3R1KIyY77AjdMf_bTNZjUtiRsputprZ7Zi1A&sid=cdd712faa31645e6&spx=/#🇨🇦 Canada
