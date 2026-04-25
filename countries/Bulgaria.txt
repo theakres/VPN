@@ -1,2 +1,2 @@
-vless://8134b223-0aad-4f8c-ba37-06f8acfdb392@45.142.208.170:44298?encryption=none&security=reality&type=tcp&headerType=none&fm=null&sni=sso.passport.yandex.ru&fp=chrome&pbk=zActfG7j1iIjclCzN1Eid1jR85-_U9-ZR2nedr142Hk&sid=255f084ed8658410#🇧🇬 Болгария 1
+vless://8134b223-0aad-4f8c-ba37-06f8acfdb392@203.189.233.66:44298?encryption=none&security=reality&type=tcp&headerType=none&fm=null&sni=sso.passport.yandex.ru&fp=chrome&pbk=zActfG7j1iIjclCzN1Eid1jR85-_U9-ZR2nedr142Hk&sid=255f084ed8658410#🇧🇬 Болгария 1
 vless://a1eb984f-2683-44a7-b116-9c3872ffe569@91.247.36.152:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=aqZF36emHljNUw6NaqHucpcqJqTLfSGEUTcC8Yk6ykI&sid=a2b223d4&spx=/#🇧🇬 Болгария 2
