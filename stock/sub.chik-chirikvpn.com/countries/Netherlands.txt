@@ -1,2 +1,2 @@
-vless://6a27b959-c9f7-4f2d-a64d-66eaa605a2c0@185.21.15.245:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl.chick-team.ru&pbk=aLdyGbloIzzeClW7_SPWL0IZpcaUWsA7rlmbNieggWk&sid=0894e51863b5c395&fp=chrome#🇳🇱 Нидерланды 1
+vless://6a27b959-c9f7-4f2d-a64d-66eaa605a2c0@46.149.79.232:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl.chick-team.ru&pbk=aLdyGbloIzzeClW7_SPWL0IZpcaUWsA7rlmbNieggWk&sid=0894e51863b5c395&fp=chrome#🇳🇱 Нидерланды 1
 vless://6a27b959-c9f7-4f2d-a64d-66eaa605a2c0@144.124.242.130:443?encryption=none&type=xhttp&security=tls&sni=xnl.chick-team.ru&path=/xhttppath/&host=xnl.chick-team.ru&mode=auto#🇳🇱 Нидерланды 2
