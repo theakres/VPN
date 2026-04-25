@@ -1,9 +1,9 @@
 # VPN Configs
 
-Обновлено: **2026-04-25 15:38 UTC**
-Всего конфигов: **76**
+Обновлено: **2026-04-25 15:39 UTC**
+Всего конфигов: **77**
 
-- **VLESS**: 70 — транспорты: TCP (68), gRPC (2) — защита: Reality (70)
+- **VLESS**: 71 — транспорты: TCP (68), gRPC (3) — защита: Reality (71)
 - **Trojan**: 6 — транспорты: TCP (6) — защита: Reality (6)
 
 ---
@@ -16,18 +16,18 @@
 
 ## Протоколы
 
-### VLESS (70)
+### VLESS (71)
 
 [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/vless.txt)
 
 **По защите:**
 
-- Reality (70) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/security/reality.txt)
+- Reality (71) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/security/reality.txt)
 
 **По транспорту:**
 
 - TCP (68) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/tcp.txt)
-- gRPC (2) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/grpc.txt)
+- gRPC (3) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/grpc.txt)
 
 ---
 
@@ -49,9 +49,9 @@
 
 - 🇷🇺 **Россия** (15) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Russia.txt)
 - 🇩🇪 **Германия** (4) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Germany.txt)
+- 🇱🇻 **Латвия** (4) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Latvia.txt)
 - 🇸🇪 **Швеция** (4) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Sweden.txt)
 - 🇪🇪 **Эстония** (4) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Estonia.txt)
-- 🇱🇻 **Латвия** (3) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Latvia.txt)
 - 🇳🇱 **Нидерланды** (3) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Netherlands.txt)
 - 🇵🇱 **Польша** (3) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Poland.txt)
 - 🇺🇸 **США** (3) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/USA.txt)
