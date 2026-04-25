@@ -1,1 +1,0 @@
-vless://091cd574-7bf7-4dc3-9033-1359d6f9b6b2@212.233.72.250:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=nDq00UeDI5TKKFipI6rgdVCqiTO98ncHKn90Qp3EsBE&sid=f2b78452f9233f26#🇰🇿 Kazakhstan
