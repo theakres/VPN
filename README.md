@@ -1,6 +1,6 @@
 # VPN Configs
 
-Обновлено: **2026-04-25 15:39 UTC**
+Обновлено: **2026-04-25 16:15 UTC**
 Всего конфигов: **77**
 
 - **VLESS**: 71 — транспорты: TCP (68), gRPC (3) — защита: Reality (71)
@@ -51,17 +51,17 @@
 - 🇩🇪 **Германия** (4) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Germany.txt)
 - 🇱🇻 **Латвия** (4) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Latvia.txt)
 - 🇸🇪 **Швеция** (4) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Sweden.txt)
-- 🇪🇪 **Эстония** (4) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Estonia.txt)
+- 🇱🇹 **Литва** (3) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Lithuania.txt)
 - 🇳🇱 **Нидерланды** (3) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Netherlands.txt)
 - 🇵🇱 **Польша** (3) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Poland.txt)
 - 🇺🇸 **США** (3) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/USA.txt)
 - 🇫🇮 **Финляндия** (3) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Finland.txt)
+- 🇪🇪 **Эстония** (3) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Estonia.txt)
 - 🇦🇹 **Австрия** (2) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Austria.txt)
 - 🇧🇪 **Бельгия** (2) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Belgium.txt)
 - 🇭🇺 **Венгрия** (2) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Hungary.txt)
 - 🇩🇰 **Дания** (2) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Denmark.txt)
 - 🇨🇦 **Канада** (2) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Canada.txt)
-- 🇱🇹 **Литва** (2) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Lithuania.txt)
 - 🇳🇴 **Норвегия** (2) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Norway.txt)
 - 🇨🇭 **Швейцария** (2) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Switzerland.txt)
 - 🇦🇱 **Албания** (1) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Albania.txt)
