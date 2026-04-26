@@ -1,3 +1,3 @@
-vless://8134b223-0aad-4f8c-ba37-06f8acfdb392@45.142.208.170:19096?encryption=none&security=reality&type=tcp&headerType=none&fm=null&sni=sso.passport.yandex.ru&fp=chrome&pbk=zActfG7j1iIjclCzN1Eid1jR85-_U9-ZR2nedr142Hk&sid=255f084ed8658410#🇦🇪 ОАЭ 1
+vless://8134b223-0aad-4f8c-ba37-06f8acfdb392@45.142.208.170:19096?encryption=none&security=reality&type=tcp&headerType=none&fm=null&sni=sso.passport.yandex.ru&fp=chrome&pbk=zActfG7j1iIjclCzN1Eid1jR85-_U9-ZR2nedr142Hk&sid=a8ac91fd6a3c63ca#🇦🇪 ОАЭ 1
 vless://0cd76278-c1ba-4371-bf83-3971c8f4b56c@85.237.211.142:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.nvidia.com&pbk=MV7eei3PgKmoWe2UJreSHfQbfHP-P9-iIuwbnPJcz1w&sid=442cc95f12&fp=chrome#🇦🇪 ОАЭ 2
 vless://bafc879b-eeef-0310-ac47-8ec6c23335e9@37.48.253.85:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&fp=chrome#🇦🇪 ОАЭ 3

@@ -1,0 +1,1 @@
+vless://552b986c-df5d-4200-b9c5-75322c8f5332@147.45.189.129:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=in.cloudrt.ru&fp=chrome&pbk=2wxW4wLqnDVUi0GgzJMNHQZx8I6FWt9bi74fsf1GzE0&sid=731b7e5c6e8b30a3#🇮🇳 Индия
