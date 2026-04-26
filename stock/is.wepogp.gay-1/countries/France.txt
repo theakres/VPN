@@ -1,1 +1,0 @@
-vless://a6e26ac0-644f-45da-8035-e2be0c93ffbb@185.248.33.149:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kG6zs_B1ZlZ5kjeC0WWPSz4B60vk_VeWj_WYsl2mGBw&sid=8a0b9c6d&sni=www.amd.com#🇫🇷 Франция

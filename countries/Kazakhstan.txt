@@ -1,4 +1,4 @@
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@46.247.43.148:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kz.furkbalancer.net&fp=chrome#🇰🇿 Казахстан 1
-vless://bafc879b-eeef-018e-ac47-8ec6c23335e9@109.248.33.235:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&fp=chrome#🇰🇿 Казахстан 2
-vless://f1ab68d6-f2aa-4c78-9044-b37cc44ab796@45.136.128.139:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=yandex.kz&fp=chrome&pbk=l78iryfyBl_JIg0KXgb0VQ3zxfhtkD1odwO09qs9SH4&sid=93fa1c#🇰🇿 Казахстан 3
+vless://bafc879b-eeef-018e-ac47-8ec6c23335e9@45.152.113.195:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&fp=chrome#🇰🇿 Казахстан 2
+vless://f1ab68d6-f2aa-4c78-9044-b37cc44ab796@45.136.128.139:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=yandex.kz&fp=chrome&pbk=l78iryfyBl_JIg0KXgb0VQ3zxfhtkD1odwO09qs9SH4&sid=a1b2#🇰🇿 Казахстан 3
 vless://9e32d103-22ed-46d3-9221-435933735bd9@82.41.30.39:443?flow=xtls-rprx-vision&fp=chrome&pbk=1qOetCE3B75XXzhHHF-0Y2fXEROUWY6gA0REH6tc8FM&security=reality&sid=6966f5d4&sni=kz-ala-2.blook.network&spx=/&type=tcp#🇰🇿 Казахстан 4

@@ -1,2 +1,1 @@
-vless://a1eb984f-2683-44a7-b116-9c3872ffe569@94.131.19.10:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=dK9sg0TTvtnqcWMyQ2gSqUQ-JXGBeaxJXAw_g_fF3Wc&sid=a2b223d4&spx=/#🇧🇷 Бразилия 1
-vless://fc15c66c-e832-44b2-92fb-dafa382d923b@45.82.245.188:443?flow=xtls-rprx-vision&fp=chrome&pbk=GYqQl8suX6lgrJZ27CkhMwtxmDGkd45QxKBJGaHUgQM&security=reality&sid=7cc366b3&sni=br-gru-1.blook.network&spx=/&type=tcp#🇧🇷 Бразилия 2
+vless://fc15c66c-e832-44b2-92fb-dafa382d923b@45.82.245.188:443?flow=xtls-rprx-vision&fp=chrome&pbk=GYqQl8suX6lgrJZ27CkhMwtxmDGkd45QxKBJGaHUgQM&security=reality&sid=7cc366b3&sni=br-gru-1.blook.network&spx=/&type=tcp#🇧🇷 Бразилия

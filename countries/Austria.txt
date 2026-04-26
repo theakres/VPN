@@ -1,4 +1,2 @@
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@152.53.113.50:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=at.chocolatemango.live&fp=chrome#🇦🇹 Австрия 1
-vless://a1eb984f-2683-44a7-b116-9c3872ffe569@150.241.72.74:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=gmail.com&fp=chrome&pbk=HbutSuRmEETltY7kPVn_af47vRtfYuOsOxMz0kAZ0Uo&sid=a1b323d4&spx=/#🇦🇹 Австрия 2
-vless://a1eb984f-2683-44a7-b116-9c3872ffe569@94.177.9.56:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=PC4MfP5k-BevkXIuIlWRVVX5CJqaD9I-vMA16dR3t2I&sid=a2b223d4&spx=/#🇦🇹 Австрия 3
-vless://f1ab68d6-f2aa-4c78-9044-b37cc44ab796@150.241.72.31:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&sid=deadbeef#🇦🇹 Австрия 4
+vless://f1ab68d6-f2aa-4c78-9044-b37cc44ab796@150.241.72.31:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&sid=deadbeef#🇦🇹 Австрия 2

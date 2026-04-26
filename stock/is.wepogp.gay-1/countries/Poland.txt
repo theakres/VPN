@@ -1,1 +1,2 @@
-vless://a6e26ac0-644f-45da-8035-e2be0c93ffbb@138.124.104.184:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=k76Ze8R0E5NyZwvBZT1A4n0zlVXxTeHQDAs0bBqiGQw&sid=4a1b0c7d&sni=www.amd.com#🇵🇱 Польша
+vless://a6e26ac0-644f-45da-8035-e2be0c93ffbb@138.124.104.184:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=k76Ze8R0E5NyZwvBZT1A4n0zlVXxTeHQDAs0bBqiGQw&sid=4a1b0c7d&sni=www.amd.com#🇵🇱 Польша 1
+vless://6c6f1bdb-e5b2-42b8-8c9e-9c59e5201e0f@45.144.51.14:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&security=reality&sid=a67894cec8a930c4&sni=aneta.kosmolet.xyz&type=tcp#🇵🇱 Польша 2

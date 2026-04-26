@@ -1,2 +1,0 @@
-vless://a1eb984f-2683-44a7-b116-9c3872ffe569@150.241.83.134:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=MlLDaoyLzOjL5e_knHIea9BuiL571QDy7YHyzxJHLiI&sid=a1b323d4&spx=/#🇺🇸 США 1
-trojan://3G3hWDqx7TVxpvxVojQnyaEZbP5R9FBe@150.241.83.134:8443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=Rdr5sS8b2zL7i75s72H00mB8lViKcXHjyufgQ2weXUc&sid=a1b323d4&spx=/#🇺🇸 США 2
