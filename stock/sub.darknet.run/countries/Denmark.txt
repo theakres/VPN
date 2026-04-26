@@ -1,2 +1,2 @@
-vless://a1eb984f-2683-44a7-b116-9c3872ffe569@144.31.242.29:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=pcFhuXmwHWZS8TIG-Hke_5Z4P3vYmKLO-eNt0gz5Dkw&sid=a1b323d4&spx=/#🇩🇰 Дания 1
-trojan://3G3hWDqx7TVxpvxVojQnyaEZbP5R9FBe@144.31.242.29:8443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=o8GYa-qNBYhnBxsJA7iDKI4EDuglTMEvJ1sqNg9_GRA&sid=a1b323d4&spx=/#🇩🇰 Дания 2
+trojan://3G3hWDqx7TVxpvxVojQnyaEZbP5R9FBe@144.31.242.29:8443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=o8GYa-qNBYhnBxsJA7iDKI4EDuglTMEvJ1sqNg9_GRA&sid=a1b323d4&spx=/#🇩🇰 Denmark 1 Gbit/s - Trojan
+vless://a1eb984f-2683-44a7-b116-9c3872ffe569@144.31.242.29:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=pcFhuXmwHWZS8TIG-Hke_5Z4P3vYmKLO-eNt0gz5Dkw&sid=a1b323d4&spx=/#🇩🇰 Denmark Private - 1 Gbit/s

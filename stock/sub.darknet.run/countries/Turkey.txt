@@ -1,1 +1,1 @@
-vless://a1eb984f-2683-44a7-b116-9c3872ffe569@89.144.20.90:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=dgDWTKzNwAc5VvPPxmVpi5xPfZVGv72V2kXApv9Dlwo&sid=a2b223d4&spx=/#🇹🇷 Турция
+vless://a1eb984f-2683-44a7-b116-9c3872ffe569@89.144.20.90:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=dgDWTKzNwAc5VvPPxmVpi5xPfZVGv72V2kXApv9Dlwo&sid=a2b223d4&spx=/#🇹🇷 Turkey Private - 1 Gbit/s
