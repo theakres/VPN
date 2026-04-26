@@ -1,0 +1,2 @@
+vless://552b986c-df5d-4200-b9c5-75322c8f5332@159.194.212.82:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=in.cloudrt.ru&fp=chrome&pbk=2wxW4wLqnDVUi0GgzJMNHQZx8I6FWt9bi74fsf1GzE0&sid=731b7e5c6e8b30a3#🇮🇳 Индия 1
+vless://507b9117-124a-4769-a62b-2087c193e15c@45.149.114.176:443?flow=xtls-rprx-vision&fp=chrome&pbk=4hgbGo2EFMD_G-67IL4UrPtBri0Dh-l_SFafynnVHm8&security=reality&sid=dd0d7f6b&sni=in-blr-2.blook.network&spx=/&type=tcp#🇮🇳 Индия 2

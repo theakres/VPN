@@ -1,0 +1,2 @@
+vless://a1eb984f-2683-44a7-b116-9c3872ffe569@150.241.82.27:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=-_pmpMGBj_aALhO8BV_yTGZL_uXJ9VlslDlPPAWxlgE&sid=a1b323d4&spx=/#🇨🇦 Канада 1
+trojan://3G3hWDqx7TVxpvxVojQnyaEZbP5R9FBe@150.241.82.27:8443?type=tcp&security=reality&sni=gmail.com&fp=chrome&pbk=UlQc1F6gVxSpcqxrga5rOOIHoOmvXifgKlbhfMdz6xc&sid=a1b323d4&spx=/#🇨🇦 Канада 2
