@@ -1,1 +1,1 @@
-vless://bafc879b-eeef-02f4-ac47-8ec6c23335e9@111.88.96.69:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&fp=chrome#🇨🇭 Швейцария
+vless://bafc879b-eeef-02f4-ac47-8ec6c23335e9@37.48.253.85:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&fp=chrome#🇨🇭 Швейцария

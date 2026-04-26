@@ -1,4 +1,4 @@
-vless://0cd76278-c1ba-4371-bf83-3971c8f4b56c@5.129.249.118:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yt.chick-team.ru&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&sid=d484643ca8396614&fp=chrome#🇷🇺 Россия 1
+vless://0cd76278-c1ba-4371-bf83-3971c8f4b56c@81.19.135.191:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yt.chick-team.ru&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&sid=d484643ca8396614&fp=chrome#🇷🇺 Россия 1
 vless://0cd76278-c1ba-4371-bf83-3971c8f4b56c@45.139.27.167:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ru.chick-team.ru&pbk=NBiCX_Tj3BeMAyG-GbLLKpGjW_qacm3A2Mz5mN8v3Xk&sid=ab532d3308daa67b&fp=chrome#🇷🇺 Россия 2
 vless://0cd76278-c1ba-4371-bf83-3971c8f4b56c@90.156.213.151:7443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=9BOoJ3VkI5q6QZw5xqulgHbaxy23VGdSbnu-hxcEEh4&sid=532dd95f&fp=chrome#🇷🇺 Россия 3
 vless://0cd76278-c1ba-4371-bf83-3971c8f4b56c@212.233.98.65:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=5CI5kKLI2qt77m1ai2o5rMGtj6A9VGMttz1hY0esyWM&sid=bd1145a3d3ad1686&fp=chrome#🇷🇺 Россия 4
