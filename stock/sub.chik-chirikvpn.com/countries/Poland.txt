@@ -1,1 +1,1 @@
-vless://0cd76278-c1ba-4371-bf83-3971c8f4b56c@82.22.40.48:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=pl.chick-team.ru&pbk=tPkLNwERe23qHETdRm0NN6TSF-bwvUeWKnmXR8CK3nc&sid=58d746158028c90d&fp=chrome#🇵🇱 Польша
+vless://0cd76278-c1ba-4371-bf83-3971c8f4b56c@82.22.40.33:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=pl.chick-team.ru&pbk=tPkLNwERe23qHETdRm0NN6TSF-bwvUeWKnmXR8CK3nc&sid=58d746158028c90d&fp=chrome#🇵🇱 Польша
