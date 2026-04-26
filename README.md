@@ -1,6 +1,6 @@
 # VPN Configs
 
-Обновлено: **2026-04-26 19:31 МСК**  |  Всего конфигов: **62**
+Обновлено: **2026-04-26 19:42 МСК**  |  Всего конфигов: **63**
 
 ---
 
@@ -12,17 +12,17 @@
 
 ## Протоколы
 
-### VLESS (62)
+### VLESS (63)
 
 [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/vless.txt)
 
 **По защите:**
 
-- Reality (62) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/security/reality.txt)
+- Reality (63) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/security/reality.txt)
 
 **По транспорту:**
 
-- TCP (62) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/tcp.txt)
+- TCP (63) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/tcp.txt)
 
 ---
 
@@ -31,6 +31,7 @@
 - 🇩🇪 **Германия** (15) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Germany.txt)
 - 🇦🇱 **Албания** (1) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Albania.txt)
 - 🇦🇷 **Аргентина** (1) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Argentina.txt)
+- 🇭🇰 **Гонконг** (1) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/HongKong.txt)
 - 🇳🇬 **Нигерия** (1) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Nigeria.txt)
 - 🇹🇭 **Таиланд** (1) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Thailand.txt)
 - 🇫🇮 **Финляндия** (1) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Finland.txt)
