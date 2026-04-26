@@ -1,1 +1,2 @@
-vless://4a244438-8775-43b8-8b5c-4d3bb89d342c@87.239.135.122:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=tradingview.com#🇵🇱 Польша
+vless://4a244438-8775-43b8-8b5c-4d3bb89d342c@87.239.135.122:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=tradingview.com#🇵🇱 Польша 1
+vless://a6e26ac0-644f-45da-8035-e2be0c93ffbb@138.124.104.184:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=k76Ze8R0E5NyZwvBZT1A4n0zlVXxTeHQDAs0bBqiGQw&sid=4a1b0c7d&sni=www.amd.com#🇵🇱 Польша 2

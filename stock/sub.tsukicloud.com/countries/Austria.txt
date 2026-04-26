@@ -1,2 +1,0 @@
-vless://816b44ee-a03f-4c40-b68a-48d5387b5c77@152.53.35.100:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=at.tsukicloud.com&pbk=UUwdvUB9quFS0sFyURk3vCHXYVF3aAZtxaa4B2-FpSs&sid=44f90c69c57a2534&fp=chrome#🇦🇹 Австрия 1
-vless://816b44ee-a03f-4c40-b68a-48d5387b5c77@152.53.35.100:7443?encryption=none&type=grpc&security=reality&sni=google.com&pbk=r5pup4zrQKjNwHI9zeaY8d9ZwnNtQa5gvJHIAZbOHUM&sid=0c383b9411bde3f2&fp=chrome&serviceName=GunService#🇦🇹 Австрия 2

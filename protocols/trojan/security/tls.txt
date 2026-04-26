@@ -1,2 +1,1 @@
-trojan://mJVGfrOkZGnMywJD2uwmuXgOQ@94.131.122.254:443?sni=HL-FREEDOM-2.UNDEF.NETWORK&host=hl-freedom-2.undef.network&security=tls&type=ws&path=/f2fc2a1f#🇬🇧 Великобритания
-trojan://1234567890@144.31.246.245:2053?security=tls&sni=kfm-bn0.pages.dev&insecure=1&allowInsecure=1&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#🇩🇪 Германия
+trojan://GZOof2R1ej4yML1NxajR2frGQ@91.210.108.201:443?sni=HL-FREEDOM-1.UNDEF.NETWORK&host=hl-freedom-1.undef.network&security=tls&type=ws&path=/f2fc2a1f#🇳🇱 Нидерланды

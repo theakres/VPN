@@ -1,1 +1,1 @@
-vless://bafc879b-eeef-018e-ac47-8ec6c23335e9@176.114.85.117:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&fp=chrome#🇰🇿 Казахстан
+vless://bafc879b-eeef-018e-ac47-8ec6c23335e9@111.88.96.68:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&fp=chrome#🇰🇿 Казахстан

@@ -1,1 +1,0 @@
-vless://816b44ee-a03f-4c40-b68a-48d5387b5c77@85.192.48.163:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fl.tsukicloud.com&pbk=i01yfP1wxEZuSZq3lBEkDRYM1tdPfKje98fGKYadyTA&sid=c05dc699563da10c&fp=chrome#🇫🇮 Финляндия

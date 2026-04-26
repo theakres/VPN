@@ -1,2 +1,2 @@
-vless://bafc879b-eeef-4317-ac47-8ec6c23335e9@109.248.33.240:6379?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ozon.ru&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&fp=chrome#🇭🇰 Гонконг 1
+vless://bafc879b-eeef-4317-ac47-8ec6c23335e9@111.88.96.66:6379?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ozon.ru&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&fp=chrome#🇭🇰 Гонконг 1
 vless://a1eb984f-2683-44a7-b116-9c3872ffe569@62.60.232.2:6838?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=qkBBDCrSQkgI_g6pYkfT5rUM3cCRhtwoOWaiirNb0i4&sid=a2b223d4&spx=/#🇭🇰 Гонконг 2

@@ -1,4 +1,6 @@
-vless://a6e26ac0-644f-45da-8035-e2be0c93ffbb@185.248.33.149:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kG6zs_B1ZlZ5kjeC0WWPSz4B60vk_VeWj_WYsl2mGBw&sid=8a0b9c6d&sni=www.amd.com#🇫🇷 Франция 1
-vless://1975def1-e345-486c-b4d4-70eb873d9d0c@50.7.244.146:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=y0PWSBR4PspClVxndgZDotsMIiSwFwXB_XElAoIF9iI&sid=84638c0e&sni=tunnel.vk-apps.com&spx=/#🇫🇷 Франция 2
-vless://163731d3-8466-4405-acdb-ccd45d971254@185.178.46.95:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fr.learnyouthinspire.co.uk&fp=chrome#🇫🇷 Франция 3
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@50.7.244.154:4443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=pwYSE4yrV-1vOozLqHTzjH9mSGdSxr7BnyckKMXLI3E&sni=fr2.frostmotiveseed.net#🇫🇷 Франция 4
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@50.7.244.154:4443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=pwYSE4yrV-1vOozLqHTzjH9mSGdSxr7BnyckKMXLI3E&sni=fr2.frostmotiveseed.net#🇫🇷 Франция 1
+vless://a6e26ac0-644f-45da-8035-e2be0c93ffbb@185.248.33.149:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kG6zs_B1ZlZ5kjeC0WWPSz4B60vk_VeWj_WYsl2mGBw&sid=8a0b9c6d&sni=www.amd.com#🇫🇷 Франция 2
+vless://1975def1-e345-486c-b4d4-70eb873d9d0c@50.7.244.146:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=y0PWSBR4PspClVxndgZDotsMIiSwFwXB_XElAoIF9iI&sid=84638c0e&sni=tunnel.vk-apps.com&spx=/#🇫🇷 Франция 3
+vless://163731d3-8466-4405-acdb-ccd45d971254@185.178.46.95:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fr.learnyouthinspire.co.uk&fp=chrome#🇫🇷 Франция 4
+hysteria2://dongtaiwang.com@163.172.113.118:40022/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&insecure=1&sni=www.microsoft.com#🇫🇷 Франция 5
+hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#🇫🇷 Франция 6
