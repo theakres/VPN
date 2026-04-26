@@ -3,20 +3,20 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.87.71.102:443?allowInsecure=0&t
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.28.96.83:8443?type=ws&security=tls&fp=chrome&sni=sni.latonyamadeline.ndjp.net&host=sni.latonyamadeline.ndjp.net#🇱🇻 Латвия 3
 vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@141.98.191.145:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇷🇺 Россия 1
 vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@194.67.120.133:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇷🇺 Россия 2
-vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@195.209.88.153:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇷🇺 Россия 3
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.8.96.152:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de.chocolatemango.live&fp=chrome#🇩🇪 Германия 1
+vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@195.208.65.154:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇷🇺 Россия 3
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@212.113.121.110:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de.chocolatemango.live&fp=chrome#🇩🇪 Германия 1
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@159.195.79.13:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de-nuremberg.chocolatemango.live&fp=chrome#🇩🇪 Германия 2
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@213.109.147.50:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=nl.chocolatemango.live&fp=chrome#🇳🇱 Нидерланды 1
 vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@72.56.32.104:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇳🇱 Нидерланды 2
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@185.33.84.26:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=usa-il.chocolatemango.live&fp=chrome#🇺🇸 США 1
 vless://53dd6cf3-889b-465a-9abf-cc5306b4fd95@162.244.81.176:443?security=tls&fp=chrome&type=xhttp&encryption=none&sni=newyorklove.website#🇺🇸 США 2
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.137.69.91:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fi.furkbalancer.net&fp=chrome#🇫🇮 Финляндия 1
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.137.69.90:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fi.furkbalancer.net&fp=chrome#🇫🇮 Финляндия 1
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.149.147.44:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fi.learnyouthinspire.co.uk&fp=chrome#🇫🇮 Финляндия 2
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@152.53.113.50:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=at.chocolatemango.live&fp=chrome#🇦🇹 Австрия
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@217.13.104.243:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=hu.chocolatemango.live&fp=chrome#🇭🇺 Венгрия
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.8.96.152:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=it.learnyouthinspire.co.uk&fp=chrome#🇮🇹 Италия
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@217.13.104.64:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=hu.chocolatemango.live&fp=chrome#🇭🇺 Венгрия
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@212.113.121.110:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=it.learnyouthinspire.co.uk&fp=chrome#🇮🇹 Италия
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@46.247.43.148:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kz.furkbalancer.net&fp=chrome#🇰🇿 Казахстан
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.8.96.152:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=pl.learnyouthinspire.co.uk&fp=chrome#🇵🇱 Польша
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@212.113.121.110:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=pl.learnyouthinspire.co.uk&fp=chrome#🇵🇱 Польша
 vless://5fe1bf35-0dbe-4407-afae-39e6e6df6a38@31.14.40.159:443?security=tls&fp=chrome&type=xhttp&encryption=none&sni=bucharest.website#🇷🇴 Румыния
 vless://387f47df-bf04-47a2-9147-dd701dff3fbf@31.210.53.121:443?allowInsecure=1&alpn=h2&extra={"noGRPCHeader":true,"scMaxConcurrentPosts":100,"scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000"}&fp=chrome&headerType=&mode=auto&path=/VLSpdG9k&security=tls&sni=tr-ist-11-x.blook.network&type=xhttp#🇹🇷 Турция
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.8.96.152:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fr.learnyouthinspire.co.uk&fp=chrome#🇫🇷 Франция
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@212.113.121.110:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fr.learnyouthinspire.co.uk&fp=chrome#🇫🇷 Франция
