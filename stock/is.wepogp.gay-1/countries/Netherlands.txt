@@ -1,2 +1,1 @@
-vless://7df30d4f-40d5-11f1-a6de-30e8d4bd279b@37.49.227.193:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=randomized&pbk=T6zoUTIKw5BMEvb5-GPicYK0a1nuXnbOEdKytLblizY&sid=#🇳🇱 Нидерланды 1
-vless://ec32a890-0dde-4b87-8d5e-cfdf9073244c@212.192.217.236:8443?security=reality&encryption=none&pbk=B0S7A-ceRt0c3aRqbeQG69FVSkK-si6NWLBEM_QuC3U&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=16#🇳🇱 Нидерланды 2
+vless://ec32a890-0dde-4b87-8d5e-cfdf9073244c@212.192.217.236:8443?security=reality&encryption=none&pbk=B0S7A-ceRt0c3aRqbeQG69FVSkK-si6NWLBEM_QuC3U&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=16#🇳🇱 Нидерланды
