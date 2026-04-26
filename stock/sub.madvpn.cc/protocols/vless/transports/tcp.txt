@@ -1,2 +1,2 @@
-vless://775da75e-1530-4ab8-809e-bebae912d3d9@77.110.101.181:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.amd.com&pbk=4JX3sznUkBsL3T4rl3yEFWj9Cw4Sgw5KYbJVxZ9K9hY&sid=04084b83c2202960&fp=chrome#🇩🇪 Германия
-vless://775da75e-1530-4ab8-809e-bebae912d3d9@69.12.83.65:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ign.com&pbk=6Ra2AsVwORJlxqvQ9YHAfHFk8Z0HZIrWuXxlBEYpwQY&sid=3a6c91d4f5e8b027&fp=chrome#🇪🇪 Эстония
+vless://775da75e-1530-4ab8-809e-bebae912d3d9@77.110.101.181:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.amd.com&pbk=4JX3sznUkBsL3T4rl3yEFWj9Cw4Sgw5KYbJVxZ9K9hY&sid=6eee735e122d7c9e&fp=chrome#🇩🇪 Германия
+vless://775da75e-1530-4ab8-809e-bebae912d3d9@69.12.83.65:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ign.com&pbk=6Ra2AsVwORJlxqvQ9YHAfHFk8Z0HZIrWuXxlBEYpwQY&sid=e7b5024fd83a16c9&fp=chrome#🇪🇪 Эстония

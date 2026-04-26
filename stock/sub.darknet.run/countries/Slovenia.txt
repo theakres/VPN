@@ -1,1 +1,1 @@
-vless://a1eb984f-2683-44a7-b116-9c3872ffe569@172.67.149.182:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=Cbj_MiPGvxWdmHzxAzK2VrMYjYWqYYdqtVkkgOob_Qs&sid=a2b223d4&spx=/#🇸🇮 Словения
+vless://a1eb984f-2683-44a7-b116-9c3872ffe569@104.21.71.223:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=Cbj_MiPGvxWdmHzxAzK2VrMYjYWqYYdqtVkkgOob_Qs&sid=a2b223d4&spx=/#🇸🇮 Словения
