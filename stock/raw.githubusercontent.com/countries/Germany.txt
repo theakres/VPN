@@ -1,0 +1,1 @@
+vless://eafa56d0-74ab-4764-99d2-287d8ea04439@77.37.65.123:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn1.ozone.ru&fp=chrome&pbk=NqyJSyVK4zbnkR8xa2H0Z3lI_cpTIedXc7yXbtBngBU&sid=b7ded99ce109a68e&packetEncoding=xudp#🇩🇪 Германия

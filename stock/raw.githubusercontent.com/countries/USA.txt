@@ -1,0 +1,1 @@
+vless://13aaae4e-1da4-4c29-9c1b-fe055081c62d@89.117.172.110:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=KJiLf45c1gxtP1yiMj60OqvP7MBgaxS-xApoKLrQ_3Y&sid=1f7f93d17bedc8f9&packetEncoding=xudp#🇺🇸 США
