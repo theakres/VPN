@@ -1,4 +1,4 @@
 vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@141.98.191.145:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇷🇺 Россия 1
 vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@194.67.120.133:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇷🇺 Россия 2
-vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@195.208.65.154:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇷🇺 Россия 3
+vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@195.209.88.153:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇷🇺 Россия 3
 vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@72.56.32.104:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇳🇱 Нидерланды
