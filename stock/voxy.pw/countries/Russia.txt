@@ -1,2 +1,2 @@
-vless://f1ab68d6-f2aa-4c78-9044-b37cc44ab796@37.139.43.57:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=yy8j8XpeayWzp-0sJ2fOMy9XY6KQSUhUG-fh5bq1M1k&sid=deadbeef#🇷🇺 Россия 1
-vless://f1ab68d6-f2aa-4c78-9044-b37cc44ab796@37.139.42.96:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=yy8j8XpeayWzp-0sJ2fOMy9XY6KQSUhUG-fh5bq1M1k&sid=7f02ab19#🇷🇺 Россия 2
+vless://f1ab68d6-f2aa-4c78-9044-b37cc44ab796@37.139.43.57:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=yy8j8XpeayWzp-0sJ2fOMy9XY6KQSUhUG-fh5bq1M1k&sid=93fa1c#🇷🇺 Россия 1
+vless://f1ab68d6-f2aa-4c78-9044-b37cc44ab796@37.139.42.96:6443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=yy8j8XpeayWzp-0sJ2fOMy9XY6KQSUhUG-fh5bq1M1k&sid=deadbeef#🇷🇺 Россия 2

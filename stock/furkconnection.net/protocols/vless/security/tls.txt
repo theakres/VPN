@@ -1,9 +1,9 @@
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@185.178.46.95:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de.chocolatemango.live&fp=chrome#🇩🇪 Германия 1
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@159.195.79.119:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de-nuremberg.chocolatemango.live&fp=chrome#🇩🇪 Германия 2
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.137.69.90:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fi.furkbalancer.net&fp=chrome#🇫🇮 Финляндия 1
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@159.195.79.197:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de-nuremberg.chocolatemango.live&fp=chrome#🇩🇪 Германия 2
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.137.69.91:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fi.furkbalancer.net&fp=chrome#🇫🇮 Финляндия 1
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.149.147.44:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fi.learnyouthinspire.co.uk&fp=chrome#🇫🇮 Финляндия 2
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@152.53.113.50:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=at.chocolatemango.live&fp=chrome#🇦🇹 Австрия
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@217.13.104.64:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=hu.chocolatemango.live&fp=chrome#🇭🇺 Венгрия
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@217.13.104.243:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=hu.chocolatemango.live&fp=chrome#🇭🇺 Венгрия
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@185.178.46.95:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=it.learnyouthinspire.co.uk&fp=chrome#🇮🇹 Италия
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@46.247.43.148:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kz.furkbalancer.net&fp=chrome#🇰🇿 Казахстан
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@0.0.0.0:2083?encryption=none&type=tcp&security=tls&sni=bg.learnyouthinspire.co.uk&fp=chrome#Неизвестно

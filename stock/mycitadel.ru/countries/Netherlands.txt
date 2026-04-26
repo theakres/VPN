@@ -1,1 +1,2 @@
-vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@72.56.32.104:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇳🇱 Нидерланды
+vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@72.56.34.149:443?encryption=none&type=xhttp&security=reality&sni=smartcaptcha.yandexcloud.net&pbk=Z7XPtLwdArs9tv9y3qZ24dUcMMJtr4fMOaDmJJox6Dw&sid=aabbccdd&fp=chrome&path=/video-stream&mode=packet-up#🇳🇱 Нидерланды 1
+vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@72.56.32.104:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇳🇱 Нидерланды 2

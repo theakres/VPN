@@ -1,8 +1,7 @@
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@104.248.128.137:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=rc2.ca-ibm.online&sni=rc2.ca-ibm.online#🇷🇺 Россия 1
 vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@141.98.191.145:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇷🇺 Россия 2
 vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@194.67.120.133:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇷🇺 Россия 3
-vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@195.209.88.153:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇷🇺 Россия 4
+vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@195.209.87.184:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇷🇺 Россия 4
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.82.255.141:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=fi2.ca-ibm.online&sni=fi2.ca-ibm.online#🇫🇮 Финляндия 1
-vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@192.178.210.138:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=edfingcptest-364343017979.europe-north1.run.app&sni=google.com&fp=ios#🇫🇮 Финляндия 2
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.32.78:443?fp=chrome&headerType=none&host=sni.latonyamadeline.ndjp.net&path=/?ed=2560&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🇱🇻 Латвия
+vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@172.253.115.102:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=edfingcptest-364343017979.europe-north1.run.app&sni=google.com&fp=ios#🇫🇮 Финляндия 2
 vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@72.56.32.104:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇳🇱 Нидерланды

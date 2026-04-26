@@ -1,1 +1,1 @@
-vless://90620657-58a2-441a-a4ce-cdb0503bb9f5@84.32.51.233:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ltt2.figurapn.ru&fp=edge&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&packetEncoding=xudp#🇱🇹 Литва
+vless://90620657-58a2-441a-a4ce-cdb0503bb9f5@213.252.233.76:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tcpuk3.figurapn.ru&fp=edge&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&packetEncoding=xudp#🇱🇹 Литва

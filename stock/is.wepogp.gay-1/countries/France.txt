@@ -1,1 +1,1 @@
-vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@185.248.33.22:2083/?type=grpc&encryption=none&flow=&serviceName=UpdateService&sni=apple.com&fp=qq&security=reality&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&packetEncoding=xudp#🇫🇷 Франция
+vless://163731d3-8466-4405-acdb-ccd45d971254@185.178.46.95:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fr.learnyouthinspire.co.uk&fp=chrome#🇫🇷 Франция

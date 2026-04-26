@@ -1,4 +1,4 @@
-vless://bafc879b-eeef-007c-ac47-8ec6c23335e9@45.152.113.195:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&fp=chrome#🇨🇦 Канада 1
+vless://bafc879b-eeef-007c-ac47-8ec6c23335e9@95.182.110.30:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&fp=chrome#🇨🇦 Канада 1
 vless://816b44ee-a03f-4c40-b68a-48d5387b5c77@209.200.246.100:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ca.tsukicloud.com&pbk=aDDerGY8KxXTQ_jiyoB2uyJfqT8BzUFL9tDVqOaMwA8&sid=b5b23cfc396c62b1&fp=chrome#🇨🇦 Канада 2
 vless://a1eb984f-2683-44a7-b116-9c3872ffe569@150.241.82.27:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=-_pmpMGBj_aALhO8BV_yTGZL_uXJ9VlslDlPPAWxlgE&sid=a1b323d4&spx=/#🇨🇦 Канада 3
 trojan://3G3hWDqx7TVxpvxVojQnyaEZbP5R9FBe@150.241.82.27:8443?type=tcp&security=reality&sni=gmail.com&fp=chrome&pbk=UlQc1F6gVxSpcqxrga5rOOIHoOmvXifgKlbhfMdz6xc&sid=a1b323d4&spx=/#🇨🇦 Канада 4
