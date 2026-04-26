@@ -1,1 +1,0 @@
-vless://a1eb984f-2683-44a7-b116-9c3872ffe569@85.192.48.113:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=r_RC1eOBZeuHULJynSuQyVQ06t6pE84IzFuLHWPIVjM&sid=a2b223d4&spx=/#🇫🇮 Finland #1 Private - 10 Gbit/s

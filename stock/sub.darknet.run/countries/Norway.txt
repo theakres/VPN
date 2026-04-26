@@ -1,2 +1,0 @@
-trojan://3G3hWDqx7TVxpvxVojQnyaEZbP5R9FBe@144.31.217.124:8443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=D2f-Sck2r_aVv8r7Nm8URfOV6XpPTTnmkQr5BsInDRA&sid=a1b323d4&spx=/#🇳🇴 Norway 1 Gbit/s - Trojan
-vless://a1eb984f-2683-44a7-b116-9c3872ffe569@144.31.217.124:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=8Fj8kjZYX0E2ez6Mega8SwLhrqDMJC4UwmYbj9iU934&sid=a1b323d4&spx=/#🇳🇴 Norway Private - 1 Gbit/s
