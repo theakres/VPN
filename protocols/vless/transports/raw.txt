@@ -1,1 +1,2 @@
 vless://cf03d44a-db46-4b68-9700-897f19896c6c@81.200.147.64:443?encryption=none&type=raw&security=reality&flow=xtls-rprx-vision&sni=ru.tsukicloud.com&pbk=F0x5hoZSJfR53mM4e5LIXFW8TxFpmhq9dy6GY5y_n1I&sid=cf88b203e4f74cf6&fp=chrome#🇷🇺 Россия
+vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@45.12.111.151:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&sni=store.steampowered.com&sid=0c80cc39#🇨🇭 Швейцария

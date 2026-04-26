@@ -1,5 +1,4 @@
 vless://d19a5d08-7eec-4bfb-ba31-3420072a4090@138.124.53.195:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.microsoft.com&fp=random&pbk=bZ2rcCfc8M97hu_DeHss36S2vUlELrpMRpm_2t6-Xyc&sid=fbb142c8c7b20c3f#🇩🇪 Германия 1
 vless://d19a5d08-7eec-4bfb-ba31-3420072a4090@138.124.53.195:2087?security=reality&encryption=none&type=xhttp&path=/xhttp&mode=packet-up&sni=www.microsoft.com&fp=chrome&pbk=5L0GkkZBeGOFLaftbw-LVipiK9U2WLtJcdvasx2d8SI&sid=97631e434c040bff#🇩🇪 Германия 2
-hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@46.243.211.17:8041?insecure=1&sni=market.yandex.ru#🇩🇪 Германия 3
-hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@46.243.211.17:8041?headerType=none&encryption=none&sni=market.yandex.ru&insecure=1#🇩🇪 Германия 4
-vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@151.242.147.137:2083/?type=grpc&encryption=none&flow=&serviceName=UpdateService&sni=barclays.co.uk&fp=qq&security=reality&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&packetEncoding=xudp#🇩🇪 Германия 5
+trojan://1234567890@144.31.246.245:2053?security=tls&sni=kfm-bn0.pages.dev&insecure=1&allowInsecure=1&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#🇩🇪 Германия 3
+vless://bafc879b-eeef-4317-ac47-8ec6c23335e9@50.7.90.230:443?security=reality&encryption=none&echfq=none&pbk=_4cv7OXJFuVt8PGPNwk8isFFgrRR5tKojjpLWGTN8RI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun#🇩🇪 Германия 4
