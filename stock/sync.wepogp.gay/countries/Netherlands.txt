@@ -1,2 +1,1 @@
-vless://bafc879b-eeef-4317-ac47-8ec6c23335e9@68.209.56.74:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun&pbk=_4cv7OXJFuVt8PGPNwk8isFFgrRR5tKojjpLWGTN8RI&fp=chrome#🇳🇱 Нидерланды 1
-vless://bafc879b-eeef-0210-ac47-8ec6c23335e9@111.88.96.41:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&fp=chrome#🇳🇱 Нидерланды 2
+vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.94.31.142:39800?encryption=none&security=reality&type=xhttp&headerType=none&mode=auto&sni=apple.com&fp=android&pbk=bpHDYJWkA0h_nOqRBLUbuJJXfqmIZIMGcv07zcFpdCs&sid=dc27d60c096413b5#🇳🇱 Нидерланды
