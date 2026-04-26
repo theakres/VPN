@@ -1,13 +1,13 @@
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.39:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cluster-de-2.firstvideocdn.ru&flow=xtls-rprx-vision#🇷🇺 Россия 1
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.39:52006?type=tcp&headerType=none&security=tls&encryption=none&sni=cluster-de-2.firstvideocdn.ru&flow=xtls-rprx-vision&insecure=1#🇷🇺 Россия 2
-vless://75807638-6f19-01f4-ae08-38492ee85c88@178.72.181.98:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🇷🇺 Россия 3
+vless://75807638-6f19-01f4-ae08-38492ee85c88@178.72.181.47:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🇷🇺 Россия 3
 vless://75807638-6f19-2710-ae08-38492ee85c88@5.188.159.69:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-de-2.firstvideocdn.ru#🇷🇺 Россия 4
-vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.98:52006?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🇷🇺 Россия 5
+vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.47:52006?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🇷🇺 Россия 5
 vless://75807638-6f19-2710-ae08-38492ee85c88@5.188.159.69:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=cluster-de-2.firstvideocdn.ru#🇷🇺 Россия 6
-vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.67:52006?type=tcp&headerType=none&security=tls&encryption=none&fp=chrome&flow=xtls-rprx-vision&insecure=1#🇳🇱 Нидерланды 1
-vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.67:52006?type=tcp&headerType=none&security=tls&encryption=none&sni=cluster-europe-1.firstvideocdn.ru&flow=xtls-rprx-vision&insecure=1#🇳🇱 Нидерланды 2
-vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.67:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cluster-europe-1.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision#🇳🇱 Нидерланды 3
-vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.67:52006?type=tcp&headerType=none&security=tls&encryption=none&sni=cluster-europe-1.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision&insecure=1#🇳🇱 Нидерланды 4
-vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.67:52006?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-europe-1.firstvideocdn.ru#🇳🇱 Нидерланды 5
+vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.18:52006?type=tcp&headerType=none&security=tls&encryption=none&fp=chrome&flow=xtls-rprx-vision&insecure=1#🇳🇱 Нидерланды 1
+vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.18:52006?type=tcp&headerType=none&security=tls&encryption=none&sni=cluster-europe-1.firstvideocdn.ru&flow=xtls-rprx-vision&insecure=1#🇳🇱 Нидерланды 2
+vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.18:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cluster-europe-1.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision#🇳🇱 Нидерланды 3
+vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.18:52006?type=tcp&headerType=none&security=tls&encryption=none&sni=cluster-europe-1.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision&insecure=1#🇳🇱 Нидерланды 4
+vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.18:52006?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-europe-1.firstvideocdn.ru#🇳🇱 Нидерланды 5
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.28.96.83:8443?encryption=none&security=tls&sni=sni.latonyamadeline.ndjp.net&insecure=1&allowInsecure=1&type=ws&host=sni.latonyamadeline.ndjp.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳#🇱🇻 Латвия
-vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.98:52006?&security=tls&flow=xtls-rprx-vision&fp=chrome&type=tcp&headerType=none&host=cluster-de-2.firstvideocdn.ru&path=/#🇵🇱 Польша
+vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.47:52006?&security=tls&flow=xtls-rprx-vision&fp=chrome&type=tcp&headerType=none&host=cluster-de-2.firstvideocdn.ru&path=/#🇵🇱 Польша

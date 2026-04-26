@@ -1,32 +1,31 @@
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.39:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cluster-de-2.firstvideocdn.ru&flow=xtls-rprx-vision#🇷🇺 Россия 1
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.39:52006?type=tcp&headerType=none&security=tls&encryption=none&sni=cluster-de-2.firstvideocdn.ru&flow=xtls-rprx-vision&insecure=1#🇷🇺 Россия 2
-vless://75807638-6f19-01f4-ae08-38492ee85c88@178.72.181.98:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🇷🇺 Россия 3
+vless://75807638-6f19-01f4-ae08-38492ee85c88@178.72.181.47:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🇷🇺 Россия 3
 vless://75807638-6f19-2710-ae08-38492ee85c88@5.188.159.69:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-de-2.firstvideocdn.ru#🇷🇺 Россия 4
-vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.98:52006?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🇷🇺 Россия 5
+vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.47:52006?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🇷🇺 Россия 5
 vless://75807638-6f19-2710-ae08-38492ee85c88@5.188.159.69:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=cluster-de-2.firstvideocdn.ru#🇷🇺 Россия 6
 vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@141.98.191.145:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇷🇺 Россия 7
 vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@194.67.120.133:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇷🇺 Россия 8
-vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@195.209.90.182:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇷🇺 Россия 9
+vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@195.209.88.153:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇷🇺 Россия 9
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@213.109.147.50:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=nl.chocolatemango.live&fp=chrome#🇳🇱 Нидерланды 1
-vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.67:52006?type=tcp&headerType=none&security=tls&encryption=none&fp=chrome&flow=xtls-rprx-vision&insecure=1#🇳🇱 Нидерланды 2
-vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.67:52006?type=tcp&headerType=none&security=tls&encryption=none&sni=cluster-europe-1.firstvideocdn.ru&flow=xtls-rprx-vision&insecure=1#🇳🇱 Нидерланды 3
-vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.67:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cluster-europe-1.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision#🇳🇱 Нидерланды 4
-vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.67:52006?type=tcp&headerType=none&security=tls&encryption=none&sni=cluster-europe-1.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision&insecure=1#🇳🇱 Нидерланды 5
-vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.67:52006?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-europe-1.firstvideocdn.ru#🇳🇱 Нидерланды 6
+vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.18:52006?type=tcp&headerType=none&security=tls&encryption=none&fp=chrome&flow=xtls-rprx-vision&insecure=1#🇳🇱 Нидерланды 2
+vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.18:52006?type=tcp&headerType=none&security=tls&encryption=none&sni=cluster-europe-1.firstvideocdn.ru&flow=xtls-rprx-vision&insecure=1#🇳🇱 Нидерланды 3
+vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.18:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cluster-europe-1.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision#🇳🇱 Нидерланды 4
+vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.18:52006?type=tcp&headerType=none&security=tls&encryption=none&sni=cluster-europe-1.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision&insecure=1#🇳🇱 Нидерланды 5
+vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.18:52006?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-europe-1.firstvideocdn.ru#🇳🇱 Нидерланды 6
 vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@72.56.32.104:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇳🇱 Нидерланды 7
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@188.225.57.207:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de.chocolatemango.live&fp=chrome#🇩🇪 Германия 1
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@212.113.121.110:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de.chocolatemango.live&fp=chrome#🇩🇪 Германия 1
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@159.195.79.13:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de-nuremberg.chocolatemango.live&fp=chrome#🇩🇪 Германия 2
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@188.225.57.207:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=pl.learnyouthinspire.co.uk&fp=chrome#🇵🇱 Польша 1
-vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.98:52006?&security=tls&flow=xtls-rprx-vision&fp=chrome&type=tcp&headerType=none&host=cluster-de-2.firstvideocdn.ru&path=/#🇵🇱 Польша 2
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@212.113.121.110:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=pl.learnyouthinspire.co.uk&fp=chrome#🇵🇱 Польша 1
+vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.47:52006?&security=tls&flow=xtls-rprx-vision&fp=chrome&type=tcp&headerType=none&host=cluster-de-2.firstvideocdn.ru&path=/#🇵🇱 Польша 2
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@185.33.84.26:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=usa-il.chocolatemango.live&fp=chrome#🇺🇸 США 1
 vless://53dd6cf3-889b-465a-9abf-cc5306b4fd95@162.244.81.176:443?security=tls&fp=chrome&type=xhttp&encryption=none&sni=newyorklove.website#🇺🇸 США 2
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.137.69.91:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fi.furkbalancer.net&fp=chrome#🇫🇮 Финляндия 1
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@45.149.147.44:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fi.learnyouthinspire.co.uk&fp=chrome#🇫🇮 Финляндия 2
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@152.53.113.50:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=at.chocolatemango.live&fp=chrome#🇦🇹 Австрия
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@217.13.104.243:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=hu.chocolatemango.live&fp=chrome#🇭🇺 Венгрия
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@188.225.57.207:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=it.learnyouthinspire.co.uk&fp=chrome#🇮🇹 Италия
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@217.13.104.64:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=hu.chocolatemango.live&fp=chrome#🇭🇺 Венгрия
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@212.113.121.110:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=it.learnyouthinspire.co.uk&fp=chrome#🇮🇹 Италия
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@46.247.43.148:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kz.furkbalancer.net&fp=chrome#🇰🇿 Казахстан
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.28.96.83:8443?encryption=none&security=tls&sni=sni.latonyamadeline.ndjp.net&insecure=1&allowInsecure=1&type=ws&host=sni.latonyamadeline.ndjp.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳#🇱🇻 Латвия
 vless://5fe1bf35-0dbe-4407-afae-39e6e6df6a38@31.14.40.159:443?security=tls&fp=chrome&type=xhttp&encryption=none&sni=bucharest.website#🇷🇴 Румыния
-vless://387f47df-bf04-47a2-9147-dd701dff3fbf@31.210.53.121:443?allowInsecure=1&alpn=h2&extra={"noGRPCHeader":true,"scMaxConcurrentPosts":100,"scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000"}&fp=chrome&headerType=&mode=auto&path=/VLSpdG9k&security=tls&sni=tr-ist-11-x.blook.network&type=xhttp#🇹🇷 Турция
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@188.225.57.207:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fr.learnyouthinspire.co.uk&fp=chrome#🇫🇷 Франция
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@212.113.121.110:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fr.learnyouthinspire.co.uk&fp=chrome#🇫🇷 Франция
