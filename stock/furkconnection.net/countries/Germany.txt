@@ -1,2 +1,2 @@
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@212.113.121.110:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de.chocolatemango.live&fp=chrome#🇩🇪 Германия 1
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@159.195.79.197:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de-nuremberg.chocolatemango.live&fp=chrome#🇩🇪 Германия 2
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@188.225.57.207:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de.chocolatemango.live&fp=chrome#🇩🇪 Германия 1
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@159.195.76.29:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de-nuremberg.chocolatemango.live&fp=chrome#🇩🇪 Германия 2

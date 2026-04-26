@@ -1,5 +1,4 @@
 trojan://3G3hWDqx7TVxpvxVojQnyaEZbP5R9FBe@144.31.219.5:8443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=cn3875ekZDMnmWmdhFGkPXqOc0xdxqhLiZCoTyUBNSQ&sid=a1b323d4&spx=/#🇧🇪 Бельгия
-trojan://mJVGfrOkZGnMywJD2uwmuXgOQ@94.131.122.254:443?sni=HL-FREEDOM-2.UNDEF.NETWORK&host=hl-freedom-2.undef.network&security=tls&type=ws&path=/f2fc2a1f#🇬🇧 Великобритания
 trojan://3G3hWDqx7TVxpvxVojQnyaEZbP5R9FBe@144.31.242.29:8443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=o8GYa-qNBYhnBxsJA7iDKI4EDuglTMEvJ1sqNg9_GRA&sid=a1b323d4&spx=/#🇩🇰 Дания
 trojan://3G3hWDqx7TVxpvxVojQnyaEZbP5R9FBe@150.241.82.27:8443?type=tcp&security=reality&sni=gmail.com&fp=chrome&pbk=UlQc1F6gVxSpcqxrga5rOOIHoOmvXifgKlbhfMdz6xc&sid=a1b323d4&spx=/#🇨🇦 Канада
 trojan://3G3hWDqx7TVxpvxVojQnyaEZbP5R9FBe@144.31.217.124:8443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=D2f-Sck2r_aVv8r7Nm8URfOV6XpPTTnmkQr5BsInDRA&sid=a1b323d4&spx=/#🇳🇴 Норвегия

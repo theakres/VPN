@@ -1,1 +1,2 @@
-vless://775da75e-1530-4ab8-809e-bebae912d3d9@89.149.199.166:8443?encryption=none&type=xhttp&security=reality&sni=www.tradingview.com&pbk=EGxJpl6UtxBovvg0-E9utvD3VvEIVYwBtRN8yy8enUs&sid=5e1ca809d73bf462&fp=chrome&path=/api/v2/sync&mode=auto#🇳🇱 Нидерланды
+vless://775da75e-1530-4ab8-809e-bebae912d3d9@89.149.199.164:8443?encryption=none&type=xhttp&security=reality&sni=www.tradingview.com&pbk=EGxJpl6UtxBovvg0-E9utvD3VvEIVYwBtRN8yy8enUs&sid=b94d6f23e8a10c75&fp=chrome&path=/api/v2/sync&mode=auto#🇳🇱 Нидерланды 1
+vless://775da75e-1530-4ab8-809e-bebae912d3d9@89.149.240.51:8443?encryption=none&type=xhttp&security=reality&sni=www.tradingview.com&pbk=EGxJpl6UtxBovvg0-E9utvD3VvEIVYwBtRN8yy8enUs&sid=5e1ca809d73bf462&fp=chrome&path=/api/v2/sync&mode=auto#🇳🇱 Нидерланды 2

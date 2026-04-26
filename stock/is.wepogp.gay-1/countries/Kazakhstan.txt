@@ -1,1 +1,0 @@
-vless://90620657-58a2-441a-a4ce-cdb0503bb9f5@91.217.10.26:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tcpkz1.figurapn.ru&fp=firefox&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&packetEncoding=xudp#🇰🇿 Казахстан
