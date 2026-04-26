@@ -1,1 +1,1 @@
-vless://4b9a1716-6596-414f-81c4-48d8bcad38dc@45.155.125.229:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-37.userapi.com&fp=&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#🇹🇷 Турция
+vless://4b9a1716-6596-414f-81c4-48d8bcad38dc@89.45.45.40:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-37.userapi.com&fp=&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#🇹🇷 Турция

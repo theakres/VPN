@@ -1,4 +1,4 @@
-vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@185.46.11.179:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=kbITklNKTdfvB6e3xy97pTV7gjl3Z3irv246oRZ5Gnk&sid=aabbccdd&fp=chrome#🇷🇺 Россия 1
+vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@194.67.102.119:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=kbITklNKTdfvB6e3xy97pTV7gjl3Z3irv246oRZ5Gnk&sid=aabbccdd&fp=chrome#🇷🇺 Россия 1
 vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@141.98.191.145:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇷🇺 Россия 2
 vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@194.67.120.133:443?encryption=none&type=ws&security=tls&sni=s46053.cdn.ngenix.net&path=/stream/live&host=s46053.cdn.ngenix.net#🇷🇺 Россия 3
 vless://a2ea02b7-6c9c-44cf-96bb-bd2d2fe84074@88.218.170.253:443?encryption=none&type=xhttp&security=reality&sni=smartcaptcha.yandexcloud.net&pbk=Z7XPtLwdArs9tv9y3qZ24dUcMMJtr4fMOaDmJJox6Dw&sid=aabbccdd&fp=chrome&path=/video-stream&mode=packet-up#🇷🇺 Россия 4

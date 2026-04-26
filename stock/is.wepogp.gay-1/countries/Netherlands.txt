@@ -1,1 +1,1 @@
-vless://ec32a890-0dde-4b87-8d5e-cfdf9073244c@212.192.217.236:8443?security=reality&encryption=none&pbk=B0S7A-ceRt0c3aRqbeQG69FVSkK-si6NWLBEM_QuC3U&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=16#🇳🇱 Нидерланды
+vless://1bf0ee7b-91b6-4369-a3cf-380164d7645b@212.111.89.215:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=cdnjs.com&fp=random&pbk=eSaiI6eXJZVHQdHlscL_yxwoU7o8IFNC1yDV7iq9tkg&sid=1854761377c2d3d5#🇳🇱 Нидерланды
