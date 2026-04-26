@@ -1,1 +1,1 @@
-vless://775da75e-1530-4ab8-809e-bebae912d3d9@84.32.209.56:8443?encryption=none&type=xhttp&security=reality&sni=www.tradingview.com&pbk=NnDloDdLzhLM1CVF36kbOkc0JFzsqVaT3k1fYX_vXRY&sid=63bb3400d9600be4&fp=chrome&path=/api/v2/sync&mode=auto#🇱🇹 Литва
+vless://775da75e-1530-4ab8-809e-bebae912d3d9@84.32.209.56:8443?encryption=none&type=xhttp&security=reality&sni=www.tradingview.com&pbk=NnDloDdLzhLM1CVF36kbOkc0JFzsqVaT3k1fYX_vXRY&sid=f5792b5e2346fc50&fp=chrome&path=/api/v2/sync&mode=auto#🇱🇹 Литва

@@ -1,1 +1,1 @@
-vless://1bf0ee7b-91b6-4369-a3cf-380164d7645b@45.158.127.98:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=neblok.krotmonstr.online&fp=safari&pbk=eSaiI6eXJZVHQdHlscL_yxwoU7o8IFNC1yDV7iq9tkg&sid=b159e3482cc50038#🇺🇸 США
+vless://1bf0ee7b-91b6-4369-a3cf-380164d7645b@45.158.127.98:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=neblok.krotmonstr.online&fp=safari&pbk=eSaiI6eXJZVHQdHlscL_yxwoU7o8IFNC1yDV7iq9tkg&sid=1854761377c2d3d5#🇺🇸 США

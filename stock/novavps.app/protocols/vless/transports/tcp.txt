@@ -1,1 +1,1 @@
-vless://0b9b53cf-f716-41e6-b8f9-8ab2671086f3@185.215.184.143:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=teamcity.org&pbk=qcAfQSTfVA35VumSBwSaCFynkCIHBop9vFD_GClKtBk&sid=3508293f8e992300&fp=edge#🇪🇪 Эстония
+vless://0b9b53cf-f716-41e6-b8f9-8ab2671086f3@185.215.184.129:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=teamcity.org&pbk=qcAfQSTfVA35VumSBwSaCFynkCIHBop9vFD_GClKtBk&sid=3508293f8e992300&fp=edge#🇪🇪 Эстония

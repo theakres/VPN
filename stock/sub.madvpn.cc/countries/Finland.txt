@@ -1,1 +1,1 @@
-vless://775da75e-1530-4ab8-809e-bebae912d3d9@144.31.90.80:8443?encryption=none&type=xhttp&security=reality&sni=www.tradingview.com&pbk=EGxJpl6UtxBovvg0-E9utvD3VvEIVYwBtRN8yy8enUs&sid=e8524fa7d0b1c936&fp=chrome&path=/api/v2/sync&mode=auto#🇫🇮 Финляндия
+vless://775da75e-1530-4ab8-809e-bebae912d3d9@144.31.90.80:8443?encryption=none&type=xhttp&security=reality&sni=www.tradingview.com&pbk=EGxJpl6UtxBovvg0-E9utvD3VvEIVYwBtRN8yy8enUs&sid=f1a84d63b20e7c95&fp=chrome&path=/api/v2/sync&mode=auto#🇫🇮 Финляндия
