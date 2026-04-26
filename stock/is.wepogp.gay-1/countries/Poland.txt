@@ -1,1 +1,1 @@
-vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.47:52006?&security=tls&flow=xtls-rprx-vision&fp=chrome&type=tcp&headerType=none&host=cluster-de-2.firstvideocdn.ru&path=/#🇵🇱 Польша
+vless://75807638-6f19-2710-ae08-38492ee85c88@5.188.159.69:52006?&security=tls&flow=xtls-rprx-vision&fp=chrome&type=tcp&headerType=none&host=cluster-de-2.firstvideocdn.ru&path=/#🇵🇱 Польша

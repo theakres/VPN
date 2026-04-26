@@ -1,5 +1,5 @@
-vless://bcb1d557-85e4-4dc2-b051-3dfb0defea0a@192.142.15.242:443?encryption=none&type=grpc&security=reality&sni=deepl.com&pbk=gxfNWOKNvitABw4KuegtIt0T1Bfc-NZbg3BzDlE4jUc&sid=dd1d98ca11&fp=firefox#🇳🇱 Нидерланды 1
-vless://bcb1d557-85e4-4dc2-b051-3dfb0defea0a@84.32.101.29:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tv.apple.com&pbk=ElMNyYFxWcsuPULS7ETbSRhpimJhW6bb0JEbmxsikjk&sid=631ab0df&fp=chrome#🇳🇱 Нидерланды 2
+vless://bcb1d557-85e4-4dc2-b051-3dfb0defea0a@192.142.15.239:443?encryption=none&type=grpc&security=reality&sni=deepl.com&pbk=gxfNWOKNvitABw4KuegtIt0T1Bfc-NZbg3BzDlE4jUc&sid=dd1d98ca11&fp=firefox#🇳🇱 Нидерланды 1
+vless://bcb1d557-85e4-4dc2-b051-3dfb0defea0a@84.32.101.49:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tv.apple.com&pbk=ElMNyYFxWcsuPULS7ETbSRhpimJhW6bb0JEbmxsikjk&sid=631ab0df&fp=chrome#🇳🇱 Нидерланды 2
 vless://bcb1d557-85e4-4dc2-b051-3dfb0defea0a@192.142.15.243:443?encryption=none&type=grpc&security=reality&sni=deepl.com&pbk=gxfNWOKNvitABw4KuegtIt0T1Bfc-NZbg3BzDlE4jUc&sid=dd1d98ca11&fp=firefox#🇳🇱 Нидерланды 3
 vless://bcb1d557-85e4-4dc2-b051-3dfb0defea0a@192.142.15.242:443?encryption=none&type=grpc&security=reality&sni=deepl.com&pbk=gxfNWOKNvitABw4KuegtIt0T1Bfc-NZbg3BzDlE4jUc&sid=dd1d98ca11&fp=firefox#🇳🇱 Нидерланды 4
 vless://bcb1d557-85e4-4dc2-b051-3dfb0defea0a@192.142.15.239:443?encryption=none&type=grpc&security=reality&sni=deepl.com&pbk=gxfNWOKNvitABw4KuegtIt0T1Bfc-NZbg3BzDlE4jUc&sid=dd1d98ca11&fp=firefox#🇳🇱 Нидерланды 5

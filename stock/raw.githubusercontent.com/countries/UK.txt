@@ -1,1 +1,1 @@
-vless://b9ba24a1-5964-4cc4-92b9-b3cc7fdb032e@149.5.1.224:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn1.ozone.ru&fp=chrome&pbk=An5kduxZNOd438Go-Hz8NI8WW_9Nk5AVMf8rpW00-2c&sid=eb484202952fa52f&packetEncoding=xudp#🇬🇧 Великобритания
+vless://b9ba24a1-5964-4cc4-92b9-b3cc7fdb032e@149.5.1.224:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn1.ozone.ru&fp=chrome&pbk=An5kduxZNOd438Go-Hz8NI8WW_9Nk5AVMf8rpW00-2c&sid=eb484202952fa52f&packetEncoding=xudp&type=tcp#🇬🇧 Великобритания
