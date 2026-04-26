@@ -1,2 +1,0 @@
-vless://0cd76278-c1ba-4371-bf83-3971c8f4b56c@185.21.15.245:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl.chick-team.ru&pbk=aLdyGbloIzzeClW7_SPWL0IZpcaUWsA7rlmbNieggWk&sid=0894e51863b5c395&fp=chrome#🇳🇱 Нидерланды 1
-vless://0cd76278-c1ba-4371-bf83-3971c8f4b56c@144.124.242.130:443?encryption=none&type=xhttp&security=tls&sni=xnl.chick-team.ru&path=/xhttppath/&host=xnl.chick-team.ru&mode=auto#🇳🇱 Нидерланды 2
