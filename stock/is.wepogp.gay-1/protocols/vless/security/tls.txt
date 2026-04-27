@@ -1,2 +1,2 @@
 vless://67d3388c-f5cf-4692-9a13-c3c13d459cc0@95.163.212.245:443?type=xhttp&security=tls&sni=fr.convert24.ru&fp=chrome&alpn=h2,http/1.1&path=/ru&host=fr.convert24.ru&mode=packet-up#🇷🇺 Россия 1
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.38:52006?security=tls&encryption=none&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision#🇷🇺 Россия 2
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.13:52006?security=tls&encryption=none&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision#🇷🇺 Россия 2

@@ -1,1 +1,1 @@
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@188.225.57.207:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=pl.learnyouthinspire.co.uk&fp=chrome#🇵🇱 Польша
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@91.186.196.13:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=pl.learnyouthinspire.co.uk&fp=chrome#🇵🇱 Польша
