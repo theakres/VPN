@@ -1,0 +1,1 @@
+vless://7d3e6808-d105-4ee4-b904-1f6ed8417f4d@pl.safepass.click:443?type=xhttp&mode=auto&security=reality&fp=chrome&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sni=www.samsung.com&extra={  "noGRPCHeader" : false,  "scMaxConcurrentPosts" : 100,  "scMaxEachPostBytes" : 1000000,  "scMinPostsIntervalMs" : 30,  "xPaddingBytes" : "100-1000"}#🇵🇱 Польша
