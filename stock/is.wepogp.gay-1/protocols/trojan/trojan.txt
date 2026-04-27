@@ -1,1 +1,1 @@
-trojan://SuPCmvdWOB@83.219.250.21:53127?type=tcp&security=reality&pbk=dbZ9FYncIWm_1V89_r9rr08zoKitv-yF4YZGKyG-2RE&fp=chrome&sni=www.vk.ru&sid=dc&spx=/#🇷🇺 Россия
+trojan://1234567890@109.122.197.95:2053?security=tls&sni=kfm-bn0.pages.dev&insecure=1&allowInsecure=1&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#🇩🇪 Германия

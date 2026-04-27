@@ -1,5 +1,0 @@
-vless://fe3aa825-5f53-4312-b448-de07d3717f52@fin.ascella.network:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fin.ascella.network&pbk=ge_9XDJG3h8ZIsyVUl31TsEsgF07tKxwYP9rq5cjqC4&fp=chrome#🇫🇮 Финляндия 1
-vless://fe3aa825-5f53-4312-b448-de07d3717f52@hel.ascella.network:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=hel.ascella.network&pbk=ge_9XDJG3h8ZIsyVUl31TsEsgF07tKxwYP9rq5cjqC4&fp=chrome#🇫🇮 Финляндия 2
-vless://fe3aa825-5f53-4312-b448-de07d3717f52@fin.mythical.house:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fin.mythical.house&pbk=ge_9XDJG3h8ZIsyVUl31TsEsgF07tKxwYP9rq5cjqC4&fp=chrome#🇫🇮 Финляндия 3
-vless://fe3aa825-5f53-4312-b448-de07d3717f52@spb.ascella.network:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=spb.ascella.network&pbk=kfHc7fb79GUDzP5FYqt76ARZM4jo_Qq0xlEM41at_yA&fp=chrome#🇫🇮 Финляндия 4
-vless://fe3aa825-5f53-4312-b448-de07d3717f52@pc.ascella.network:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=pc.ascella.network&pbk=kfHc7fb79GUDzP5FYqt76ARZM4jo_Qq0xlEM41at_yA&fp=chrome#🇫🇮 Финляндия 5

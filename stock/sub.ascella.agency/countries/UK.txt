@@ -1,1 +1,0 @@
-vless://fe3aa825-5f53-4312-b448-de07d3717f52@lon.ascella.network:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=lon.ascella.network&pbk=f_80_pvJdwV4CsbJEBnt5bJSyK_znSdrs4dI4JbvWXc&fp=chrome#🇬🇧 Великобритания

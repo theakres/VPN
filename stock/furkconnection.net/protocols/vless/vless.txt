@@ -1,7 +1,7 @@
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@ovh.furkbalancer.net:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de.chocolatemango.live&fp=chrome#🇩🇪 Германия 1
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@de-nuremberg.chocolatemango.live:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de-nuremberg.chocolatemango.live&fp=chrome#🇩🇪 Германия 2
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@nl.chocolatemango.live:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=nl.chocolatemango.live&fp=chrome#🇳🇱 Нидерланды 1
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@144.31.30.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=eh.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇳🇱 Нидерланды 2
+vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@144.31.30.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=eh.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇳🇱 Нидерланды 2
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@fi.furkbalancer.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fi.furkbalancer.net&fp=chrome#🇫🇮 Финляндия 1
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@fi.learnyouthinspire.co.uk:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fi.learnyouthinspire.co.uk&fp=chrome#🇫🇮 Финляндия 2
 vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@at.chocolatemango.live:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=at.chocolatemango.live&fp=chrome#🇦🇹 Австрия

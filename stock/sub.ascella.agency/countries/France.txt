@@ -1,1 +1,0 @@
-vless://fe3aa825-5f53-4312-b448-de07d3717f52@fra.ascel.la:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=par-fr-ping.vultr.com&pbk=vRDgHZ5uiPSNd0Z6icIZfqi3Qb4nXR8ZdBgFbS2EmR4&fp=chrome#🇫🇷 Франция
