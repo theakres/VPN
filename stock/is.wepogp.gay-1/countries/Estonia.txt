@@ -1,2 +1,2 @@
-vless://2d4cc8f5-6670-4ef4-8728-4d9e8a39b1a2@5.181.202.113:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aAHYNPuyflpSMeo0wVKMETyuACVcT1ZVR4NDM0igMBU&sni=ee.cdn-global.pro#🇪🇪 Эстония 1
-vless://a6e26ac0-644f-0021-8035-e2be0c93ffbb@193.109.120.2:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kG6zs_B1ZlZ5kjeC0WWPSz4B60vk_VeWj_WYsl2mGBw&sid=2e8f3a0b&sni=www.amd.com#🇪🇪 Эстония 2
+vless://a6e26ac0-644f-0021-8035-e2be0c93ffbb@193.109.120.2:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kG6zs_B1ZlZ5kjeC0WWPSz4B60vk_VeWj_WYsl2mGBw&sid=2e8f3a0b&sni=www.amd.com#🇪🇪 Эстония 1
+vless://2d4cc8f5-6670-4ef4-8728-4d9e8a39b1a2@5.181.202.113:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aAHYNPuyflpSMeo0wVKMETyuACVcT1ZVR4NDM0igMBU&sni=ee.cdn-global.pro#🇪🇪 Эстония 2

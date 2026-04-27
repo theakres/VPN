@@ -1,2 +1,3 @@
 vless://d19a5d08-7eec-4bfb-ba31-3420072a4090@104.238.29.142:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.microsoft.com&fp=random&pbk=bZ2rcCfc8M97hu_DeHss36S2vUlELrpMRpm_2t6-Xyc&sid=fbb142c8c7b20c3f#🇫🇮 Финляндия 1
 vless://d19a5d08-7eec-4bfb-ba31-3420072a4090@104.238.29.142:2087?security=reality&encryption=none&type=xhttp&path=/xhttp&mode=packet-up&sni=www.microsoft.com&fp=chrome&pbk=5L0GkkZBeGOFLaftbw-LVipiK9U2WLtJcdvasx2d8SI&sid=97631e434c040bff#🇫🇮 Финляндия 2
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@81.90.21.177:443?type=tcp&security=reality&sni=download.spectrum.vu&fp=chrome&pbk=sXC7sPCzHG_uYfvk3GSUdYQKfHAwirOVWMhO50Y9Pn8&sid=a1b2c6d7e8f9&spx=/&flow=xtls-rprx-vision#🇫🇮 Финляндия 3

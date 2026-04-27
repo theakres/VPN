@@ -1,2 +1,2 @@
-vless://f1ab68d6-f2aa-4c78-9044-b37cc44ab796@139.100.194.48:9443?encryption=none&type=grpc&serviceName=maps-grpc&mode=gun&security=reality&sni=api-maps.yandex.ru&fp=ios&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&sid=a94fbc12e3d4#🇳🇱 Нидерланды
-vless://f1ab68d6-f2aa-4c78-9044-b37cc44ab796@139.100.194.48:8443?encryption=none&type=grpc&mode=gun&security=reality&sni=api-maps.yandex.ru&fp=ios&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&sid=ff02ab19#🇫🇮 Финляндия
+vless://f1ab68d6-f2aa-4c78-9044-b37cc44ab796@139.100.194.48:9443?encryption=none&type=grpc&serviceName=maps-grpc&mode=gun&security=reality&sni=api-maps.yandex.ru&fp=ios&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&sid=91fe#🇳🇱 Нидерланды
+vless://f1ab68d6-f2aa-4c78-9044-b37cc44ab796@139.100.194.48:8443?encryption=none&type=grpc&mode=gun&security=reality&sni=api-maps.yandex.ru&fp=ios&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&sid=91fe#🇫🇮 Финляндия
