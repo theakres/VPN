@@ -1,6 +1,0 @@
-vless://db9d28fc-49e2-4240-a9ca-47548536f607@31.14.40.76:443?security=reality&sni=okazii.ro&pbk=RoSZH08P8R4cE6uH5dc-cR30ytfeF7NP9kBAlYi1_m0&sid=cb&fp=chrome&type=xhttp&flow=&encryption=none#🇷🇴 Румыния 1
-vless://5fe1bf35-0dbe-4407-afae-39e6e6df6a38@bucharest.website:443?security=tls&fp=chrome&type=xhttp&encryption=none&sni=bucharest.website#🇷🇴 Румыния 2
-vless://95e20085-1880-48fa-8d99-2c4089b79c04@162.244.82.234:443?security=reality&sni=cooking.nytimes.com&pbk=tOBOAHGWx5AM66UlGYYU5qXPfrx6Ugv1lc1cGldGUXM&sid=18&fp=chrome&type=xhttp&flow=&encryption=none#🇺🇸 США 1
-vless://53dd6cf3-889b-465a-9abf-cc5306b4fd95@newyorklove.website:443?security=tls&fp=chrome&type=xhttp&encryption=none&sni=newyorklove.website#🇺🇸 США 2
-vless://5a0e7359-6911-4cdc-95f6-9590941284b4@89.34.230.223:443?security=reality&sni=www.studyinnl.org&pbk=75pE4JNKtanzCWAQObizETDwECzoJ7Q7xX9M1O002Vg&sid=bcbf787b&fp=chrome&type=xhttp&flow=&encryption=none#🇳🇱 Нидерланды
-vless://3460525a-2396-40e5-9417-aa58165633f1@195.133.5.237:443?security=reality&sni=www.sravni.ru&pbk=jX3GH_m1C2Y1gk_pWa9i94Fp3rmn-bZwo9iY__v6gzc&sid=0b25d8b5&fp=chrome&type=xhttp&flow=&encryption=none#🇷🇺 Россия

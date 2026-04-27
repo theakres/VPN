@@ -1,3 +1,2 @@
 vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@ch-1.bexum.fun:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ch-1.bexum.fun&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=5dd747e98058584b&fp=randomized#🇨🇿 Чехия 1
 trojan://BmVb9TGoytYhaLnZhkrVCtx8khbQFTA_@ch-2.bexum.fun:443?security=tls&type=tcp&sni=ch-2.bexum.fun#🇨🇿 Чехия 2
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@czu.ksnodes.net:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=czu.ksnodes.net&alpn=http/1.1,h2#🇨🇿 Чехия 3

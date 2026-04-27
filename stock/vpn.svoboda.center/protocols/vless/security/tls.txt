@@ -1,2 +1,0 @@
-vless://5fe1bf35-0dbe-4407-afae-39e6e6df6a38@bucharest.website:443?security=tls&fp=chrome&type=xhttp&encryption=none&sni=bucharest.website#🇷🇴 Румыния
-vless://53dd6cf3-889b-465a-9abf-cc5306b4fd95@newyorklove.website:443?security=tls&fp=chrome&type=xhttp&encryption=none&sni=newyorklove.website#🇺🇸 США
