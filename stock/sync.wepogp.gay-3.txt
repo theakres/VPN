@@ -76,6 +76,14 @@ vless://bcb1d557-85e4-4dc2-b051-3dfb0defea0a@peekfun.top:8443?encryption=none&ty
 vless://bcb1d557-85e4-4dc2-b051-3dfb0defea0a@peekfun.top:443?encryption=none&type=grpc&security=reality&sni=giphy.com&pbk=Cx4P6NbcVLWPLpw9VuMU0-6sFpU37b2J27fjrew61jY&sid=dd98cdaa11&fp=chrome#🇸🇪 Швеция | №2
 vless://bcb1d557-85e4-4dc2-b051-3dfb0defea0a@playhav.top:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=giphy.com&pbk=VVmCCpcY_qKjS0bvPx6SAh-4LGyA2_-ZHOFZMVroeyg&sid=f3888f0a&fp=firefox#🇳🇴 Норвегия
 vless://bcb1d557-85e4-4dc2-b051-3dfb0defea0a@82.148.29.20:8443?encryption=none&type=grpc&security=reality&sni=gifs.ru&pbk=Ztky-VQmOq1xsCCvSVBHPuinJ9mRM7tck2Owa2NzO1w&sid=f6b8b9ff&fp=random#🇵🇱 Россия ➜ Польша
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#👇 Антиглушилки | ЛИМИТ
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#📶 Лимит исчерпан: 50.07 GiB/50.00 GiB
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#Чтобы увеличить лимит:
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#1. Перейди в @iMP_VPN_bot
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#2. Зайди в «🎛 Меню»
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#3. Нажми «Управление подпиской»
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#4. Далее «LTE трафик — увеличить лимит»
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#5. После покупки обнови подписку
 vless://bcb1d557-85e4-4dc2-b051-3dfb0defea0a@aventra.top:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tv.apple.com&pbk=ElMNyYFxWcsuPULS7ETbSRhpimJhW6bb0JEbmxsikjk&sid=631ab0df&fp=chrome#👇 Дополнительные страны
 vless://bcb1d557-85e4-4dc2-b051-3dfb0defea0a@happynest.top:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=apple.com&pbk=Wz6ZaRPExt-bsxP3q6C7EFallGqRRsNa2cqDgqFouhM&sid=9e16f112&fp=chrome#🇺🇸 США
 vless://bcb1d557-85e4-4dc2-b051-3dfb0defea0a@144.31.2.106:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=pexels.com&pbk=gbxW2PUHz06iHKyYwm0n-6mDLaco7lcIDOWW7f1L02g&sid=a18f41e0&fp=firefox#🇵🇱 Польша

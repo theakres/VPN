@@ -1,3 +1,3 @@
-vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-de-2.firstvideocdn.ru#🇵🇱 Польша 1
-vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?&security=tls&flow=xtls-rprx-vision&fp=chrome&type=tcp&headerType=none&host=cluster-de-2.firstvideocdn.ru&path=/#🇵🇱 Польша 2
-vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?allowInsecure=1&type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=cluster-de-2.firstvideocdn.ru#🇵🇱 Польша 3
+vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🇵🇱 Польша 1
+vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&sni=cluster-de-2.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision&insecure=1#🇵🇱 Польша 2
+vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?security=tls&encryption=none&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision#🇵🇱 Польша 3
