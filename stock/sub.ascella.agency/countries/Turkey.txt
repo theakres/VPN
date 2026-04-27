@@ -1,0 +1,1 @@
+vless://fe3aa825-5f53-4312-b448-de07d3717f52@212.87.198.97:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ist.ascella.network&pbk=y8zu3te3MMaqdsQs8XlACT_IRcIBoenmGYnMaS-ZbX4&sid=fc7aa00fc02c&fp=chrome#🇹🇷 Турция

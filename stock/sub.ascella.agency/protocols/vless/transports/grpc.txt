@@ -1,0 +1,1 @@
+vless://fe3aa825-5f53-4312-b448-de07d3717f52@144.31.2.227:443?encryption=none&type=grpc&security=reality&sni=bingo.mythical.house&pbk=DwLeyJ0Q8xpqVT7YwOF63p-KL4OiYwOI0ZJY6hD3DDY&sid=a463907beaa69c48&fp=chrome&serviceName=grpc#🇵🇱 Польша

@@ -1,3 +1,3 @@
-vless://1bf0ee7b-91b6-4369-a3cf-380164d7645b@77.110.97.108:8443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&pbk=DIqIZO_u7V95iUT-t29gQj0F8HF9UOgVWhj3oWpH4DM&sid=6eedbf365d74d1ca#🇸🇪 Швеция 1
-vless://1bf0ee7b-91b6-4369-a3cf-380164d7645b@77.110.97.108:443?security=reality&type=xhttp&headerType=&path=/worktop&host=platform-api.max.ru&mode=stream-one&sni=platform-api.max.ru&fp=chrome&pbk=DIqIZO_u7V95iUT-t29gQj0F8HF9UOgVWhj3oWpH4DM&sid=e9655a8fe50f6e21#🇸🇪 Швеция 2
+vless://1bf0ee7b-91b6-4369-a3cf-380164d7645b@77.110.97.108:8443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&pbk=DIqIZO_u7V95iUT-t29gQj0F8HF9UOgVWhj3oWpH4DM&sid=14accd77c353e009#🇸🇪 Швеция 1
+vless://1bf0ee7b-91b6-4369-a3cf-380164d7645b@77.110.97.108:443?security=reality&type=xhttp&headerType=&path=/worktop&host=platform-api.max.ru&mode=stream-one&sni=platform-api.max.ru&fp=chrome&pbk=DIqIZO_u7V95iUT-t29gQj0F8HF9UOgVWhj3oWpH4DM&sid=01ed1e04a6f7cded#🇸🇪 Швеция 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDa2FoTlF6TTR5YjNfUHdnWk1uUkxLWGcxVHgteFU2bg==@77.110.97.108:1080#🇸🇪 Швеция 3

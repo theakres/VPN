@@ -1,0 +1,1 @@
+vless://762f0e03-f1f0-42b2-be3f-28c6febf970b@81.177.215.89:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=t4rk.white-dev.pro&pbk=HM8YnBhxTzEWD-ob2z0EEM6Zovi-oViQIXvWC_kXYVY&sid=491d1be67523e0bd&fp=chrome#🇹🇷 Турция

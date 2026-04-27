@@ -1,0 +1,2 @@
+vless://fe3aa825-5f53-4312-b448-de07d3717f52@142.91.109.200:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tyo.ascella.network&pbk=womLcq5g8thRDQPccDVdPXQSuKz3mEvuEUzG3LyEPxA&sid=aa67370a5e1799e9&fp=chrome#🇯🇵 Япония 1
+vless://fe3aa825-5f53-22b8-b448-de07d3717f52@147.45.183.212:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tw.ascella.network&pbk=kfHc7fb79GUDzP5FYqt76ARZM4jo_Qq0xlEM41at_yA&fp=chrome#🇯🇵 Япония 2

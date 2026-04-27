@@ -1,0 +1,1 @@
+vless://72cfe84b-f84f-4211-a7a2-7eb013a08674@2.26.101.172:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=yahoo.com&fp=chrome&pbk=5kJyRKIuU0yIsJiQPnI8YFvP_1d9nNB09RXcEBVy9hU&sid=12345678#🇸🇪 Швеция
