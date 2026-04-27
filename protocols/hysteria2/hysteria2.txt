@@ -1,0 +1,10 @@
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@87.228.122.105:443?headerType=none&encryption=none&sni=live.ok.ru&insecure=1#🇷🇺 Россия 1
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@87.228.122.105:7081?security=tls&insecure=1&sni=rzd.ru#🇷🇺 Россия 2
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@87.228.122.105:7081?headerType=none&encryption=none&sni=rzd.ru&insecure=1#🇷🇺 Россия 3
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@87.228.122.105:7081?headerType=none&encryption=none&sni=rzd.ru&alpn=h3&insecure=1#🇷🇺 Россия 4
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@31.129.101.32:443?headerType=none&encryption=none&sni=live.ok.ru&alpn=h3&insecure=1#🇷🇺 Россия 5
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@87.228.122.105:443?headerType=none&encryption=none&sni=live.ok.ru&alpn=h3&insecure=1#🇷🇺 Россия 6
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@46.243.211.17:8002?headerType=none&encryption=none&sni=rbc.ru&alpn=h3&insecure=1#🇷🇺 Россия 7
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@87.228.122.105:7081/?insecure=1&sni=rzd.ru#🇷🇺 Россия 8
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@31.129.101.32:443?headerType=none&encryption=none&sni=live.ok.ru&insecure=1#🇷🇺 Россия 9
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@31.129.101.32:443?headerType=none&encryption=none&sni=live.ok.ru&insecure=1#🇷🇺 Россия 10
