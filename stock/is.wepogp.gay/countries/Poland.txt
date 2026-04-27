@@ -1,2 +1,4 @@
-vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cl-de-1.edgeflux.ru&fp=chrome&flow=xtls-rprx-vision#🇵🇱 Польша 1
-vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?security=tls&encryption=none&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision#🇵🇱 Польша 2
+vless://1cc21fb6-b8ec-42c7-a57c-39e89ace379e@pol.normbot.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=pol.normbot.ru&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=4d2c4fa29e40fb49&flow=xtls-rprx-vision#🇵🇱 Польша 1
+vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cl-de-1.edgeflux.ru&fp=chrome&flow=xtls-rprx-vision#🇵🇱 Польша 2
+vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?security=tls&encryption=none&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision#🇵🇱 Польша 3
+vless://1cc21fb6-b8ec-42c7-a57c-39e89ace379e@pol.normbot.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=4d2c4fa29e40fb49&sni=pol.normbot.ru#🇵🇱 Польша 4
