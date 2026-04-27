@@ -1,5 +1,2 @@
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos2.ksnodes.net:443?type=tcp&security=tls&sni=ukos2.ksnodes.net&flow=xtls-rprx-vision#🇬🇧 Великобритания 1
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos2.ksnodes.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=ukos2.ksnodes.net&alpn=http/1.1,h2&flow=xtls-rprx-vision&insecure=1#🇬🇧 Великобритания 2
-vless://96a4f1cb-7c87-4d4f-9b8a-d7415c5db185@allison.kosmolet.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=allison.kosmolet.xyz&fp=chrome&pbk=UgCLC1JdwUh-hgpvSfndN1tuH98620gziTq2UB0gOjI&sid=a369bfe440aba1a2&flow=xtls-rprx-vision#🇬🇧 Великобритания 3
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos2.ksnodes.net:443?security=tls&type=tcp&alpn=http/1.1,h2&sni=ukos2.ksnodes.net&fp=chrome&flow=xtls-rprx-vision#🇬🇧 Великобритания 4
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos2.ksnodes.net:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=ukos2.ksnodes.net&alpn=http/1.1,h2#🇬🇧 Великобритания 5
+vless://96a4f1cb-7c87-4d4f-9b8a-d7415c5db185@allison.kosmolet.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=allison.kosmolet.xyz&fp=chrome&pbk=UgCLC1JdwUh-hgpvSfndN1tuH98620gziTq2UB0gOjI&sid=a369bfe440aba1a2&flow=xtls-rprx-vision#🇬🇧 Великобритания 1
+vless://d007de67-c0e9-5ab8-b706-5c94069655aa@87.120.219.56:443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=uaEkEXSQRlY5bI3NzvoYWtkjQ0Xd_Qhpgl3Pgf4pIFM&sid=3b0498c3&sni=amazon.com&path=/zQLurjYmCcfzs6k4e7Sz&host=amazon.com&mode=auto#🇬🇧 Великобритания 2
