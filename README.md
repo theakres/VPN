@@ -1,7 +1,7 @@
 # VPN Configs
 
-Обновлено: **2026-04-27 07:47 МСК**
-Всего конфигов: **431**
+Обновлено: **2026-04-27 07:55 МСК**
+Всего конфигов: **432**
 
 ---
 
@@ -13,20 +13,20 @@
 
 ## Протоколы
 
-### VLESS (413)
+### VLESS (414)
 
 [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/vless.txt)
 
 **По защите:**
 
-- Reality (377) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/security/reality.txt)
+- Reality (378) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/security/reality.txt)
 - TLS (36) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/security/tls.txt)
 
 **По транспорту:**
 
 - TCP (311) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/tcp.txt)
-- XHTTP (51) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/xhttp.txt)
-- gRPC (47) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/grpc.txt)
+- XHTTP (53) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/xhttp.txt)
+- gRPC (46) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/grpc.txt)
 - WebSocket (4) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/ws.txt)
 
 ---
@@ -49,23 +49,22 @@
 
 ## По странам
 
-- 🇷🇺 **Россия** (95) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Russia.txt)
-- 🇩🇪 **Германия** (48) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Germany.txt)
-- 🇳🇱 **Нидерланды** (46) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Netherlands.txt)
-- 🇫🇮 **Финляндия** (33) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Finland.txt)
+- 🇷🇺 **Россия** (96) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Russia.txt)
+- 🇩🇪 **Германия** (50) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Germany.txt)
+- 🇳🇱 **Нидерланды** (47) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Netherlands.txt)
+- 🇫🇮 **Финляндия** (34) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Finland.txt)
 - 🇵🇱 **Польша** (28) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Poland.txt)
 - 🇺🇸 **США** (26) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/USA.txt)
 - 🇸🇪 **Швеция** (25) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Sweden.txt)
 - 🇷🇴 **Румыния** (14) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Romania.txt)
 - 🇹🇷 **Турция** (11) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Turkey.txt)
 - 🇫🇷 **Франция** (11) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/France.txt)
-- 🇱🇻 **Латвия** (9) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Latvia.txt)
+- 🇱🇻 **Латвия** (8) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Latvia.txt)
 - 🇬🇧 **Великобритания** (7) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/UK.txt)
 - 🇰🇿 **Казахстан** (7) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Kazakhstan.txt)
 - 🇱🇹 **Литва** (6) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Lithuania.txt)
 - 🇳🇴 **Норвегия** (6) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Norway.txt)
 - 🇯🇵 **Япония** (6) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Japan.txt)
-- 🇨🇳 **Китай** (5) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/China.txt)
 - 🇮🇳 **Индия** (4) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/India.txt)
 - 🇸🇬 **Сингапур** (4) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Singapore.txt)
 - 🇦🇹 **Австрия** (3) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Austria.txt)
@@ -77,9 +76,10 @@
 - 🇪🇪 **Эстония** (3) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Estonia.txt)
 - 🇭🇰 **Гонконг** (2) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/HongKong.txt)
 - 🇮🇹 **Италия** (2) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Italy.txt)
+- 🇨🇳 **Китай** (2) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/China.txt)
 - 🇨🇿 **Чехия** (2) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Czechia.txt)
+- 🇿🇦 **ЮАР** (2) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/SouthAfrica.txt)
 - 🇰🇷 **Южная Корея** (2) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/SouthKorea.txt)
-- 🇿🇦 **Южно-Африканская Республика** (2) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/SouthAfrica.txt)
 - 🇦🇱 **Албания** (1) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Albania.txt)
 - 🇦🇷 **Аргентина** (1) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Argentina.txt)
 - 🇧🇷 **Бразилия** (1) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Brazil.txt)
