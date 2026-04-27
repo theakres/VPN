@@ -1,1 +1,1 @@
-vless://TrueVPN_92001293@v546965.hosted-by-vdsina.com:8443?fp=random&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&security=reality&sid=ffffffffff&sni=ozon.ru&spx=/Rl4nn2MsAAo9Uiu&type=tcp#🇳🇱 Нидерланды
+vless://TrueVPN_92001293@v546965.hosted-by-vdsina.com:8443?fp=random&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&security=reality&sid=ffffffffff&sni=ozon.ru&spx=/MDLnjwoJyRN0d2K&type=tcp#🇳🇱 Нидерланды

@@ -1,0 +1,1 @@
+vless://ee68ff88-9433-4f5e-8193-993bd8c016b7@185.234.66.94:443?flow=xtls-rprx-vision&fp=chrome&fragment=51-295,7-10,tlshello,100-200&headerType=none&pbk=AmlgZjBVKLpYPHXdfz_ylYnj-pEHI7Gb0El_yYI-mQI&security=reality&sid=9954ce6f&sni=node-936dfb.binngo.online&spx=/&type=tcp#🇹🇷 Турция

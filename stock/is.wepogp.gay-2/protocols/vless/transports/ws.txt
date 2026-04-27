@@ -1,3 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.32.78:443?&security=tls&fp=chrome&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳#🇱🇻 Латвия 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.32.78:443?fp=chrome&headerType=none&host=sni.latonyamadeline.ndjp.net&path=/?ed=2560&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🇱🇻 Латвия 2
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.32.78:443?allowInsecure=0&encryption=none&host=sni.latonyamadeline.ndjp.net&insecure=0&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🇱🇻 Латвия 3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.32.78:443?&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=/?ed=2560#🇱🇻 Латвия

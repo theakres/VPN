@@ -1,7 +1,5 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.32.78:443?&security=tls&fp=chrome&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳#🇱🇻 Латвия 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.32.78:443?fp=chrome&headerType=none&host=sni.latonyamadeline.ndjp.net&path=/?ed=2560&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🇱🇻 Латвия 2
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.32.78:443?allowInsecure=0&encryption=none&host=sni.latonyamadeline.ndjp.net&insecure=0&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🇱🇻 Латвия 3
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@104.248.128.137:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=rc2.ca-ibm.online&sni=rc2.ca-ibm.online#🇷🇺 Россия 1
 vless://c931f737-cafe-4e4f-998a-a65517941256@s1.ws.dostup-est.info:443?security=tls&type=ws&headerType=&path=/upload/session&host=s1.ws.dostup-est.info&sni=s1.ws.dostup-est.info&fp=chrome&alpn=h3,h2#🇷🇺 Россия 2
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.82.255.141:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=fi2.ca-ibm.online&sni=fi2.ca-ibm.online#🇫🇮 Финляндия 1
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@google.com:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=edfingcptest-364343017979.europe-north1.run.app&sni=google.com&fp=ios#🇫🇮 Финляндия 2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.32.78:443?&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=/?ed=2560#🇱🇻 Латвия
