@@ -1,1 +1,1 @@
-vless://1cc21fb6-b8ec-42c7-a57c-39e89ace379e@lit.normbot.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=lit.normbot.ru&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a&flow=xtls-rprx-vision#🇱🇹 Литва
+vless://90620657-58a2-441a-a4ce-cdb0503bb9f5@ltt2.figurapn.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=ltt2.figurapn.ru#🇱🇹 Литва

@@ -1,1 +1,2 @@
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos2.ksnodes.net:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=ukos2.ksnodes.net&alpn=http/1.1,h2#🇬🇧 Великобритания
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos2.ksnodes.net:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=ukos2.ksnodes.net&alpn=http/1.1,h2#🇬🇧 Великобритания 1
+vless://fe3aa825-5f53-4312-b448-de07d3717f52@lon.ascella.network:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=f_80_pvJdwV4CsbJEBnt5bJSyK_znSdrs4dI4JbvWXc&sid=&sni=lon.ascella.network#🇬🇧 Великобритания 2

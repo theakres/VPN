@@ -1,8 +1,9 @@
-hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tn.xbs54as9c6.ru:443?security=tls&insecure=1&sni=live.ok.ru#🇷🇺 Россия 1
-hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tg.xbs54as9c6.ru:443?headerType=none&encryption=none&sni=live.ok.ru&alpn=h3&insecure=1#🇷🇺 Россия 2
-hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@87.228.122.105:7081?insecure=1&sni=rzd.ru#🇷🇺 Россия 3
-hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tg.xbs54as9c6.ru:443?insecure=1&sni=live.ok.ru#🇷🇺 Россия 4
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:443?insecure=1&sni=live.ok.ru#🇷🇺 Россия 5
-hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@yy.xbs54as9c6.ru:8041/?insecure=1&sni=market.yandex.ru#🇩🇪 Германия 1
-hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@yy.xbs54as9c6.ru:8041?headerType=none&encryption=none&sni=market.yandex.ru&insecure=1#🇩🇪 Германия 2
-hysteria2://dongtaiwang.com@163.172.113.118:41283?insecure=1&sni=www.microsoft.com&mport=40022,41000#🇫🇷 Франция
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@46.243.211.17:8041?insecure=1&sni=market.yandex.ru#🇷🇺 Россия 1
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tg.xbs54as9c6.ru:7081?security=tls&insecure=1&sni=rzd.ru#🇷🇺 Россия 2
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@87.228.122.105:443?insecure=1&sni=live.ok.ru#🇷🇺 Россия 3
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@87.228.122.105:7081?insecure=1&sni=rzd.ru#🇷🇺 Россия 4
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@87.228.122.105:443?insecure=1&sni=live.ok.ru#🇷🇺 Россия 5
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.10.131:7081?insecure=1&sni=rzd.ru#🇷🇺 Россия 6
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.10.131:443?insecure=1&sni=live.ok.ru#🇷🇺 Россия 7
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@83.222.10.131:443?insecure=1&sni=live.ok.ru#🇷🇺 Россия 8
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@83.222.10.131:7081?insecure=1&sni=rzd.ru#🇷🇺 Россия 9
