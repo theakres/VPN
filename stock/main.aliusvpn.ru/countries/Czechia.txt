@@ -1,1 +1,1 @@
-vless://af2e1391-e1df-4939-906f-93ee993c940e@67.159.18.20:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=hartfordmedia.online&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1&fp=chrome#🇨🇿 Чехия
+vless://af2e1391-e1df-4939-906f-93ee993c940e@id.hartfordmedia.cloud:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=westondigita.cloud&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1&fp=chrome#🇨🇿 Чехия

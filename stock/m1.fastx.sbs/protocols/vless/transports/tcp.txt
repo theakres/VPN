@@ -1,1 +1,1 @@
-vless://3ca3c7ef-1c04-4396-92a0-5bf4c528905f@144.31.179.8:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=s1.fastfilex.pro&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#🇸🇪 Швеция
+vless://3ca3c7ef-1c04-4396-92a0-5bf4c528905f@s1.fastfilex.pro:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=s1.fastfilex.pro&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#🇸🇪 Швеция

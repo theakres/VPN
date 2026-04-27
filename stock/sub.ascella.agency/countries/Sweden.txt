@@ -1,1 +1,1 @@
-vless://fe3aa825-5f53-4312-b448-de07d3717f52@194.104.94.189:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=sto.ascella.network&pbk=SnupT8AkH-SDh1fec-370J2nPezX7AmEL6Xbn5s5xn4&fp=chrome#🇸🇪 Швеция
+vless://fe3aa825-5f53-4312-b448-de07d3717f52@sto.ascella.network:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=sto.ascella.network&pbk=SnupT8AkH-SDh1fec-370J2nPezX7AmEL6Xbn5s5xn4&fp=chrome#🇸🇪 Швеция

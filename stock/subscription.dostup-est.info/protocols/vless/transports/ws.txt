@@ -1,1 +1,1 @@
-vless://c931f737-cafe-4e4f-998a-a65517941256@185.241.194.91:443?security=tls&type=ws&headerType=&path=/upload/session&host=s1.ws.dostup-est.info&sni=s1.ws.dostup-est.info&fp=chrome&alpn=h3,h2#🇷🇺 Россия
+vless://c931f737-cafe-4e4f-998a-a65517941256@s1.ws.dostup-est.info:443?security=tls&type=ws&headerType=&path=/upload/session&host=s1.ws.dostup-est.info&sni=s1.ws.dostup-est.info&fp=chrome&alpn=h3,h2#🇷🇺 Россия

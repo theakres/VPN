@@ -1,1 +1,1 @@
-vless://762f0e03-f1f0-42b2-be3f-28c6febf970b@144.31.129.41:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=al3.white-dev.pro&pbk=G53EAPln3vFIEkactInEXMe3t5shsBF5WmblFQwdz0M&sid=9b28efc37b30c705&fp=chrome#🇦🇱 Албания
+vless://762f0e03-f1f0-42b2-be3f-28c6febf970b@al3.white-dev.pro:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=al3.white-dev.pro&pbk=G53EAPln3vFIEkactInEXMe3t5shsBF5WmblFQwdz0M&sid=9b28efc37b30c705&fp=chrome#🇦🇱 Албания

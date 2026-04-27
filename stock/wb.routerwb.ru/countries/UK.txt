@@ -1,1 +1,1 @@
-vless://552b986c-df5d-4200-b9c5-75322c8f5332@166.1.155.44:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.cloudrt.ru&fp=chrome&pbk=Go10kM62oBbTN-4YmmL_V5c8rJ_lTzC3CRDccHhsQ0A&sid=06d6d22cab9dfba8#🇬🇧 Великобритания
+vless://552b986c-df5d-4200-b9c5-75322c8f5332@gb.cloudrt.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.cloudrt.ru&fp=chrome&pbk=Go10kM62oBbTN-4YmmL_V5c8rJ_lTzC3CRDccHhsQ0A&sid=06d6d22cab9dfba8#🇬🇧 Великобритания

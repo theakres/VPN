@@ -1,5 +1,5 @@
-vless://af2e1391-e1df-4939-906f-93ee993c940e@5.188.114.99:8080?encryption=none&type=xhttp&security=reality&sni=ads.x5.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1&fp=chrome&mode=auto#🇷🇺 Россия 1
+vless://af2e1391-e1df-4939-906f-93ee993c940e@51.250.16.170:8080?encryption=none&type=xhttp&security=reality&sni=ads.x5.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1&fp=chrome&mode=auto#🇷🇺 Россия 1
 vless://af2e1391-e1df-4939-906f-93ee993c940e@5.188.114.99:8443?encryption=none&type=xhttp&security=reality&sni=ads.x5.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1&fp=chrome&mode=auto#🇷🇺 Россия 2
-vless://af2e1391-e1df-4939-906f-93ee993c940e@51.250.16.170:8443?encryption=none&type=xhttp&security=reality&sni=ads.x5.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1&fp=chrome&mode=auto#🇷🇺 Россия 3
-vless://af2e1391-e1df-4939-906f-93ee993c940e@51.250.16.170:8080?encryption=none&type=xhttp&security=reality&sni=ads.x5.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1&fp=chrome&mode=auto#🇷🇺 Россия 4
-vless://af2e1391-e1df-4939-906f-93ee993c940e@195.226.93.11:443?encryption=none&type=xhttp&security=reality&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1&fp=chrome&path=/GunService&mode=auto#🇩🇪 Германия
+vless://af2e1391-e1df-4939-906f-93ee993c940e@51.250.16.170:8443?encryption=none&type=xhttp&security=reality&sni=ads.x5.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58&fp=chrome&mode=auto#🇷🇺 Россия 3
+vless://af2e1391-e1df-4939-906f-93ee993c940e@51.250.16.170:8080?encryption=none&type=xhttp&security=reality&sni=ads.x5.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58&fp=chrome&mode=auto#🇷🇺 Россия 4
+vless://af2e1391-e1df-4939-906f-93ee993c940e@lb17.hartfordmedia.cloud:443?encryption=none&type=xhttp&security=reality&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1&fp=chrome&path=/GunService&mode=auto#🇫🇮 Финляндия

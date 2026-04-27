@@ -1,1 +1,1 @@
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@144.31.130.227:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇾 Кипр
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@cy227.mechvpn.online:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇾 Кипр

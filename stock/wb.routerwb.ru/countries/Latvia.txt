@@ -1,1 +1,1 @@
-vless://552b986c-df5d-4200-b9c5-75322c8f5332@195.123.210.231:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=lt.cloudrt.ru&fp=chrome&pbk=GtowCQQ1-KnAshUg3L20arlZ3jmkmkw9KFs9pJCv02w&sid=b7320b5df096b452#🇱🇻 Латвия
+vless://552b986c-df5d-4200-b9c5-75322c8f5332@lt.cloudrt.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=lt.cloudrt.ru&fp=chrome&pbk=GtowCQQ1-KnAshUg3L20arlZ3jmkmkw9KFs9pJCv02w&sid=b7320b5df096b452#🇱🇻 Латвия

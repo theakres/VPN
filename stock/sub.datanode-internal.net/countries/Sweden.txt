@@ -1,1 +1,1 @@
-vless://dc525b88-e732-43e5-a726-46b185f98e55@185.231.101.82:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=eh.vk.com&fp=&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128#🇸🇪 Швеция
+vless://dc525b88-e732-43e5-a726-46b185f98e55@se.datanode-internal.net:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=eh.vk.com&fp=&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128#🇸🇪 Швеция
