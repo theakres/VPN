@@ -1,6 +1,6 @@
-vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.80:52006?flow=xtls-rprx-vision&security=tls&encryption=none&fp=chrome&type=tcp&path=/#🇵🇱 Польша 1
-vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.80:52006?type=tcp&security=tls&encryption=none&sni=cluster-de-2.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision&insecure=1#🇵🇱 Польша 2
-vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.80:52006?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=1#🇵🇱 Польша 3
-vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.80:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-de-2.firstvideocdn.ru#🇵🇱 Польша 4
-vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.80:52006?type=tcp&security=tls&encryption=none&fp=chrome&flow=xtls-rprx-vision&insecure=1#🇵🇱 Польша 5
+vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.44:52006?flow=xtls-rprx-vision&security=tls&encryption=none&fp=chrome&type=tcp&path=/#🇵🇱 Польша 1
+vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.44:52006?type=tcp&security=tls&encryption=none&sni=cluster-de-2.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision&insecure=1#🇵🇱 Польша 2
+vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.44:52006?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=1#🇵🇱 Польша 3
+vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.44:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-de-2.firstvideocdn.ru#🇵🇱 Польша 4
+vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.44:52006?type=tcp&security=tls&encryption=none&fp=chrome&flow=xtls-rprx-vision&insecure=1#🇵🇱 Польша 5
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.231.52:443?encryption=none&type=grpc&security=tls&mode=gun&serviceName=grpc-tunnel&fp=chrome&sni=filegrid.cc&alpn=h2#🇷🇺 Россия
