@@ -1,7 +1,7 @@
 # VPN Configs
 
-Обновлено: **2026-04-27 20:58 МСК**
-Всего конфигов: **361**
+Обновлено: **2026-04-27 22:13 МСК**
+Всего конфигов: **362**
 
 ---
 
@@ -13,18 +13,18 @@
 
 ## Протоколы
 
-### VLESS (345)
+### VLESS (346)
 
 [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/vless.txt)
 
 **По защите:**
 
-- Reality (299) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/security/reality.txt)
+- Reality (300) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/security/reality.txt)
 - TLS (46) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/security/tls.txt)
 
 **По транспорту:**
 
-- TCP (260) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/tcp.txt)
+- TCP (261) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/tcp.txt)
 - XHTTP (45) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/xhttp.txt)
 - gRPC (33) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/grpc.txt)
 - WebSocket (7) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/ws.txt)
@@ -69,7 +69,7 @@
 - 🇷🇺 **Россия** (81) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Russia.txt)
 - 🇩🇪 **Германия** (46) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Germany.txt)
 - 🇳🇱 **Нидерланды** (44) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Netherlands.txt)
-- 🇵🇱 **Польша** (27) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Poland.txt)
+- 🇵🇱 **Польша** (28) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Poland.txt)
 - 🇫🇮 **Финляндия** (17) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Finland.txt)
 - 🇸🇪 **Швеция** (17) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Sweden.txt)
 - 🇺🇸 **США** (16) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/USA.txt)
