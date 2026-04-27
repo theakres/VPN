@@ -1,3 +1,0 @@
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#⛔ Лимит трафика достигнут.
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#❤️‍🩹 Продлите подписку в боте
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#t.me/tsukivpnnbot
