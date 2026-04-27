@@ -1,1 +1,0 @@
-vless://762f0e03-f1f0-42b2-be3f-28c6febf970b@poland.white-dev.pro:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=poland.white-dev.pro&pbk=vaFNVabgD7MdcXib06W15hRP6hRBDm3cicgbTNJA8l0&sid=b4ebe4255e8fb26a&fp=chrome#🇲🇩 Молдова

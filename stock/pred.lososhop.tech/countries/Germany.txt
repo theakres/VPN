@@ -1,2 +1,2 @@
-vless://9a341f75-4217-59e4-b9e6-b921496d7a1a@vp1.lososhop.tech:443?encryption=none&fp=random&pbk=CgNvJjVjzVB6Po3-JOTAreJYli1Oy684Kl6uarnuzH8&security=reality&sid=447e7c86724459aa&sni=www.twitch.tv&spx=/VklYaAxkUc25ccN&type=tcp#🇩🇪 Германия 1
-vless://9a341f75-4217-59e4-b9e6-b921496d7a1a@vp2.lososhop.tech:443?encryption=none&fp=randomized&pbk=Sh5iUIdA9a1ERsH2cg6HXGRaLEeIn_T5bWSfENGPP14&security=reality&sid=1a585152d749&sni=www.twitch.tv&spx=/SfZBeFHhoP1oEbj&type=tcp#🇩🇪 Германия 2
+vless://9a341f75-4217-59e4-b9e6-b921496d7a1a@vp1.lososhop.tech:443?encryption=none&fp=random&pbk=CgNvJjVjzVB6Po3-JOTAreJYli1Oy684Kl6uarnuzH8&security=reality&sid=090837228a363c07&sni=www.twitch.tv&spx=/LPXxZ8EosBwRM9s&type=tcp#🇩🇪 Германия 1
+vless://9a341f75-4217-59e4-b9e6-b921496d7a1a@vp2.lososhop.tech:443?encryption=none&fp=random&pbk=Sh5iUIdA9a1ERsH2cg6HXGRaLEeIn_T5bWSfENGPP14&security=reality&sid=ef91084e&sni=www.twitch.tv&spx=/GWZ3bsLeS9B791y&type=tcp#🇩🇪 Германия 2

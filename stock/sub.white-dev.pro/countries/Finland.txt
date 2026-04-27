@@ -1,1 +1,0 @@
-vless://762f0e03-f1f0-42b2-be3f-28c6febf970b@185.75.135.198:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=f1n.white-dev.pro&pbk=J8m9s6Dui7IND9QwfSjpyL5ic9h7QZ44RGrw6DGdk34&sid=a2c2b4ee90ccddec&fp=chrome#🇫🇮 Финляндия

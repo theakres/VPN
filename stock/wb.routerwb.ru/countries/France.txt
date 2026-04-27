@@ -1,1 +1,0 @@
-vless://552b986c-df5d-4200-b9c5-75322c8f5332@fr.cloudrt.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=fr.cloudrt.ru&fp=chrome&pbk=HVXSi88HN-npIN9uVRmevY6UtDvggrHJCML4j16R7zw&sid=b7320b5df096b452#🇫🇷 Франция
