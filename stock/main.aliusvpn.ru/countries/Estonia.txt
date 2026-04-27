@@ -1,1 +1,1 @@
-vless://af2e1391-e1df-4939-906f-93ee993c940e@77.72.85.209:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=westondigita.cloud&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1&fp=chrome#🇪🇪 Эстония
+vless://af2e1391-e1df-4939-906f-93ee993c940e@77.72.85.209:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=hartfordmedia.online&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1&fp=chrome#🇪🇪 Эстония
