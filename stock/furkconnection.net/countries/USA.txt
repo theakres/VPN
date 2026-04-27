@@ -1,1 +1,0 @@
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@usa-il.chocolatemango.live:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=usa-il.chocolatemango.live&fp=chrome#🇺🇸 США

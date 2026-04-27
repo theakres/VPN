@@ -1,1 +1,1 @@
-trojan://1234567890@109.122.197.95:2053?security=tls&sni=kfm-bn0.pages.dev&insecure=1&allowInsecure=1&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#🇩🇪 Германия
+trojan://162534@185.121.134.40:8443?type=ws&security=tls&path=/?ed=2560&https://t.me/@anonymouskeys&host=cchh2.pages.dev&sni=cchh2.pages.dev&fp=chrome&allowInsecure=#🇩🇪 Германия

@@ -1,14 +1,3 @@
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@0.0.0.0:2083?encryption=none&type=tcp&security=tls&sni=bg.learnyouthinspire.co.uk&fp=chrome#⬇️ Внизу Домашние (Wi-Fi) ⬇️
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@ovh.furkbalancer.net:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de.chocolatemango.live&fp=chrome#🇩🇪 Лимбург⚡️🤖
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@ovh.furkbalancer.net:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=it.learnyouthinspire.co.uk&fp=chrome#🇮🇹 Италия ⚡️🤖
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@hu.chocolatemango.live:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=hu.chocolatemango.live&fp=chrome#🇭🇺 Венгрия ⚡️🤖
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@ovh.furkbalancer.net:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=pl.learnyouthinspire.co.uk&fp=chrome#🇵🇱 Польша ⚡️🤖
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@ovh.furkbalancer.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fr.learnyouthinspire.co.uk&fp=chrome#🇫🇷 Франция ⚡️🤖
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@de-nuremberg.chocolatemango.live:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=de-nuremberg.chocolatemango.live&fp=chrome#🇩🇪 Германия⚡️🤖🎮
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@fi.furkbalancer.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fi.furkbalancer.net&fp=chrome#🇫🇮 Финляндия ⚡️🤖🎮🏴‍☠️
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@at.chocolatemango.live:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=at.chocolatemango.live&fp=chrome#🇦🇹 Австрия ⚡️🤖
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@usa-il.chocolatemango.live:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=usa-il.chocolatemango.live&fp=chrome#🇺🇸 США, Чикаго 📺
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@kz.furkbalancer.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kz.furkbalancer.net&fp=chrome#🇰🇿 Казахстан 🤖
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@fi.learnyouthinspire.co.uk:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=fi.learnyouthinspire.co.uk&fp=chrome#🇫🇮 Финляндия 📺
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@nl.chocolatemango.live:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=nl.chocolatemango.live&fp=chrome#🇳🇱 Нидерланды 📺
-vless://e0920517-fcd8-41ad-9f73-ec7343fe8243@144.31.30.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=eh.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇳🇱🍏 Миранда (Крым)
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#🇰🇵 Вы израсходовали лимит
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#🇰🇵 Вы можете купить другой тариф
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#🇰🇵 Или обратиться в поддержку
