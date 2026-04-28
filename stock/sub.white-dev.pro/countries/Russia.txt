@@ -1,0 +1,2 @@
+vless://762f0e03-f1f0-42b2-be3f-28c6febf970b@r8u.white-dev.pro:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=r8u.white-dev.pro&pbk=YBibkZSbI7vKRiK75RCHLhSuMT_sCgMwIZOVhlw5kgo&sid=3e4f43e8e8eeb2e2&fp=chrome#🇷🇺 Россия 1
+vless://762f0e03-f1f0-42b2-be3f-28c6febf970b@5.188.141.205:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=Sd5IFKCPgJl5tIG4EZNZwedxqN5zwakmyS1pZiiVoCk&sid=3e62cdebd3937231&fp=chrome#🇷🇺 Россия 2

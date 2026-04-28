@@ -1,0 +1,1 @@
+vless://762f0e03-f1f0-42b2-be3f-28c6febf970b@l1v.white-dev.pro:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=l1v.white-dev.pro&pbk=-N9mB4tNRe82jZUntSCUqVTwti22QjIjvVsmpIWKwQs&sid=e97365dac6feb15e&fp=chrome#🇱🇻 Латвия
