@@ -1,0 +1,1 @@
+vless://7e9a39eb-a9b0-2e38-26da-d27b1a95904d@45.150.239.178:11443?security=reality&encryption=none&pbk=OLOZOJ5vUQwK6sZnhhDRWBHLHBylIu3PAHZwhCu4tns&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=10c29712ef658af2#🇹🇷 Турция

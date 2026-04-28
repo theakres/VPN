@@ -1,2 +1,2 @@
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-vn-001.fastervpn.world:443?insecure=1&sni=vpn-vn-001.fastervpn.world#🇻🇳 Вьетнам
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-016.fastervpn.world:443?insecure=1&sni=vpn-jp-016.fastervpn.world#🇯🇵 Япония
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@46.243.211.17:8041?insecure=1&sni=market.yandex.ru#🇷🇺 Россия
