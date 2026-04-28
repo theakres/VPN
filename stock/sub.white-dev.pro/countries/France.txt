@@ -1,1 +1,0 @@
-vless://762f0e03-f1f0-42b2-be3f-28c6febf970b@france.white-dev.pro:443?encryption=none&type=grpc&security=reality&sni=france.white-dev.pro&pbk=uZIbOL8KmnotPKqfYZOzNxBs8w12QaUGOjXJsdBnqDQ&fp=chrome#🇫🇷 Франция

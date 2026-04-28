@@ -39,4 +39,3 @@ vless://bcb1d557-85e4-4dc2-b051-3dfb0defea0a@84.32.209.61:443?encryption=none&ty
 vless://bcb1d557-85e4-4dc2-b051-3dfb0defea0a@82.148.29.20:8443?encryption=none&type=grpc&security=reality&sni=gifs.ru&pbk=Ztky-VQmOq1xsCCvSVBHPuinJ9mRM7tck2Owa2NzO1w&sid=f6b8b9ff&fp=random#🇵🇱 Польша 1
 vless://6a7a3a88-59ec-49b1-96ad-fdd65d7d2195@plrr-wawrr-1.blook.network:443?fp=chrome&pbk=r5p6jqUN4YYiRBpOnSIpgtygQBlQ821NwmbzoNQhvVI&security=reality&serviceName=grpc&sid=83bd603f&sni=plrr-wawrr-1.blook.network&spx=/&type=grpc#🇵🇱 Польша 2
 vless://bdc46c88-06c8-4c2d-b1ab-17183486413a@trrr-istrr-2.blook.network:443?fp=chrome&pbk=nkOo91oXUu2CLGfQpwLsB57Z9KhKrEcqb1xlEjJFnmk&security=reality&serviceName=grpc&sid=d818146e&sni=trrr-istrr-2.blook.network&spx=/&type=grpc#🇹🇷 Турция
-vless://762f0e03-f1f0-42b2-be3f-28c6febf970b@france.white-dev.pro:443?encryption=none&type=grpc&security=reality&sni=france.white-dev.pro&pbk=uZIbOL8KmnotPKqfYZOzNxBs8w12QaUGOjXJsdBnqDQ&fp=chrome#🇫🇷 Франция

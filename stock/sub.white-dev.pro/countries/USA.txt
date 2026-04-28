@@ -1,3 +1,0 @@
-vless://762f0e03-f1f0-42b2-be3f-28c6febf970b@r4u.white-dev.pro:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=r4u.white-dev.pro&pbk=_BKa6zyoHwo6FxYjzrFjWRFCGLobpgsmEjSMAFl9XSE&sid=3e4f43e8e8eeb2e2&fp=chrome#🇺🇸 США 1
-vless://762f0e03-f1f0-42b2-be3f-28c6febf970b@r7u.white-dev.pro:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=r7u.white-dev.pro&pbk=tI4eDBxiK7S-vROTykIAN3wjDMcRHKh5VY6GDRr5Gwc&sid=3e4f43e8e8eeb2e2&fp=chrome#🇺🇸 США 2
-vless://762f0e03-f1f0-42b2-be3f-28c6febf970b@u2a.white-dev.pro:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=u2a.white-dev.pro&pbk=O5k1qSTBlbCReypU1omfdhTy7VAT3LGIWHwVfxtfwHs&sid=6431ddb1c871531d&fp=chrome#🇺🇸 США 3
