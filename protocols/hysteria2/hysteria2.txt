@@ -1,13 +1,2 @@
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@46.243.211.17:8041?insecure=1&sni=market.yandex.ru#🇷🇺 Россия 1
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tg.xbs54as9c6.ru:7081?headerType=none&encryption=none&sni=rzd.ru&insecure=1#🇷🇺 Россия 2
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.10.131:7081?insecure=1&sni=rzd.ru#🇷🇺 Россия 3
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.10.131:443?headerType=none&encryption=none&sni=live.ok.ru&insecure=1#🇷🇺 Россия 4
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@87.228.122.105:443?headerType=none&encryption=none&sni=live.ok.ru&insecure=1#🇷🇺 Россия 5
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@87.228.122.105:7081/?insecure=1&sni=rzd.ru#🇷🇺 Россия 6
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@87.228.122.105:443/?insecure=1&sni=live.ok.ru#🇷🇺 Россия 7
-hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@87.228.122.105:443/?insecure=1&sni=live.ok.ru#🇷🇺 Россия 8
-hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@87.228.122.105:7081?headerType=none&encryption=none&sni=rzd.ru&insecure=1#🇷🇺 Россия 9
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@87.228.122.105:7081?headerType=none&encryption=none&sni=rzd.ru&insecure=1#🇷🇺 Россия 10
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-vn-001.fastervpn.world:443?type=hysteria&mport&security=tls&sni=vpn-vn-001.fastervpn.world&alpn=h3&allowInsecure=1#🇻🇳 Вьетнам
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443?type=hysteria&mport&security=tls&sni=vpn-tw-001.fastervpn.world&alpn=h3&allowInsecure=1#🇹🇼 Тайвань
-hysteria2://dongtaiwang.com@163.172.113.118:41283?insecure=1&sni=www.microsoft.com&mport=40022,41000#🇫🇷 Франция

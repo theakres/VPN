@@ -1,4 +1,2 @@
 trojan://BmVb9TGoytYhaLnZhkrVCtx8khbQFTA_@kz-1.bexum.fun:5443?security=tls&type=tcp&sni=kz-1.bexum.fun#🇰🇿 Казахстан
-trojan://GZOof2R1ej4yML1NxajR2frGQ@hl-freedom-1.undef.network:443?sni=HL-FREEDOM-1.UNDEF.NETWORK&host=hl-freedom-1.undef.network&security=tls&type=ws&path=/f2fc2a1f#🇳🇱 Нидерланды
-trojan://162534@5.223.56.239:8443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#🇸🇬 Сингапур
 trojan://BmVb9TGoytYhaLnZhkrVCtx8khbQFTA_@ch-2.bexum.fun:443?security=tls&type=tcp&sni=ch-2.bexum.fun#🇨🇿 Чехия

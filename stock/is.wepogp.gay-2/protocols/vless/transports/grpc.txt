@@ -1,1 +1,0 @@
-vless://7c04e3f0-95b1-45e2-a852-99668783f9f1@white77.alexanderoff.ru:9003?security=reality&type=grpc&headerType=&serviceName=xyz&authority=&mode=gun&sni=www.apple.com&fp=chrome&pbk=_tBiRkButwPxxa2HHuNufy0Tyr_0SViQZReJT75JVTI&sid=d49d578f280fd83a#🇷🇺 Россия

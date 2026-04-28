@@ -1,2 +1,0 @@
-vless://8e66502a-83ca-0003-a3b5-a65daf457ecf@sg.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=findmypackets.com&sid=93ae75024604f796#🇸🇬 Сингапур 1
-trojan://162534@5.223.56.239:8443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#🇸🇬 Сингапур 2

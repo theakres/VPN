@@ -1,6 +1,3 @@
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@199.119.137.78:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇺🇸 США 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@199.119.137.109:2053?&security=tls&fp=chrome&sni=babayaga-6i7.pages.dev&type=ws&headerType=none&host=babayaga-6i7.pages.dev&path=/?ed=2560#🇺🇸 США 2
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@142.171.48.211:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇺🇸 США 3
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@104.248.128.137:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=rc2.ca-ibm.online&sni=rc2.ca-ibm.online#🇷🇺 Россия 1
 vless://c931f737-cafe-4e4f-998a-a65517941256@s1.ws.dostup-est.info:443?security=tls&type=ws&headerType=&path=/upload/session&host=s1.ws.dostup-est.info&sni=s1.ws.dostup-est.info&fp=chrome&alpn=h3,h2#🇷🇺 Россия 2
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.82.255.141:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=fi2.ca-ibm.online&sni=fi2.ca-ibm.online#🇫🇮 Финляндия 1
