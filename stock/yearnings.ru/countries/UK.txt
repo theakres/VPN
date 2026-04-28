@@ -1,2 +1,1 @@
-vless://7b2c01bb-f444-41a4-ad6c-6c0238bcf5c8@pro-us.emrata.top:753?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&pbk=uY-4wMHFY1pD8SIwHBfcxVRdolB7NAJIWIbYjaG8iw0&fp=chrome&sni=www.amd.com&spx=/#🇬🇧 Великобритания 1
-vless://7b2c01bb-f444-41a4-ad6c-6c0238bcf5c8@pro-us.emrata.top:753?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&type=tcp&sni=www.amd.com&pbk=uY-4wMHFY1pD8SIwHBfcxVRdolB7NAJIWIbYjaG8iw0#🇬🇧 Великобритания 2
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos2.ksnodes.net:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=ukos2.ksnodes.net&fp=chrome&allowInsecure=0#🇬🇧 Великобритания

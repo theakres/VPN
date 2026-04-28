@@ -1,4 +1,7 @@
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-vn-001.fastervpn.world:443?type=hysteria&mport&security=tls&sni=vpn-vn-001.fastervpn.world&alpn=h3&allowInsecure=1#🇻🇳 Вьетнам 1
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-vn-001.fastervpn.world:443?insecure=1&sni=vpn-vn-001.fastervpn.world#🇻🇳 Вьетнам 2
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@46.243.211.17:8041?insecure=1&sni=market.yandex.ru#🇷🇺 Россия
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-016.fastervpn.world:443?insecure=1&sni=vpn-jp-016.fastervpn.world#🇯🇵 Япония 1
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-016.fastervpn.world:443?encryption=none&sni=vpn-jp-016.fastervpn.world&insecure=1#🇯🇵 Япония 2
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@103.134.35.37:443?headerType=none&encryption=none&sni=vpn-jp-016.fastervpn.world&insecure=1#🇯🇵 Япония 3
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-vn-001.fastervpn.world:443?type=hysteria&mport&security=tls&sni=vpn-vn-001.fastervpn.world&alpn=h3&allowInsecure=1#🇻🇳 Вьетнам
+hysteria2://3286b74d-a633-401f-8e22-6e8e61c5f1d9@45.192.195.52:5555?security=tls&alpn=h3&insecure=1&sni=45.192.195.52#🇭🇰 Гонконг
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443?type=hysteria&mport&security=tls&sni=vpn-tw-001.fastervpn.world&alpn=h3&allowInsecure=1#🇹🇼 Тайвань
+hysteria2://dongtaiwang.com@163.172.113.118:41283?insecure=1&sni=www.microsoft.com&mport=40022,41000-42000#🇫🇷 Франция

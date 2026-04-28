@@ -1,1 +1,2 @@
-vless://ba3778db-bd1d-4b84-94e8-f10551d15514@185.191.118.167:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deutschland.denditop.site&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&type=tcp#🇩🇪 Германия
+vless://ba3778db-bd1d-4b84-94e8-f10551d15514@185.191.118.167:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deutschland.denditop.site&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&type=tcp#🇩🇪 Германия 1
+vless://53e4b742-e454-4d26-bff6-6a959bcef990@159.195.56.153:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪 Германия 2
