@@ -1,1 +1,0 @@
-trojan://strong-secret-pass-777@103.231.73.181:4443?security=tls&allowInsecure=1&fp=chrome&type=tcp#🇱🇻 Латвия

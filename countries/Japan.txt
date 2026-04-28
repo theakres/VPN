@@ -1,2 +1,4 @@
 vless://bafc879b-eeef-4317-ac47-8ec6c23335e9@cdn33.api-rutube.ru:27017?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ozon.ru&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&fp=chrome#🇯🇵 Япония 1
-vless://414ba55d-c453-4f42-bae7-c88a89307308@jp-nrt-1.blook.network:443?flow=xtls-rprx-vision&fp=chrome&pbk=K64BDKK1ZIZis2nnBKhkhT-0Lo7iszkU9An2ydlIXQM&security=reality&sid=990dd674&sni=jp-nrt-1.blook.network&spx=/&type=tcp#🇯🇵 Япония 2
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@103.134.35.37:443/?insecure=1&sni=vpn-jp-016.fastervpn.world#🇯🇵 Япония 2
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-016.fastervpn.world:443?insecure=1&sni=vpn-jp-016.fastervpn.world#🇯🇵 Япония 3
+vless://414ba55d-c453-4f42-bae7-c88a89307308@jp-nrt-1.blook.network:443?flow=xtls-rprx-vision&fp=chrome&pbk=K64BDKK1ZIZis2nnBKhkhT-0Lo7iszkU9An2ydlIXQM&security=reality&sid=990dd674&sni=jp-nrt-1.blook.network&spx=/&type=tcp#🇯🇵 Япония 4

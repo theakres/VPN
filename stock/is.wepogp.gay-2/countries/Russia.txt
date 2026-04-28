@@ -1,2 +1,0 @@
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@46.243.211.17:8041?insecure=1&sni=market.yandex.ru#🇷🇺 Россия 1
-vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?security=tls&encryption=none&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision#🇷🇺 Россия 2
