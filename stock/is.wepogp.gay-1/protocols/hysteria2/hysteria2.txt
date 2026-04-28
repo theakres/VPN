@@ -1,5 +1,0 @@
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@103.134.35.37:443/?insecure=1&sni=vpn-jp-016.fastervpn.world#🇯🇵 Япония 1
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-016.fastervpn.world:443?insecure=1&sni=vpn-jp-016.fastervpn.world#🇯🇵 Япония 2
-hysteria2://3286b74d-a633-401f-8e22-6e8e61c5f1d9@45.192.195.52:5555?headerType=none&encryption=none&alpn=h3&insecure=1#🇭🇰 Гонконг
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@46.243.211.17:8041?insecure=1&sni=market.yandex.ru#🇷🇺 Россия
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443?security=tls&insecure=1&sni=vpn-tw-001.fastervpn.world#🇹🇼 Тайвань

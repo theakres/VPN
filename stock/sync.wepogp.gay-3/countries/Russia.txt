@@ -1,1 +1,0 @@
-vless://bcb1d557-85e4-4dc2-b051-3dfb0defea0a@147.45.44.126:8443?encryption=none&type=grpc&security=reality&sni=m.vk.com&pbk=G_RqCTuul0T90d2vSlUqtrm1mZnfN1kKq5h22TLEzko&sid=dd98aa&fp=chrome#🇷🇺 Россия

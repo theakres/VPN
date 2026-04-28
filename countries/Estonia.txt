@@ -1,2 +1,1 @@
-vless://ba3778db-bd1d-4b84-94e8-f10551d15514@estonia.denditop.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=estonia.denditop.site&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&type=tcp#🇪🇪 Эстония 1
-vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@95.85.229.185:8443?encryption=none&security=reality&type=tcp&headerType=none&sni=eh.vk.com&fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6#🇪🇪 Эстония 2
+vless://ba3778db-bd1d-4b84-94e8-f10551d15514@estonia.denditop.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=estonia.denditop.site&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&type=tcp#🇪🇪 Эстония
