@@ -1,4 +1,2 @@
-vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@185.112.59.40:5443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&fp=chrome#🇳🇱 Нидерланды 1
-vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@185.112.59.149:5443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&fp=chrome#🇳🇱 Нидерланды 2
-vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@nl-2.bexum.fun:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl-2.bexum.fun&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=68abb912e89c95bd&fp=randomized#🇳🇱 Нидерланды 3
-vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@nl-3.bexum.fun:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=nl-3.bexum.fun#🇳🇱 Нидерланды 4
+vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@150.241.92.189:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=steel.tokervpn.ru&pbk=AFejAxl-6RGMmxYedpX2nwABAAEB5IpsecwB6xp8RhI&sid=6ba85179e30d4fc2&fp=chrome#🇳🇱 Нидерланды 1
+vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@193.233.88.160:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=steel.tokervpn.ru&pbk=wLlvjRvLNOb5HOyffFJ_b5NDwehx90CZBchIWbcu904&fp=chrome#🇳🇱 Нидерланды 2

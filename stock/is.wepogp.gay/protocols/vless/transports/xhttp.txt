@@ -1,1 +1,11 @@
-vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@nl-bex-1.bexum.fun:443?encryption=none&type=xhttp&security=reality&sni=nl-bex-1.bexum.fun&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&fp=randomized&path=/&host=nl-bex-1.bexum.fun&mode=auto#🇩🇪 Германия
+vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@am.softupdatecenter.com:443?encryption=none&type=xhttp&security=tls&sni=am.softupdatecenter.com&path=/xhttp-universal/&host=am.softupdatecenter.com&mode=auto#🇦🇲 Армения 1
+vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@himki.tokervpn.ru:443?encryption=none&type=xhttp&security=tls&sni=himki.tokervpn.ru&path=/xhttp-universal/&host=himki.tokervpn.ru&mode=auto#🇦🇲 Армения 2
+vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@am.softupdatecenter.com:8443?encryption=none&type=xhttp&security=tls&sni=am.softupdatecenter.com&path=/xhttp-universal/&mode=stream-one#🇦🇲 Армения 3
+vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@kikolak.tokervpn.ru:443?encryption=none&type=xhttp&security=tls&sni=kikolak.tokervpn.ru&path=/xhttp-universal/&host=kikolak.tokervpn.ru&mode=auto#🇵🇱 Польша 1
+vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@sila.softupdatecenter.com:443?encryption=none&type=xhttp&security=tls&sni=sila.softupdatecenter.com&path=/xhttp-universal/&host=sila.softupdatecenter.com&mode=auto#🇵🇱 Польша 2
+vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@proxy.tokervpn.ru:8443?encryption=none&type=xhttp&security=tls&sni=proxy.tokervpn.ru&path=/xhttp-universal/&mode=stream-one#🇺🇸 США 1
+vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@vova.tokervpn.ru:8443?encryption=none&type=xhttp&security=tls&sni=vova.tokervpn.ru&path=/xhttp-universal/&mode=stream-one#🇺🇸 США 2
+vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@tiktok.tokervpn.ru:443?encryption=none&type=xhttp&security=tls&sni=tiktok.tokervpn.ru&path=/xhttp-universal/&host=tiktok.tokervpn.ru&mode=auto#🇧🇪 Бельгия
+vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@sin01.tokervpn.ru:443?encryption=none&type=xhttp&security=tls&sni=sin01.tokervpn.ru&path=/xhttp-universal/&host=sin01.tokervpn.ru&mode=auto#🇸🇬 Сингапур
+vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@fta.tokervpn.ru:8443?encryption=none&type=xhttp&security=reality&sni=tokermod.ru&pbk=KW23a9A86rHbgHUJLm3C-rzv94MkBlPPN7XBbrbX_hc&sid=6ba85179e30d4fc2&fp=chrome&path=/xhttp-18575135220/&mode=auto#🇫🇮 Финляндия
+vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@teofrance.softupdatecenter.com:443?encryption=none&type=xhttp&security=tls&sni=teofrance.softupdatecenter.com&path=/xhttp-universal/&host=teofrance.softupdatecenter.com&mode=auto#🇫🇷 Франция

@@ -1,7 +1,2 @@
-vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@178.250.243.132:666?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=3e-FjUV-nyaKq8pAvJ5jGa5gZMIK6_bN-xwijYlRbwM&sid=e5fa9569c4d0cb5e&fp=chrome#🇵🇱 Польша 1
-vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@178.250.242.248:666?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=3e-FjUV-nyaKq8pAvJ5jGa5gZMIK6_bN-xwijYlRbwM&sid=e5fa9569c4d0cb5e&fp=chrome#🇵🇱 Польша 2
-vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@178.250.242.249:666?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=3e-FjUV-nyaKq8pAvJ5jGa5gZMIK6_bN-xwijYlRbwM&sid=e5fa9569c4d0cb5e&fp=chrome#🇵🇱 Польша 3
-vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@178.250.242.250:666?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=3e-FjUV-nyaKq8pAvJ5jGa5gZMIK6_bN-xwijYlRbwM&sid=e5fa9569c4d0cb5e&fp=chrome#🇵🇱 Польша 4
-vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@poland-1.bexum.fun:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=poland-1.bexum.fun&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=5dd747e98058584b&fp=randomized#🇵🇱 Польша 5
-vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@poland-2.bexum.fun:5443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=poland-2.bexum.fun#🇵🇱 Польша 6
-vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@h2n.herumhas.shop:9443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=h2n.herumhas.shop#🇵🇱 Польша 7
+vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@kikolak.tokervpn.ru:443?encryption=none&type=xhttp&security=tls&sni=kikolak.tokervpn.ru&path=/xhttp-universal/&host=kikolak.tokervpn.ru&mode=auto#🇵🇱 Польша 1
+vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@sila.softupdatecenter.com:443?encryption=none&type=xhttp&security=tls&sni=sila.softupdatecenter.com&path=/xhttp-universal/&host=sila.softupdatecenter.com&mode=auto#🇵🇱 Польша 2

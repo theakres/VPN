@@ -1,4 +1,4 @@
-trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?sni=HL-FREEDOM-1.UNDEF.NETWORK&host=hl-freedom-1.undef.network&security=tls&type=ws&path=/f2fc2a1f#🇳🇱 Нидерланды 1
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@nlety.ksnodes.net:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=nlety.ksnodes.net&alpn=http/1.1,h2#🇳🇱 Нидерланды 2
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@nlety.ksnodes.net:443?type=tcp&security=tls&sni=nlety.ksnodes.net&fp=chrome&flow=xtls-rprx-vision-udp443#🇳🇱 Нидерланды 3
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@nlety.ksnodes.net:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision-udp443#🇳🇱 Нидерланды 4
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@185.112.59.40:5443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&fp=chrome#🇳🇱 Нидерланды 1
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@185.112.59.149:5443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&fp=chrome#🇳🇱 Нидерланды 2
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@nl-2.bexum.fun:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl-2.bexum.fun&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=68abb912e89c95bd&fp=randomized#🇳🇱 Нидерланды 3
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@nl-3.bexum.fun:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=nl-3.bexum.fun#🇳🇱 Нидерланды 4

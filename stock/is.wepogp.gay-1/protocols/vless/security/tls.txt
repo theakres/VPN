@@ -1,10 +1,9 @@
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@199.119.137.77:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇺🇸 США 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@193.124.24.213:8443?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇺🇸 США 2
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@193.124.24.213:8443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#🇺🇸 США 3
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@193.233.87.9:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇺🇸 США 4
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@nlety.ksnodes.net:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=nlety.ksnodes.net&alpn=http/1.1,h2#🇳🇱 Нидерланды 1
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@nlety.ksnodes.net:443?type=tcp&security=tls&sni=nlety.ksnodes.net&fp=chrome&flow=xtls-rprx-vision-udp443#🇳🇱 Нидерланды 2
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@nlety.ksnodes.net:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision-udp443#🇳🇱 Нидерланды 3
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos2.ksnodes.net:443?security=tls&type=tcp&alpn=http/1.1,h2&sni=ukos2.ksnodes.net&fp=chrome&flow=xtls-rprx-vision#🇬🇧 Великобритания 1
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos2.ksnodes.net:443?type=tcp&security=tls&sni=ukos2.ksnodes.net&flow=xtls-rprx-vision#🇬🇧 Великобритания 2
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@trtc.ksnodes.net:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=trtc.ksnodes.net&alpn=http/1.1,h2#🇹🇷 Турция
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@bero-1.bexum.fun:9443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=bero-1.bexum.fun#🇩🇪 Германия 1
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@bero-2.bexum.fun:9443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=bero-2.bexum.fun#🇩🇪 Германия 2
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@bero-3.bexum.fun:9443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=bero-3.bexum.fun#🇩🇪 Германия 3
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@berocd.herumhas.shop:9443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=berocd.herumhas.shop#🇩🇪 Германия 4
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@poland-2.bexum.fun:5443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=poland-2.bexum.fun#🇵🇱 Польша 1
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@h2n.herumhas.shop:9443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=h2n.herumhas.shop#🇵🇱 Польша 2
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@nl-3.bexum.fun:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=nl-3.bexum.fun#🇳🇱 Нидерланды
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@dnb.herumhas.shop:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=dnb.herumhas.shop#🇷🇺 Россия
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@db.herumhas.shop:8443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=db.herumhas.shop#🇫🇮 Финляндия
