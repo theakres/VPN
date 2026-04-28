@@ -1,0 +1,10 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdExWOXpKZDFyQ2dvRFFKY3llR0tSenNHRlBnLU5ZYg==@bexum.fun:9999#🇩🇪 Германия 1
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@de-bex-1.bexum.fun:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de-bex-1.bexum.fun&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=68abb912e89c95bd&fp=randomized#🇩🇪 Германия 2
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@nl-bex-1.bexum.fun:443?encryption=none&type=xhttp&security=reality&sni=nl-bex-1.bexum.fun&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&fp=randomized&path=/&host=nl-bex-1.bexum.fun&mode=auto#🇩🇪 Германия 3
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@de1.bexum.fun:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=google.com&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&sid=e5fa9569c4d0cb5e&fp=chrome#🇩🇪 Германия 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdExWOXpKZDFyQ2dvRFFKY3llR0tSenNHRlBnLU5ZYg==@87.120.187.107:9999#🇩🇪 Германия 5
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@frankfurt-1.bexum.fun:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=google.com&pbk=0uy2GYk3BTB6et-hka0Ov_mzrnYWTZFFOVYE0DWEW0w&sid=e5fa9569c4d0cb5e&fp=chrome#🇩🇪 Германия 6
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@bero-1.bexum.fun:9443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=bero-1.bexum.fun#🇩🇪 Германия 7
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@bero-2.bexum.fun:9443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=bero-2.bexum.fun#🇩🇪 Германия 8
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@bero-3.bexum.fun:9443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=bero-3.bexum.fun#🇩🇪 Германия 9
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@berocd.herumhas.shop:9443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=berocd.herumhas.shop#🇩🇪 Германия 10

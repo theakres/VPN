@@ -1,1 +1,2 @@
-vless://ba3778db-bd1d-4b84-94e8-f10551d15514@179.43.152.210:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sw.denditop.site&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&type=tcp#🇨🇭 Швейцария
+vless://ba3778db-bd1d-4b84-94e8-f10551d15514@179.43.152.210:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sw.denditop.site&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&type=tcp#🇨🇭 Швейцария 1
+vless://bafc879b-eeef-02f4-ac47-8ec6c23335e9@auto.api-rutube.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&fp=chrome#🇨🇭 Швейцария 2

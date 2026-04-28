@@ -1,0 +1,2 @@
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@us-1.bexum.fun:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=us-1.bexum.fun&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=4270b1ce3783864e&fp=randomized#🇺🇸 США 1
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@nl1.bexum.fun:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl1.bexum.fun&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=f5781bd8af7dbaf6&fp=randomized#🇺🇸 США 2
