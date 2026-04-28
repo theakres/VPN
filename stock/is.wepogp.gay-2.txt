@@ -16,7 +16,7 @@ vless://1ad02168-e517-450b-9613-67f82ebb6239@89.169.131.213:8443?security=realit
 vless://9939d06b-3494-45f3-8957-1caf733d3e77@89.169.182.125:8443?security=reality&encryption=none&type=xhttp&path=/staging&mode=packet-up&sni=www.microsoft.com&fp=chrome&pbk=y8Le2inwbpI9KFDwn8hDMvMpO3qhVEx-vEoG2oZeano&sid=fe358e25b2e5781e#🇷🇺 Обход №6 ⚡?serverDescription=0J7QsdGF0L7QtCBMVEU=
 vless://1a0ee0a8-6343-46b3-9b3f-5be7be0cc8cb@89.169.135.49:8443?security=reality&encryption=none&type=xhttp&path=/staging&mode=packet-up&sni=www.microsoft.com&fp=chrome&pbk=CRsJ1J0v-5iNIkFtjqQvXGxK6kjDqmNLV0HyLAJxAlg&sid=5befa722fddf4658#🇷🇺 Обход №7 ⚡?serverDescription=0J7QsdGF0L7QtCBMVEU=
 vless://5240beb7-9d75-4fc7-b2cb-72b253b80b19@89.169.170.200:8443?security=reality&encryption=none&type=xhttp&path=/staging&mode=packet-up&sni=www.microsoft.com&fp=chrome&pbk=urrvPU4SQieppjyoNkOq4T_sICV76uaRWWEPaKA2DgY&sid=136c2f6cb6d6b745#🇷🇺 Обход №8 ⚡?serverDescription=0J7QsdGF0L7QtCBMVEU=
-vless://0.0.0.0@0.0.0.0:1?security=none&type=tcp#🔄 Обновляются автоматически · 4 ч 8 мин назад?serverDescription=IA==
+vless://0.0.0.0@0.0.0.0:1?security=none&type=tcp#🔄 Обновляются автоматически · 6 ч 17 мин назад?serverDescription=IA==
 vless://0.0.0.0@0.0.0.0:1?security=none&type=tcp#━━━ 🌐 Доп. серверы · 30 ━━━?serverDescription=IA==
 vless://75356919-6ece-455c-ba7a-9f042a60d2c5@46.243.211.17:7000?encryption=none&type=ws&security=none&path=/stream#🇷🇺 Россия #1?serverDescription=OTIgbXMgwrcgMTExLjYgTWJwcw==
 hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@46.243.211.17:8041?insecure=1&sni=market.yandex.ru#🇷🇺 Россия #2?serverDescription=OTIgbXMgwrcgMTA1LjcgTWJwcw==
