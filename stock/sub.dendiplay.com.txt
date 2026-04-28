@@ -1,2 +1,2 @@
-vless://9c2cdcef-86e8-4a25-a87b-1a75234c9035@0.0.0.0:1?encryption=none&type=tcp&security=none#🔴 Лимит трафика
-vless://4faac061-3219-431b-ba45-59679f8118d7@0.0.0.0:1?encryption=none&type=tcp&security=none#👨@diamond_podderjka
+vless://3d1c30d1-cd23-4653-a810-8720682d908b@0.0.0.0:1?encryption=none&type=tcp&security=none#🔴 Лимит трафика
+vless://f6dd6283-d283-47e5-9785-6f1202b958d7@0.0.0.0:1?encryption=none&type=tcp&security=none#👨@diamond_podderjka

@@ -1,6 +1,4 @@
 vless://7b2c01bb-f444-0001-ad6c-6c0238bcf5c8@pro-de.emrata.top:753?encryption=none&security=reality&sni=www.amd.com&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&spx=/&type=tcp#🇺🇸 США 1
 vless://7b2c01bb-f444-41a4-ad6c-6c0238bcf5c8@pro-jp.emrata.top:753?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=firefox&sni=www.amd.com&spx=/#🇺🇸 США 2
-vless://7b2c01bb-f444-41a4-ad6c-6c0238bcf5c8@pro-us.emrata.top:753?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&pbk=uY-4wMHFY1pD8SIwHBfcxVRdolB7NAJIWIbYjaG8iw0&fp=chrome&sni=www.amd.com&spx=/#🇺🇸 США 3
-vless://7b2c01bb-f444-41a4-ad6c-6c0238bcf5c8@pro-tr.emrata.top:8443?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&fp=chrome&sni=www.apple.com&spx=/#🇺🇸 США 4
-vless://7b2c01bb-f444-41a4-ad6c-6c0238bcf5c8@pro-us.emrata.top:753?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&type=tcp&sni=www.amd.com&pbk=uY-4wMHFY1pD8SIwHBfcxVRdolB7NAJIWIbYjaG8iw0#🇺🇸 США 5
-vless://ba3778db-bd1d-4b84-94e8-f10551d15514@84.32.48.11:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uss.denditop.site&fp=random&pbk=ycjPT1HxLy0b9oRp6tW4LBT6RZ6bAk-OkNqBNyhOyEw&sid=fd197bbaca6415b0&type=tcp#🇺🇸 США 6
+vless://7b2c01bb-f444-41a4-ad6c-6c0238bcf5c8@pro-tr.emrata.top:8443?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&fp=chrome&sni=www.apple.com&spx=/#🇺🇸 США 3
+vless://ba3778db-bd1d-4b84-94e8-f10551d15514@84.32.48.11:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uss.denditop.site&fp=random&pbk=ycjPT1HxLy0b9oRp6tW4LBT6RZ6bAk-OkNqBNyhOyEw&sid=fd197bbaca6415b0&type=tcp#🇺🇸 США 4
