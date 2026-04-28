@@ -1,2 +1,1 @@
-trojan://BmVb9TGoytYhaLnZhkrVCtx8khbQFTA_@kz-1.bexum.fun:5443?security=tls&type=tcp#🇰🇿 Казахстан
-trojan://BmVb9TGoytYhaLnZhkrVCtx8khbQFTA_@ch-2.bexum.fun:443?security=tls&type=tcp#🇨🇿 Чехия
+trojan://strong-secret-pass-777@103.231.73.181:4443?security=tls&allowInsecure=1&fp=chrome&type=tcp#🇱🇻 Латвия

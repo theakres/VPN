@@ -1,5 +1,4 @@
-trojan://BmVb9TGoytYhaLnZhkrVCtx8khbQFTA_@kz-1.bexum.fun:5443?security=tls&type=tcp&sni=kz-1.bexum.fun#🇰🇿 Казахстан 1
-trojan://BmVb9TGoytYhaLnZhkrVCtx8khbQFTA_@kz-1.bexum.fun:5443?security=tls&type=tcp#🇰🇿 Казахстан 2
-trojan://BmVb9TGoytYhaLnZhkrVCtx8khbQFTA_@ch-2.bexum.fun:443?security=tls&type=tcp&sni=ch-2.bexum.fun#🇨🇿 Чехия 1
-trojan://BmVb9TGoytYhaLnZhkrVCtx8khbQFTA_@ch-2.bexum.fun:443?security=tls&type=tcp#🇨🇿 Чехия 2
+trojan://BmVb9TGoytYhaLnZhkrVCtx8khbQFTA_@kz-1.bexum.fun:5443?security=tls&type=tcp&sni=kz-1.bexum.fun#🇰🇿 Казахстан
+trojan://strong-secret-pass-777@103.231.73.181:4443?security=tls&allowInsecure=1&fp=chrome&type=tcp#🇱🇻 Латвия
 trojan://BmVb9TGoytYhaLnZhkrVCtx8khbQFTA_@reg.herumhas.shop:666?security=reality&type=tcp#🇷🇺 Россия
+trojan://BmVb9TGoytYhaLnZhkrVCtx8khbQFTA_@ch-2.bexum.fun:443?security=tls&type=tcp&sni=ch-2.bexum.fun#🇨🇿 Чехия

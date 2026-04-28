@@ -1,2 +1,0 @@
-trojan://BmVb9TGoytYhaLnZhkrVCtx8khbQFTA_@kz-1.bexum.fun:5443?security=tls&type=tcp#🇰🇿 Казахстан 1
-vless://19ef3d02-1c55-4fec-9794-6def8cbac396@2.56.177.219:443?encryption=none&flow=xtls-rprx-vision&fp=random&headerType=none&pbk=50YV33F0uOrBN7ugFb8LFnSoe3FC305uGBOf2Hpn3A0&security=reality&sid=a1b4e8d2&sni=www.nur.kz&type=tcp#🇰🇿 Казахстан 2
