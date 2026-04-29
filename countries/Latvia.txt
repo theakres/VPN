@@ -1,3 +1,2 @@
 vless://25a96005-1df5-4fc9-8ca7-4c8831ada3b5@lva.tunnelguard.ru:443?security=tls&type=xhttp&headerType=&path=/&host=lva.tunnelguard.ru&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&sni=lva.tunnelguard.ru&fp=chrome&alpn=h2,http/1.1#🇱🇻 Латвия 1
 vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@lv89.mechvpn.online:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇱🇻 Латвия 2
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.23.219.205:8443?encryption=none&security=tls&sni=sni.latonyamadeline.ndjp.net&insecure=0&allowInsecure=0&type=ws&host=sni.latonyamadeline.ndjp.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳#🇱🇻 Латвия 3

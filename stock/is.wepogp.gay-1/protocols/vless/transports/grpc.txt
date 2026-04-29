@@ -1,1 +1,2 @@
-vless://0bf0ab36-63a2-4d63-84b7-68c8cb595e34@195.238.126.221:2083?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=goya.rutube.ru&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#🇷🇺 Россия
+vless://0bf0ab36-63a2-4d63-84b7-68c8cb595e34@195.238.126.229:2083?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=goya.rutube.ru&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#🇷🇺 Россия 1
+vless://0bf0ab36-63a2-4d63-84b7-68c8cb595e34@195.238.126.224:2083?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=goya.rutube.ru&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#🇷🇺 Россия 2

@@ -1,2 +1,2 @@
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.209:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇨🇦 Канада 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.201:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇨🇦 Канада 2
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.209:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇨🇦 Канада 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.209:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇨🇦 Канада 2
