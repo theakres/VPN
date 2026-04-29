@@ -1,2 +1,0 @@
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@130.78.219.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=ukos2.ksnodes.net&alpn=http/1.1,h2#🇬🇧 Великобритания 1
-vless://cecfcc9e-64c0-412d-b3fe-a494f2c07865@107.181.134.250:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=chat.deepseek.com&fp=chrome&security=reality&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&packetEncoding=xudp#🇬🇧 Великобритания 2

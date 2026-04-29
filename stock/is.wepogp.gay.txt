@@ -27,4 +27,3 @@ vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@83.147.18.149:443?encryption=none&t
 vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@proxy.tokervpn.ru:8443?encryption=none&type=xhttp&security=tls&sni=proxy.tokervpn.ru&path=/xhttp-universal/&mode=stream-one#🇺🇸 Телеграм, WhatsApp, Insta, YouTube [H3]
 vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@vova.tokervpn.ru:8443?encryption=none&type=xhttp&security=tls&sni=vova.tokervpn.ru&path=/xhttp-universal/&mode=stream-one#🇺🇸 Roblox, TikTok, YouTube, Ds, GPT [H3]
 vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@am.softupdatecenter.com:8443?encryption=none&type=xhttp&security=tls&sni=am.softupdatecenter.com&path=/xhttp-universal/&mode=stream-one#🇦🇲 Armenia [H3]
-vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@are.tokervpn.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tokermod.ru&pbk=KW23a9A86rHbgHUJLm3C-rzv94MkBlPPN7XBbrbX_hc&sid=6ba85179e30d4fc2&fp=chrome#TEST RUSSIA

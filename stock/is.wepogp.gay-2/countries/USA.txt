@@ -1,4 +1,6 @@
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@199.119.137.78:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇺🇸 США 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@199.119.137.77:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇺🇸 США 2
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@193.46.217.233:8443?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇺🇸 США 3
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@199.119.137.78:2053?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#🇺🇸 США 4
+vless://0bf0ab36-63a2-4d63-84b7-68c8cb595e34@us.appav.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=qq&security=reality&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&packetEncoding=xudp#🇺🇸 США 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.207:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇺🇸 США 2
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.209:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇺🇸 США 3
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.209:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇺🇸 США 4
+vless://8e66502a-83ca-47d7-a3b5-a65daf457ecf@us.rush-server.com:443?security=reality&encryption=none&pbk=-3odEfg8iWnQ-DQ4xN7nKLu8NFgdAXhv02FhlTACs10&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=findmypackets.com&sid=93ae75024604f796#🇺🇸 США 5
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@24.109.36.190:8443?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇺🇸 США 6
