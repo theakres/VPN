@@ -1,0 +1,980 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AkresVPN — Свободный интернет</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,300;8..144,400;8..144,500;8..144,600;8..144,700&family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<style>/* styles moved to style.css */</style>
+</head>
+<body>
+
+<!-- LOADING -->
+<div class="loading-overlay" id="loadingOverlay">
+  <div class="spinner"></div>
+  <div class="loading-text">Загружаем конфигурацию…</div>
+</div>
+
+<!-- SNACKBAR -->
+<div class="snackbar" id="snackbar">
+  <svg viewBox="0 0 24 24"><path d="M9 16.17 4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+  Скопировано в буфер обмена
+</div>
+
+<!-- APP BAR -->
+<header class="app-bar" id="appBar">
+  <div class="app-bar__logo">
+    <svg viewBox="0 0 24 24"><path d="M12 1C8.676 1 6 3.676 6 7v1H4v14h16V8h-2V7c0-3.324-2.676-6-6-6zm0 2c2.276 0 4 1.724 4 4v1H8V7c0-2.276 1.724-4 4-4zm0 9c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2z"/></svg>
+  </div>
+  <div class="app-bar__title">AkresVPN</div>
+  <div class="app-bar__actions">
+    <button class="icon-btn" title="Telegram канал" onclick="window.location.href='tg://resolve?domain=AkresMC'">
+      <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8-1.7 8.02c-.12.58-.48.72-.96.45l-2.67-1.96-1.28 1.24c-.14.14-.28.18-.56.18l.2-2.72 4.96-4.48c.22-.2-.05-.3-.34-.1l-6.14 3.86-2.63-.82c-.58-.18-.58-.58.12-.86l10.26-3.96c.46-.18.86.1.74.85z"/></svg>
+    </button>
+    <button class="icon-btn" title="Обновить" onclick="loadReadme()">
+      <svg viewBox="0 0 24 24"><path d="M17.65 6.35C16.2 4.9 14.21 4 12 4c-4.42 0-7.99 3.58-7.99 8s3.57 8 7.99 8c3.73 0 6.84-2.55 7.73-6h-2.08c-.82 2.33-3.04 4-5.65 4-3.31 0-6-2.69-6-6s2.69-6 6-6c1.66 0 3.14.69 4.22 1.78L13 11h7V4l-2.35 2.35z"/></svg>
+    </button>
+  </div>
+</header>
+
+<!-- NAV TABS -->
+<nav class="nav-tabs" id="navTabs">
+  <button class="nav-tab active" data-section="home" onclick="switchSection('home', this)">
+    <svg viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>
+    Главная
+  </button>
+  <button class="nav-tab" data-section="protocols" onclick="switchSection('protocols', this)">
+    <svg viewBox="0 0 24 24"><path d="M17 12h-5v5h5v-5zM16 1v2H8V1H6v2H5c-1.11 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2h-1V1h-2zm3 18H5V8h14v11z"/></svg>
+    Конфиги
+  </button>
+  <button class="nav-tab" data-section="countries" onclick="switchSection('countries', this)">
+    <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>
+    Страны
+  </button>
+  <button class="nav-tab" data-section="guide" onclick="switchSection('guide', this)">
+    <svg viewBox="0 0 24 24"><path d="M11 7h2v2h-2zm0 4h2v6h-2zm1-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg>
+    Подключение
+  </button>
+  <button class="nav-tab" data-section="about" onclick="switchSection('about', this)">
+    <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/></svg>
+    О проекте
+  </button>
+</nav>
+
+<main>
+
+  <!-- ═══ SECTION: HOME ═══ -->
+  <section class="section active" id="section-home">
+
+    <div class="hero">
+      <div class="hero__badge">Обновляется автоматически</div>
+      <h1 class="hero__title">Akres<span>VPN</span></h1>
+      <p class="hero__subtitle">Бесплатные VPN-конфиги без регистрации. Работает в России и других странах с цензурой.</p>
+      <div class="hero__stats" id="heroStats">
+        <div class="stat-chip">
+          <div class="stat-chip__value" id="statTotal">—</div>
+          <div class="stat-chip__label">Всего конфигов</div>
+        </div>
+        <div class="stat-chip">
+          <div class="stat-chip__value" id="statProtos">—</div>
+          <div class="stat-chip__label">Протоколов</div>
+        </div>
+        <div class="stat-chip">
+          <div class="stat-chip__value" id="statCountries">—</div>
+          <div class="stat-chip__label">Стран</div>
+        </div>
+      </div>
+      <div class="hero__actions">
+        <button class="btn-filled" onclick="copyAll()">
+          <svg viewBox="0 0 24 24"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg>
+          Скопировать все
+        </button>
+        <button class="btn-tonal" onclick="switchSection('guide', document.querySelector('[data-section=guide]'))">
+          <svg viewBox="0 0 24 24"><path d="M11 7h2v2h-2zm0 4h2v6h-2zm1-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg>
+          Как подключить
+        </button>
+        <a class="btn-outlined" href="tg://resolve?domain=AkresMC">
+          <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8-1.7 8.02c-.12.58-.48.72-.96.45l-2.67-1.96-1.28 1.24c-.14.14-.28.18-.56.18l.2-2.72 4.96-4.48c.22-.2-.05-.3-.34-.1l-6.14 3.86-2.63-.82c-.58-.18-.58-.58.12-.86l10.26-3.96c.46-.18.86.1.74.85z"/></svg>
+          Telegram канал
+        </a>
+      </div>
+    </div>
+
+    <!-- Quick protocols overview -->
+    <div class="section-title">Доступные протоколы</div>
+    <p class="section-subtitle">Конфиги распределены по протоколам и странам. Нажмите чтобы скопировать.</p>
+    <div class="grid-2" id="homeProtoCards"></div>
+
+    <div class="divider"></div>
+
+    <!-- Updated info -->
+    <div class="updated-label" id="updatedLabel">
+      <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm.5 5v5.25l4.5 2.67-.75 1.23L11 13V7h1.5z"/></svg>
+      <span id="updatedText">Загрузка...</span>
+    </div>
+
+  </section>
+
+  <!-- ═══ SECTION: PROTOCOLS ═══ -->
+  <section class="section" id="section-protocols">
+    <div class="section-title">Все протоколы</div>
+    <p class="section-subtitle">Нажмите на элемент или кнопку копирования чтобы скопировать ссылку на конфиг.</p>
+    <div id="protocolsList"></div>
+  </section>
+
+  <!-- ═══ SECTION: COUNTRIES ═══ -->
+  <section class="section" id="section-countries">
+    <div class="section-title">Конфиги по странам</div>
+    <p class="section-subtitle" id="countriesSubtitle">Загрузка...</p>
+    <div class="card" style="margin-top:0">
+      <div class="card__content" style="padding-top:16px">
+        <div id="countriesList"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ SECTION: GUIDE ═══ -->
+  <section class="section" id="section-guide">
+    <div class="section-title">Как подключиться</div>
+    <p class="section-subtitle">Выберите вашу платформу и следуйте инструкции.</p>
+
+    <div class="device-tabs">
+      <button class="device-tab active" data-device="android" onclick="switchDevice('android', this)">
+        <svg viewBox="0 0 24 24"><path d="M17.523 15.341c.374 0 .677.303.677.677s-.303.677-.677.677-.677-.303-.677-.677.303-.677.677-.677m-11.046 0c.374 0 .677.303.677.677s-.303.677-.677.677-.677-.303-.677-.677.303-.677.677-.677M17.705 9H6.295A5.3 5.3 0 0 0 1 14.295v3.41C1 19.02 1.98 20 3.295 20h17.41C21.02 20 22 19.02 22 17.705v-3.41A5.3 5.3 0 0 0 17.705 9M8.5 5.5c0-.276.224-.5.5-.5s.5.224.5.5-.224.5-.5.5-.5-.224-.5-.5m6 0c0-.276.224-.5.5-.5s.5.224.5.5-.224.5-.5.5-.5-.224-.5-.5M15.657 2.343A7.97 7.97 0 0 0 12 1.5a7.97 7.97 0 0 0-3.657.843l1.16 1.16A6 6 0 0 1 12 3a6 6 0 0 1 2.497.503l1.16-1.16z"/></svg>
+        Android
+      </button>
+      <button class="device-tab" data-device="ios" onclick="switchDevice('ios', this)">
+        <svg viewBox="0 0 24 24"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
+        iOS / iPadOS
+      </button>
+      <button class="device-tab" data-device="windows" onclick="switchDevice('windows', this)">
+        <svg viewBox="0 0 24 24"><path d="M0 3.449L9.75 2.1v9.451H0m10.949-9.602L24 0v11.4H10.949M0 12.6h9.75v9.451L0 20.699M10.949 12.6H24V24l-12.9-1.801"/></svg>
+        Windows
+      </button>
+      <button class="device-tab" data-device="macos" onclick="switchDevice('macos', this)">
+        <svg viewBox="0 0 24 24"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
+        macOS
+      </button>
+      <button class="device-tab" data-device="linux" onclick="switchDevice('linux', this)">
+        <svg viewBox="0 0 24 24"><path d="M12.504 0c-.155 0-.315.008-.48.021-4.226.333-3.105 4.807-3.17 6.298-.076 1.092-.3 1.953-1.05 3.02-.885 1.051-2.127 2.75-2.716 4.521-.278.832-.41 1.684-.287 2.489a.424.424 0 0 0-.11.135c-.26.268-.45.6-.663.839-.199.199-.485.267-.797.4-.313.136-.658.269-.864.68-.09.189-.136.39-.132.59.01.195.065.391.13.559.065.168.145.33.224.498.078.168.167.337.239.5a.838.838 0 0 1 .062.264c-.016.204-.056.403-.126.584-.067.18-.154.353-.217.528-.113.316-.168.637-.01.931.16.295.47.47.82.567a2.9 2.9 0 0 0 .72.075 3.1 3.1 0 0 0 .486-.037c.17-.028.33-.073.485-.13.303-.115.58-.28.817-.49.237-.21.438-.46.617-.72.362-.525.64-1.12.86-1.726.22-.604.378-1.228.469-1.855.087-.625.11-1.264.022-1.896a4.69 4.69 0 0 0-.28-1.158 1.13 1.13 0 0 0-.089-.24c.106-.125.196-.244.293-.368l.135-.177c.237-.294.464-.604.678-.924.86-1.302 1.449-2.832 1.54-4.465a6.7 6.7 0 0 0-.13-1.882c-.048-.215-.11-.424-.177-.63-.07-.2-.14-.399-.213-.593a7.45 7.45 0 0 0-.38-.85C14.032.81 13.283.24 12.504 0M8.59 12.56c-.246 0-.493.02-.733.073a3.55 3.55 0 0 0-.666.231 2.79 2.79 0 0 0-.558.386 2.37 2.37 0 0 0-.405.512c-.1.186-.167.388-.19.6a1.8 1.8 0 0 0 .067.7c.08.232.204.46.356.659.154.2.34.38.548.527.21.148.44.266.684.345.243.08.5.12.756.118.257-.003.51-.046.753-.125.24-.079.467-.193.673-.338.207-.146.39-.323.542-.524a2.4 2.4 0 0 0 .34-.656 1.8 1.8 0 0 0 .056-.69 1.84 1.84 0 0 0-.198-.64 2.44 2.44 0 0 0-.42-.515 2.73 2.73 0 0 0-.573-.37 3.48 3.48 0 0 0-.66-.208 3.53 3.53 0 0 0-.718-.085"/></svg>
+        Linux
+      </button>
+      <button class="device-tab" data-device="router" onclick="switchDevice('router', this)">
+        <svg viewBox="0 0 24 24"><path d="M1 20v-2.5q0-.625.438-1.062T2.5 16h1V9h-1q-.425 0-.712-.288T1.5 8q0-.425.288-.712T2.5 7h19q.425 0 .713.288T22.5 8q0 .425-.288.712T21.5 9h-1v7h1q.625 0 1.063.438T23 17.5V20h-2v-.5H3v.5H1zm4.5-4h13V9h-13v7zm6.5-1q-.425 0-.712-.288T11 14q0-.425.288-.712T12 13q.425 0 .713.288T13 14q0 .425-.288.712T12 15zm-3 0q-.425 0-.712-.288T8 14q0-.425.288-.712T9 13q.425 0 .713.288T10 14q0 .425-.288.712T9 15zm6 0q-.425 0-.712-.288T14 14q0-.425.288-.712T15 13q.425 0 .713.288T16 14q0 .425-.288.712T15 15z"/></svg>
+        Роутер
+      </button>
+    </div>
+
+    <!-- Android -->
+    <div class="guide-content active" id="guide-android">
+      <div class="client-card">
+        <div class="client-card__head">
+          <div class="client-icon">📱</div>
+          <div>
+            <div class="client-card__name">v2rayNG</div>
+            <div class="client-card__proto">Рекомендуется · Бесплатно</div>
+          </div>
+          <a href="https://github.com/2dust/v2rayNG/releases/latest" target="_blank" class="btn-tonal" style="margin-left:auto">Скачать</a>
+        </div>
+        <div class="proto-tags">
+          <span class="proto-tag proto-vless">VLESS</span>
+          <span class="proto-tag proto-trojan">Trojan</span>
+          <span class="proto-tag proto-ss">Shadowsocks</span>
+          <span class="proto-tag proto-hy2">Hysteria2</span>
+        </div>
+        <ul class="steps-list" style="margin-top:16px">
+          <li>Установите <a href="https://github.com/2dust/v2rayNG/releases/latest" target="_blank">v2rayNG</a> из GitHub или Google Play</li>
+          <li>Скопируйте конфиг (кнопка выше) или перейдите в раздел <b>Конфиги</b></li>
+          <li>В приложении нажмите <b>+</b> → <b>Import config from clipboard</b></li>
+          <li>Выберите сервер в списке → нажмите <b>треугольник ▶</b> внизу экрана</li>
+          <li>Разрешите VPN-соединение в системном запросе</li>
+          <li>Готово! Иконка ключа появится в шторке уведомлений</li>
+        </ul>
+      </div>
+      <div class="client-card">
+        <div class="client-card__head">
+          <div class="client-icon">📱</div>
+          <div>
+            <div class="client-card__name">NekoBox for Android</div>
+            <div class="client-card__proto">Альтернатива · Бесплатно</div>
+          </div>
+          <a href="https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest" target="_blank" class="btn-outlined" style="margin-left:auto">Скачать</a>
+        </div>
+        <div class="proto-tags">
+          <span class="proto-tag proto-vless">VLESS</span>
+          <span class="proto-tag proto-trojan">Trojan</span>
+          <span class="proto-tag proto-ss">Shadowsocks</span>
+          <span class="proto-tag proto-hy2">Hysteria2</span>
+        </div>
+        <ul class="steps-list" style="margin-top:16px">
+          <li>Скачайте <a href="https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest" target="_blank">NekoBox</a> (.apk) с GitHub</li>
+          <li>Скопируйте конфиг из раздела <b>Конфиги</b></li>
+          <li>В приложении: <b>⋮</b> → <b>Add profile from clipboard</b></li>
+          <li>Нажмите на сервер для подключения</li>
+        </ul>
+      </div>
+      <div class="client-card">
+        <div class="client-card__head">
+          <div class="client-icon">⚡</div>
+          <div>
+            <div class="client-card__name">Hiddify</div>
+            <div class="client-card__proto">Простой интерфейс · Бесплатно</div>
+          </div>
+          <a href="https://github.com/hiddify/hiddify-app/releases/latest" target="_blank" class="btn-outlined" style="margin-left:auto">Скачать</a>
+        </div>
+        <div class="proto-tags">
+          <span class="proto-tag proto-vless">VLESS</span>
+          <span class="proto-tag proto-hy2">Hysteria2</span>
+        </div>
+        <ul class="steps-list" style="margin-top:16px">
+          <li>Установите Hiddify из <a href="https://play.google.com/store/apps/details?id=app.hiddify.com" target="_blank">Google Play</a> или GitHub</li>
+          <li>Нажмите <b>+</b> → <b>Add from clipboard</b> после копирования конфига</li>
+          <li>Переключите тумблер для подключения</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- iOS -->
+    <div class="guide-content" id="guide-ios">
+      <div class="client-card">
+        <div class="client-card__head">
+          <div class="client-icon">🍎</div>
+          <div>
+            <div class="client-card__name">Streisand</div>
+            <div class="client-card__proto">Рекомендуется · Бесплатно</div>
+          </div>
+          <a href="https://apps.apple.com/app/streisand/id6450534064" target="_blank" class="btn-tonal" style="margin-left:auto">App Store</a>
+        </div>
+        <div class="proto-tags">
+          <span class="proto-tag proto-vless">VLESS</span>
+          <span class="proto-tag proto-trojan">Trojan</span>
+          <span class="proto-tag proto-ss">Shadowsocks</span>
+          <span class="proto-tag proto-hy2">Hysteria2</span>
+        </div>
+        <ul class="steps-list" style="margin-top:16px">
+          <li>Установите <a href="https://apps.apple.com/app/streisand/id6450534064" target="_blank">Streisand</a> из App Store</li>
+          <li>Скопируйте конфиг из раздела <b>Конфиги</b></li>
+          <li>В приложении нажмите <b>+</b> → <b>Из буфера обмена</b></li>
+          <li>Нажмите на сервер → <b>Подключить</b></li>
+          <li>Дайте разрешение на добавление VPN-конфигурации</li>
+        </ul>
+      </div>
+      <div class="client-card">
+        <div class="client-card__head">
+          <div class="client-icon">🌐</div>
+          <div>
+            <div class="client-card__name">Hiddify</div>
+            <div class="client-card__proto">Альтернатива · Бесплатно</div>
+          </div>
+          <a href="https://apps.apple.com/app/hiddify-proxy-vpn/id6596777532" target="_blank" class="btn-outlined" style="margin-left:auto">App Store</a>
+        </div>
+        <div class="proto-tags">
+          <span class="proto-tag proto-vless">VLESS</span>
+          <span class="proto-tag proto-hy2">Hysteria2</span>
+        </div>
+        <ul class="steps-list" style="margin-top:16px">
+          <li>Скачайте <a href="https://apps.apple.com/app/hiddify-proxy-vpn/id6596777532" target="_blank">Hiddify</a> из App Store</li>
+          <li>Добавьте конфиг через кнопку <b>+</b> → <b>Clipboard</b></li>
+          <li>Нажмите кнопку подключения</li>
+        </ul>
+      </div>
+      <div class="client-card">
+        <div class="client-card__head">
+          <div class="client-icon">🔑</div>
+          <div>
+            <div class="client-card__name">Shadowrocket</div>
+            <div class="client-card__proto">Платное ($2.99) · Мощное</div>
+          </div>
+          <a href="https://apps.apple.com/app/shadowrocket/id932747118" target="_blank" class="btn-outlined" style="margin-left:auto">App Store</a>
+        </div>
+        <div class="proto-tags">
+          <span class="proto-tag proto-vless">VLESS</span>
+          <span class="proto-tag proto-trojan">Trojan</span>
+          <span class="proto-tag proto-ss">Shadowsocks</span>
+        </div>
+        <ul class="steps-list" style="margin-top:16px">
+          <li>Купите и установите <a href="https://apps.apple.com/app/shadowrocket/id932747118" target="_blank">Shadowrocket</a> ($2.99)</li>
+          <li>Скопируйте конфиг → в приложении он добавится автоматически</li>
+          <li>Нажмите на переключатель подключения вверху</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Windows -->
+    <div class="guide-content" id="guide-windows">
+      <div class="client-card">
+        <div class="client-card__head">
+          <div class="client-icon">🪟</div>
+          <div>
+            <div class="client-card__name">Hiddify</div>
+            <div class="client-card__proto">Рекомендуется · Бесплатно</div>
+          </div>
+          <a href="https://github.com/hiddify/hiddify-app/releases/latest" target="_blank" class="btn-tonal" style="margin-left:auto">Скачать</a>
+        </div>
+        <div class="proto-tags">
+          <span class="proto-tag proto-vless">VLESS</span>
+          <span class="proto-tag proto-trojan">Trojan</span>
+          <span class="proto-tag proto-ss">Shadowsocks</span>
+          <span class="proto-tag proto-hy2">Hysteria2</span>
+        </div>
+        <ul class="steps-list" style="margin-top:16px">
+          <li>Скачайте <a href="https://github.com/hiddify/hiddify-app/releases/latest" target="_blank">Hiddify</a> (.exe или .msix) с GitHub</li>
+          <li>Установите и запустите</li>
+          <li>Нажмите <b>+</b> → <b>Add from clipboard</b> после копирования конфига</li>
+          <li>Включите VPN переключателем в главном окне</li>
+        </ul>
+      </div>
+      <div class="client-card">
+        <div class="client-card__head">
+          <div class="client-icon">⚙️</div>
+          <div>
+            <div class="client-card__name">v2rayN</div>
+            <div class="client-card__proto">Продвинутый · Бесплатно</div>
+          </div>
+          <a href="https://github.com/2dust/v2rayN/releases/latest" target="_blank" class="btn-outlined" style="margin-left:auto">Скачать</a>
+        </div>
+        <div class="proto-tags">
+          <span class="proto-tag proto-vless">VLESS</span>
+          <span class="proto-tag proto-trojan">Trojan</span>
+          <span class="proto-tag proto-ss">Shadowsocks</span>
+          <span class="proto-tag proto-hy2">Hysteria2</span>
+        </div>
+        <ul class="steps-list" style="margin-top:16px">
+          <li>Скачайте <a href="https://github.com/2dust/v2rayN/releases/latest" target="_blank">v2rayN</a> с GitHub (версия с core)</li>
+          <li>Скопируйте конфиг → в v2rayN: <b>Servers</b> → <b>Import bulk URL from clipboard</b></li>
+          <li>ПКМ по серверу → <b>Set as active server</b></li>
+          <li>В трее: <b>System proxy</b> → включить</li>
+        </ul>
+      </div>
+      <div class="client-card">
+        <div class="client-card__head">
+          <div class="client-icon">🦊</div>
+          <div>
+            <div class="client-card__name">NekoRay / NekoBox</div>
+            <div class="client-card__proto">Альтернатива · Бесплатно</div>
+          </div>
+          <a href="https://github.com/MatsuriDayo/nekoray/releases/latest" target="_blank" class="btn-outlined" style="margin-left:auto">Скачать</a>
+        </div>
+        <div class="proto-tags">
+          <span class="proto-tag proto-vless">VLESS</span>
+          <span class="proto-tag proto-trojan">Trojan</span>
+          <span class="proto-tag proto-ss">Shadowsocks</span>
+          <span class="proto-tag proto-hy2">Hysteria2</span>
+        </div>
+        <ul class="steps-list" style="margin-top:16px">
+          <li>Скачайте <a href="https://github.com/MatsuriDayo/nekoray/releases/latest" target="_blank">NekoRay</a> с GitHub</li>
+          <li>Скопируйте конфиги → <b>Program</b> → <b>Add profile from clipboard</b></li>
+          <li>ПКМ по серверу → <b>Start</b> для подключения</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- macOS -->
+    <div class="guide-content" id="guide-macos">
+      <div class="client-card">
+        <div class="client-card__head">
+          <div class="client-icon">🍏</div>
+          <div>
+            <div class="client-card__name">Hiddify</div>
+            <div class="client-card__proto">Рекомендуется · Бесплатно</div>
+          </div>
+          <a href="https://github.com/hiddify/hiddify-app/releases/latest" target="_blank" class="btn-tonal" style="margin-left:auto">Скачать</a>
+        </div>
+        <div class="proto-tags">
+          <span class="proto-tag proto-vless">VLESS</span>
+          <span class="proto-tag proto-trojan">Trojan</span>
+          <span class="proto-tag proto-ss">Shadowsocks</span>
+          <span class="proto-tag proto-hy2">Hysteria2</span>
+        </div>
+        <ul class="steps-list" style="margin-top:16px">
+          <li>Скачайте <a href="https://github.com/hiddify/hiddify-app/releases/latest" target="_blank">Hiddify</a> (.dmg) с GitHub</li>
+          <li>Откройте .dmg и перетащите Hiddify в Applications</li>
+          <li>Добавьте конфиг через <b>+</b> → <b>Add from clipboard</b></li>
+          <li>Включите VPN в главном окне</li>
+        </ul>
+      </div>
+      <div class="client-card">
+        <div class="client-card__head">
+          <div class="client-icon">🌟</div>
+          <div>
+            <div class="client-card__name">V2RayXS / V2Box</div>
+            <div class="client-card__proto">Mac App Store · Бесплатно</div>
+          </div>
+          <a href="https://apps.apple.com/app/v2box-v2ray-client/id6446814690" target="_blank" class="btn-outlined" style="margin-left:auto">App Store</a>
+        </div>
+        <div class="proto-tags">
+          <span class="proto-tag proto-vless">VLESS</span>
+          <span class="proto-tag proto-trojan">Trojan</span>
+          <span class="proto-tag proto-ss">Shadowsocks</span>
+        </div>
+        <ul class="steps-list" style="margin-top:16px">
+          <li>Установите <a href="https://apps.apple.com/app/v2box-v2ray-client/id6446814690" target="_blank">V2Box</a> из Mac App Store</li>
+          <li>Нажмите <b>+</b> → <b>Import from clipboard</b></li>
+          <li>Выберите сервер и нажмите <b>Connect</b></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Linux -->
+    <div class="guide-content" id="guide-linux">
+      <div class="client-card">
+        <div class="client-card__head">
+          <div class="client-icon">🐧</div>
+          <div>
+            <div class="client-card__name">Hiddify</div>
+            <div class="client-card__proto">Рекомендуется · Бесплатно</div>
+          </div>
+          <a href="https://github.com/hiddify/hiddify-app/releases/latest" target="_blank" class="btn-tonal" style="margin-left:auto">Скачать</a>
+        </div>
+        <div class="proto-tags">
+          <span class="proto-tag proto-vless">VLESS</span>
+          <span class="proto-tag proto-trojan">Trojan</span>
+          <span class="proto-tag proto-ss">Shadowsocks</span>
+          <span class="proto-tag proto-hy2">Hysteria2</span>
+        </div>
+        <ul class="steps-list" style="margin-top:16px">
+          <li>Скачайте <a href="https://github.com/hiddify/hiddify-app/releases/latest" target="_blank">Hiddify</a> (.AppImage или .deb) с GitHub</li>
+          <li>Для .AppImage: <code>chmod +x Hiddify.AppImage && ./Hiddify.AppImage</code></li>
+          <li>Добавьте конфиг через <b>+</b> → <b>Add from clipboard</b></li>
+          <li>Включите VPN переключателем</li>
+        </ul>
+      </div>
+      <div class="client-card">
+        <div class="client-card__head">
+          <div class="client-icon">⚡</div>
+          <div>
+            <div class="client-card__name">NekoRay</div>
+            <div class="client-card__proto">Qt GUI · Бесплатно</div>
+          </div>
+          <a href="https://github.com/MatsuriDayo/nekoray/releases/latest" target="_blank" class="btn-outlined" style="margin-left:auto">Скачать</a>
+        </div>
+        <div class="proto-tags">
+          <span class="proto-tag proto-vless">VLESS</span>
+          <span class="proto-tag proto-trojan">Trojan</span>
+          <span class="proto-tag proto-ss">Shadowsocks</span>
+          <span class="proto-tag proto-hy2">Hysteria2</span>
+        </div>
+        <ul class="steps-list" style="margin-top:16px">
+          <li>Скачайте <a href="https://github.com/MatsuriDayo/nekoray/releases/latest" target="_blank">NekoRay</a> для Linux</li>
+          <li>Запустите: <code>./nekoray</code></li>
+          <li><b>Program</b> → <b>Add profile from clipboard</b></li>
+          <li>ПКМ → <b>Start</b></li>
+        </ul>
+      </div>
+      <div class="client-card">
+        <div class="client-card__head">
+          <div class="client-icon">🖥️</div>
+          <div>
+            <div class="client-card__name">sing-box (CLI)</div>
+            <div class="client-card__proto">Командная строка · Бесплатно</div>
+          </div>
+          <a href="https://github.com/SagerNet/sing-box/releases/latest" target="_blank" class="btn-outlined" style="margin-left:auto">GitHub</a>
+        </div>
+        <div class="proto-tags">
+          <span class="proto-tag proto-vless">VLESS</span>
+          <span class="proto-tag proto-trojan">Trojan</span>
+          <span class="proto-tag proto-ss">Shadowsocks</span>
+          <span class="proto-tag proto-hy2">Hysteria2</span>
+        </div>
+        <ul class="steps-list" style="margin-top:16px">
+          <li>Установите sing-box: <code>sudo apt install sing-box</code> (Debian/Ubuntu) или из GitHub</li>
+          <li>Создайте конфиг в <code>/etc/sing-box/config.json</code></li>
+          <li>Запустите: <code>sudo systemctl enable --now sing-box</code></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Router -->
+    <div class="guide-content" id="guide-router">
+      <div class="client-card">
+        <div class="client-card__head">
+          <div class="client-icon">📡</div>
+          <div>
+            <div class="client-card__name">OpenWrt + sing-box</div>
+            <div class="client-card__proto">Весь трафик через VPN · Сложная настройка</div>
+          </div>
+          <a href="https://github.com/SagerNet/sing-box" target="_blank" class="btn-tonal" style="margin-left:auto">GitHub</a>
+        </div>
+        <div class="proto-tags">
+          <span class="proto-tag proto-vless">VLESS</span>
+          <span class="proto-tag proto-trojan">Trojan</span>
+          <span class="proto-tag proto-ss">Shadowsocks</span>
+          <span class="proto-tag proto-hy2">Hysteria2</span>
+        </div>
+        <ul class="steps-list" style="margin-top:16px">
+          <li>Убедитесь что роутер работает на OpenWrt 21.02+</li>
+          <li>Установите sing-box через opkg или скомпилируйте для вашей архитектуры</li>
+          <li>Добавьте конфиг в <code>/etc/sing-box/config.json</code></li>
+          <li>Настройте firewall и tproxy для перехвата трафика</li>
+          <li>Включите автозапуск: <code>service sing-box enable && service sing-box start</code></li>
+        </ul>
+      </div>
+      <div class="client-card">
+        <div class="client-card__head">
+          <div class="client-icon">🔧</div>
+          <div>
+            <div class="client-card__name">Keenetic / Mikrotik</div>
+            <div class="client-card__proto">Для продвинутых пользователей</div>
+          </div>
+        </div>
+        <div class="proto-tags">
+          <span class="proto-tag proto-vless">VLESS</span>
+          <span class="proto-tag proto-ss">Shadowsocks</span>
+        </div>
+        <ul class="steps-list" style="margin-top:16px">
+          <li>На Keenetic: установите Entware → <code>opkg install xray-core</code></li>
+          <li>Создайте конфиг xray в <code>/opt/etc/xray/</code></li>
+          <li>Настройте маршрутизацию через веб-интерфейс роутера</li>
+          <li>Для Mikrotik: используйте <a href="https://github.com/mochman/Bypass_CGNAT/wiki" target="_blank">xray или SOCKS5 proxy</a></li>
+        </ul>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- ═══ SECTION: ABOUT ═══ -->
+  <section class="section" id="section-about">
+    <div class="section-title">О проекте</div>
+    <p class="section-subtitle">Бесплатные VPN-конфиги для свободного доступа к интернету.</p>
+
+    <div class="info-grid" style="margin-bottom:24px">
+      <div class="info-card">
+        <div class="info-card__icon" style="background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1)">
+          <svg viewBox="0 0 24 24" style="fill:#e0e0e0"><path d="M12 1C8.676 1 6 3.676 6 7v1H4v14h16V8h-2V7c0-3.324-2.676-6-6-6zm0 2c2.276 0 4 1.724 4 4v1H8V7c0-2.276 1.724-4 4-4zm0 9c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2z"/></svg>
+        </div>
+        <div class="info-card__title">Бесплатно навсегда</div>
+        <div class="info-card__text">Все конфиги полностью бесплатны. Никакой регистрации, подписок и рекламы.</div>
+      </div>
+      <div class="info-card">
+        <div class="info-card__icon" style="background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08)">
+          <svg viewBox="0 0 24 24" style="fill:#c8c8c8"><path d="m20.28 3.72-7.06 7.06L11 10.5l-.28-2.22 7.06-7.06zM3 17.25V21h3.75L17.81 9.94l-3.75-3.75zM5.92 19H5v-.92l9.06-9.06.92.92z"/></svg>
+        </div>
+        <div class="info-card__title">Автообновление</div>
+        <div class="info-card__text">Конфиги обновляются автоматически. Количество серверов постоянно растёт.</div>
+      </div>
+      <div class="info-card">
+        <div class="info-card__icon" style="background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08)">
+          <svg viewBox="0 0 24 24" style="fill:#b0b0b0"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"/></svg>
+        </div>
+        <div class="info-card__title">Множество протоколов</div>
+        <div class="info-card__text">VLESS, Trojan, Shadowsocks, Hysteria2 — выбирайте наиболее стабильный для вашего провайдера.</div>
+      </div>
+      <div class="info-card">
+        <div class="info-card__icon" style="background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.07)">
+          <svg viewBox="0 0 24 24" style="fill:#999999"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z"/></svg>
+        </div>
+        <div class="info-card__title">Без логов</div>
+        <div class="info-card__text">Публичные серверы не ведут логи активности. Ваша приватность защищена шифрованием.</div>
+      </div>
+    </div>
+
+    <!-- Protocol info -->
+    <div class="section-title" style="margin-bottom:4px">О протоколах</div>
+    <p class="section-subtitle">Что значат поддерживаемые протоколы</p>
+
+    <div class="grid-2" style="margin-bottom:24px">
+      <div class="card">
+        <div class="card__header">
+          <div style="display:flex;align-items:center;gap:10px;flex:1">
+            <span class="proto-badge proto-vless">VLESS</span>
+            <div>
+              <div class="card__title" style="font-size:15px">VLESS + Reality / TLS</div>
+              <div class="card__subtitle">Xray-core</div>
+            </div>
+          </div>
+        </div>
+        <div class="card__content">
+          <p style="font:var(--md-sys-typescale-body-medium);color:var(--md-sys-color-on-surface-variant);line-height:1.6">Современный облегчённый протокол от XRay. Reality маскирует трафик под обычный HTTPS, что делает его крайне трудным для обнаружения и блокировки.</p>
+          <div class="chip-row">
+            <span class="chip">TCP · WS · gRPC · XHTTP</span>
+            <span class="chip">Reality · TLS</span>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card__header">
+          <div style="display:flex;align-items:center;gap:10px;flex:1">
+            <span class="proto-badge proto-trojan">Trojan</span>
+            <div>
+              <div class="card__title" style="font-size:15px">Trojan</div>
+              <div class="card__subtitle">TLS маскировка</div>
+            </div>
+          </div>
+        </div>
+        <div class="card__content">
+          <p style="font:var(--md-sys-typescale-body-medium);color:var(--md-sys-color-on-surface-variant);line-height:1.6">Протокол, маскирующий VPN-трафик под обычный HTTPS. Работает на стандартном порту 443, что делает блокировку без ущерба для обычных сайтов практически невозможной.</p>
+          <div class="chip-row">
+            <span class="chip">TLS 1.3</span>
+            <span class="chip">Порт 443</span>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card__header">
+          <div style="display:flex;align-items:center;gap:10px;flex:1">
+            <span class="proto-badge proto-ss">SS</span>
+            <div>
+              <div class="card__title" style="font-size:15px">Shadowsocks</div>
+              <div class="card__subtitle">Классика обхода блокировок</div>
+            </div>
+          </div>
+        </div>
+        <div class="card__content">
+          <p style="font:var(--md-sys-typescale-body-medium);color:var(--md-sys-color-on-surface-variant);line-height:1.6">Проверенный годами протокол с симметричным шифрованием. Прост в настройке, хорошо поддерживается всеми клиентами. Идеален для начинающих.</p>
+          <div class="chip-row">
+            <span class="chip">AES-256-GCM</span>
+            <span class="chip">ChaCha20</span>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card__header">
+          <div style="display:flex;align-items:center;gap:10px;flex:1">
+            <span class="proto-badge proto-hy2">HY2</span>
+            <div>
+              <div class="card__title" style="font-size:15px">Hysteria2</div>
+              <div class="card__subtitle">QUIC / UDP</div>
+            </div>
+          </div>
+        </div>
+        <div class="card__content">
+          <p style="font:var(--md-sys-typescale-body-medium);color:var(--md-sys-color-on-surface-variant);line-height:1.6">Высокоскоростной протокол на базе QUIC (UDP). Особенно эффективен при высоких потерях пакетов и на мобильных соединениях. Значительно быстрее TCP-протоколов.</p>
+          <div class="chip-row">
+            <span class="chip">QUIC / UDP</span>
+            <span class="chip">Высокая скорость</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <!-- Social links -->
+    <div class="section-title" style="margin-bottom:16px">Контакты</div>
+    <div style="display:flex;flex-direction:column;gap:12px">
+      <a href="tg://resolve?domain=AkresMC" class="tg-card">
+        <div class="tg-avatar">📢</div>
+        <div>
+          <div class="tg-card__title">Telegram канал</div>
+          <div class="tg-card__sub">@AkresMC — Обновления конфигов, новости</div>
+        </div>
+        <div class="tg-card__arrow">
+          <svg viewBox="0 0 24 24"><path d="M8.59 16.59 13.17 12 8.59 7.41 10 6l6 6-6 6z"/></svg>
+        </div>
+      </a>
+      <a href="tg://resolve?domain=akresik" class="tg-card">
+        <div class="tg-avatar">👤</div>
+        <div>
+          <div class="tg-card__title">Автор</div>
+          <div class="tg-card__sub">@akresik — Связаться с разработчиком</div>
+        </div>
+        <div class="tg-card__arrow">
+          <svg viewBox="0 0 24 24"><path d="M8.59 16.59 13.17 12 8.59 7.41 10 6l6 6-6 6z"/></svg>
+        </div>
+      </a>
+    </div>
+  </section>
+
+</main>
+
+<!-- FAB -->
+<a href="tg://resolve?domain=AkresMC" class="fab">
+  <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8-1.7 8.02c-.12.58-.48.72-.96.45l-2.67-1.96-1.28 1.24c-.14.14-.28.18-.56.18l.2-2.72 4.96-4.48c.22-.2-.05-.3-.34-.1l-6.14 3.86-2.63-.82c-.58-.18-.58-.58.12-.86l10.26-3.96c.46-.18.86.1.74.85z"/></svg>
+  <span>Telegram</span>
+</a>
+
+<script>
+/* ═══════════════════════════════════════════
+   STATE
+   ═══════════════════════════════════════════ */
+let readmeData = null;
+let allConfigUrl = null;
+
+/* ═══════════════════════════════════════════
+   INIT
+   ═══════════════════════════════════════════ */
+window.addEventListener('DOMContentLoaded', () => {
+  loadReadme();
+
+  window.addEventListener('scroll', () => {
+    document.getElementById('appBar').classList.toggle('scrolled', window.scrollY > 10);
+  });
+});
+
+/* ═══════════════════════════════════════════
+   README PARSER
+   ═══════════════════════════════════════════ */
+async function loadReadme() {
+  const overlay = document.getElementById('loadingOverlay');
+  overlay.classList.remove('hidden');
+
+  try {
+    const res = await fetch('./README.md');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const text = await res.text();
+    readmeData = parseReadme(text);
+    renderAll(readmeData);
+  } catch (e) {
+    console.warn('README.md not found, using demo data', e);
+    readmeData = getDemoData();
+    renderAll(readmeData);
+  } finally {
+    setTimeout(() => overlay.classList.add('hidden'), 400);
+  }
+}
+
+function parseReadme(text) {
+  const data = {
+    updated: '',
+    total: 0,
+    allUrl: '',
+    protocols: [],
+    countries: []
+  };
+
+  // Updated
+  const updMatch = text.match(/Обновлено:\s*\*\*([^*]+)\*\*/);
+  if (updMatch) data.updated = updMatch[1].trim();
+
+  // Total
+  const totalMatch = text.match(/Всего конфигов:\s*\*\*(\d+)\*\*/);
+  if (totalMatch) data.total = parseInt(totalMatch[1]);
+
+  // All url
+  const allMatch = text.match(/##\s*Все конфиги[\s\S]*?\[Копировать\]\(([^)]+)\)/);
+  if (allMatch) data.allUrl = allMatch[1];
+
+  // Protocols section
+  const protoSection = text.match(/##\s*Протоколы([\s\S]*?)(?=##\s*По странам|$)/);
+  if (protoSection) {
+    const protoText = protoSection[1];
+    const protoBlocks = protoText.split(/###\s+/).filter(b => b.trim());
+    
+    protoBlocks.forEach(block => {
+      const lines = block.trim().split('\n');
+      const headerMatch = lines[0].match(/^(.+?)\s*\((\d+)\)/);
+      if (!headerMatch) return;
+      
+      const proto = {
+        name: headerMatch[1].trim(),
+        count: parseInt(headerMatch[2]),
+        mainUrl: '',
+        groups: []
+      };
+
+      // Main copy link
+      const mainMatch = block.match(/^\[Копировать\]\(([^)]+)\)/m);
+      if (mainMatch) proto.mainUrl = mainMatch[1];
+
+      // Sub-groups (По защите, По транспорту)
+      const groupMatches = [...block.matchAll(/\*\*([^*]+)\*\*\s*\n([\s\S]*?)(?=\*\*|$)/g)];
+      groupMatches.forEach(gm => {
+        const group = { label: gm[1].trim(), items: [] };
+        const itemMatches = [...gm[2].matchAll(/[-*]\s+(.+?)\s*\((\d+)\)\s*[—–]\s*\[Копировать\]\(([^)]+)\)/g)];
+        itemMatches.forEach(im => {
+          group.items.push({ name: im[1].trim(), count: parseInt(im[2]), url: im[3] });
+        });
+        if (group.items.length) proto.groups.push(group);
+      });
+
+      data.protocols.push(proto);
+    });
+  }
+
+  // Countries
+  const countrySection = text.match(/##\s*По странам([\s\S]*?)$/);
+  if (countrySection) {
+    const matches = [...countrySection[1].matchAll(/[-*]\s+([\u{1F1E0}-\u{1F1FF}]{2}|\S+)\s*\*\*([^*]+)\*\*\s*\((\d+)\)\s*[—–]\s*\[Копировать\]\(([^)]+)\)/gu)];
+    matches.forEach(m => {
+      data.countries.push({ flag: m[1], name: m[2].trim(), count: parseInt(m[3]), url: m[4] });
+    });
+  }
+
+  return data;
+}
+
+/* ═══════════════════════════════════════════
+   DEMO DATA (fallback)
+   ═══════════════════════════════════════════ */
+function getDemoData() {
+  return {
+    updated: '2026-04-29 20:25 МСК',
+    total: 215,
+    allUrl: 'https://vpn.akres.fun/all.txt',
+    protocols: [
+      { name: 'VLESS', count: 213, mainUrl: 'https://vpn.akres.fun/protocols/vless/vless.txt',
+        groups: [
+          { label: 'По защите', items: [
+            { name: 'Reality', count: 165, url: 'https://vpn.akres.fun/protocols/vless/security/reality.txt' },
+            { name: 'TLS', count: 48, url: 'https://vpn.akres.fun/protocols/vless/security/tls.txt' }
+          ]},
+          { label: 'По транспорту', items: [
+            { name: 'TCP', count: 164, url: 'https://vpn.akres.fun/protocols/vless/transports/tcp.txt' },
+            { name: 'WebSocket', count: 22, url: 'https://vpn.akres.fun/protocols/vless/transports/ws.txt' },
+            { name: 'XHTTP', count: 21, url: 'https://vpn.akres.fun/protocols/vless/transports/xhttp.txt' },
+            { name: 'gRPC', count: 6, url: 'https://vpn.akres.fun/protocols/vless/transports/grpc.txt' }
+          ]}
+        ]
+      },
+      { name: 'Hysteria2', count: 2, mainUrl: 'https://vpn.akres.fun/protocols/hysteria2/hysteria2.txt', groups: [] }
+    ],
+    countries: [
+      { flag: '🇷🇺', name: 'Россия', count: 54, url: 'https://vpn.akres.fun/countries/Russia.txt' },
+      { flag: '🇩🇪', name: 'Германия', count: 19, url: 'https://vpn.akres.fun/countries/Germany.txt' },
+      { flag: '🇳🇱', name: 'Нидерланды', count: 19, url: 'https://vpn.akres.fun/countries/Netherlands.txt' },
+      { flag: '🇸🇬', name: 'Сингапур', count: 13, url: 'https://vpn.akres.fun/countries/Singapore.txt' },
+      { flag: '🇵🇱', name: 'Польша', count: 11, url: 'https://vpn.akres.fun/countries/Poland.txt' },
+      { flag: '🇺🇸', name: 'США', count: 11, url: 'https://vpn.akres.fun/countries/USA.txt' },
+    ]
+  };
+}
+
+/* ═══════════════════════════════════════════
+   RENDER
+   ═══════════════════════════════════════════ */
+function getProtoClass(name) {
+  const n = name.toLowerCase();
+  if (n.includes('vless'))   return 'proto-vless';
+  if (n.includes('trojan'))  return 'proto-trojan';
+  if (n.includes('shadow') || n === 'ss') return 'proto-ss';
+  if (n.includes('hysteria')) return 'proto-hy2';
+  return 'proto-generic';
+}
+
+function renderAll(d) {
+  allConfigUrl = d.allUrl;
+
+  // Stats
+  document.getElementById('statTotal').textContent = d.total || '—';
+  document.getElementById('statProtos').textContent = d.protocols.length || '—';
+  document.getElementById('statCountries').textContent = d.countries.length || '—';
+  document.getElementById('updatedText').textContent = d.updated ? 'Обновлено: ' + d.updated : 'Дата обновления неизвестна';
+  document.getElementById('countriesSubtitle').textContent = d.countries.length + ' стран · ' + d.total + ' конфигов';
+
+  // Home proto cards (compact)
+  const homeGrid = document.getElementById('homeProtoCards');
+  homeGrid.innerHTML = d.protocols.map(p => `
+    <div class="protocol-card">
+      <div class="protocol-card__header">
+        <span class="proto-badge ${getProtoClass(p.name)}">${p.name}</span>
+        <span class="protocol-card__count">${p.count}</span>
+      </div>
+      ${p.mainUrl ? `<div class="copy-link" onclick="copyUrl('${p.mainUrl}', this)">
+        <div><div class="copy-link__label">Все ${p.name} конфиги</div><div class="copy-link__sub">${p.mainUrl}</div></div>
+        <button class="copy-btn-sm">${iconCopy()}</button>
+      </div>` : ''}
+    </div>
+  `).join('');
+
+  // Full protocols list
+  const protoList = document.getElementById('protocolsList');
+  protoList.innerHTML = d.protocols.map(p => `
+    <div class="protocol-card" style="margin-bottom:16px">
+      <div class="protocol-card__header">
+        <span class="proto-badge ${getProtoClass(p.name)}">${p.name}</span>
+        <div style="font:var(--md-sys-typescale-body-medium);color:var(--md-sys-color-on-surface-variant);margin-left:8px">Всего конфигов</div>
+        <span class="protocol-card__count">${p.count}</span>
+      </div>
+      ${p.mainUrl ? `
+      <div class="sub-section">Весь протокол</div>
+      <div class="copy-link" onclick="copyUrl('${p.mainUrl}', this)">
+        <div><div class="copy-link__label">Все ${p.name} конфиги</div><div class="copy-link__sub">${p.mainUrl}</div></div>
+        <button class="copy-btn-sm">${iconCopy()}</button>
+      </div>` : ''}
+      ${p.groups.map(g => `
+        <div class="sub-section">${g.label}</div>
+        ${g.items.map(item => `
+          <div class="copy-link" onclick="copyUrl('${item.url}', this)">
+            <div>
+              <div class="copy-link__label">${item.name} <span style="color:var(--md-sys-color-primary);font-weight:500">(${item.count})</span></div>
+              <div class="copy-link__sub">${item.url}</div>
+            </div>
+            <button class="copy-btn-sm">${iconCopy()}</button>
+          </div>
+        `).join('')}
+      `).join('')}
+    </div>
+  `).join('');
+
+  // Countries
+  const countriesList = document.getElementById('countriesList');
+  countriesList.innerHTML = d.countries.map(c => `
+    <div class="country-item" onclick="copyUrl('${c.url}', this)">
+      <span class="country-flag">${c.flag}</span>
+      <span class="country-name">${c.name}</span>
+      <span class="country-count">${c.count}</span>
+      <button class="copy-btn-xs">${iconCopy(16)}</button>
+    </div>
+  `).join('');
+}
+
+/* ═══════════════════════════════════════════
+   COPY
+   ═══════════════════════════════════════════ */
+function iconCopy(s = 18) {
+  return `<svg viewBox="0 0 24 24" width="${s}" height="${s}" fill="currentColor"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg>`;
+}
+function iconCheck(s = 18) {
+  return `<svg viewBox="0 0 24 24" width="${s}" height="${s}" fill="currentColor"><path d="M9 16.17 4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>`;
+}
+
+async function copyUrl(url, el) {
+  try {
+    await navigator.clipboard.writeText(url);
+    showSnackbar();
+    const btn = el.querySelector('.copy-btn-sm, .copy-btn-xs');
+    if (btn) {
+      const size = btn.classList.contains('copy-btn-xs') ? 16 : 18;
+      btn.innerHTML = iconCheck(size);
+      btn.classList.add('copied');
+      setTimeout(() => { btn.innerHTML = iconCopy(size); btn.classList.remove('copied'); }, 2000);
+    }
+  } catch(e) {
+    prompt('Скопируйте ссылку:', url);
+  }
+}
+
+async function copyAll() {
+  const url = readmeData?.allUrl || allConfigUrl;
+  if (!url) return showSnackbar('Ссылка не найдена');
+  try {
+    await navigator.clipboard.writeText(url);
+    showSnackbar();
+  } catch(e) {
+    prompt('Скопируйте ссылку:', url);
+  }
+}
+
+let snackbarTimer;
+function showSnackbar(msg) {
+  const el = document.getElementById('snackbar');
+  if (msg) el.lastChild.textContent = ' ' + msg;
+  else el.lastChild.textContent = ' Скопировано в буфер обмена';
+  el.classList.add('show');
+  clearTimeout(snackbarTimer);
+  snackbarTimer = setTimeout(() => el.classList.remove('show'), 2500);
+}
+
+/* ═══════════════════════════════════════════
+   NAVIGATION
+   ═══════════════════════════════════════════ */
+function switchSection(id, btn) {
+  document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+  document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+  document.getElementById('section-' + id).classList.add('active');
+  if (btn) btn.classList.add('active');
+  else document.querySelector('[data-section=' + id + ']')?.classList.add('active');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function switchDevice(id, btn) {
+  document.querySelectorAll('.guide-content').forEach(c => c.classList.remove('active'));
+  document.querySelectorAll('.device-tab').forEach(t => t.classList.remove('active'));
+  document.getElementById('guide-' + id).classList.add('active');
+  btn.classList.add('active');
+}
+</script>
+</body>
+</html>
