@@ -1,0 +1,2 @@
+vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@fta.tokervpn.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tokermod.ru&pbk=KW23a9A86rHbgHUJLm3C-rzv94MkBlPPN7XBbrbX_hc&sid=6ba85179e30d4fc2&fp=chrome#🇫🇮 Финляндия 1
+vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@fta.tokervpn.ru:8443?encryption=none&type=xhttp&security=reality&sni=tokermod.ru&pbk=KW23a9A86rHbgHUJLm3C-rzv94MkBlPPN7XBbrbX_hc&sid=6ba85179e30d4fc2&fp=chrome&path=/xhttp-18575135220/&mode=auto#🇫🇮 Финляндия 2

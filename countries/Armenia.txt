@@ -1,0 +1,3 @@
+vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@am.softupdatecenter.com:443?encryption=none&type=xhttp&security=tls&sni=am.softupdatecenter.com&path=/xhttp-universal/&host=am.softupdatecenter.com&mode=auto#🇦🇲 Армения 1
+vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@himki.tokervpn.ru:443?encryption=none&type=xhttp&security=tls&sni=himki.tokervpn.ru&path=/xhttp-universal/&host=himki.tokervpn.ru&mode=auto#🇦🇲 Армения 2
+vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@am.softupdatecenter.com:8443?encryption=none&type=xhttp&security=tls&sni=am.softupdatecenter.com&path=/xhttp-universal/&mode=stream-one#🇦🇲 Армения 3
