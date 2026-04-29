@@ -1,25 +1,25 @@
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-1.edgeflux.ru:52006?security=tls&encryption=none&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision#🇷🇺 Россия 1
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-2.edgeflux.ru:52006?type=tcp&headerType=none&security=tls&encryption=none&sni=cl-ru-2.edgeflux.ru&fp=chrome&flow=xtls-rprx-vision&insecure=1#🇷🇺 Россия 2
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-1.edgeflux.ru:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-ru-1.edgeflux.ru&type=tcp#🇷🇺 Россия 3
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-2.edgeflux.ru:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cl-ru-2.edgeflux.ru&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Россия 4
-vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?security=tls&encryption=none&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision#🇷🇺 Россия 5
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-1.edgeflux.ru:52006?type=tcp&headerType=none&security=tls&encryption=none&fp=chrome&flow=xtls-rprx-vision&insecure=1#🇷🇺 Россия 6
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-2.edgeflux.ru:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-ru-2.edgeflux.ru&type=tcp#🇷🇺 Россия 7
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-1.edgeflux.ru:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cl-ru-1.edgeflux.ru&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Россия 8
-vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?allowInsecure=1&sni=cluster-europe-1.firstvideocdn.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls&type=tcp#🇷🇺 Россия 9
-vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?type=tcp&headerType=none&security=tls&encryption=none&sni=cluster-europe-1.firstvideocdn.ru&flow=xtls-rprx-vision&insecure=1#🇷🇺 Россия 10
-vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@kikolak.tokervpn.ru:443?encryption=none&type=xhttp&security=tls&sni=kikolak.tokervpn.ru&path=/xhttp-universal/&host=kikolak.tokervpn.ru&mode=auto#🇵🇱 Польша 1
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=pl74.mechvpn.online&alpn=h3,h2,http/1.1&flow=xtls-rprx-vision#🇵🇱 Польша 2
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&alpn=h3,h2,http/1.1#🇵🇱 Польша 3
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&alpn=h3,h2,http/1.1#🇵🇱 Польша 4
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-2.edgeflux.ru:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cl-ru-2.edgeflux.ru&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Россия 1
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-1.edgeflux.ru:52006?type=tcp&headerType=none&security=tls&encryption=none&fp=chrome&flow=xtls-rprx-vision&insecure=1#🇷🇺 Россия 2
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-1.edgeflux.ru:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cl-ru-1.edgeflux.ru&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Россия 3
+vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?security=tls&encryption=none&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision#🇷🇺 Россия 4
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-1.edgeflux.ru:52006?security=tls&encryption=none&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision#🇷🇺 Россия 5
+vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#🇷🇺 Россия 6
+vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?type=tcp&headerType=none&security=tls&encryption=none&fp=chrome&flow=xtls-rprx-vision&insecure=1#🇷🇺 Россия 7
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-1.edgeflux.ru:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-ru-1.edgeflux.ru&type=tcp#🇷🇺 Россия 8
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.237.71.245:15430?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇬 Сингапур 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.250.158.102:27015?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇬 Сингапур 2
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.250.189.179:888?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇬 Сингапур 3
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.153.206.239:27015?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#🇸🇬 Сингапур 4
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.209:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇺🇸 США 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.207:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇺🇸 США 2
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@24.109.36.190:8443?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇺🇸 США 3
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.201:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇺🇸 США 4
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&alpn=h3&sni=pl74.mechvpn.online&type=tcp&headerType=none&host=pl74.mechvpn.online&path=/#🇵🇱 Польша 1
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?allow_insecure=0&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=pl74.mechvpn.online&type=tcp#🇵🇱 Польша 2
+vless://c5c55441-6b1d-4a44-aa35-da5a015e7df9@pla.tunnelguard.ru:443?security=tls&type=xhttp&headerType=&path=/&host=pla.tunnelguard.ru&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&sni=pla.tunnelguard.ru&fp=firefox&alpn=h2,http/1.1#🇵🇱 Польша 3
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.209:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇨🇦 Канада 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.201:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇨🇦 Канада 2
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.201:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇨🇦 Канада 3
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.250.189.179:888?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇬 Сингапур 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.250.81.46:2087?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇬 Сингапур 2
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@103.244.88.189:58879?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇬 Сингапур 3
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@217.60.248.3:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇭🇰 Гонконг
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.209:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇺🇸 США
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.201:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇨🇦 Канада 2
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@217.60.38.182:8443?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇭🇰 Гонконг
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.23.219.205:8443?encryption=none&security=tls&sni=sni.latonyamadeline.ndjp.net&insecure=0&allowInsecure=0&type=ws&host=sni.latonyamadeline.ndjp.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳#🇱🇻 Латвия
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@trtc.ksnodes.net:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=trtc.ksnodes.net&alpn=http/1.1,h2#🇹🇷 Турция
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@147.45.77.159:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇪 Швеция
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@176.119.148.212:17081?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇯🇵 Япония

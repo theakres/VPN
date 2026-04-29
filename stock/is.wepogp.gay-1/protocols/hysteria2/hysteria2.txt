@@ -1,1 +1,4 @@
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443?insecure=1&sni=vpn-tw-001.fastervpn.world#🇹🇼 Тайвань
+hysteria2://dongtaiwang.com@163.172.113.118:40022/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&insecure=1&sni=www.microsoft.com#🇫🇷 Франция 1
+hysteria2://dongtaiwang.com@163.172.113.118:41283?sni=www.microsoft.com&insecure=1#🇫🇷 Франция 2
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@103.134.35.37:443?headerType=none&encryption=none&sni=vpn-jp-016.fastervpn.world&insecure=1#🇯🇵 Япония 1
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-011.fastervpn.world:443/?insecure=1&sni=vpn-jp-011.fastervpn.world#🇯🇵 Япония 2
