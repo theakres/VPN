@@ -1,3 +1,2 @@
 vless://bafc879b-eeef-4317-ac47-8ec6c23335e9@cdn33.api-rutube.ru:6379?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ozon.ru&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&fp=chrome#🇭🇰 Гонконг 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@217.60.38.182:8443?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇭🇰 Гонконг 2
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@217.60.248.3:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇭🇰 Гонконг 3
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@217.60.248.3:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇭🇰 Гонконг 2
