@@ -1,2 +1,0 @@
-vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@rkn.tokervpn.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=steel.tokervpn.ru&pbk=AFejAxl-6RGMmxYedpX2nwABAAEB5IpsecwB6xp8RhI&sid=6ba85179e30d4fc2&fp=chrome#🇫🇷 Франция 1
-vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@teofrance.softupdatecenter.com:443?encryption=none&type=xhttp&security=tls&sni=teofrance.softupdatecenter.com&path=/xhttp-universal/&host=teofrance.softupdatecenter.com&mode=auto#🇫🇷 Франция 2

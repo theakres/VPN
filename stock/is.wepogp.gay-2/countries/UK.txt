@@ -1,8 +1,2 @@
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos2.ksnodes.net:443?type=tcp&security=tls&sni=ukos2.ksnodes.net&flow=xtls-rprx-vision#🇬🇧 Великобритания 1
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@130.78.219.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=ukos2.ksnodes.net&alpn=http/1.1,h2#🇬🇧 Великобритания 2
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@130.78.219.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=ukos2.ksnodes.net#🇬🇧 Великобритания 3
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos2.ksnodes.net:443?security=tls&type=tcp&alpn=http/1.1,h2&sni=ukos2.ksnodes.net&fp=chrome&flow=xtls-rprx-vision#🇬🇧 Великобритания 4
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos2.ksnodes.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=ukos2.ksnodes.net&alpn=http/1.1,h2&flow=xtls-rprx-vision&insecure=1#🇬🇧 Великобритания 5
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos2.ksnodes.net:443?encryption=none&flow=xtls-rprx-vision&fp=ios&mode=multi&security=tls&sni=ukos2.ksnodes.net&type=tcp#🇬🇧 Великобритания 6
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos2.ksnodes.net:443?allow_insecure=0&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=ukos2.ksnodes.net&type=tcp#🇬🇧 Великобритания 7
-vless://cecfcc9e-64c0-412d-b3fe-a494f2c07865@107.181.134.250:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=chat.deepseek.com&fp=chrome&security=reality&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&packetEncoding=xudp#🇬🇧 Великобритания 8
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@130.78.219.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=ukos2.ksnodes.net&alpn=http/1.1,h2#🇬🇧 Великобритания 1
+vless://cecfcc9e-64c0-412d-b3fe-a494f2c07865@107.181.134.250:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=chat.deepseek.com&fp=chrome&security=reality&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&packetEncoding=xudp#🇬🇧 Великобритания 2

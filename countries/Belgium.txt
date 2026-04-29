@@ -1,2 +1,0 @@
-vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@tiktok.tokervpn.ru:443?encryption=none&type=xhttp&security=tls&sni=tiktok.tokervpn.ru&path=/xhttp-universal/&host=tiktok.tokervpn.ru&mode=auto#🇧🇪 Бельгия 1
-vless://e704d1f1-cbe6-417e-8b93-5b2d8635c4a1@109.69.218.163:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894&sni=lerua.xyz#🇧🇪 Бельгия 2
