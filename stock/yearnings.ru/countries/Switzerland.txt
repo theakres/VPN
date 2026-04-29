@@ -1,1 +1,0 @@
-vless://ba3778db-bd1d-4b84-94e8-f10551d15514@179.43.152.210:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sw.denditop.site&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&type=tcp#🇨🇭 Швейцария

@@ -1,1 +1,0 @@
-vless://ba3778db-bd1d-4b84-94e8-f10551d15514@kz1.dendibase.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz1.dendibase.org&pbk=mbvZt-7r8xaJ8gIfPrhukRATKlB8fQNG8AxPLZeZ6Gg&type=tcp#🇰🇿 Казахстан

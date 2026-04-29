@@ -1,1 +1,0 @@
-vless://0d82de91-be9c-4800-b31a-b6dc173f983f@45.140.205.215:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#🇨🇭 Швейцария

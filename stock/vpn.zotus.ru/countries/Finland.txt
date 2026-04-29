@@ -1,1 +1,0 @@
-vless://7e9a39eb-a9b0-2e38-26da-d27b1a95904d@ru-balancer-1.lovitnaparkovke.ru:8444?security=reality&encryption=none&pbk=pvSHYsRtk8ZoAjszyCwjxXgfxHzUJxxHD9No1QAQQAA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=2222222222222222#🇫🇮 Финляндия
