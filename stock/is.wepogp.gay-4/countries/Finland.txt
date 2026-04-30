@@ -1,4 +1,0 @@
-vless://1e0923fb-4d3b-486a-b5a9-a2201831ecc3@fi-h.vopn.net:443?flow=xtls-rprx-vision&fp=chrome&pbk=lBCt9m_PzWWdm1HvyZtJyCupmcySkfphwArSyPLPKXk&security=reality&sid=63c359bdc3f8562b&sni=fi-node.vopn.co.uk&type=raw#🇫🇮 Финляндия 1
-vless://1e0923fb-4d3b-486a-b5a9-a2201831ecc3@185.188.30.73:443?flow=xtls-rprx-vision&fp=chrome&pbk=lBCt9m_PzWWdm1HvyZtJyCupmcySkfphwArSyPLPKXk&security=reality&sid=19c0051ae9f3d7f0&sni=fi-node.vopn.net&type=raw#🇫🇮 Финляндия 2
-vless://1e0923fb-4d3b-486a-b5a9-a2201831ecc3@178.17.60.69:443?flow=xtls-rprx-vision&fp=chrome&pbk=lBCt9m_PzWWdm1HvyZtJyCupmcySkfphwArSyPLPKXk&security=reality&sid=63c359bdc3f8562b&sni=fi-node.vopn.net&type=raw#🇫🇮 Финляндия 3
-vless://1e0923fb-4d3b-486a-b5a9-a2201831ecc3@45.144.53.168:443?flow=xtls-rprx-vision&fp=chrome&pbk=lBCt9m_PzWWdm1HvyZtJyCupmcySkfphwArSyPLPKXk&security=reality&sid=bcb91df001bcc257&sni=fi-node.vopn.net&type=raw#🇫🇮 Финляндия 4

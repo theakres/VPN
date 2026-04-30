@@ -1,4 +1,4 @@
-vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?flow=xtls-rprx-vision&fp=chrome&insecure=1&security=tls&type=tcp#🇵🇱 Польша 1
-vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&insecure=1&security=tls&type=tcp#🇵🇱 Польша 2
-vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&insecure=1&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#🇵🇱 Польша 3
-vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?allowInsecure=1&flow=xtls-rprx-vision&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#🇵🇱 Польша 4
+vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?allowInsecure=1&flow=xtls-rprx-vision&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#🇵🇱 Польша 1
+vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?flow=xtls-rprx-vision&fp=chrome&insecure=1&security=tls&type=tcp#🇵🇱 Польша 2
+vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&insecure=1&security=tls&type=tcp#🇵🇱 Польша 3
+vless://4649d681-7f26-4959-a3f2-02eb8866230f@144.31.5.23:9443?flow=xtls-rprx-vision&fp=chrome&pbk=wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg&security=reality&sid=2344766a270a6298&sni=yahoo.com&type=tcp#🇵🇱 Польша 4

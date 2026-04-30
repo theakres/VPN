@@ -1,4 +1,0 @@
-vless://1e0923fb-4d3b-486a-b5a9-a2201831ecc3@64.118.152.91:443?flow=xtls-rprx-vision&fp=chrome&pbk=lBCt9m_PzWWdm1HvyZtJyCupmcySkfphwArSyPLPKXk&security=reality&sid=bec1a547f54b0a19&sni=game.vopn.co.uk&type=raw#🇺🇸 США 1
-vless://1e0923fb-4d3b-486a-b5a9-a2201831ecc3@usa-node.vopn.net:7443?flow=xtls-rprx-vision&host=ads.x5.ru&mode=packet-up&path=/api/v1/data&security=tls&type=xhttp#🇺🇸 США 2
-vless://1e0923fb-4d3b-486a-b5a9-a2201831ecc3@107.161.168.24:443?flow=xtls-rprx-vision&fp=chrome&pbk=lBCt9m_PzWWdm1HvyZtJyCupmcySkfphwArSyPLPKXk&security=reality&sid=16d6c6ac23e4e635&sni=game.vopn.co.uk&type=raw#🇺🇸 США 3
-vless://1e0923fb-4d3b-486a-b5a9-a2201831ecc3@usa-node.vopn.net:443?flow=xtls-rprx-vision&fp=chrome&pbk=lBCt9m_PzWWdm1HvyZtJyCupmcySkfphwArSyPLPKXk&security=reality&sid=19c0051ae9f3d7f0&sni=usa-node.vopn.net&type=raw#🇺🇸 США 4

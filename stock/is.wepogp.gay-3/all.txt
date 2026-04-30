@@ -1,6 +1,6 @@
 vless://ac5a09f2-be08-4076-a9f0-e0b1bed16ae4@ru.lumo.llc:22230?flow=xtls-rprx-vision&fp=edge&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&security=reality&sid=a9725715bf4c62ff&sni=apple.com&type=tcp#🇷🇺 Россия 1
-vless://ac5a09f2-be08-4076-a9f0-e0b1bed16ae4@ru2.lumo.llc:22230?flow=xtls-rprx-vision&fp=qq&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&security=reality&sid=a9725715bf4c62ff&sni=apple.com&type=tcp#🇷🇺 Россия 2
-vless://ac5a09f2-be08-4076-a9f0-e0b1bed16ae4@lt.lumo.llc:22230?flow=xtls-rprx-vision&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&security=reality&sid=a9725715bf4c62ff&sni=deepl.com&type=tcp#🇱🇹 Литва
+vless://ac5a09f2-be08-4076-a9f0-e0b1bed16ae4@ru.lumo.llc:22230?flow=xtls-rprx-vision&fp=qq&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&security=reality&sid=a9725715bf4c62ff&sni=apple.com&type=tcp#🇷🇺 Россия 2
+vless://ac5a09f2-be08-4076-a9f0-e0b1bed16ae4@lt.lumo.llc:22230?flow=xtls-rprx-vision&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&security=reality&sni=deepl.com&type=tcp#🇱🇹 Литва
 vless://ac5a09f2-be08-4076-a9f0-e0b1bed16ae4@nl.lumo.llc:19813?fp=ios&pbk=nz8jqYqPfsdsRrY4EHWdPsaQ6Q2S5wObyJa_etWqABk&security=reality&serviceName=stats&sid=8b30084499b9e066&sni=deepl.com&type=grpc#🇳🇱 Нидерланды
 vless://ac5a09f2-be08-4076-a9f0-e0b1bed16ae4@go.stars.gift:19813?fp=edge&pbk=nz8jqYqPfsdsRrY4EHWdPsaQ6Q2S5wObyJa_etWqABk&security=reality&serviceName=stats&sid=8b30084499b9e066&sni=deepl.com&type=grpc#🇺🇸 США
 vless://ac5a09f2-be08-4076-a9f0-e0b1bed16ae4@login.stars.gift:57923?fp=qq&pbk=KwHZlRKW1z_Ty3pazQgsPCW87NDNFHntscrVuxDVHEc&security=reality&serviceName=stats&sid=b51f8d5fe85af398&sni=apple.com&type=grpc#🇸🇪 Швеция

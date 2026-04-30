@@ -1,2 +1,6 @@
-vless://54582a71-271e-4fe1-a33c-e42d784baf82@de.choppervpn.com:47615?fp=chrome&pbk=B8Yr8YpVFDIbc_8YFvruly5lki-CbtBC97ztgAG_VF0&security=reality&sid=ba8068688563&sni=m.ok.ru&type=grpc#🇷🇺 Россия 1
-vless://54582a71-271e-4fe1-a33c-e42d784baf82@nl2.choppervpn.com:47615?fp=chrome&pbk=1cG3PyMCH78rEm4inPwKxxrnVkFlK8bxj3KZ_8EPOX0&security=reality&sid=ba8068688563&sni=m.ok.ru&type=grpc#🇷🇺 Россия 2
+vless://54582a71-271e-4fe1-a33c-e42d784baf82@pl.choppervpn.com:47615?fp=chrome&pbk=9BlxKuTwZMSIQqERzQBuAqPHiqdKasMr7lgkdkjz21U&security=reality&sid=ba8068688563&sni=m.ok.ru&type=grpc#🇷🇺 Россия 1
+vless://54582a71-271e-4fe1-a33c-e42d784baf82@pl.choppervpn.com:47615?alpn=http/1.1&fp=chrome&pbk=9BlxKuTwZMSIQqERzQBuAqPHiqdKasMr7lgkdkjz21U&security=reality&sid=ba8068688563&sni=m.ok.ru&type=grpc#🇷🇺 Россия 2
+vless://54582a71-271e-4fe1-a33c-e42d784baf82@144.31.3.184:47615?fp=chrome&mode=gun&pbk=9BlxKuTwZMSIQqERzQBuAqPHiqdKasMr7lgkdkjz21U&security=reality&sid=ba8068688563&sni=m.ok.ru&type=grpc#🇷🇺 Россия 3
+vless://54582a71-271e-4fe1-a33c-e42d784baf82@nl2.choppervpn.com:47615?fp=chrome&pbk=1cG3PyMCH78rEm4inPwKxxrnVkFlK8bxj3KZ_8EPOX0&security=reality&sid=ba8068688563&sni=m.ok.ru&type=grpc#🇷🇺 Россия 4
+vless://54582a71-271e-4fe1-a33c-e42d784baf82@nl2.choppervpn.com:47615?alpn=http/1.1&fp=chrome&pbk=1cG3PyMCH78rEm4inPwKxxrnVkFlK8bxj3KZ_8EPOX0&security=reality&sid=ba8068688563&sni=m.ok.ru&type=grpc#🇷🇺 Россия 5
+vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@176.123.8.28:443?fp=chrome&packetEncoding=xudp&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw&security=reality&sni=hcaptcha.com&type=grpc#🇲🇩 Молдова

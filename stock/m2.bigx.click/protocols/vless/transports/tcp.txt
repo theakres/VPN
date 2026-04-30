@@ -1,1 +1,1 @@
-vless://bd52c9f6-56d5-42da-82f1-53f5e86e9b53@f2.biglocal.club:8443?flow=xtls-rprx-vision&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&security=reality&sid=4326&sni=f2.biglocal.club&type=tcp#Неизвестно
+vless://bd52c9f6-56d5-42da-82f1-53f5e86e9b53@f2.biglocal.club:8443?flow=xtls-rprx-vision&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&security=reality&sid=4326&sni=f2.biglocal.club&type=tcp#🇩🇪 Германия

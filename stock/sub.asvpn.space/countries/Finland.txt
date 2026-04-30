@@ -1,1 +1,0 @@
-vless://d4c09a54-c2e8-4df2-ad83-08af07f7d556@5.255.112.224:443?flow=xtls-rprx-vision&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&security=reality&sid=3c88b649989ffa95&sni=addons.mozilla.org&type=tcp#🇫🇮 Финляндия

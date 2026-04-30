@@ -1,1 +1,2 @@
-vless://63f26629-a4a4-4550-bffc-afabb3b5b3c3@188.253.17.104:443?flow=xtls-rprx-vision&fp=random&host=yahoo.com&packet-encoding=xudp&path=/&pbk=rwZxMeKJhN-LkKkP-u6qXYFzSlbuyqxYzloqaOpFLUM&security=reality&sid=e98e89a0&sni=yahoo.com&type=tcp#🇱🇻 Латвия
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.23.219.205:8443?allowInsecure=0&host=sni.latonyamadeline.ndjp.net&insecure=0&path=/?ed=2560&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🇱🇻 Латвия 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.23.219.205:8443?host=sni.latonyamadeline.ndjp.net&path=/?ed=2560&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🇱🇻 Латвия 2

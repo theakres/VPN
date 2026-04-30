@@ -1,5 +1,5 @@
-vless://d19a5d08-7eec-4bfb-ba31-3420072a4090@138.124.53.195:443?flow=xtls-rprx-vision&fp=random&pbk=bZ2rcCfc8M97hu_DeHss36S2vUlELrpMRpm_2t6-Xyc&security=reality&sid=fbb142c8c7b20c3f&sni=www.microsoft.com&type=tcp#🇩🇪 Германия 1
+vless://d19a5d08-7eec-4bfb-ba31-3420072a4090@138.124.53.195:443?flow=xtls-rprx-vision&fp=random&pbk=bZ2rcCfc8M97hu_DeHss36S2vUlELrpMRpm_2t6-Xyc&security=reality&sid=bf434690&sni=www.microsoft.com&type=tcp#🇩🇪 Германия 1
 vless://d19a5d08-7eec-4bfb-ba31-3420072a4090@138.124.53.195:2087?fp=chrome&mode=packet-up&path=/xhttp&pbk=5L0GkkZBeGOFLaftbw-LVipiK9U2WLtJcdvasx2d8SI&security=reality&sid=97631e434c040bff&sni=www.microsoft.com&type=xhttp#🇩🇪 Германия 2
-vless://75807638-6f19-01f4-ae08-38492ee85c88@cl-de-2.edgeflux.ru:52006?flow=xtls-rprx-vision&fp=chrome&insecure=1&security=tls&type=tcp#🇩🇪 Германия 3
-vless://75807638-6f19-01f4-ae08-38492ee85c88@cl-de-2.edgeflux.ru:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&insecure=1&security=tls&type=tcp#🇩🇪 Германия 4
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@109.120.134.232:8443?host=babayaga-6i7.pages.dev&path=/?ed=2560&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇩🇪 Германия 5
+vless://cd3bfeac-adce-40db-8c5b-0e45aa634989@ru-2.videoproeditor.com:443?flow=xtls-rprx-vision&fp=randomized&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=ru-2.videoproeditor.com&type=tcp#🇩🇪 Германия 3
+vless://Telegram-Parsashonam@kubernetes.io:443?allowInsecure=0&alpn=h2,http/1.1&host=jocular-caramel-04f6a3.netlify.app&insecure=0&mode=auto&path=/p4r34m&security=tls&sni=kubernetes.io&type=xhttp#🇩🇪 Германия 4
+vless://142f491a-abbe-4cfe-b17c-6a7c613b407d@kubernetes.io:443?allowInsecure=0&alpn=h2,http/1.1&host=dazzling-biscotti-cad317.netlify.app&insecure=0&mode=auto&path=/Kinglion&security=tls&sni=kubernetes.io&type=xhttp#🇩🇪 Германия 5
