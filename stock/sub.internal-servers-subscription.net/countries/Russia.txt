@@ -1,1 +1,1 @@
-vless://4b9a1716-6596-414f-81c4-48d8bcad38dc@ru.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&fp=&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#🇷🇺 Россия
+vless://4b9a1716-6596-414f-81c4-48d8bcad38dc@ru.vz-or.com:443?flow=xtls-rprx-vision&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&security=reality&sid=abbcd128&sni=sun9-38.userapi.com&type=tcp#🇷🇺 Россия

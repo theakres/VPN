@@ -1,1 +1,1 @@
-vless://8ef19221-6d5e-4bce-baa1-7c043eae3309@94.131.100.173:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=stats.vk-portal.net&fp=chrome&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&sid=3c6fc84d#🇫🇮 Финляндия
+vless://8ef19221-6d5e-4bce-baa1-7c043eae3309@94.131.100.173:443?flow=xtls-rprx-vision&fp=chrome&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&security=reality&sid=3c6fc84d&sni=stats.vk-portal.net&type=tcp#🇫🇮 Финляндия

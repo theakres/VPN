@@ -1,3 +1,4 @@
-hysteria2://dongtaiwang.com@163.172.113.118:41283?insecure=1&sni=www.microsoft.com&mport=40022,41000-42000#🇫🇷 Франция 1
-hysteria2://dongtaiwang.com@163.172.113.118:40022?security=tls&insecure=1&sni=www.microsoft.com#🇫🇷 Франция 2
-hysteria2://dongtaiwang.com@163.172.113.118:40022/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&insecure=1&sni=www.microsoft.com#🇫🇷 Франция 3
+vless://7d3e6808-d105-4ee4-b904-1f6ed8417f4d@fr.safepass.click:443?extra={++"noGRPCHeader"+:+false,++"scMaxConcurrentPosts"+:+100,++"scMaxEachPostBytes"+:+1000000,++"scMinPostsIntervalMs"+:+30,++"xPaddingBytes"+:+"100-1000"}&fp=chrome&mode=auto&packetEncoding=xudp&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&security=reality&sni=www.samsung.com&type=xhttp#🇫🇷 Франция 1
+hysteria2://dongtaiwang.com@163.172.113.118:41283?headerType=none&encryption=none&sni=www.microsoft.com&insecure=1#🇫🇷 Франция 2
+hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#🇫🇷 Франция 3
+hysteria2://dongtaiwang.com@163.172.113.118:41283?insecure=1&sni=www.microsoft.com&mport=40022,41000#🇫🇷 Франция 4
