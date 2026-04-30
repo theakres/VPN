@@ -1,9 +1,0 @@
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.237.71.245:15430?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇬 Сингапур 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.153.206.239:27015?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#🇸🇬 Сингапур 2
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.250.189.179:888?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#🇸🇬 Сингапур 3
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.250.158.102:27015?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#🇸🇬 Сингапур 4
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.250.158.102:27015?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇬 Сингапур 5
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.153.206.239:27015?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇬 Сингапур 6
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@217.60.248.3:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇬 Сингапур 7
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@217.60.38.182:8443?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇬 Сингапур 8
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.250.81.46:2087?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#🇸🇬 Сингапур 9

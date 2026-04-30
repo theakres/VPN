@@ -1,1 +1,0 @@
-vless://7acc8a5e-3041-4d3a-aa2a-1f9db91ece63@217.16.30.228:480?mode=multi&security=reality&encryption=none&authority=ads.x5.ru&pbk=B98rqOQBz23MoSomMJNbjan1MxeCwg83ep0Joso5mgw&fp=chrome&type=grpc&serviceName=/api/v1/sync&sni=ads.x5.ru&sid=6ba85179e30d4fc2#🇷🇺 Россия

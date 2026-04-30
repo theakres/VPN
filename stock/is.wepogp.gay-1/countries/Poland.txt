@@ -1,2 +1,0 @@
-vless://c5c55441-6b1d-4a44-aa35-da5a015e7df9@pla.tunnelguard.ru:443?security=tls&type=xhttp&headerType=&path=/&host=pla.tunnelguard.ru&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&sni=pla.tunnelguard.ru&fp=firefox&alpn=h2,http/1.1#🇵🇱 Польша 1
-vless://4649d681-7f26-4959-a3f2-02eb8866230f@144.31.5.23:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg&sid=2344766a270a6298#🇵🇱 Польша 2

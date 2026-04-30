@@ -1,0 +1,2 @@
+vless://58544a73-b98c-4293-9630-e227b78318fd@213.176.74.237:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=-UQR9xl9KsUUqhqLMeLcdrluztS0udnhyBVpFHYeoWo&sid=&sni=www.microsoft.com&path=&host=#🇬🇧 Великобритания 1
+vless://22aa2c98-b41f-4832-919d-8028507d5d09@213.176.74.237:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=-UQR9xl9KsUUqhqLMeLcdrluztS0udnhyBVpFHYeoWo&sid=&sni=www.microsoft.com&path=&host=#🇬🇧 Великобритания 2
