@@ -1,2 +1,1 @@
-vless://8375ce44-d285-40b7-b827-dc62a67fe49f@ltt1.figurapn.ru:443/?flow=xtls-rprx-vision&fp=edge&packetEncoding=xudp&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=ltt1.figurapn.ru&type=tcp#🇱🇹 Литва 1
-vless://8c03f089-38eb-42ed-9581-0f351a807752@lt.superbuba.top:443?flow=xtls-rprx-vision&fp=random&pbk=vrcsm8L_tY7sNbnCEdLCEjOthh_w9bdWS3wFPgsIomk&security=reality&sid=4fa44664f6a566d3&sni=lt.superbuba.top&spx=/&type=tcp#🇱🇹 Литва 2
+vless://8375ce44-d285-40b7-b827-dc62a67fe49f@ltt1.figurapn.ru:443/?flow=xtls-rprx-vision&fp=edge&packetEncoding=xudp&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=ltt1.figurapn.ru&type=tcp#🇱🇹 Литва
