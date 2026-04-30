@@ -1,3 +1,0 @@
-vless://63f26629-a4a4-4550-bffc-afabb3b5b3c3@188.253.17.104:443?flow=xtls-rprx-vision&fp=random&host=yahoo.com&packet-encoding=xudp&path=/&pbk=rwZxMeKJhN-LkKkP-u6qXYFzSlbuyqxYzloqaOpFLUM&security=reality&sid=e98e89a0&sni=yahoo.com&type=tcp#🇱🇻 Латвия 1
-vless://63f26629-a4a4-4550-bffc-afabb3b5b3c3@188.253.17.104:443?flow=xtls-rprx-vision&fp=random&pbk=rwZxMeKJhN-LkKkP-u6qXYFzSlbuyqxYzloqaOpFLUM&security=reality&sid=e98e89a0&sni=yahoo.com&type=tcp#🇱🇻 Латвия 2
-vless://63f26629-a4a4-4550-bffc-afabb3b5b3c3@188.253.17.104:443?flow=xtls-rprx-vision&fp=chrome&host=yahoo.com&pbk=rwZxMeKJhN-LkKkP-u6qXYFzSlbuyqxYzloqaOpFLUM&security=reality&sid=e98e89a0&sni=yahoo.com&type=tcp#🇱🇻 Латвия 3
