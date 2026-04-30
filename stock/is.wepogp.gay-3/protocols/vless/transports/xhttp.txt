@@ -1,6 +1,0 @@
-vless://1e0923fb-4d3b-486a-b5a9-a2201831ecc3@cdn-m.vopn.net:443?host=cdn-m.vopn.net&mode=packet-up&path=/login/&security=tls&sni=mwscdn.ru&type=xhttp#🇷🇺 Россия 1
-vless://1e0923fb-4d3b-486a-b5a9-a2201831ecc3@217.16.31.225:2053?flow=xtls-rprx-vision&host=ads.x5.ru&mode=packet-up&path=/api/v1/data&security=tls&type=xhttp#🇷🇺 Россия 2
-vless://1e0923fb-4d3b-486a-b5a9-a2201831ecc3@217.16.31.225:443?fp=qq&mode=packet-up&path=/ads/event&pbk=k87FtAby22FLJXeHshOeyh3w_KlkomFwIrTeLSXQEA0&security=reality&sid=7c141848200161a7&sni=ads.x5.ru&type=xhttp#🇷🇺 Россия 3
-vless://1e0923fb-4d3b-486a-b5a9-a2201831ecc3@5.188.224.32:443?fp=chrome&mode=packet-up&path=/ads/event&pbk=k87FtAby22FLJXeHshOeyh3w_KlkomFwIrTeLSXQEA0&security=reality&sid=7c0c26ca3f7537c4&sni=ads.x5.ru&type=xhttp#🇷🇺 Россия 4
-vless://1e0923fb-4d3b-486a-b5a9-a2201831ecc3@37.18.14.246:443?fp=random&mode=packet-up&path=/ads/event&pbk=k87FtAby22FLJXeHshOeyh3w_KlkomFwIrTeLSXQEA0&security=reality&sid=77f76afb86159d60&sni=ads.x5.ru&type=xhttp#🇷🇺 Россия 5
-vless://1e0923fb-4d3b-486a-b5a9-a2201831ecc3@usa-node.vopn.net:7443?flow=xtls-rprx-vision&host=ads.x5.ru&mode=packet-up&path=/api/v1/data&security=tls&type=xhttp#🇺🇸 США

@@ -1,0 +1,2 @@
+vless://54582a71-271e-4fe1-a33c-e42d784baf82@de.choppervpn.com:47615?fp=chrome&pbk=B8Yr8YpVFDIbc_8YFvruly5lki-CbtBC97ztgAG_VF0&security=reality&sid=ba8068688563&sni=m.ok.ru&type=grpc#🇷🇺 Россия 1
+vless://54582a71-271e-4fe1-a33c-e42d784baf82@nl2.choppervpn.com:47615?fp=chrome&pbk=1cG3PyMCH78rEm4inPwKxxrnVkFlK8bxj3KZ_8EPOX0&security=reality&sid=ba8068688563&sni=m.ok.ru&type=grpc#🇷🇺 Россия 2
