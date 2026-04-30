@@ -1,3 +1,2 @@
 vless://14e93d1a-25f5-4c10-9636-6c5867d8fb99@msc.mkaservice.top:2087?flow=xtls-rprx-vision&fp=chrome&pbk=i3F_hP7yc9VpcUC2Vn1oAqLyW3hZayGdTybl-VnWdz0&security=reality&sid=02827ef87f4a23c0&sni=sun9-34.userapi.com&type=tcp#🇷🇺 Россия 1
 vless://14e93d1a-25f5-4c10-9636-6c5867d8fb99@mss.mkaservice.top:8443?flow=xtls-rprx-vision&fp=chrome&pbk=i3F_hP7yc9VpcUC2Vn1oAqLyW3hZayGdTybl-VnWdz0&security=reality&sid=02827ef87f4a23c0&sni=m.vk.com&type=tcp#🇷🇺 Россия 2
-trojan://0LEf19hdrvmm8wqAdLjy6g@ru3.connectservice.top:41458?fp=chrome&pbk=i3F_hP7yc9VpcUC2Vn1oAqLyW3hZayGdTybl-VnWdz0&security=reality&sid=02827ef87f4a23c0&sni=max.ru&type=tcp#🇷🇺 Россия 3
