@@ -1,1 +1,2 @@
-trojan://162534@5.223.56.239:8443?allowInsecure=1&host=cchh2.pages.dev&insecure=1&path=/?ed=2560&security=tls&sni=cchh2.pages.dev&type=ws#🇸🇬 Сингапур
+trojan://162534@185.121.134.40:8443?fp=chrome&host=cchh2.pages.dev&path=/?ed=2560&security=tls&sni=cchh2.pages.dev&type=ws#🇩🇪 Германия
+trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?host=hl-freedom-1.undef.network&path=/f2fc2a1f&security=tls&sni=HL-FREEDOM-1.UNDEF.NETWORK&type=ws#🇳🇱 Нидерланды

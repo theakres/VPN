@@ -1,1 +1,1 @@
-vless://7d3aad33-021a-40f7-981b-7ec29d7fc159@150.241.103.62:443?flow=xtls-rprx-vision&fp=chrome&pbk=gYLRvAfMAg-ZYgdtA2F_rgV151csPl9z6AJTbwhqz0w&security=reality&sid=f8ac5ee89900f049&sni=market.yandex.ru&type=tcp#🇵🇱 Польша
+vless://7d3aad33-021a-40f7-981b-7ec29d7fc159@150.241.103.62:8443?flow=xtls-rprx-vision&fp=chrome&pbk=gYLRvAfMAg-ZYgdtA2F_rgV151csPl9z6AJTbwhqz0w&security=reality&sid=e9fe5a1007079dae&sni=market.yandex.ru&type=tcp#🇵🇱 Польша
