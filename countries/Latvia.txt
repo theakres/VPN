@@ -1,2 +1,2 @@
-vless://25a96005-1df5-4fc9-8ca7-4c8831ada3b5@lva.tunnelguard.ru:443?alpn=h2,http/1.1&extra={"scMaxEachPostBytes":"1000000","scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&fp=chrome&host=lva.tunnelguard.ru&mode=auto&path=/&security=tls&sni=lva.tunnelguard.ru&type=xhttp#🇱🇻 Латвия 1
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@lv89.mechvpn.online:443?alpn=h3,h2,http/1.1&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇱🇻 Латвия 2
+vless://7d3aad33-021a-40f7-981b-7ec29d7fc159@150.241.75.92:443?flow=xtls-rprx-vision&fp=chrome&pbk=gYLRvAfMAg-ZYgdtA2F_rgV151csPl9z6AJTbwhqz0w&security=reality&sid=a1335752e0d0969a&sni=market.yandex.ru&type=tcp#🇱🇻 Латвия 1
+vless://63f26629-a4a4-4550-bffc-afabb3b5b3c3@188.253.17.104:443?flow=xtls-rprx-vision&fp=random&host=yahoo.com&packet-encoding=xudp&path=/&pbk=rwZxMeKJhN-LkKkP-u6qXYFzSlbuyqxYzloqaOpFLUM&security=reality&sid=e98e89a0&sni=yahoo.com&type=tcp#🇱🇻 Латвия 2

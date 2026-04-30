@@ -1,4 +1,1 @@
-vless://7d3e6808-d105-4ee4-b904-1f6ed8417f4d@fr.safepass.click:443?extra={++"noGRPCHeader"+:+false,++"scMaxConcurrentPosts"+:+100,++"scMaxEachPostBytes"+:+1000000,++"scMinPostsIntervalMs"+:+30,++"xPaddingBytes"+:+"100-1000"}&fp=chrome&mode=auto&packetEncoding=xudp&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&security=reality&sni=www.samsung.com&type=xhttp#🇫🇷 Франция 1
-hysteria2://dongtaiwang.com@163.172.113.118:41283?headerType=none&encryption=none&sni=www.microsoft.com&insecure=1#🇫🇷 Франция 2
-hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#🇫🇷 Франция 3
-hysteria2://dongtaiwang.com@163.172.113.118:41283?insecure=1&sni=www.microsoft.com&mport=40022,41000#🇫🇷 Франция 4
+vless://14e93d1a-25f5-4c10-9636-6c5867d8fb99@fr.connectservice.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=i3F_hP7yc9VpcUC2Vn1oAqLyW3hZayGdTybl-VnWdz0&security=reality&sid=02827ef87f4a23c0&sni=apple.com&type=tcp#🇫🇷 Франция

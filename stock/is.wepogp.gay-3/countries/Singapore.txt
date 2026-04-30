@@ -1,0 +1,2 @@
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.250.81.46:2087?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇬 Сингапур 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.250.81.46:2087?fp=chrome&host=babayaga-6i7.pages.dev&path=/?ed=2560&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇬 Сингапур 2
