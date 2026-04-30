@@ -1,3 +1,3 @@
 vless://1e0923fb-4d3b-486a-b5a9-a2201831ecc3@64.118.157.92:443?flow=xtls-rprx-vision&fp=qq&pbk=lBCt9m_PzWWdm1HvyZtJyCupmcySkfphwArSyPLPKXk&security=reality&sid=7c0c26ca3f7537c4&sni=game.vopn.co.uk&type=raw#🇩🇪 Германия 1
-vless://1e0923fb-4d3b-486a-b5a9-a2201831ecc3@game-node.vopn.net:443?flow=xtls-rprx-vision&fp=qq&pbk=lBCt9m_PzWWdm1HvyZtJyCupmcySkfphwArSyPLPKXk&security=reality&sid=6ee8c6d2e8e9f547&sni=game.vopn.net&type=raw#🇩🇪 Германия 2
-vless://1e0923fb-4d3b-486a-b5a9-a2201831ecc3@ge-node.vopn.net:443?flow=xtls-rprx-vision&fp=chrome&pbk=lBCt9m_PzWWdm1HvyZtJyCupmcySkfphwArSyPLPKXk&security=reality&sid=7c0c26ca3f7537c4&sni=game.vopn.net&type=raw#🇩🇪 Германия 3
+vless://1e0923fb-4d3b-486a-b5a9-a2201831ecc3@game-node.vopn.net:443?flow=xtls-rprx-vision&fp=qq&pbk=lBCt9m_PzWWdm1HvyZtJyCupmcySkfphwArSyPLPKXk&security=reality&sid=bcb91df001bcc257&sni=game.vopn.net&type=raw#🇩🇪 Германия 2
+vless://1e0923fb-4d3b-486a-b5a9-a2201831ecc3@ge-node.vopn.net:443?flow=xtls-rprx-vision&fp=chrome&pbk=lBCt9m_PzWWdm1HvyZtJyCupmcySkfphwArSyPLPKXk&security=reality&sid=ec65c264313fd33b&sni=game.vopn.net&type=raw#🇩🇪 Германия 3
