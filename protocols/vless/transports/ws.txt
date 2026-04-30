@@ -1,8 +1,10 @@
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.250.158.102:27015?host=babayaga-6i7.pages.dev&path=/?ed=2560&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇬 Сингапур 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.250.81.46:2087?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇬 Сингапур 2
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.250.81.46:2087?host=babayaga-6i7.pages.dev&path=/?ed=2560&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇬 Сингапур 3
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.250.158.102:27015?fp=chrome&host=babayaga-6i7.pages.dev&path=/?ed=2560&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇬 Сингапур 4
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@147.45.77.159:2053?fp=chrome&host=babayaga-6i7.pages.dev&path=/?ed=2560&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇪 Швеция 1
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@147.45.77.159:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇪 Швеция 2
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@147.45.77.159:2053?allow_insecure=0&host=babayaga-6i7.pages.dev&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇪 Швеция 3
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.250.81.46:2087?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇬 Сингапур 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.250.81.46:2087?fp=chrome&host=babayaga-6i7.pages.dev&path=/?ed=2560&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇬 Сингапур 2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.23.219.205:8443?allowInsecure=0&host=sni.latonyamadeline.ndjp.net&insecure=0&path=/?ed=2560&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🇱🇻 Латвия
 vless://c931f737-cafe-4e4f-998a-a65517941256@s1.ws.dostup-est.info:443?alpn=h3,h2&fp=chrome&host=s1.ws.dostup-est.info&path=/upload/session&security=tls&sni=s1.ws.dostup-est.info&type=ws#Неизвестно
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.209:2053?fp=chrome&host=babayaga-6i7.pages.dev&path=/?ed=2560&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇺🇸 США
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.82.255.141:443?host=fi2.ca-ibm.online&path=/&security=tls&sni=fi2.ca-ibm.online&type=ws#🇫🇮 Финляндия
