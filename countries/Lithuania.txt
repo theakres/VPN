@@ -1,2 +1,0 @@
-vless://ac5a09f2-be08-4076-a9f0-e0b1bed16ae4@lt.lumo.llc:22230?flow=xtls-rprx-vision&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&security=reality&sni=deepl.com&type=tcp#🇱🇹 Литва 1
-vless://8375ce44-d285-40b7-b827-dc62a67fe49f@ltt1.figurapn.ru:443/?flow=xtls-rprx-vision&fp=edge&packetEncoding=xudp&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=ltt1.figurapn.ru&type=tcp#🇱🇹 Литва 2

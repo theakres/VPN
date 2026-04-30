@@ -1,1 +1,0 @@
-vless://14e93d1a-25f5-4c10-9636-6c5867d8fb99@ru.connectservice.top:443?extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&fp=chrome&mode=auto&path=/ws&pbk=i3F_hP7yc9VpcUC2Vn1oAqLyW3hZayGdTybl-VnWdz0&security=reality&sid=02827ef87f4a23c0&sni=stats.vk-portal.net&type=xhttp#🇺🇸 США
