@@ -1,0 +1,2 @@
+vless://6faa1669-2995-0002-af61-a8d7f870f995@209.127.228.114:443/?flow=xtls-rprx-vision&fp=chrome&pbk=8vqOvJ5eoG_9oHla4B3Vh1E-o39RrCXW6Wr7OcXZGmI&security=reality&sid=dd&sni=cars.morro-settings.ru&type=tcp#🇬🇧 Великобритания 1
+vless://7d3aad33-021a-40f7-981b-7ec29d7fc159@212.108.83.152:443?flow=xtls-rprx-vision&fp=chrome&pbk=gYLRvAfMAg-ZYgdtA2F_rgV151csPl9z6AJTbwhqz0w&security=reality&sid=a1335752e0d0969a&sni=market.yandex.ru&type=tcp#🇬🇧 Великобритания 2

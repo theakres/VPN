@@ -1,7 +1,5 @@
 vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@auto.api-rutube.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&security=reality&sni=cdn.trahodrom.fun&type=tcp#🇫🇷 Франция 1
 vless://8ef19221-6d5e-4bce-baa1-7c043eae3309@194.226.169.189:443?flow=xtls-rprx-vision&fp=chrome&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&security=reality&sid=3c6fc84d&sni=stats.vk-portal.net&type=tcp#🇫🇷 Франция 2
-vless://9a341f75-4217-59e4-b9e6-b921496d7a1a@rusone.lososhop.tech:443?flow=xtls-rprx-vision&fp=chrome&pbk=J01kNP5MImdnqxMDsYEDx4zgn9jaZHyeHzvMdr9W8GM&security=reality&sid=d34cacf90d49c0dc&sni=www.twitch.tv&spx=/r3scZjLALDtD9Zq&type=tcp#🇫🇷 Франция 3
-vless://9a341f75-4217-59e4-b9e6-b921496d7a1a@rusone.lososhop.tech:443?flow=xtls-rprx-vision&fp=chrome&fragment=50-100,10-20,tlshello,100-200&noises=rand,10-20,10-16,ip&pbk=J01kNP5MImdnqxMDsYEDx4zgn9jaZHyeHzvMdr9W8GM&security=reality&sid=d34cacf90d49c0dc&sni=www.twitch.tv&spx=/r3scZjLALDtD9Zq&type=tcp#🇫🇷 Франция 4
-vless://907958b1-0a01-428a-a0aa-7c921e40627f@fr-cdg-1.blook.network:443?flow=xtls-rprx-vision&fp=chrome&pbk=CL5aeP6smcd4ie9upZlYVEvuHDwLAt46BOIfHOjkMis&security=reality&sid=cae7fcef&sni=fr-cdg-1.blook.network&spx=/&type=tcp#🇫🇷 Франция 5
-hysteria2://dongtaiwang.com@163.172.113.118:41947?insecure=1&sni=www.microsoft.com#🇫🇷 Франция 6
-hysteria2://dongtaiwang.com@163.172.113.118:41211?insecure=1&sni=www.microsoft.com#🇫🇷 Франция 7
+vless://907958b1-0a01-428a-a0aa-7c921e40627f@fr-cdg-1.blook.network:443?flow=xtls-rprx-vision&fp=chrome&pbk=CL5aeP6smcd4ie9upZlYVEvuHDwLAt46BOIfHOjkMis&security=reality&sid=cae7fcef&sni=fr-cdg-1.blook.network&spx=/&type=tcp#🇫🇷 Франция 3
+hysteria2://dongtaiwang.com@163.172.113.118:40022?headerType=none&encryption=none&sni=www.microsoft.com&insecure=1#🇫🇷 Франция 4
+hysteria2://dongtaiwang.com@163.172.113.118:41947?insecure=1&sni=www.microsoft.com#🇫🇷 Франция 5
