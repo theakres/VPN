@@ -1,0 +1,1 @@
+vless://c476ac5f-07af-4346-8c42-6fd377a345f7@g7.steptofreedom.one:443?flow=xtls-rprx-vision&fp=randomized&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=g7.steptofreedom.one&type=tcp#🇱🇻 Латвия

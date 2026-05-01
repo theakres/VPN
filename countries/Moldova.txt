@@ -1,2 +1,1 @@
-vless://d2ea3d62-c38b-4f2a-ad55-bf27a0be249b@md-kiv-2.blook.network:443?flow=xtls-rprx-vision&fp=chrome&pbk=SqYAVrG01Mk0KXzlkmckO6lxvv6iZBJJvxE6PvD2vD0&security=reality&sid=3c2f8f52&sni=md-kiv-2.blook.network&spx=/&type=tcp#🇲🇩 Молдова 1
-vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@176.123.8.28:443?fp=chrome&packetEncoding=xudp&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw&security=reality&sni=hcaptcha.com&type=grpc#🇲🇩 Молдова 2
+vless://d2ea3d62-c38b-4f2a-ad55-bf27a0be249b@md-kiv-2.blook.network:443?flow=xtls-rprx-vision&fp=chrome&pbk=SqYAVrG01Mk0KXzlkmckO6lxvv6iZBJJvxE6PvD2vD0&security=reality&sid=3c2f8f52&sni=md-kiv-2.blook.network&spx=/&type=tcp#🇲🇩 Молдова

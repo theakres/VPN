@@ -1,6 +1,1 @@
-vless://d19a5d08-7eec-4bfb-ba31-3420072a4090@46.226.164.169:443?flow=xtls-rprx-vision&fp=random&pbk=bZ2rcCfc8M97hu_DeHss36S2vUlELrpMRpm_2t6-Xyc&security=reality&sid=bf434690&sni=www.microsoft.com&type=tcp#🇸🇪 Швеция 1
-vless://d19a5d08-7eec-4bfb-ba31-3420072a4090@46.226.164.169:2087?fp=chrome&mode=packet-up&path=/xhttp&pbk=5L0GkkZBeGOFLaftbw-LVipiK9U2WLtJcdvasx2d8SI&security=reality&sid=97631e434c040bff&sni=www.microsoft.com&type=xhttp#🇸🇪 Швеция 2
-vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@88.216.214.193:443?flow=xtls-rprx-vision&fp=qq&pbk=OnoYzxXhIySTpU1f2LlkD-Js_nQ0YwGvfDyi9IsDcWw&security=reality&sid=8ac90e6b63633977&sni=hcaptcha.com&type=tcp#🇸🇪 Швеция 3
-vless://b875b7b4-f825-41da-9fa1-fd3dd7aad15a@se.toscloud.ru:443?flow=xtls-rprx-vision&fp=qq&pbk=MtO6lJB5BcJtYW9-ReGZ3N4gOXhai83hqxto9Jlr7kI&security=reality&sid=708e4b3ebb4c&sni=www.finnair.com&spx=/&type=tcp#🇸🇪 Швеция 4
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@147.45.77.159:2053?host=babayaga-6i7.pages.dev&path=/?ed=2560&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇪 Швеция 5
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@147.45.77.159:2053?fp=chrome&host=babayaga-6i7.pages.dev&path=/?ed=2560&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇸🇪 Швеция 6
+vless://ac5a09f2-be08-4076-a9f0-e0b1bed16ae4@login.stars.gift:57923?fp=qq&pbk=KwHZlRKW1z_Ty3pazQgsPCW87NDNFHntscrVuxDVHEc&security=reality&serviceName=stats&sid=3fcee3d7b0c343ee&sni=apple.com&type=grpc#🇸🇪 Швеция

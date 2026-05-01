@@ -1,7 +1,6 @@
 vless://ac5a09f2-be08-4076-a9f0-e0b1bed16ae4@login.stars.gift:57923?fp=qq&pbk=KwHZlRKW1z_Ty3pazQgsPCW87NDNFHntscrVuxDVHEc&security=reality&serviceName=stats&sid=3fcee3d7b0c343ee&sni=apple.com&type=grpc#🇸🇪 Швеция 1
 vless://d2140849-44ad-4d9c-a596-2ee0588b156c@serr-arnrr-2.blook.network:443?fp=chrome&pbk=2neBenQDielZoPvaNGMsjWEHOqHRKvSEw0e1NapEmAw&security=reality&serviceName=grpc&sid=2de2202b&sni=serr-arnrr-2.blook.network&spx=/&type=grpc#🇸🇪 Швеция 2
 vless://eaa39cf6-26ac-43a4-99df-208b248c5d84@b.primarymaster.online:443?fp=chrome&mode=gun&pbk=SPHl8eat6QSJ5ptl9l-08tu1vEf_1QHRazZrBuqM6z8&security=reality&sid=4332e1e3ea3950fa&sni=b.primarymaster.online&type=grpc#🇩🇪 Германия
-vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@176.123.8.28:443?fp=chrome&packetEncoding=xudp&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw&security=reality&sni=hcaptcha.com&type=grpc#🇲🇩 Молдова
 vless://ac5a09f2-be08-4076-a9f0-e0b1bed16ae4@nl.lumo.llc:19813?fp=ios&pbk=nz8jqYqPfsdsRrY4EHWdPsaQ6Q2S5wObyJa_etWqABk&security=reality&serviceName=stats&sid=8b30084499b9e066&sni=deepl.com&type=grpc#🇳🇱 Нидерланды
 vless://6a7a3a88-59ec-49b1-96ad-fdd65d7d2195@plrr-wawrr-1.blook.network:443?fp=chrome&pbk=r5p6jqUN4YYiRBpOnSIpgtygQBlQ821NwmbzoNQhvVI&security=reality&serviceName=grpc&sid=83bd603f&sni=plrr-wawrr-1.blook.network&spx=/&type=grpc#🇵🇱 Польша
 vless://ac5a09f2-be08-4076-a9f0-e0b1bed16ae4@go.stars.gift:19813?fp=edge&pbk=nz8jqYqPfsdsRrY4EHWdPsaQ6Q2S5wObyJa_etWqABk&security=reality&serviceName=stats&sid=8b30084499b9e066&sni=deepl.com&type=grpc#🇺🇸 США
