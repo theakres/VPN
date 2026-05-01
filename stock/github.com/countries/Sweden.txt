@@ -1,3 +1,2 @@
 vless://cead26ce-f4e0-4820-aa2c-96cf3e61fb4c@176.125.241.62:443?flow=xtls-rprx-vision&fp=chrome&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&security=reality&sid=b7031d292d5d&sni=hls-svod.itunes.apple.com&type=tcp#🇸🇪 Швеция 1
-vless://07e5a1f8-8317-fd7b-b7fb-975a0de32205@217.16.27.96:2091?allowinsecure=0&flow=xtls-rprx-vision&fp=chrome&pbk=gOvNjuxZomABcAtt4uxcH948GhYyB74bDf-t62xhWXs&security=reality&sid=7ebf&sni=ads.x5.ru&type=tcp#🇸🇪 Швеция 2
-vless://60f08b02-9a8e-4dbb-8ab2-0f631a01232c@185.189.46.98:443?flow=xtls-rprx-vision&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&security=reality&sid=b2a6e3d42f05c3d1&sni=hvec.normbot.ru&type=tcp#🇸🇪 Швеция 3
+vless://60f08b02-9a8e-4dbb-8ab2-0f631a01232c@185.189.46.98:443?flow=xtls-rprx-vision&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&security=reality&sid=b2a6e3d42f05c3d1&sni=hvec.normbot.ru&type=tcp#🇸🇪 Швеция 2

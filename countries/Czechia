@@ -1,2 +1,3 @@
 vless://d3956077-6f43-4770-958a-1ad52dcf91a4@2.26.160.5:47030?flow=xtls-rprx-vision&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&security=reality&sid=e18eda8458cab0d7&sni=api-maps.yandex.ru&type=tcp#🇨🇿 Чехия 1
 vless://8a03fb9c-acf0-014a-a4ef-30fd1f32966d@144.31.129.174:443?flow=xtls-rprx-vision&fp=chrome&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&security=reality&sni=s3-ru-central-1.rucdn777.com&type=tcp#🇨🇿 Чехия 2
+vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.159.145:8443?alpn=h2&path=/&security=tls&type=tcp#🇨🇿 Чехия 3

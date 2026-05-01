@@ -1,1 +1,6 @@
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@38.180.154.151:443?flow=xtls-rprx-vision&fp=chrome&pbk=HlVA72IcquHgtVxW5zOgGZgZ5g-Lcam_BAuwzgWtGzU&security=reality&sid=126043fc44200fdd&sni=fr2.nfnpx.online&type=tcp#🇫🇷 Франция
+vless://b375b840-8ac0-4d37-98c0-44ab85fd7127@45.92.218.65:7443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=chat.deepseek.com&type=tcp#🇫🇷 Франция 1
+hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&mport=41000#🇫🇷 Франция 2
+hysteria2://dongtaiwang.com@163.172.113.118:41211?insecure=1&sni=www.microsoft.com&mport=41283,40022,41000#🇫🇷 Франция 3
+hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&mport=41000-42000#🇫🇷 Франция 4
+vless://2068a81d-4ece-41ee-b9fc-b550fe6d8eac@45.140.164.142:2083?fp=qq&packetEncoding=xudp&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&security=reality&serviceName=UpdateService&sid=6da16b1335651b38&sni=apple.com&type=grpc#🇫🇷 Франция 5
+hysteria2://dongtaiwang.com@163.172.113.118:40022?security=tls&insecure=1&sni=www.microsoft.com#🇫🇷 Франция 6

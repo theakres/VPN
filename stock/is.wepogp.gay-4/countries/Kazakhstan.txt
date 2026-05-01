@@ -1,0 +1,2 @@
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@194.87.138.206:443?flow=xtls-rprx-vision&fp=chrome&pbk=dtNbSE_g8j7maCUvjpFgaqn9X7040zWVorfne-0s418&security=reality&sid=f5155b565c29e9eb&sni=kz4.nfnpx.online&type=tcp#🇰🇿 Казахстан 1
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@194.87.138.206:443?flow=xtls-rprx-vision&fp=chrome&pbk=dtNbSE_g8j7maCUvjpFgaqn9X7040zWVorfne-0s418&security=reality&sid=ccb740da793de558&sni=kz4.nfnpx.online&type=tcp#🇰🇿 Казахстан 2

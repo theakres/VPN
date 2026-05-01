@@ -1,5 +1,0 @@
-vless://85fecfeb-86b9-4fbb-96d1-723a64a9e0f7@87.121.86.232:2040?flow=xtls-rprx-vision&fp=chrome&pbk=oBVnekuZs5-Z2W7G-O4QVP-uoPkcZT9cHJRZ90rcfgM&security=reality&sni=sun6-22.userapi.com&type=tcp#Неизвестно 1
-vless://85fecfeb-86b9-4fbb-96d1-723a64a9e0f7@89.106.89.202:2000?flow=xtls-rprx-vision&fp=chrome&pbk=oBVnekuZs5-Z2W7G-O4QVP-uoPkcZT9cHJRZ90rcfgM&security=reality&sni=yandex.ru&type=tcp#Неизвестно 2
-vless://85fecfeb-86b9-4fbb-96d1-723a64a9e0f7@185.252.177.190:2000?flow=xtls-rprx-vision&fp=chrome&pbk=oBVnekuZs5-Z2W7G-O4QVP-uoPkcZT9cHJRZ90rcfgM&security=reality&sni=yandex.ru&type=tcp#Неизвестно 3
-vless://85fecfeb-86b9-4fbb-96d1-723a64a9e0f7@95.85.250.12:2040?flow=xtls-rprx-vision&fp=chrome&pbk=oBVnekuZs5-Z2W7G-O4QVP-uoPkcZT9cHJRZ90rcfgM&security=reality&sni=sun6-22.userapi.com&type=tcp#Неизвестно 4
-vless://85fecfeb-86b9-4fbb-96d1-723a64a9e0f7@89.144.53.99:2040?flow=xtls-rprx-vision&fp=chrome&pbk=oBVnekuZs5-Z2W7G-O4QVP-uoPkcZT9cHJRZ90rcfgM&security=reality&sni=sun6-22.userapi.com&type=tcp#Неизвестно 5

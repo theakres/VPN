@@ -1,3 +1,0 @@
-trojan://mJVGfrOkZGnMywJD2uwmuXgOQ@94.131.122.254:443?host=hl-freedom-2.undef.network&path=/f2fc2a1f&security=tls&sni=HL-FREEDOM-2.UNDEF.NETWORK&type=ws#🇬🇧 Великобритания 1
-trojan://mJVGfrOkZGnMywJD2uwmuXgOQ@94.131.122.254:443?path=/f2fc2a1f&security=tls&sni=HL-FREEDOM-2.UNDEF.NETWORK&type=ws#🇬🇧 Великобритания 2
-trojan://strong-secret-pass-777@45.12.146.179:4443?allowInsecure=1&fp=chrome&security=tls&type=tcp#🇫🇮 Финляндия

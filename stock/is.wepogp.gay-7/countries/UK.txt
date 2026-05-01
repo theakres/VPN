@@ -1,3 +1,0 @@
-vless://5fd3fefa-f121-4f68-9592-e0964207fc29@5.101.83.6:443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&security=reality&sni=www.microsoft.com&type=tcp#🇬🇧 Великобритания 1
-trojan://mJVGfrOkZGnMywJD2uwmuXgOQ@94.131.122.254:443?host=hl-freedom-2.undef.network&path=/f2fc2a1f&security=tls&sni=HL-FREEDOM-2.UNDEF.NETWORK&type=ws#🇬🇧 Великобритания 2
-trojan://mJVGfrOkZGnMywJD2uwmuXgOQ@94.131.122.254:443?path=/f2fc2a1f&security=tls&sni=HL-FREEDOM-2.UNDEF.NETWORK&type=ws#🇬🇧 Великобритания 3
