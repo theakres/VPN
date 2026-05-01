@@ -1,2 +1,0 @@
-vless://7d3aad33-021a-40f7-981b-7ec29d7fc159@150.241.75.92:8443?flow=xtls-rprx-vision&fp=chrome&pbk=gYLRvAfMAg-ZYgdtA2F_rgV151csPl9z6AJTbwhqz0w&security=reality&sid=e9fe5a1007079dae&sni=market.yandex.ru&type=tcp#🇱🇻 Латвия 1
-vless://c476ac5f-07af-4346-8c42-6fd377a345f7@g7.steptofreedom.one:443?flow=xtls-rprx-vision&fp=randomized&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=g7.steptofreedom.one&type=tcp#🇱🇻 Латвия 2
