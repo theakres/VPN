@@ -1,4 +1,2 @@
 vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@38.180.207.237:443?flow=xtls-rprx-vision&fp=chrome&pbk=dtNbSE_g8j7maCUvjpFgaqn9X7040zWVorfne-0s418&security=reality&sid=33ebf55b473ae1dd&sni=kz2.nfnpx.online&type=tcp#🇰🇿 Казахстан 1
 vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@94.131.2.98:443?flow=xtls-rprx-vision&fp=chrome&pbk=dtNbSE_g8j7maCUvjpFgaqn9X7040zWVorfne-0s418&security=reality&sid=be034c908eabdd26&sni=kz1.nfnpx.online&type=tcp#🇰🇿 Казахстан 2
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@80.90.183.70:443?flow=xtls-rprx-vision&fp=chrome&pbk=dtNbSE_g8j7maCUvjpFgaqn9X7040zWVorfne-0s418&security=reality&sid=ed3eb3256dee971f&sni=kz3.nfnpx.online&type=tcp#🇰🇿 Казахстан 3
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@38.180.207.237:443?flow=xtls-rprx-vision&fp=chrome&pbk=dtNbSE_g8j7maCUvjpFgaqn9X7040zWVorfne-0s418&security=reality&sid=ed3eb3256dee971f&sni=kz2.nfnpx.online&type=tcp#🇰🇿 Казахстан 4

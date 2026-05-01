@@ -1,4 +1,4 @@
-vless://81f90eba-7bfb-4ddb-a767-e81bd0ae3252@0.0.0.0:1?encryption=none&type=tcp&security=none#❌ Приложение не поддерживается!
+vless://fba7a968-d010-4f7e-ac29-e561fad46127@0.0.0.0:1?encryption=none&type=tcp&security=none#❌ Приложение не поддерживается!
 vless://8a03fb9c-acf0-017c-a4ef-30fd1f32966d@144.31.129.174:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=s3-ru-central-1.rucdn777.com&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&fp=chrome#🇫🇮 Финляндия, Хельсинки
 vless://8a03fb9c-acf0-017c-a4ef-30fd1f32966d@158.160.231.77:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&fp=chrome#🇫🇮 Финляндия, Хельсинки
 vless://8a03fb9c-acf0-0172-a4ef-30fd1f32966d@144.31.129.174:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=s3-ru-central-1.rucdn777.com&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&fp=chrome#🇪🇪 Эстония, Таллинн
