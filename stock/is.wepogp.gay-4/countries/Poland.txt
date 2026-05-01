@@ -1,2 +1,2 @@
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@144.31.3.104:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=6d97903c0fa99917&sni=pl1.nfnpx.online&type=tcp#🇵🇱 Польша 1
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@144.31.5.220:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=ec0dc4de68e19e14&sni=pl2.nfnpx.online&type=tcp#🇵🇱 Польша 2
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@144.31.5.220:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=2735575d060b15a9&sni=pl2.nfnpx.online&type=tcp#🇵🇱 Польша 1
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@144.31.5.220:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=2de64ed5cf466e67&sni=pl2.nfnpx.online&type=tcp#🇵🇱 Польша 2

@@ -1,3 +1,3 @@
 vless://7fbeb76f-2fa1-4a5a-9f99-4dbfaafb4da2@89.127.206.169:443?flow=xtls-rprx-vision&fp=chrome&pbk=4v_4RSmE8ztHfQ4EV8Ym6J-6C8ACtYiznTHcdWJw6WA&security=reality&sid=aabbccdd&sni=www.google.com&type=tcp#🇮🇪 Ирландия 1
 vless://8a03fb9c-acf0-021c-a4ef-30fd1f32966d@144.31.129.174:443?flow=xtls-rprx-vision&fp=chrome&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&security=reality&sni=s3-ru-central-1.rucdn777.com&type=tcp#🇮🇪 Ирландия 2
-vless://45e55198-a5ad-4f19-bb39-236822141d25@213.171.31.0:8443?alpn=h2&path=/&security=tls&type=tcp#🇮🇪 Ирландия 3
+vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.158.41:8443?alpn=h2&path=/&security=tls&type=tcp#🇮🇪 Ирландия 3

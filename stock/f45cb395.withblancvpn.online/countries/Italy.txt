@@ -1,1 +1,1 @@
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.139.208:8443?alpn=h2&path=/&security=tls&type=tcp#🇮🇹 Италия
+vless://45e55198-a5ad-4f19-bb39-236822141d25@85.208.85.182:8443?alpn=h2&path=/&security=tls&type=tcp#🇮🇹 Италия

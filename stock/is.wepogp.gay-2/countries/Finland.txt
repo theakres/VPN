@@ -1,2 +1,0 @@
-vless://d3956077-6f43-4770-958a-1ad52dcf91a4@94.131.100.185:47030?flow=xtls-rprx-vision&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&security=reality&sid=e18eda8458cab0d7&sni=api-maps.yandex.ru&type=tcp#🇫🇮 Финляндия 1
-vless://d3956077-6f43-4770-958a-1ad52dcf91a4@194.164.235.74:47030?flow=xtls-rprx-vision&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&security=reality&sid=e18eda8458cab0d7&sni=api-maps.yandex.ru&type=tcp#🇫🇮 Финляндия 2
