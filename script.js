@@ -80,6 +80,12 @@ function renderProtocols(data) {
         subHtml += chip(name, sec.count, sec.file);
       subHtml += `</div></div>`;
     }
+    if (proto.encryption) {
+      subHtml += `<div><div class="proto-sub-title">Шифрование</div><div class="sub-chips">`;
+      for (const [name, enc] of Object.entries(proto.encryption))
+        subHtml += chip(name, enc.count, enc.file);
+      subHtml += `</div></div>`;
+    }
     if (proto.transports) {
       subHtml += `<div><div class="proto-sub-title">Транспорт</div><div class="sub-chips">`;
       for (const [name, tr] of Object.entries(proto.transports))
