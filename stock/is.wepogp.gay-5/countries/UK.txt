@@ -1,1 +1,2 @@
-vless://b375b840-8ac0-4d37-98c0-44ab85fd7127@107.181.134.52:7443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🇬🇧 Великобритания
+vless://b375b840-8ac0-4d37-98c0-44ab85fd7127@107.181.134.52:7443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🇬🇧 Великобритания 1
+hysteria2://hysteria2_fastlane_48eimommj:69Aibfmy1d2dgXu0Vt751VavSl0rJGyw@91.132.160.243:1935?sni=de6.h.fastlanehosting.ru#🇬🇧 Великобритания 2

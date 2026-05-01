@@ -1,1 +1,1 @@
-hysteria2://dongtaiwang.com@163.172.113.118:40022?security=tls&insecure=1&sni=www.microsoft.com#🇫🇷 Франция
+hysteria2://hysteria2_fastlane_48eimommj:69Aibfmy1d2dgXu0Vt751VavSl0rJGyw@91.132.160.243:1935?sni=de6.h.fastlanehosting.ru#🇬🇧 Великобритания

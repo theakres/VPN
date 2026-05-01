@@ -1,1 +1,2 @@
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@144.31.131.7:443?flow=xtls-rprx-vision&fp=chrome&pbk=jDJepHUL5sNTG9eiCtsWLZPrkTPDsMZUj_Yguscl0S8&security=reality&sid=e212a5d6e24e9e71&sni=by1.nfnpx.online&type=tcp#🇧🇾 Беларусь
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@144.31.131.7:443?flow=xtls-rprx-vision&fp=chrome&pbk=jDJepHUL5sNTG9eiCtsWLZPrkTPDsMZUj_Yguscl0S8&security=reality&sid=ba563e89e7d665a1&sni=by1.nfnpx.online&type=tcp#🇧🇾 Беларусь 1
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@144.31.131.7:443?flow=xtls-rprx-vision&fp=chrome&pbk=jDJepHUL5sNTG9eiCtsWLZPrkTPDsMZUj_Yguscl0S8&security=reality&sid=f73039992d7a4aeb&sni=by1.nfnpx.online&type=tcp#🇧🇾 Беларусь 2
