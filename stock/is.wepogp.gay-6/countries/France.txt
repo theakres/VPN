@@ -1,0 +1,2 @@
+vless://5fd3fefa-f121-4f68-9592-e0964207fc29@5.101.81.157:443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&security=reality&sni=www.microsoft.com&type=tcp#🇫🇷 Франция 1
+vless://b375b840-8ac0-4d37-98c0-44ab85fd7127@45.92.218.65:7443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=chat.deepseek.com&type=tcp#🇫🇷 Франция 2

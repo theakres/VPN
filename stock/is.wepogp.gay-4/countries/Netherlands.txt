@@ -1,1 +1,2 @@
-vless://ac5a09f2-be08-4076-a9f0-e0b1bed16ae4@nl.lumo.llc:19813?fp=ios&pbk=nz8jqYqPfsdsRrY4EHWdPsaQ6Q2S5wObyJa_etWqABk&security=reality&serviceName=stats&sid=8b30084499b9e066&sni=deepl.com&type=grpc#🇳🇱 Нидерланды
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@nl1.nfnpx.online:443?flow=xtls-rprx-vision&fp=chrome&pbk=dWUKzsWndrLpQtQo70Nm55KblSYTC2GEYWFYGPFn60I&security=reality&sid=f647428b7f01d8c7&sni=nl1.nfnpx.online&type=tcp#🇳🇱 Нидерланды 1
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@nl3.nfnpx.online:443?flow=xtls-rprx-vision&fp=chrome&pbk=dWUKzsWndrLpQtQo70Nm55KblSYTC2GEYWFYGPFn60I&security=reality&sid=0202911ee887c9b9&sni=nl3.nfnpx.online&type=tcp#🇳🇱 Нидерланды 2

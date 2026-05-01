@@ -1,1 +1,2 @@
-vless://ac5a09f2-be08-4076-a9f0-e0b1bed16ae4@go.stars.gift:19813?fp=edge&pbk=nz8jqYqPfsdsRrY4EHWdPsaQ6Q2S5wObyJa_etWqABk&security=reality&serviceName=stats&sid=8b30084499b9e066&sni=deepl.com&type=grpc#🇺🇸 США
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@usa2.nfnpx.online:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=c115461100d2c3f9&sni=usa2.nfnpx.online&type=tcp#🇺🇸 США 1
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@usa2.nfnpx.online:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=39cd9b50f9f3d9d7&sni=usa2.nfnpx.online&type=tcp#🇺🇸 США 2

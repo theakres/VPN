@@ -1,0 +1,3 @@
+vless://aa4480d4-0c2c-4092-8224-11265d9549c1@82.22.41.15:443?flow=xtls-rprx-vision&fp=firefox&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&security=reality&sid=db04ce8bdb8900f1&sni=google.com&type=tcp#🇵🇱 Польша 1
+vless://7c71bca8-1f80-435a-bb2d-0ad130d6d4f7@pl.hothapp.com:2066?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=u4lNvUk5pLZGl0XN-QK4xQgPQBhoJiMkOP2XZoQ99GA&security=reality&sid=d18f4e&sni=apple.com&type=tcp#🇵🇱 Польша 2
+vless://7c71bca8-1f80-435a-bb2d-0ad130d6d4f7@pl-2.hotservice.icu:2066?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=u4lNvUk5pLZGl0XN-QK4xQgPQBhoJiMkOP2XZoQ99GA&security=reality&sid=d18f4e&sni=apple.com&type=tcp#🇵🇱 Польша 3
