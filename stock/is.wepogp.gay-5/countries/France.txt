@@ -1,2 +1,3 @@
 hysteria2://811f37e7-5dfd-4e41-a176-aae13c364252@fr.verymad.net:23661?insecure=1&sni=fr.verymad.net#🇫🇷 Франция 1
 hysteria2://811f37e7-5dfd-4e41-a176-aae13c364252@fr.verymad.net:23661?sni=fr.verymad.net#🇫🇷 Франция 2
+hysteria2://dongtaiwang.com@163.172.113.118:41283?sni=www.microsoft.com&insecure=1#🇫🇷 Франция 3
