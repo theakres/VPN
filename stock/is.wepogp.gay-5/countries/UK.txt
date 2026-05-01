@@ -1,0 +1,2 @@
+trojan://mJVGfrOkZGnMywJD2uwmuXgOQ@hl-freedom-2.undef.network:443?path=/f2fc2a1f&security=tls&sni=HL-FREEDOM-2.UNDEF.NETWORK&type=ws#🇬🇧 Великобритания 1
+trojan://mJVGfrOkZGnMywJD2uwmuXgOQ@hl-freedom-2.undef.network:443?host=hl-freedom-2.undef.network&path=/f2fc2a1f&security=tls&sni=HL-FREEDOM-2.UNDEF.NETWORK&type=ws#🇬🇧 Великобритания 2

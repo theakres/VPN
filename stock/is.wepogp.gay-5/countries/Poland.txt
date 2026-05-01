@@ -1,0 +1,1 @@
+vless://8ccc116a-6ce6-49d3-a922-ecab2cc8ca17@pl.zapret-tg.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=RZ-hpUKFZeRRjQBenhvngVFmQyHgFi0z4AREvOcOJnM&security=reality&sni=pl.zapret-tg.ru&spx=/&type=tcp#🇵🇱 Польша

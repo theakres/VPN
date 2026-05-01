@@ -1,0 +1,2 @@
+vless://b3551b53-6fd7-4578-b248-6bf4a4744492@pl-waw-1.blook.network:443?flow=xtls-rprx-vision&fp=chrome&pbk=q1GJ-cUUd4FGu0ZfsXosBvyzbJmpRHrZYMidWhAqMQI&security=reality&sid=578dc0c4&sni=pl-waw-1.blook.network&spx=/&type=tcp#🇵🇱 Польша 1
+vless://6a7a3a88-59ec-49b1-96ad-fdd65d7d2195@plrr-wawrr-1.blook.network:443?fp=chrome&pbk=r5p6jqUN4YYiRBpOnSIpgtygQBlQ821NwmbzoNQhvVI&security=reality&serviceName=grpc&sid=83bd603f&sni=plrr-wawrr-1.blook.network&spx=/&type=grpc#🇵🇱 Польша 2
