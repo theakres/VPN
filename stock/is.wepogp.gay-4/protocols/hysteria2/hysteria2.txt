@@ -1,1 +1,4 @@
-hysteria2://dongtaiwang.com@163.172.113.118:41283?insecure=1&sni=www.microsoft.com&mport=40022,41000-42000#🇫🇷 Франция
+hysteria2://hysteria_master_password@72.56.122.195:443?insecure=1&sni=www.bing.com#🇩🇪 Германия 1
+hysteria2://hysteria_master_password@72.56.122.195:443?encryption=none&sni=google.com&insecure=1#🇩🇪 Германия 2
+hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&mport=41000-42000#🇫🇷 Франция 1
+hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#🇫🇷 Франция 2

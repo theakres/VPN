@@ -1,1 +1,4 @@
-vless://7d3aad33-021a-40f7-981b-7ec29d7fc159@150.241.75.92:8443?flow=xtls-rprx-vision&fp=chrome&pbk=gYLRvAfMAg-ZYgdtA2F_rgV151csPl9z6AJTbwhqz0w&security=reality&sid=e9fe5a1007079dae&sni=market.yandex.ru&type=tcp#🇱🇻 Латвия
+vless://7d3aad33-021a-40f7-981b-7ec29d7fc159@150.241.75.92:8443?flow=xtls-rprx-vision&fp=chrome&pbk=gYLRvAfMAg-ZYgdtA2F_rgV151csPl9z6AJTbwhqz0w&security=reality&sid=f8ac5ee89900f049&sni=market.yandex.ru&type=tcp#🇱🇻 Латвия 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.23.219.205:8443?allowInsecure=0&host=sni.latonyamadeline.ndjp.net&insecure=0&path=/?ed=2560&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🇱🇻 Латвия 2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.23.219.205:8443?host=sni.latonyamadeline.ndjp.net&path=/?ed=2560&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🇱🇻 Латвия 3
+vless://00fd9890-2593-44dd-bfad-a6ac93617ec1@vk2.verymad.net:39388?fp=chrome&pbk=0PtL1Of2YFrEUsPf-XmG3I67-4FaqJzP967roVUp1WA&security=reality&sid=a648864faefb23e3&sni=www.yandex.net&type=tcp#🇱🇻 Латвия 4

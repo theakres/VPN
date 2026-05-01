@@ -1,4 +1,0 @@
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?alpn=h3,h2,http/1.1&flow=xtls-rprx-vision&security=tls&type=tcp#🇵🇱 Польша 1
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?allowInsecure=1&alpn=h3,h2,http/1.1&flow=xtls-rprx-vision&insecure=1&security=tls&sni=pl74.mechvpn.online&type=tcp#🇵🇱 Польша 2
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?alpn=h3,h2,http/1.1&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇵🇱 Польша 3
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?flow=xtls-rprx-vision&fp=chrome&mode=multi&security=tls&sni=pl74.mechvpn.online&type=tcp#🇵🇱 Польша 4
