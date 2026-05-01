@@ -1,2 +1,2 @@
 hysteria2://school:JWhpSpBGQyBoKhS9wXnXqabzqgfUHti9@185.88.37.183:1935/?insecure=1&obfs=salamander&obfs-password=CW63DfvNEEtClqaHGszFiIr4nm5YSM45&sni=github.com#🇪🇪 Эстония 1
-vless://60f08b02-9a8e-4dbb-8ab2-0f631a01232c@yes.normbot.ru:443?flow=xtls-rprx-vision&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&security=reality&sid=6467aa9c086620dc&sni=yes.normbot.ru&type=tcp#🇪🇪 Эстония 2
+vless://60f08b02-9a8e-4dbb-8ab2-0f631a01232c@185.215.184.61:443?flow=xtls-rprx-vision&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&security=reality&sid=6467aa9c086620dc&sni=yes.normbot.ru&type=tcp#🇪🇪 Эстония 2

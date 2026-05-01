@@ -1,2 +1,0 @@
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@usa2.nfnpx.online:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=c115461100d2c3f9&sni=usa2.nfnpx.online&type=tcp#🇺🇸 США 1
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@usa2.nfnpx.online:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=39cd9b50f9f3d9d7&sni=usa2.nfnpx.online&type=tcp#🇺🇸 США 2

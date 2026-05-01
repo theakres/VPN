@@ -1,1 +1,1 @@
-vless://907958b1-0a01-428a-a0aa-7c921e40627f@fr-cdg-1.blook.network:443?flow=xtls-rprx-vision&fp=chrome&pbk=CL5aeP6smcd4ie9upZlYVEvuHDwLAt46BOIfHOjkMis&security=reality&sid=cae7fcef&sni=fr-cdg-1.blook.network&spx=/&type=tcp#🇫🇷 Франция
+vless://907958b1-0a01-428a-a0aa-7c921e40627f@132.243.160.138:443?flow=xtls-rprx-vision&fp=chrome&pbk=CL5aeP6smcd4ie9upZlYVEvuHDwLAt46BOIfHOjkMis&security=reality&sid=cae7fcef&sni=fr-cdg-1.blook.network&spx=/&type=tcp#🇫🇷 Франция

@@ -1,1 +1,2 @@
-vless://cead26ce-f4e0-4820-aa2c-96cf3e61fb4c@lol-sgp-0001.api.neuralrelay.stream:443?flow=xtls-rprx-vision&fp=chrome&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&security=reality&sid=27e540&sni=hls-svod.itunes.apple.com&spx=/&type=tcp#🇸🇬 Сингапур
+vless://cead26ce-f4e0-4820-aa2c-96cf3e61fb4c@5.34.176.201:443?flow=xtls-rprx-vision&fp=chrome&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&security=reality&sid=0f7e&sni=hls-svod.itunes.apple.com&spx=/&type=tcp#🇸🇬 Сингапур 1
+vless://cead26ce-f4e0-4820-aa2c-96cf3e61fb4c@5.34.176.201:443?flow=xtls-rprx-vision&fp=chrome&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&security=reality&sid=c25bd5a0bfdc06&sni=hls-svod.itunes.apple.com&spx=/&type=tcp#🇸🇬 Сингапур 2

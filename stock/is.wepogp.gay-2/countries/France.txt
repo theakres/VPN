@@ -1,0 +1,2 @@
+vless://d3956077-6f43-4770-958a-1ad52dcf91a4@86.104.74.251:47030?flow=xtls-rprx-vision&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&security=reality&sid=e18eda8458cab0d7&sni=api-maps.yandex.ru&type=tcp#🇫🇷 Франция 1
+vless://d3956077-6f43-4770-958a-1ad52dcf91a4@151.247.196.59:47030?flow=xtls-rprx-vision&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&security=reality&sid=e18eda8458cab0d7&sni=api-maps.yandex.ru&type=tcp#🇫🇷 Франция 2

@@ -1,19 +1,18 @@
-vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&headerType=none,&insecure=1&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#🇷🇺 Россия 1
-vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&headerType=none\",",&insecure=1&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#🇷🇺 Россия 2
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Россия 3
-vless://75807638-6f19-07d0-ae08-38492ee85c88@212.41.8.216:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Россия 4
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-2.edgeflux.ru:52006?flow=xtls-rprx-vision&insecure=1&security=tls&sni=cl-ru-2.edgeflux.ru&type=tcp#🇷🇺 Россия 5
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-2.edgeflux.ru:52006?flow=xtls-rprx-vision&fp=chrome&insecure=1&security=tls&type=tcp#🇷🇺 Россия 6
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-1.edgeflux.ru:52006?flow=xtls-rprx-vision&insecure=1&security=tls&sni=cl-ru-1.edgeflux.ru&type=tcp#🇷🇺 Россия 7
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-2.edgeflux.ru:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&insecure=1&security=tls&type=tcp#🇷🇺 Россия 8
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-2.edgeflux.ru:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&insecure=1&security=tls&sni=cl-ru-2.edgeflux.ru&type=tcp#🇷🇺 Россия 9
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@144.31.4.74:443?flow=xtls-rprx-vision&fp=chrome&host=pl74.mechvpn.online&path=/&security=tls&sni=pl74.mechvpn.online&type=tcp#🇷🇺 Россия 10
-vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.35:52006?allowInsecure=1&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls&sni=cluster-europe-1.firstvideocdn.ru&type=tcp#🇷🇺 Россия 11
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Россия 1
+vless://75807638-6f19-07d0-ae08-38492ee85c88@212.41.8.216:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Россия 2
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.29:52006?flow=xtls-rprx-vision&fp=chrome&insecure=1&security=tls&sni=cl-ru-1.edgeflux.ru&type=tcp#🇷🇺 Россия 3
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.35:52006?allowInsecure=1&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls&sni=cl-ru-2.edgeflux.ru&type=tcp#🇷🇺 Россия 4
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.35:52006?flow=xtls-rprx-vision&fp=chrome&insecure=1&security=tls&sni=cl-ru-2.edgeflux.ru&type=tcp#🇷🇺 Россия 5
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.29:52006?allowInsecure=1&flow=xtls-rprx-vision&security=tls&sni=cl-ru-1.edgeflux.ru&type=tcp#🇷🇺 Россия 6
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.29:52006?allowInsecure=1&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls&type=tcp#🇷🇺 Россия 7
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.35:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&insecure=1&security=tls&type=tcp#🇷🇺 Россия 8
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@152.89.244.33:443?alpn=http/1.1,h2&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls&sni=finl9.keepsecured.net&type=tcp#🇩🇪 Германия 1
-vless://5733bd25-ba0f-4ed0-8055-f5bef685da94@de1.mehab.me:443?alpn=http/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls&type=tcp#🇩🇪 Германия 2
-vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#🇬🇧 Великобритания
+vless://5733bd25-ba0f-4ed0-8055-f5bef685da94@37.1.194.51:443?alpn=http/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls&type=tcp#🇩🇪 Германия 2
+vless://Telegram-Parsashonam@3.33.186.135:443?allowInsecure=0&alpn=h2,http/1.1&host=mz-sv.netlify.app&insecure=0&mode=auto&path=/p4r34m&security=tls&sni=kubernetes.io&type=xhttp#🇩🇪 Германия 3
+vless://75807638-6f19-2710-ae08-38492ee85c88@87.228.92.146:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&headerType=none,&insecure=1&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#Неизвестно 1
+vless://75807638-6f19-2710-ae08-38492ee85c88@87.228.92.146:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&headerType=none\",",&insecure=1&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#Неизвестно 2
+vless://75807638-6f19-2710-ae08-38492ee85c88@87.228.92.146:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#🇬🇧 Великобритания
 vless://0b3e7958-e5c4-498f-ab21-b49686f95d2d@188.114.97.1:2053?fp=chrome&host=bold-term-4edd.mbigspot.workers.dev&path=/&security=tls&sni=bold-term-4edd.mbigspot.workers.dev&type=ws#🇨🇦 Канада
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?flow=xtls-rprx-vision&fp=edge&host=r1.mizulina.top&security=tls&sni=r1.mizulina.top&type=tcp#🇳🇱 Нидерланды
-vless://387f47df-bf04-47a2-9147-dd701dff3fbf@tr-ist-11-x.blook.network:443?allowInsecure=1&alpn=h2&extra={"noGRPCHeader":true,"scMaxConcurrentPosts":100,"scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000"}&fp=chrome&mode=auto&path=/VLSpdG9k&security=tls&sni=tr-ist-11-x.blook.network&type=xhttp#🇹🇷 Турция
-vless://75807638-6f19-0bb8-ae08-38492ee85c88@cl-eu-1.edgeflux.ru:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇫🇮 Финляндия
-vless://c631d469-de07-44ea-afcf-1033616e06f4@ee1.mehab.me:443?alpn=http/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls&type=tcp#🇪🇪 Эстония
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.62.253:22231?flow=xtls-rprx-vision&fp=edge&host=r1.mizulina.top&security=tls&sni=r1.mizulina.top&type=tcp#🇳🇱 Нидерланды
+vless://387f47df-bf04-47a2-9147-dd701dff3fbf@31.210.53.121:443?allowInsecure=1&alpn=h2&extra={"noGRPCHeader":true,"scMaxConcurrentPosts":100,"scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000"}&fp=chrome&mode=auto&path=/VLSpdG9k&security=tls&sni=tr-ist-11-x.blook.network&type=xhttp#🇹🇷 Турция
+vless://75807638-6f19-0bb8-ae08-38492ee85c88@87.228.94.9:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇫🇮 Финляндия
