@@ -1,1 +1,1 @@
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@ru4.nfnpx.online:50051?fp=chrome&pbk=ZKhdCZyKSfSS3bFycUzSmYiVldVzJKqT-yDnvxNpzg8&security=reality&sid=447cc520d1ad145c&sni=ru4.nfnpx.online&type=grpc#🇷🇺 Россия
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@ru3.nfnpx.online:50051?fp=chrome&pbk=ZKhdCZyKSfSS3bFycUzSmYiVldVzJKqT-yDnvxNpzg8&security=reality&sid=c115461100d2c3f9&sni=ru3.nfnpx.online&type=grpc#🇷🇺 Россия

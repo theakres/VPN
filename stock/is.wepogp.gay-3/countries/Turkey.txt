@@ -1,2 +1,2 @@
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@tr1.nfnpx.online:443?flow=xtls-rprx-vision&fp=chrome&pbk=dWUKzsWndrLpQtQo70Nm55KblSYTC2GEYWFYGPFn60I&security=reality&sid=6e77c8487eebcfe8&sni=tr1.nfnpx.online&type=tcp#🇹🇷 Турция 1
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@tr1.nfnpx.online:443?flow=xtls-rprx-vision&fp=chrome&pbk=dWUKzsWndrLpQtQo70Nm55KblSYTC2GEYWFYGPFn60I&security=reality&sid=bd9056e1719a6d6c&sni=tr1.nfnpx.online&type=tcp#🇹🇷 Турция 2
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@tr1.nfnpx.online:443?flow=xtls-rprx-vision&fp=chrome&pbk=dWUKzsWndrLpQtQo70Nm55KblSYTC2GEYWFYGPFn60I&security=reality&sid=cae363a625781abc&sni=tr1.nfnpx.online&type=tcp#🇹🇷 Турция 1
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@tr1.nfnpx.online:443?flow=xtls-rprx-vision&fp=chrome&pbk=dWUKzsWndrLpQtQo70Nm55KblSYTC2GEYWFYGPFn60I&security=reality&sid=efa035bbadeb7727&sni=tr1.nfnpx.online&type=tcp#🇹🇷 Турция 2
