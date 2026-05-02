@@ -1,1 +1,1 @@
-vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.182.30:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#🇬🇧 Великобритания
+vless://75807638-6f19-2710-ae08-38492ee85c88@cl-de-1.edgeflux.ru:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#🇬🇧 Великобритания

@@ -1,3 +1,0 @@
-trojan://162534@185.121.134.40:8443?fp=chrome&host=cchh2.pages.dev&path=/?ed=2560&security=tls&sni=cchh2.pages.dev&type=ws#🇩🇪 Германия 1
-trojan://b258245c-e64d-4a5f-913f-a6761d0ef110@150.241.70.199:443?host=free-v7-09.elbrusway.online&path=/trojan-osset&security=tls&sni=free-v7-09.elbrusway.online&type=ws#🇩🇪 Германия 2
-trojan://11559103-9993-4d00-b599-d6bcd8db2197@150.241.70.199:443?host=free-v7-09.elbrusway.online&path=/trojan-dagestan&security=tls&sni=free-v7-09.elbrusway.online&type=ws#🇩🇪 Германия 3

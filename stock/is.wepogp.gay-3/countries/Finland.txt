@@ -1,0 +1,2 @@
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@fin3.nfnpx.online:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=6d97903c0fa99917&sni=fin3.nfnpx.online&type=tcp#🇫🇮 Финляндия 1
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@fin2.nfnpx.online:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=3ee5bf27b15a6384&sni=fin2.nfnpx.online&type=tcp#🇫🇮 Финляндия 2

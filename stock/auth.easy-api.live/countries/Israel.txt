@@ -1,1 +1,0 @@
-vless://8a03fb9c-acf0-0230-a4ef-30fd1f32966d@144.31.129.174:443?flow=xtls-rprx-vision&fp=chrome&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&security=reality&sni=s3-ru-central-1.rucdn777.com&type=tcp#🇮🇱 Израиль

@@ -1,1 +1,1 @@
-vless://60f08b02-9a8e-4dbb-8ab2-0f631a01232c@152.53.66.208:443?flow=xtls-rprx-vision&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&security=reality&sid=6aa2d2e950441a9a&sni=avstrianoda.normbot.ru&type=tcp#🇦🇹 Австрия
+vless://60f08b02-9a8e-4dbb-8ab2-0f631a01232c@avstrianoda.normbot.ru:443?flow=xtls-rprx-vision&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&security=reality&sid=6aa2d2e950441a9a&sni=avstrianoda.normbot.ru&type=tcp#🇦🇹 Австрия

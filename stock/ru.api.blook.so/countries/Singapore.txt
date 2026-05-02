@@ -1,1 +1,1 @@
-vless://6014a541-9002-4de5-b582-e0e0f2e7f18c@84.32.23.37:443?flow=xtls-rprx-vision&fp=chrome&pbk=eLJZDr57FFoNrBKhF3Lx5aZBoqc_1sVRrPMZLgy3Kgk&security=reality&sid=a0be6214&sni=sg-sin-2.blook.network&spx=/&type=tcp#🇸🇬 Сингапур
+vless://6014a541-9002-4de5-b582-e0e0f2e7f18c@sg-sin-2.blook.network:443?flow=xtls-rprx-vision&fp=chrome&pbk=eLJZDr57FFoNrBKhF3Lx5aZBoqc_1sVRrPMZLgy3Kgk&security=reality&sid=a0be6214&sni=sg-sin-2.blook.network&spx=/&type=tcp#🇸🇬 Сингапур
