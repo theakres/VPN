@@ -1,2 +1,2 @@
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@198.18.0.61:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=ccb740da793de558&sni=usa2.nfnpx.online&type=tcp#🇺🇸 США 1
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@198.18.0.61:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=2735575d060b15a9&sni=usa2.nfnpx.online&type=tcp#🇺🇸 США 2
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@198.18.0.181:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=ccb740da793de558&sni=usa2.nfnpx.online&type=tcp#🇺🇸 США 1
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@198.18.0.181:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=2735575d060b15a9&sni=usa2.nfnpx.online&type=tcp#🇺🇸 США 2

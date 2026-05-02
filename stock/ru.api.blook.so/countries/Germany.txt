@@ -1,1 +1,1 @@
-vless://af28b448-b647-4dbb-8629-6a63ca5daf90@198.18.0.67:443?flow=xtls-rprx-vision&fp=chrome&pbk=uNyPARTLMtBT6AeOS61GTInVeKAMqXrVwZyR004u9Dg&security=reality&sid=a80ac422&sni=de-fra-8.blook.network&spx=/&type=tcp#🇩🇪 Германия
+vless://af28b448-b647-4dbb-8629-6a63ca5daf90@198.18.0.187:443?flow=xtls-rprx-vision&fp=chrome&pbk=uNyPARTLMtBT6AeOS61GTInVeKAMqXrVwZyR004u9Dg&security=reality&sid=a80ac422&sni=de-fra-8.blook.network&spx=/&type=tcp#🇩🇪 Германия

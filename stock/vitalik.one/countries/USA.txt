@@ -1,1 +1,1 @@
-vless://87a60a9f-36b4-4253-9bb2-7f16a4c92318@198.18.0.48:8444?flow=xtls-rprx-vision&fp=edge&pbk=0avHPgwKcQEgcKbhMAoO6NR8vj90Gw2NGzWqg37cMkQ&security=reality&sid=6fa4934031e669ac&sni=us.maxonelove.com&type=tcp#🇺🇸 США
+vless://87a60a9f-36b4-4253-9bb2-7f16a4c92318@198.18.0.168:8444?flow=xtls-rprx-vision&fp=edge&pbk=0avHPgwKcQEgcKbhMAoO6NR8vj90Gw2NGzWqg37cMkQ&security=reality&sid=63cac0be40563df9&sni=us.maxonelove.com&type=tcp#🇺🇸 США

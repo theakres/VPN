@@ -1,2 +1,2 @@
-vless://491e0d40-6e69-41e8-bee5-fa79f77fa7bd@198.18.0.75:443?flow=xtls-rprx-vision&fp=chrome&pbk=04Kor4UEaxb90YlCNktYu52799Dw5uoYeaagJ-xQ8wA&security=reality&sid=8957cb90&sni=ru-svo-1.blook.network&spx=/&type=tcp#🇷🇺 Россия 1
-vless://6bdc48cc-80c9-4f91-9671-6af13f79a534@198.18.0.79:443?flow=xtls-rprx-vision&fp=chrome&pbk=1LJ7JKcGBPqcXQMg7yQSXf66djP0y5svY1zCR5Q4PUE&security=reality&sid=95826c08&sni=vk.com&spx=/&type=tcp#🇷🇺 Россия 2
+vless://491e0d40-6e69-41e8-bee5-fa79f77fa7bd@198.18.0.195:443?flow=xtls-rprx-vision&fp=chrome&pbk=04Kor4UEaxb90YlCNktYu52799Dw5uoYeaagJ-xQ8wA&security=reality&sid=8957cb90&sni=ru-svo-1.blook.network&spx=/&type=tcp#🇷🇺 Россия 1
+vless://6bdc48cc-80c9-4f91-9671-6af13f79a534@198.18.0.199:443?flow=xtls-rprx-vision&fp=chrome&pbk=1LJ7JKcGBPqcXQMg7yQSXf66djP0y5svY1zCR5Q4PUE&security=reality&sid=95826c08&sni=vk.com&spx=/&type=tcp#🇷🇺 Россия 2

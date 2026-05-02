@@ -1,7 +1,0 @@
-vless://60f08b02-9a8e-4dbb-8ab2-0f631a01232c@90.156.219.234:443?flow=xtls-rprx-vision&fp=qq&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&security=reality&sid=a9c4f17e3b62d8&sni=api-maps.yandex.ru&type=tcp#🇷🇺 Россия 1
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Россия 2
-vless://75807638-6f19-07d0-ae08-38492ee85c88@212.41.8.216:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Россия 3
-vless://8ef19221-6d5e-4bce-baa1-7c043eae3309@132.243.112.200:443?flow=xtls-rprx-vision&fp=chrome&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&security=reality&sid=3c6fc84d&sni=stats.vk-portal.net&type=tcp#🇷🇺 Россия 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RW96aDRwc2RwcXl5MWs5VTV0eWtNRkY1@83.166.250.6:50529#🇷🇺 Россия 5
-trojan://cc8da52f7c2b4a2a9bb886ec595fe285@62.113.114.116:9443?fp=random&pbk=4-0w7mbZdx1ahuIMOV_VMXlkWdc2daX4oOSlb9P992A&security=reality&sid=aabbccdd&sni=ya.ru&type=tcp#🇷🇺 Россия 6
-ss://YWVzLTI1Ni1nY206OWYzZDFhNmQzMTQ2ODU5OQ@195.58.49.9:40901#🇷🇺 Россия 7

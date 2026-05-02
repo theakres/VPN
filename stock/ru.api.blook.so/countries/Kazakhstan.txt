@@ -1,1 +1,1 @@
-vless://9e32d103-22ed-46d3-9221-435933735bd9@198.18.0.74:443?flow=xtls-rprx-vision&fp=chrome&pbk=1qOetCE3B75XXzhHHF-0Y2fXEROUWY6gA0REH6tc8FM&security=reality&sid=6966f5d4&sni=kz-ala-2.blook.network&spx=/&type=tcp#🇰🇿 Казахстан
+vless://9e32d103-22ed-46d3-9221-435933735bd9@198.18.0.194:443?flow=xtls-rprx-vision&fp=chrome&pbk=1qOetCE3B75XXzhHHF-0Y2fXEROUWY6gA0REH6tc8FM&security=reality&sid=6966f5d4&sni=kz-ala-2.blook.network&spx=/&type=tcp#🇰🇿 Казахстан
