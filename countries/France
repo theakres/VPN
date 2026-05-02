@@ -6,3 +6,4 @@ vless://907958b1-0a01-428a-a0aa-7c921e40627f@fr-cdg-1.blook.network:443?flow=xtl
 vless://60f08b02-9a8e-4dbb-8ab2-0f631a01232c@103.112.171.178:443?flow=xtls-rprx-vision&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&security=reality&sid=3100b9f4d458f240&sni=franSkvad2.normbot.ru&type=tcp#🇫🇷 Франция 6
 vless://0f847daf-dab0-4ba7-bcbb-dabd43c7933c@205.237.104.27:8443?fp=chrome&path=/api/v2/sync&pbk=uYlJKmVHsSuCk-T9Y4CpqyR2LIP9etRZkRmDEt8-fUs&security=reality&sid=92e921968d70d4e6&sni=www.tradingview.com&type=xhttp#🇫🇷 Франция 7
 hysteria2://dongtaiwang.com@163.172.113.118:41947?insecure=1&sni=www.microsoft.com#🇫🇷 Франция 8
+vless://45e55198-a5ad-4f19-bb39-236822141d25@cdn6-49.vk-cdnvideo.com:8443?alpn=h2&path=/&security=tls&type=tcp#🇫🇷 Франция 9

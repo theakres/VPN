@@ -1,0 +1,5 @@
+vless://45e55198-a5ad-4f19-bb39-236822141d25@cdn5-19.vk-cdnvideo.com:8443?alpn=h2&path=/&security=tls&type=tcp#🇺🇸 США 1
+vless://45e55198-a5ad-4f19-bb39-236822141d25@cdn8-90.vk-cdnvideo.com:8443?alpn=h2&path=/&security=tls&type=tcp#🇺🇸 США 2
+vless://45e55198-a5ad-4f19-bb39-236822141d25@cdn2-07.vk-cdnvideo.com:8443?alpn=h2&path=/&security=tls&type=tcp#🇺🇸 США 3
+vless://45e55198-a5ad-4f19-bb39-236822141d25@cdn4-65.vk-cdnvideo.com:8443?alpn=h2&path=/&security=tls&type=tcp#🇺🇸 США 4
+vless://45e55198-a5ad-4f19-bb39-236822141d25@cdn1-42.vk-cdnvideo.com:8443?alpn=h2&path=/&security=tls&type=tcp#🇺🇸 США 5

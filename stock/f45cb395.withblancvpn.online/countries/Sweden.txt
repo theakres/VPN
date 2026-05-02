@@ -1,0 +1,6 @@
+vless://45e55198-a5ad-4f19-bb39-236822141d25@cdn9-78.vk-cdnvideo.com:8443?alpn=h2&path=/&security=tls&type=tcp#🇸🇪 Швеция 1
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/2143b884/019de70f-08c5-beb0-77e3-a42f1e379f32c&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇸🇪 Швеция 2
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/2143b884/019de70f-08c5-c9d4-77fd-91b2dde2cac5&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇸🇪 Швеция 3
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/2143b884/019de70f-08c5-cab3-7f07-8c2af015fcb37&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇸🇪 Швеция 4
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/2143b884/019de70f-08c5-ce8d-7fd3-b619a33461a1c&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇸🇪 Швеция 5
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/2143b884/019de70f-08c5-dd92-78c1-a1219f12163ca&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇸🇪 Швеция 6

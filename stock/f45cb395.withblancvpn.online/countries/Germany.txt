@@ -1,0 +1,7 @@
+vless://45e55198-a5ad-4f19-bb39-236822141d25@cdn9-33.vk-cdnvideo.com:8443?alpn=h2&path=/&security=tls&type=tcp#🇩🇪 Германия 1
+vless://45e55198-a5ad-4f19-bb39-236822141d25@cdn3-70.vk-cdnvideo.com:8443?alpn=h2&path=/&security=tls&type=tcp#🇩🇪 Германия 2
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/130cdea4/019de70f-08c5-b1c0-707c-9a37f9d18ec83&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇩🇪 Германия 3
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/130cdea4/019de70f-08c5-c40f-7268-9430d20c9790&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇩🇪 Германия 4
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/130cdea4/019de70f-08c5-c83c-749f-a51102736319c&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇩🇪 Германия 5
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/130cdea4/019de70f-08c5-c5ef-7cf2-a222c7243aea2&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇩🇪 Германия 6
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/130cdea4/019de70f-08c5-db60-7e5d-9ce546f7ac8d&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇩🇪 Германия 7
