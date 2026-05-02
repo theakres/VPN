@@ -1,1 +1,1 @@
-vless://87a60a9f-36b4-4253-9bb2-7f16a4c92318@144.31.214.42:443?flow=xtls-rprx-vision&fp=chrome&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&security=reality&sid=825867&sni=tradingview.com&type=tcp#🇫🇷 Франция
+vless://87a60a9f-36b4-4253-9bb2-7f16a4c92318@144.31.214.42:443?flow=xtls-rprx-vision&fp=chrome&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&security=reality&sid=28a059440d3d5ba1&sni=tradingview.com&type=tcp#🇫🇷 Франция

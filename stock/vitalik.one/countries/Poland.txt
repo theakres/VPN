@@ -1,1 +1,1 @@
-vless://87a60a9f-36b4-4253-9bb2-7f16a4c92318@144.31.5.46:443?flow=xtls-rprx-vision&fp=qq&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&security=reality&sid=1f7854fbfe&sni=pl.maxonelove.com&type=tcp#🇵🇱 Польша
+vless://87a60a9f-36b4-4253-9bb2-7f16a4c92318@144.31.2.24:443?flow=xtls-rprx-vision&fp=qq&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&security=reality&sid=28a059440d3d5ba1&sni=pl.maxonelove.com&type=tcp#🇵🇱 Польша

@@ -1,4 +1,4 @@
-vless://87a60a9f-36b4-4253-9bb2-7f16a4c92318@185.147.27.26:443?flow=xtls-rprx-vision&fp=qq&pbk=bqoZnQgCG5B4vLKc-mgL-CHRI06Q0H1bv9zBcpo9zjE&security=reality&sid=c05d4c564d2bcd&sni=ru.maxonelove.com&type=tcp#🇷🇺 Россия 1
-vless://87a60a9f-36b4-4253-9bb2-7f16a4c92318@158.160.235.238:52006?flow=xtls-rprx-vision&fp=chrome&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&security=reality&sid=1f7854fbfe&sni=eh.vk.com&type=tcp#🇷🇺 Россия 2
-vless://87a60a9f-36b4-4253-9bb2-7f16a4c92318@83.166.238.232:52006?flow=xtls-rprx-vision&fp=qq&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&security=reality&sid=6a608eaf9117&sni=ads.x5.ru&type=tcp#🇷🇺 Россия 3
-vless://87a60a9f-36b4-4253-9bb2-7f16a4c92318@212.233.79.115:52006?flow=xtls-rprx-vision&fp=qq&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&security=reality&sid=96962fed&sni=ads.x5.ru&type=tcp#🇷🇺 Россия 4
+vless://87a60a9f-36b4-4253-9bb2-7f16a4c92318@194.55.244.186:443?flow=xtls-rprx-vision&fp=qq&pbk=bqoZnQgCG5B4vLKc-mgL-CHRI06Q0H1bv9zBcpo9zjE&security=reality&sid=1f7854fbfe&sni=ru-02.maxonelove.com&type=tcp#🇷🇺 Россия 1
+vless://87a60a9f-36b4-4253-9bb2-7f16a4c92318@158.160.235.238:52006?flow=xtls-rprx-vision&fp=chrome&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&security=reality&sid=28a059440d3d5ba1&sni=eh.vk.com&type=tcp#🇷🇺 Россия 2
+vless://87a60a9f-36b4-4253-9bb2-7f16a4c92318@83.166.238.232:52006?flow=xtls-rprx-vision&fp=qq&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&security=reality&sid=bf45&sni=ads.x5.ru&type=tcp#🇷🇺 Россия 3
+vless://87a60a9f-36b4-4253-9bb2-7f16a4c92318@212.233.79.115:52006?flow=xtls-rprx-vision&fp=qq&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&security=reality&sid=28a059440d3d5ba1&sni=ads.x5.ru&type=tcp#🇷🇺 Россия 4

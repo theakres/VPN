@@ -1,1 +1,1 @@
-vless://c61ec320-29f1-4e00-9272-8b676e6957b4@155.212.141.69:443?flow=xtls-rprx-vision&fp=qq&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&security=reality&sid=08&sni=tradingview.com&type=tcp#Неизвестно
+vless://c61ec320-29f1-4e00-9272-8b676e6957b4@155.212.141.69:443?flow=xtls-rprx-vision&fp=qq&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&security=reality&sid=c05d4c564d2bcd&sni=tradingview.com&type=tcp#Неизвестно

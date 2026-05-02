@@ -1,0 +1,1 @@
+vless://45e55198-a5ad-4f19-bb39-236822141d25@89.232.177.88:8443?alpn=h2&path=/&security=tls&type=tcp#🇸🇰 Словакия

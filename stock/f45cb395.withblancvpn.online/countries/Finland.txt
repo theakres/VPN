@@ -1,0 +1,6 @@
+vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.156.110:8443?alpn=h2&path=/&security=tls&type=tcp#🇫🇮 Финляндия 1
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/de2fad11/019de753-0daf-78c4-7930-9d22f6c5379d8&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇫🇮 Финляндия 2
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/de2fad11/019de753-0daf-936e-7fc9-a5776c590e57&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇫🇮 Финляндия 3
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/de2fad11/019de753-0daf-9ad8-76cd-862051b1261be&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇫🇮 Финляндия 4
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/de2fad11/019de753-0daf-a6e6-7d19-a4300584e1271&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇫🇮 Финляндия 5
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp=chrome&host=cdn.lovecrafty.link&path=/stream/updates/de2fad11/019de753-0daf-b097-7d06-a63ad9917d346&security=tls&sni=cdn.tracker.yandex.net&type=ws#🇫🇮 Финляндия 6
