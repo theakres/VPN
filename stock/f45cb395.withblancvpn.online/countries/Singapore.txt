@@ -1,1 +1,1 @@
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.158.93:8443?alpn=h2&path=/&security=tls&type=tcp#🇸🇬 Сингапур
+vless://45e55198-a5ad-4f19-bb39-236822141d25@84.32.184.90:8443?alpn=h2&path=/&security=tls&type=tcp#🇸🇬 Сингапур

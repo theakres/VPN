@@ -1,5 +1,5 @@
-vless://75807638-6f19-2710-ae08-38492ee85c88@87.228.92.150:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&headerType=none,&insecure=1&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#🇷🇺 Россия 1
-vless://75807638-6f19-2710-ae08-38492ee85c88@87.228.92.150:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&headerType=none\",",&insecure=1&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#🇷🇺 Россия 2
+vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.182.30:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&headerType=none,&insecure=1&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#🇷🇺 Россия 1
+vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.182.30:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&headerType=none\",",&insecure=1&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#🇷🇺 Россия 2
 vless://60f08b02-9a8e-4dbb-8ab2-0f631a01232c@90.156.219.234:443?flow=xtls-rprx-vision&fp=qq&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&security=reality&sid=a9c4f17e3b62d8&sni=api-maps.yandex.ru&type=tcp#🇷🇺 Россия 3
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Россия 4
 vless://75807638-6f19-07d0-ae08-38492ee85c88@212.41.8.216:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Россия 5

@@ -1,1 +1,1 @@
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.157.230:8443?alpn=h2&path=/&security=tls&type=tcp#🇵🇹 Португалия
+vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.158.41:8443?alpn=h2&path=/&security=tls&type=tcp#🇵🇹 Португалия

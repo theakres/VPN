@@ -1,9 +1,5 @@
-vless://7d3aad33-021a-40f7-981b-7ec29d7fc159@82.38.135.43:8443?flow=xtls-rprx-vision&fp=chrome&pbk=gYLRvAfMAg-ZYgdtA2F_rgV151csPl9z6AJTbwhqz0w&security=reality&sid=f8ac5ee89900f049&sni=market.yandex.ru&type=tcp#🇨🇭 Швейцария 1
-vless://bafc879b-eeef-02f4-ac47-8ec6c23335e9@111.88.96.41:443?flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&security=reality&sni=cdn.trahodrom.fun&type=tcp#🇨🇭 Швейцария 2
+vless://7d3aad33-021a-40f7-981b-7ec29d7fc159@82.38.135.43:9384?flow=xtls-rprx-vision&fp=chrome&pbk=gYLRvAfMAg-ZYgdtA2F_rgV151csPl9z6AJTbwhqz0w&security=reality&sid=a1335752e0d0969a&sni=market.yandex.ru&type=tcp#🇨🇭 Швейцария 1
+vless://bafc879b-eeef-02f4-ac47-8ec6c23335e9@111.88.96.68:443?flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&security=reality&sni=cdn.trahodrom.fun&type=tcp#🇨🇭 Швейцария 2
 vless://8a03fb9c-acf0-041a-a4ef-30fd1f32966d@144.31.129.174:443?flow=xtls-rprx-vision&fp=chrome&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&security=reality&sni=s3-ru-central-1.rucdn777.com&type=tcp#🇨🇭 Швейцария 3
 vless://TMG_27dbe590acd@45.12.111.170:443?allowinsecure=0&fp=chrome&host=www.kinopoisk.ru&mode=auto&path=/p5UtOrP6LiStWC&pbk=n3BQ84N9smD_rfiaZzlyxKSZu1U8DldF63N8BkdQBkk&security=reality&sid=33&sni=www.kinopoisk.ru&spx=/&type=xhttp#🇨🇭 Швейцария 4
-vless://f189684b-6213-4c0d-a2e3-cb8860f5d4c5@31.7.61.201:443?flow=xtls-rprx-vision&fp=chrome&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&security=reality&sid=f7&sni=hls-svod.itunes.apple.com&type=tcp#🇨🇭 Швейцария 5
-vless://c603d9a2-a89a-4b62-ac96-346d3b52620c@31.7.61.201:443?flow=xtls-rprx-vision&fp=chrome&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&security=reality&sid=b7031d292d5d&sni=hls-svod.itunes.apple.com&spx=/&type=tcp#🇨🇭 Швейцария 6
-vless://c603d9a2-a89a-4b62-ac96-346d3b52620c@31.7.61.201:443?flow=xtls-rprx-vision&fp=chrome&host=hls-svod.itunes.apple.com&path=/&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&security=reality&sid=b7031d292d5d&sni=hls-svod.itunes.apple.com&type=tcp#🇨🇭 Швейцария 7
-vless://cead26ce-f4e0-4820-aa2c-96cf3e61fb4c@31.7.61.201:443?flow=xtls-rprx-vision&fp=chrome&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&security=reality&sid=c25bd5a0bfdc06&sni=hls-svod.itunes.apple.com&type=tcp#🇨🇭 Швейцария 8
-vless://45e55198-a5ad-4f19-bb39-236822141d25@45.151.30.250:8443?alpn=h2&path=/&security=tls&type=tcp#🇨🇭 Швейцария 9
+vless://45e55198-a5ad-4f19-bb39-236822141d25@178.213.18.183:8443?alpn=h2&path=/&security=tls&type=tcp#🇨🇭 Швейцария 5

@@ -1,1 +1,1 @@
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.139.238:8443?alpn=h2&path=/&security=tls&type=tcp#🇭🇰 Гонконг
+vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.156.110:8443?alpn=h2&path=/&security=tls&type=tcp#🇭🇰 Гонконг

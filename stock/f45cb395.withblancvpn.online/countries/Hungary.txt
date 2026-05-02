@@ -1,1 +1,1 @@
-vless://45e55198-a5ad-4f19-bb39-236822141d25@88.218.67.227:8443?alpn=h2&path=/&security=tls&type=tcp#🇭🇺 Венгрия
+vless://45e55198-a5ad-4f19-bb39-236822141d25@84.32.184.93:8443?alpn=h2&path=/&security=tls&type=tcp#🇭🇺 Венгрия

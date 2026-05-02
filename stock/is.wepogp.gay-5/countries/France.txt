@@ -1,2 +1,2 @@
-vless://b375b840-8ac0-4d37-98c0-44ab85fd7127@45.92.218.65:7443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=chat.deepseek.com&type=tcp#🇫🇷 Франция 1
-vless://8a03fb9c-acf0-0186-a4ef-30fd1f32966d@144.31.129.174:443?flow=xtls-rprx-vision&fp=chrome&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&security=reality&sni=s3-ru-central-1.rucdn777.com&type=tcp#🇫🇷 Франция 2
+vless://0f847daf-dab0-4ba7-bcbb-dabd43c7933c@205.237.104.27:8443?fp=chrome&path=/api/v2/sync&pbk=uYlJKmVHsSuCk-T9Y4CpqyR2LIP9etRZkRmDEt8-fUs&security=reality&sid=92e921968d70d4e6&sni=www.tradingview.com&type=xhttp#🇫🇷 Франция 1
+vless://60f08b02-9a8e-4dbb-8ab2-0f631a01232c@103.112.171.178:443?flow=xtls-rprx-vision&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&security=reality&sid=3100b9f4d458f240&sni=franSkvad2.normbot.ru&type=tcp#🇫🇷 Франция 2
