@@ -1,2 +1,2 @@
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@198.18.0.173:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=ec0dc4de68e19e14&sni=fin2.nfnpx.online&type=tcp#🇫🇮 Финляндия 1
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@198.18.0.174:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=ed3eb3256dee971f&sni=fin3.nfnpx.online&type=tcp#🇫🇮 Финляндия 2
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@213.165.59.222:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=ec0dc4de68e19e14&sni=fin2.nfnpx.online&type=tcp#🇫🇮 Финляндия 1
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@152.89.244.6:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=ed3eb3256dee971f&sni=fin3.nfnpx.online&type=tcp#🇫🇮 Финляндия 2

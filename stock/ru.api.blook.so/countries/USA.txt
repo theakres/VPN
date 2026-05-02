@@ -1,1 +1,1 @@
-vless://bc0e1f68-d005-4c04-b1f5-732de62d03d1@198.18.0.189:443?flow=xtls-rprx-vision&fp=chrome&pbk=FamtkEIjPM1tSvRTsWlgOXjlvvCG6mkwckMjUw0y7B4&security=reality&sid=42437183&sni=us-jfk-3.blook.network&spx=/&type=tcp#🇺🇸 США
+vless://bc0e1f68-d005-4c04-b1f5-732de62d03d1@84.32.34.84:443?flow=xtls-rprx-vision&fp=chrome&pbk=FamtkEIjPM1tSvRTsWlgOXjlvvCG6mkwckMjUw0y7B4&security=reality&sid=42437183&sni=us-jfk-3.blook.network&spx=/&type=tcp#🇺🇸 США

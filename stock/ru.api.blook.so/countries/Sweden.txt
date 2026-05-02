@@ -1,3 +1,3 @@
-vless://f27ffbf9-2c7c-4099-8957-109e0a13d07b@198.18.0.196:443?flow=xtls-rprx-vision&fp=chrome&pbk=0Z5jiYrDhysD2PbNrZJj8l7xYcOPOiGt1s3SeXDUMHo&security=reality&sid=ebb82200&sni=se-arn-1.blook.network&spx=/&type=tcp#🇸🇪 Швеция 1
-vless://d2140849-44ad-4d9c-a596-2ee0588b156c@198.18.0.197:443?fp=chrome&pbk=2neBenQDielZoPvaNGMsjWEHOqHRKvSEw0e1NapEmAw&security=reality&serviceName=grpc&sid=2de2202b&sni=serr-arnrr-2.blook.network&spx=/&type=grpc#🇸🇪 Швеция 2
-vless://d27505cd-cab4-4691-b411-357aa39a99cf@198.18.0.198:443?flow=xtls-rprx-vision&fp=chrome&pbk=8zLrhGYdtRzK_gWjM8Sq_gMavH2qQaUr_ZqcIVrppQ4&security=reality&sid=e8763571&sni=vk.com&spx=/&type=tcp#🇸🇪 Швеция 3
+vless://f27ffbf9-2c7c-4099-8957-109e0a13d07b@84.32.99.89:443?flow=xtls-rprx-vision&fp=chrome&pbk=0Z5jiYrDhysD2PbNrZJj8l7xYcOPOiGt1s3SeXDUMHo&security=reality&sid=ebb82200&sni=se-arn-1.blook.network&spx=/&type=tcp#🇸🇪 Швеция 1
+vless://d2140849-44ad-4d9c-a596-2ee0588b156c@84.32.99.88:443?fp=chrome&pbk=2neBenQDielZoPvaNGMsjWEHOqHRKvSEw0e1NapEmAw&security=reality&serviceName=grpc&sid=2de2202b&sni=serr-arnrr-2.blook.network&spx=/&type=grpc#🇸🇪 Швеция 2
+vless://d27505cd-cab4-4691-b411-357aa39a99cf@176.125.241.14:443?flow=xtls-rprx-vision&fp=chrome&pbk=8zLrhGYdtRzK_gWjM8Sq_gMavH2qQaUr_ZqcIVrppQ4&security=reality&sid=e8763571&sni=vk.com&spx=/&type=tcp#🇸🇪 Швеция 3

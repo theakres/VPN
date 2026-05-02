@@ -1,1 +1,1 @@
-vless://87a60a9f-36b4-4253-9bb2-7f16a4c92318@198.18.0.165:52006?flow=xtls-rprx-vision&fp=qq&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&security=reality&sid=1f7854fbfe&sni=api.vk-maps.net&type=tcp#🇩🇪 Германия
+vless://87a60a9f-36b4-4253-9bb2-7f16a4c92318@5.231.18.133:52006?flow=xtls-rprx-vision&fp=qq&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&security=reality&sid=825867&sni=api3.vk-maps.net&type=tcp#🇩🇪 Германия

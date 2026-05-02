@@ -1,3 +1,3 @@
 vless://7d3aad33-021a-40f7-981b-7ec29d7fc159@212.108.83.152:2355?flow=xtls-rprx-vision&fp=chrome&pbk=gYLRvAfMAg-ZYgdtA2F_rgV151csPl9z6AJTbwhqz0w&security=reality&sid=e9fe5a1007079dae&sni=market.yandex.ru&type=tcp#🇬🇧 Великобритания 1
-vless://85fc7980-150b-4c5b-9be6-c369ae3dfd20@198.18.0.190:443?flow=xtls-rprx-vision&fp=chrome&pbk=jfQ43JU-FeRkFdHGJT5NBCX0GZaWTZjC7N23Z2POsh8&security=reality&sid=97e4b5f5&sni=uk-lhr-1.blook.network&spx=/&type=tcp#🇬🇧 Великобритания 2
-vless://45e55198-a5ad-4f19-bb39-236822141d25@198.18.0.247:8443?alpn=h2&path=/&security=tls&type=tcp#🇬🇧 Великобритания 3
+vless://85fc7980-150b-4c5b-9be6-c369ae3dfd20@87.120.219.103:443?flow=xtls-rprx-vision&fp=chrome&pbk=jfQ43JU-FeRkFdHGJT5NBCX0GZaWTZjC7N23Z2POsh8&security=reality&sid=97e4b5f5&sni=uk-lhr-1.blook.network&spx=/&type=tcp#🇬🇧 Великобритания 2
+vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.182.30:52006?allowInsecure=1&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#🇬🇧 Великобритания 3

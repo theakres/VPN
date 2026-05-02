@@ -1,0 +1,1 @@
+vless://0b3e7958-e5c4-498f-ab21-b49686f95d2d@188.114.97.1:2053?fp=chrome&host=bold-term-4edd.mbigspot.workers.dev&path=/&security=tls&sni=bold-term-4edd.mbigspot.workers.dev&type=ws#🇨🇦 Канада
