@@ -1,1 +1,1 @@
-vless://87a60a9f-36b4-4253-9bb2-7f16a4c92318@api.works-fine.rutube.info:443?flow=xtls-rprx-vision&fp=qq&pbk=-AdhgMZeNHR2zAmGWa5peg7Ni0-e4IVMoSzydC9n7C4&security=reality&sid=08&sni=tradingview.com&type=tcp#🇱🇻 Латвия
+vless://87a60a9f-36b4-4253-9bb2-7f16a4c92318@198.18.0.43:443?flow=xtls-rprx-vision&fp=qq&pbk=-AdhgMZeNHR2zAmGWa5peg7Ni0-e4IVMoSzydC9n7C4&security=reality&sid=28a059440d3d5ba1&sni=tradingview.com&type=tcp#🇱🇻 Латвия

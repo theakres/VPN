@@ -1,2 +1,2 @@
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@ger4.nfnpx.online:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=40ac834c0e89bd62&sni=ger4.nfnpx.online&type=tcp#🇩🇪 Германия 1
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@ger5.nfnpx.online:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=6d97903c0fa99917&sni=ger5.nfnpx.online&type=tcp#🇩🇪 Германия 2
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@198.18.0.55:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=2735575d060b15a9&sni=ger2.nfnpx.online&type=tcp#🇩🇪 Германия 1
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@198.18.0.56:443?flow=xtls-rprx-vision&fp=chrome&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&security=reality&sid=2de64ed5cf466e67&sni=ger5.nfnpx.online&type=tcp#🇩🇪 Германия 2

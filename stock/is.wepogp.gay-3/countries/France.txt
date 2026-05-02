@@ -1,2 +1,2 @@
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@fr2.nfnpx.online:443?flow=xtls-rprx-vision&fp=chrome&pbk=HlVA72IcquHgtVxW5zOgGZgZ5g-Lcam_BAuwzgWtGzU&security=reality&sid=c3370f972087b9ba&sni=fr2.nfnpx.online&type=tcp#🇫🇷 Франция 1
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@fr2.nfnpx.online:443?flow=xtls-rprx-vision&fp=chrome&pbk=HlVA72IcquHgtVxW5zOgGZgZ5g-Lcam_BAuwzgWtGzU&security=reality&sid=1716e848021b896e&sni=fr2.nfnpx.online&type=tcp#🇫🇷 Франция 2
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@198.18.0.60:443?flow=xtls-rprx-vision&fp=chrome&pbk=HlVA72IcquHgtVxW5zOgGZgZ5g-Lcam_BAuwzgWtGzU&security=reality&sid=73531b645e7dda6d&sni=fr2.nfnpx.online&type=tcp#🇫🇷 Франция 1
+vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@198.18.0.60:443?flow=xtls-rprx-vision&fp=chrome&pbk=HlVA72IcquHgtVxW5zOgGZgZ5g-Lcam_BAuwzgWtGzU&security=reality&sid=152dfbc0b28dfe9f&sni=fr2.nfnpx.online&type=tcp#🇫🇷 Франция 2

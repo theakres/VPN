@@ -1,1 +1,1 @@
-vless://45e55198-a5ad-4f19-bb39-236822141d25@cdn9-93.vk-cdnvideo.com:8443?alpn=h2&path=/&security=tls&type=tcp#🇮🇹 Италия
+vless://45e55198-a5ad-4f19-bb39-236822141d25@198.18.0.137:8443?alpn=h2&path=/&security=tls&type=tcp#🇮🇹 Италия

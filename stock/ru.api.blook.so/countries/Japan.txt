@@ -1,1 +1,1 @@
-vless://414ba55d-c453-4f42-bae7-c88a89307308@jp-nrt-1.blook.network:443?flow=xtls-rprx-vision&fp=chrome&pbk=K64BDKK1ZIZis2nnBKhkhT-0Lo7iszkU9An2ydlIXQM&security=reality&sid=990dd674&sni=jp-nrt-1.blook.network&spx=/&type=tcp#🇯🇵 Япония
+vless://414ba55d-c453-4f42-bae7-c88a89307308@198.18.0.84:443?flow=xtls-rprx-vision&fp=chrome&pbk=K64BDKK1ZIZis2nnBKhkhT-0Lo7iszkU9An2ydlIXQM&security=reality&sid=990dd674&sni=jp-nrt-1.blook.network&spx=/&type=tcp#🇯🇵 Япония
