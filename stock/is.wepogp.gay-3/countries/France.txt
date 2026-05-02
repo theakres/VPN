@@ -1,2 +1,0 @@
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@38.180.154.151:443?flow=xtls-rprx-vision&fp=chrome&pbk=HlVA72IcquHgtVxW5zOgGZgZ5g-Lcam_BAuwzgWtGzU&security=reality&sid=73531b645e7dda6d&sni=fr2.nfnpx.online&type=tcp#🇫🇷 Франция 1
-vless://d3c853df-1a0b-4211-84e0-e95d28023f4f@38.180.154.151:443?flow=xtls-rprx-vision&fp=chrome&pbk=HlVA72IcquHgtVxW5zOgGZgZ5g-Lcam_BAuwzgWtGzU&security=reality&sid=152dfbc0b28dfe9f&sni=fr2.nfnpx.online&type=tcp#🇫🇷 Франция 2

@@ -1,2 +1,0 @@
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@152.89.244.33:443?alpn=http/1.1,h2&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls&sni=finl9.keepsecured.net&type=tcp#🇩🇪 Германия 1
-hysteria2://hysteria2_fastlane_kdi433t42:8141c9502ggDKXTIfMc6Qr0l0dXhcRzJ@150.241.79.106:1935?sni=de2.h.fastlanehosting.ru#🇩🇪 Германия 2

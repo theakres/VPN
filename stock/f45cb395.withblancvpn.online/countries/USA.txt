@@ -1,3 +1,0 @@
-vless://45e55198-a5ad-4f19-bb39-236822141d25@84.32.184.91:8443?alpn=h2&path=/&security=tls&type=tcp#🇺🇸 США 1
-vless://45e55198-a5ad-4f19-bb39-236822141d25@85.208.85.214:8443?alpn=h2&path=/&security=tls&type=tcp#🇺🇸 США 2
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.156.248:8443?alpn=h2&path=/&security=tls&type=tcp#🇺🇸 США 3
