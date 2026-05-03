@@ -1,3 +1,3 @@
 vless://54f66df9-4b66-4527-976f-0b05a2cf4447@95.164.55.63:443?flow=xtls-rprx-vision&fp=chrome&pbk=_4UuX1REaRypO-PGfiKkq6ZHd-qaMKySdsDpzie7FRk&security=reality&sni=login.xwhiteness.site&type=tcp#🇫🇮 Финляндия 1
 vless://54f66df9-4b66-4527-976f-0b05a2cf4447@193.233.91.68:443?flow=xtls-rprx-vision&fp=chrome&pbk=tOMbFb2oUrNQpS5RQyDOS4YFsy9xeI4ji4MeaAXJ-nQ&security=reality&sid=dc4aa6635008a9ae&sni=apple.com&type=tcp#🇫🇮 Финляндия 2
-vless://54f66df9-4b66-4527-976f-0b05a2cf4447@193.233.89.15:443?flow=xtls-rprx-vision&fp=chrome&pbk=42Du9D9zJ6Tjd7khBR5vnIQ_WO-yLBPdvz7NuvdeEHQ&security=reality&sid=dc4aa6635008a9ae&sni=apple.com&type=tcp#🇫🇮 Финляндия 3
+vless://54f66df9-4b66-4527-976f-0b05a2cf4447@193.233.91.83:443?flow=xtls-rprx-vision&fp=chrome&pbk=42Du9D9zJ6Tjd7khBR5vnIQ_WO-yLBPdvz7NuvdeEHQ&security=reality&sid=dc4aa6635008a9ae&sni=apple.com&type=tcp#🇫🇮 Финляндия 3
