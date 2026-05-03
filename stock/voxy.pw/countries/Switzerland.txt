@@ -1,0 +1,5 @@
+vless://771c9eca-7510-4b79-b546-b6dbb9af50a0@31.7.60.252:443?flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=20th.su&spx=/&type=tcp#🇨🇭 Швейцария 1
+vless://771c9eca-7510-4b79-b546-b6dbb9af50a0@31.7.60.252:443?flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=etre-belle.su&spx=/&type=tcp#🇨🇭 Швейцария 2
+vless://771c9eca-7510-4b79-b546-b6dbb9af50a0@31.7.60.252:443?flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=sibinfo.su&spx=/&type=tcp#🇨🇭 Швейцария 3
+vless://771c9eca-7510-4b79-b546-b6dbb9af50a0@31.7.60.252:443?flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=t24.su&spx=/&type=tcp#🇨🇭 Швейцария 4
+vless://771c9eca-7510-4b79-b546-b6dbb9af50a0@31.7.60.252:443?flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=boltun.su&spx=/&type=tcp#🇨🇭 Швейцария 5
