@@ -1,17 +1,25 @@
 {
- "updated_at": "2026-05-03 18:59 МСК",
- "total": 21,
+ "updated_at": "2026-05-03 19:00 МСК",
+ "total": 51,
  "protocols": {
   "VLESS": {
    "file": "https://vpn.akres.fun/protocols/vless/vless",
-   "count": 10,
+   "count": 40,
    "security": {
+    "TLS": {
+     "file": "https://vpn.akres.fun/protocols/vless/security/tls",
+     "count": 30
+    },
     "Reality": {
      "file": "https://vpn.akres.fun/protocols/vless/security/reality",
      "count": 10
     }
    },
    "transports": {
+    "WebSocket": {
+     "file": "https://vpn.akres.fun/protocols/vless/transports/ws",
+     "count": 30
+    },
     "TCP": {
      "file": "https://vpn.akres.fun/protocols/vless/transports/tcp",
      "count": 10
@@ -27,26 +35,44 @@
   "DE": {
    "flag": "🇩🇪",
    "name": "Германия",
-   "count": 3,
+   "count": 8,
    "file": "https://vpn.akres.fun/countries/Germany"
   },
   "NL": {
    "flag": "🇳🇱",
    "name": "Нидерланды",
-   "count": 3,
+   "count": 8,
    "file": "https://vpn.akres.fun/countries/Netherlands"
+  },
+  "FI": {
+   "flag": "🇫🇮",
+   "name": "Финляндия",
+   "count": 7,
+   "file": "https://vpn.akres.fun/countries/Finland"
+  },
+  "RU": {
+   "flag": "🇷🇺",
+   "name": "Россия",
+   "count": 6,
+   "file": "https://vpn.akres.fun/countries/Russia"
+  },
+  "LT": {
+   "flag": "🇱🇹",
+   "name": "Литва",
+   "count": 5,
+   "file": "https://vpn.akres.fun/countries/Lithuania"
+  },
+  "SE": {
+   "flag": "🇸🇪",
+   "name": "Швеция",
+   "count": 5,
+   "file": "https://vpn.akres.fun/countries/Sweden"
   },
   "US": {
    "flag": "🇺🇸",
    "name": "США",
    "count": 3,
    "file": "https://vpn.akres.fun/countries/USA"
-  },
-  "FI": {
-   "flag": "🇫🇮",
-   "name": "Финляндия",
-   "count": 2,
-   "file": "https://vpn.akres.fun/countries/Finland"
   },
   "CH": {
    "flag": "🇨🇭",
@@ -83,12 +109,6 @@
    "name": "Польша",
    "count": 1,
    "file": "https://vpn.akres.fun/countries/Poland"
-  },
-  "RU": {
-   "flag": "🇷🇺",
-   "name": "Россия",
-   "count": 1,
-   "file": "https://vpn.akres.fun/countries/Russia"
   },
   "TR": {
    "flag": "🇹🇷",
