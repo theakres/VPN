@@ -1,1 +1,0 @@
-vless://17c1efa3-dd76-4c76-ac7b-846d1f295c5b@voxyvpn:7777?flow=xtls-rprx-vision&fp=chrome&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&security=reality&sid=deadbeef&sni=dl.google.com&type=tcp#Неизвестно
