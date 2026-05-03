@@ -1,44 +1,5 @@
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.159.251:8443?alpn=h2&path=/&security=tls&type=tcp#🇺🇸 США 1
-vless://45e55198-a5ad-4f19-bb39-236822141d25@178.213.18.185:8443?alpn=h2&path=/&security=tls&type=tcp#🇺🇸 США 2
-vless://45e55198-a5ad-4f19-bb39-236822141d25@45.151.30.100:8443?alpn=h2&path=/&security=tls&type=tcp#🇺🇸 США 3
-vless://45e55198-a5ad-4f19-bb39-236822141d25@45.151.30.250:8443?alpn=h2&path=/&security=tls&type=tcp#🇺🇸 США 4
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.139.208:8443?alpn=h2&path=/&security=tls&type=tcp#🇺🇸 США 5
-vless://7fbeb76f-2fa1-4a5a-9f99-4dbfaafb4da2@205.172.56.16:443?flow=xtls-rprx-vision&fp=chrome&pbk=4v_4RSmE8ztHfQ4EV8Ym6J-6C8ACtYiznTHcdWJw6WA&security=reality&sid=aabbccdd&sni=www.google.com&type=tcp#🇺🇸 США 6
-vless://45e55198-a5ad-4f19-bb39-236822141d25@85.208.85.91:8443?alpn=h2&path=/&security=tls&type=tcp#🇳🇱 Нидерланды 1
-vless://7fbeb76f-2fa1-4a5a-9f99-4dbfaafb4da2@212.108.82.32:443?flow=xtls-rprx-vision&fp=chrome&pbk=4v_4RSmE8ztHfQ4EV8Ym6J-6C8ACtYiznTHcdWJw6WA&security=reality&sid=aabbccdd&sni=www.google.com&type=tcp#🇳🇱 Нидерланды 2
-vless://7fbeb76f-2fa1-4a5a-9f99-4dbfaafb4da2@89.127.206.169:443?flow=xtls-rprx-vision&fp=chrome&pbk=4v_4RSmE8ztHfQ4EV8Ym6J-6C8ACtYiznTHcdWJw6WA&security=reality&sid=aabbccdd&sni=www.google.com&type=tcp#🇳🇱 Нидерланды 3
-vless://45e55198-a5ad-4f19-bb39-236822141d25@85.208.86.82:8443?alpn=h2&path=/&security=tls&type=tcp#🇪🇸 Испания 1
-vless://7fbeb76f-2fa1-4a5a-9f99-4dbfaafb4da2@151.241.216.78:443?flow=xtls-rprx-vision&fp=chrome&pbk=4v_4RSmE8ztHfQ4EV8Ym6J-6C8ACtYiznTHcdWJw6WA&security=reality&sid=aabbccdd&sni=www.google.com&type=tcp#🇪🇸 Испания 2
-vless://45e55198-a5ad-4f19-bb39-236822141d25@84.32.99.46:8443?alpn=h2&path=/&security=tls&type=tcp#🇦🇺 Австралия
-vless://45e55198-a5ad-4f19-bb39-236822141d25@213.171.31.0:8443?alpn=h2&path=/&security=tls&type=tcp#🇦🇹 Австрия
-vless://45e55198-a5ad-4f19-bb39-236822141d25@178.213.18.184:8443?alpn=h2&path=/&security=tls&type=tcp#🇦🇷 Аргентина
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.157.187:8443?alpn=h2&path=/&security=tls&type=tcp#🇧🇪 Бельгия
-vless://45e55198-a5ad-4f19-bb39-236822141d25@84.32.99.43:8443?alpn=h2&path=/&security=tls&type=tcp#🇧🇬 Болгария
-vless://45e55198-a5ad-4f19-bb39-236822141d25@85.208.85.182:8443?alpn=h2&path=/&security=tls&type=tcp#🇧🇷 Бразилия
-vless://45e55198-a5ad-4f19-bb39-236822141d25@178.213.18.233:8443?alpn=h2&path=/&security=tls&type=tcp#🇬🇧 Великобритания
-vless://45e55198-a5ad-4f19-bb39-236822141d25@84.32.184.94:8443?alpn=h2&path=/&security=tls&type=tcp#🇭🇺 Венгрия
+vless://7fbeb76f-2fa1-4a5a-9f99-4dbfaafb4da2@212.108.82.32:443?flow=xtls-rprx-vision&fp=chrome&pbk=4v_4RSmE8ztHfQ4EV8Ym6J-6C8ACtYiznTHcdWJw6WA&security=reality&sid=aabbccdd&sni=www.google.com&type=tcp#🇳🇱 Нидерланды 1
+vless://7fbeb76f-2fa1-4a5a-9f99-4dbfaafb4da2@89.127.206.169:443?flow=xtls-rprx-vision&fp=chrome&pbk=4v_4RSmE8ztHfQ4EV8Ym6J-6C8ACtYiznTHcdWJw6WA&security=reality&sid=aabbccdd&sni=www.google.com&type=tcp#🇳🇱 Нидерланды 2
 vless://7fbeb76f-2fa1-4a5a-9f99-4dbfaafb4da2@66.151.40.22:443?flow=xtls-rprx-vision&fp=chrome&pbk=4v_4RSmE8ztHfQ4EV8Ym6J-6C8ACtYiznTHcdWJw6WA&security=reality&sid=aabbccdd&sni=www.google.com&type=tcp#🇩🇪 Германия
-vless://45e55198-a5ad-4f19-bb39-236822141d25@213.171.24.172:8443?alpn=h2&path=/&security=tls&type=tcp#🇬🇷 Греция
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.157.13:8443?alpn=h2&path=/&security=tls&type=tcp#🇮🇳 Индия
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.159.156:8443?alpn=h2&path=/&security=tls&type=tcp#🇮🇪 Ирландия
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.159.154:8443?alpn=h2&path=/&security=tls&type=tcp#🇮🇹 Италия
-vless://45e55198-a5ad-4f19-bb39-236822141d25@213.171.30.18:8443?alpn=h2&path=/&security=tls&type=tcp#🇰🇿 Казахстан
-vless://45e55198-a5ad-4f19-bb39-236822141d25@85.208.85.193:8443?alpn=h2&path=/&security=tls&type=tcp#🇨🇦 Канада
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.158.99:8443?alpn=h2&path=/&security=tls&type=tcp#🇨🇴 Колумбия
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.159.133:8443?alpn=h2&path=/&security=tls&type=tcp#🇱🇹 Литва
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.159.158:8443?alpn=h2&path=/&security=tls&type=tcp#🇲🇾 Малайзия
-vless://45e55198-a5ad-4f19-bb39-236822141d25@178.213.18.183:8443?alpn=h2&path=/&security=tls&type=tcp#🇲🇽 Мексика
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.158.233:8443?alpn=h2&path=/&security=tls&type=tcp#🇳🇴 Норвегия
-vless://45e55198-a5ad-4f19-bb39-236822141d25@213.171.31.2:8443?alpn=h2&path=/&security=tls&type=tcp#🇵🇱 Польша
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.137.16:8443?alpn=h2&path=/&security=tls&type=tcp#🇷🇺 Россия
-vless://45e55198-a5ad-4f19-bb39-236822141d25@84.32.184.90:8443?alpn=h2&path=/&security=tls&type=tcp#🇷🇴 Румыния
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.139.140:8443?alpn=h2&path=/&security=tls&type=tcp#🇸🇰 Словакия
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.159.228:8443?alpn=h2&path=/&security=tls&type=tcp#🇹🇷 Турция
-vless://45e55198-a5ad-4f19-bb39-236822141d25@89.232.177.88:8443?alpn=h2&path=/&security=tls&type=tcp#🇺🇦 Украина
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.159.91:8443?alpn=h2&path=/&security=tls&type=tcp#🇫🇮 Финляндия
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.156.248:8443?alpn=h2&path=/&security=tls&type=tcp#🇫🇷 Франция
-vless://45e55198-a5ad-4f19-bb39-236822141d25@84.32.184.91:8443?alpn=h2&path=/&security=tls&type=tcp#🇭🇷 Хорватия
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.158.132:8443?alpn=h2&path=/&security=tls&type=tcp#🇨🇿 Чехия
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.159.198:8443?alpn=h2&path=/&security=tls&type=tcp#🇨🇭 Швейцария
-vless://45e55198-a5ad-4f19-bb39-236822141d25@176.108.254.108:8443?alpn=h2&path=/&security=tls&type=tcp#🇿🇦 ЮАР
-vless://45e55198-a5ad-4f19-bb39-236822141d25@82.202.140.29:8443?alpn=h2&path=/&security=tls&type=tcp#🇰🇷 Южная Корея
+vless://7fbeb76f-2fa1-4a5a-9f99-4dbfaafb4da2@151.241.216.78:443?flow=xtls-rprx-vision&fp=chrome&pbk=4v_4RSmE8ztHfQ4EV8Ym6J-6C8ACtYiznTHcdWJw6WA&security=reality&sid=aabbccdd&sni=www.google.com&type=tcp#🇪🇸 Испания
+vless://7fbeb76f-2fa1-4a5a-9f99-4dbfaafb4da2@205.172.56.16:443?flow=xtls-rprx-vision&fp=chrome&pbk=4v_4RSmE8ztHfQ4EV8Ym6J-6C8ACtYiznTHcdWJw6WA&security=reality&sid=aabbccdd&sni=www.google.com&type=tcp#🇺🇸 США
