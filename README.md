@@ -1,7 +1,7 @@
 # VPN Configs
 
-Обновлено: **2026-05-03 09:00 МСК**
-Всего конфигов: **40**
+Обновлено: **2026-05-03 09:13 МСК**
+Всего конфигов: **51**
 
 ---
 
@@ -29,14 +29,26 @@
 
 ---
 
+### Hysteria2 (11)
+
+[Копировать](https://vpn.akres.fun/protocols/hysteria2/hysteria2)
+
+---
+
 ## По странам
 
-- 🇩🇪 **Германия** (7) — [Копировать](https://vpn.akres.fun/countries/Germany)
-- 🇳🇱 **Нидерланды** (7) — [Копировать](https://vpn.akres.fun/countries/Netherlands)
+- 🇩🇪 **Германия** (8) — [Копировать](https://vpn.akres.fun/countries/Germany)
+- 🇳🇱 **Нидерланды** (8) — [Копировать](https://vpn.akres.fun/countries/Netherlands)
+- 🇫🇮 **Финляндия** (7) — [Копировать](https://vpn.akres.fun/countries/Finland)
 - 🇷🇺 **Россия** (6) — [Копировать](https://vpn.akres.fun/countries/Russia)
-- 🇫🇮 **Финляндия** (6) — [Копировать](https://vpn.akres.fun/countries/Finland)
 - 🇱🇹 **Литва** (5) — [Копировать](https://vpn.akres.fun/countries/Lithuania)
 - 🇸🇪 **Швеция** (5) — [Копировать](https://vpn.akres.fun/countries/Sweden)
-- 🇺🇸 **США** (2) — [Копировать](https://vpn.akres.fun/countries/USA)
+- 🇺🇸 **США** (3) — [Копировать](https://vpn.akres.fun/countries/USA)
+- 🇨🇭 **Швейцария** (2) — [Копировать](https://vpn.akres.fun/countries/Switzerland)
+- 🇦🇹 **Австрия** (1) — [Копировать](https://vpn.akres.fun/countries/Austria)
+- 🇧🇪 **Бельгия** (1) — [Копировать](https://vpn.akres.fun/countries/Belgium)
+- 🇬🇧 **Великобритания** (1) — [Копировать](https://vpn.akres.fun/countries/UK)
 - 🇪🇸 **Испания** (1) — [Копировать](https://vpn.akres.fun/countries/Spain)
-- 🇨🇭 **Швейцария** (1) — [Копировать](https://vpn.akres.fun/countries/Switzerland)
+- 🇵🇱 **Польша** (1) — [Копировать](https://vpn.akres.fun/countries/Poland)
+- 🇹🇷 **Турция** (1) — [Копировать](https://vpn.akres.fun/countries/Turkey)
+- 🇫🇷 **Франция** (1) — [Копировать](https://vpn.akres.fun/countries/France)

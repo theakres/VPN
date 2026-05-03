@@ -1,1 +1,2 @@
-vless://baf58265-6974-4cf8-8590-97231319e312@150.241.95.254:443?flow=xtls-rprx-vision&fp=chrome&pbk=vE113ytfg2fUQhXxEq8Ypj_CDV0G8QRTZcyBjk5FA2Q&security=reality&sid=c313813144&sni=vk.com&type=tcp#🇩🇪 Германия
+hysteria2://hysteria2_fastlane_tb38rqc78:SVWpYZF965puKyxvMeDIQAI3jSIuTUWg@2.27.29.158:1935/?sni=de10.h.fastlanehosting.ru&insecure=1#🇩🇪 Германия 1
+vless://baf58265-6974-4cf8-8590-97231319e312@150.241.95.254:443?flow=xtls-rprx-vision&fp=chrome&pbk=vE113ytfg2fUQhXxEq8Ypj_CDV0G8QRTZcyBjk5FA2Q&security=reality&sid=c313813144&sni=vk.com&spx=/video&type=tcp#🇩🇪 Германия 2
