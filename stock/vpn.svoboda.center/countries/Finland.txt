@@ -1,0 +1,2 @@
+vless://82d10a12-3df3-49be-a5b9-fba3ad091272@5.10.213.144:443?flow=xtls-rprx-vision&fp=chrome&pbk=c7ZErLG_xbyKs-WwNIoBuH4GTEVoNuwXz4bulmhGkmM&security=reality&sid=f97ff157&sni=www.vauva.fi&type=tcp#🇫🇮 Финляндия 1
+vless://754bb54d-d268-0001-86d8-dfd5687d3d0f@185.11.246.176:443?flow=xtls-rprx-vision&fp=chrome&pbk=skQrUvqTYNsmUQiEFd2ySa94etOjlEQz6JbHwtgRclk&security=reality&sid=d6a66bb4&sni=www.sravni.ru&type=tcp#🇫🇮 Финляндия 2

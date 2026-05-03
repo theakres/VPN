@@ -1,1 +1,1 @@
-vless://17c1efa3-dd76-4c76-ac7b-846d1f295c5b@usa.voxyvpn.ru:8443?flow=xtls-rprx-vision&fp=chrome&pbk=l78iryfyBl_JIg0KXgb0VQ3zxfhtkD1odwO09qs9SH4&security=reality&sid=deadbeef&sni=apple.com&type=tcp#🇺🇸 США
+vless://17c1efa3-dd76-4c76-ac7b-846d1f295c5b@103.113.70.171:8443?flow=xtls-rprx-vision&fp=chrome&pbk=l78iryfyBl_JIg0KXgb0VQ3zxfhtkD1odwO09qs9SH4&security=reality&sid=deadbeef&sni=apple.com&type=tcp#🇺🇸 США
