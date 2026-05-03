@@ -1,1 +1,0 @@
-vless://54f66df9-4b66-4527-976f-0b05a2cf4447@144.31.50.120:443?flow=xtls-rprx-vision&fp=chrome&pbk=FKOb-jxH0ibglDZWGTJBCoN-wqSmL7inG8m1PVu05Vg&security=reality&sid=dc4aa6635008a9ae&sni=deepl.com&type=tcp#🇨🇭 Швейцария
