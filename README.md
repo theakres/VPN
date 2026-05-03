@@ -1,7 +1,7 @@
 # VPN Configs
 
-Обновлено: **2026-05-03 09:13 МСК**
-Всего конфигов: **51**
+Обновлено: **2026-05-03 10:31 МСК**
+Всего конфигов: **82**
 
 ---
 
@@ -13,19 +13,19 @@
 
 ## Протоколы
 
-### VLESS (40)
+### VLESS (71)
 
 [Копировать](https://vpn.akres.fun/protocols/vless/vless)
 
 **По защите:**
 
+- Reality (41) — [Копировать](https://vpn.akres.fun/protocols/vless/security/reality)
 - TLS (30) — [Копировать](https://vpn.akres.fun/protocols/vless/security/tls)
-- Reality (10) — [Копировать](https://vpn.akres.fun/protocols/vless/security/reality)
 
 **По транспорту:**
 
+- TCP (41) — [Копировать](https://vpn.akres.fun/protocols/vless/transports/tcp)
 - WebSocket (30) — [Копировать](https://vpn.akres.fun/protocols/vless/transports/ws)
-- TCP (10) — [Копировать](https://vpn.akres.fun/protocols/vless/transports/tcp)
 
 ---
 
@@ -37,18 +37,20 @@
 
 ## По странам
 
-- 🇩🇪 **Германия** (8) — [Копировать](https://vpn.akres.fun/countries/Germany)
-- 🇳🇱 **Нидерланды** (8) — [Копировать](https://vpn.akres.fun/countries/Netherlands)
-- 🇫🇮 **Финляндия** (7) — [Копировать](https://vpn.akres.fun/countries/Finland)
-- 🇷🇺 **Россия** (6) — [Копировать](https://vpn.akres.fun/countries/Russia)
-- 🇱🇹 **Литва** (5) — [Копировать](https://vpn.akres.fun/countries/Lithuania)
+- 🇩🇪 **Германия** (16) — [Копировать](https://vpn.akres.fun/countries/Germany)
+- 🇷🇺 **Россия** (15) — [Копировать](https://vpn.akres.fun/countries/Russia)
+- 🇳🇱 **Нидерланды** (11) — [Копировать](https://vpn.akres.fun/countries/Netherlands)
+- 🇫🇮 **Финляндия** (10) — [Копировать](https://vpn.akres.fun/countries/Finland)
+- 🇱🇹 **Литва** (6) — [Копировать](https://vpn.akres.fun/countries/Lithuania)
 - 🇸🇪 **Швеция** (5) — [Копировать](https://vpn.akres.fun/countries/Sweden)
-- 🇺🇸 **США** (3) — [Копировать](https://vpn.akres.fun/countries/USA)
-- 🇨🇭 **Швейцария** (2) — [Копировать](https://vpn.akres.fun/countries/Switzerland)
+- 🇺🇸 **США** (4) — [Копировать](https://vpn.akres.fun/countries/USA)
+- 🇨🇭 **Швейцария** (3) — [Копировать](https://vpn.akres.fun/countries/Switzerland)
+- 🇬🇧 **Великобритания** (2) — [Копировать](https://vpn.akres.fun/countries/UK)
+- 🇵🇱 **Польша** (2) — [Копировать](https://vpn.akres.fun/countries/Poland)
+- 🇫🇷 **Франция** (2) — [Копировать](https://vpn.akres.fun/countries/France)
 - 🇦🇹 **Австрия** (1) — [Копировать](https://vpn.akres.fun/countries/Austria)
 - 🇧🇪 **Бельгия** (1) — [Копировать](https://vpn.akres.fun/countries/Belgium)
-- 🇬🇧 **Великобритания** (1) — [Копировать](https://vpn.akres.fun/countries/UK)
 - 🇪🇸 **Испания** (1) — [Копировать](https://vpn.akres.fun/countries/Spain)
-- 🇵🇱 **Польша** (1) — [Копировать](https://vpn.akres.fun/countries/Poland)
+- 🇱🇻 **Латвия** (1) — [Копировать](https://vpn.akres.fun/countries/Latvia)
 - 🇹🇷 **Турция** (1) — [Копировать](https://vpn.akres.fun/countries/Turkey)
-- 🇫🇷 **Франция** (1) — [Копировать](https://vpn.akres.fun/countries/France)
+- 🇪🇪 **Эстония** (1) — [Копировать](https://vpn.akres.fun/countries/Estonia)
