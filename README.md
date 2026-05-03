@@ -1,6 +1,6 @@
 # VPN Configs
 
-Обновлено: **2026-05-03 10:34 МСК**
+Обновлено: **2026-05-03 10:35 МСК**
 Всего конфигов: **83**
 
 ---
@@ -37,7 +37,7 @@
 
 ## По странам
 
-- 🇩🇪 **Германия** (17) — [Копировать](https://vpn.akres.fun/countries/Germany)
+- 🇩🇪 **Германия** (16) — [Копировать](https://vpn.akres.fun/countries/Germany)
 - 🇷🇺 **Россия** (15) — [Копировать](https://vpn.akres.fun/countries/Russia)
 - 🇳🇱 **Нидерланды** (11) — [Копировать](https://vpn.akres.fun/countries/Netherlands)
 - 🇫🇮 **Финляндия** (10) — [Копировать](https://vpn.akres.fun/countries/Finland)
@@ -52,5 +52,6 @@
 - 🇧🇪 **Бельгия** (1) — [Копировать](https://vpn.akres.fun/countries/Belgium)
 - 🇪🇸 **Испания** (1) — [Копировать](https://vpn.akres.fun/countries/Spain)
 - 🇱🇻 **Латвия** (1) — [Копировать](https://vpn.akres.fun/countries/Latvia)
+- 🇳🇴 **Норвегия** (1) — [Копировать](https://vpn.akres.fun/countries/Norway)
 - 🇹🇷 **Турция** (1) — [Копировать](https://vpn.akres.fun/countries/Turkey)
 - 🇪🇪 **Эстония** (1) — [Копировать](https://vpn.akres.fun/countries/Estonia)
