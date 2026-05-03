@@ -1,6 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmcnpKaF9OMlFrY1I4WldOUG15X3IwOUN3YTRoNEpMUw==@nl3.voxyvpn.ru:9999#🇳🇱 Нидерланды 1
 vless://17c1efa3-dd76-4c76-ac7b-846d1f295c5b@nl1.voxyvpn.ru:6443?flow=xtls-rprx-vision&fp=chrome&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&security=reality&sid=deadbeef&sni=dl.google.com&type=tcp#🇳🇱 Нидерланды 2
 vless://17c1efa3-dd76-4c76-ac7b-846d1f295c5b@nl3.voxyvpn.ru:6443?flow=xtls-rprx-vision&fp=chrome&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&security=reality&sid=deadbeef&sni=dl.google.com&type=tcp#🇳🇱 Нидерланды 3
-vless://17c1efa3-dd76-4c76-ac7b-846d1f295c5b@vk2.voxyvpn.ru:9443?flow=xtls-rprx-vision&fp=chrome&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&security=reality&sid=a94fbc12e3d4&sni=ads.x5.ru&type=tcp#🇳🇱 Нидерланды 4
+vless://17c1efa3-dd76-4c76-ac7b-846d1f295c5b@vk2.voxyvpn.ru:9443?flow=xtls-rprx-vision&fp=chrome&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&security=reality&sid=c3d8aa&sni=ads.x5.ru&type=tcp#🇳🇱 Нидерланды 4
 vless://17c1efa3-dd76-4c76-ac7b-846d1f295c5b@tw.voxyvpn.ru:9443?flow=xtls-rprx-vision&fp=chrome&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&security=reality&sid=6d021e&sni=ads.x5.ru&type=tcp#🇳🇱 Нидерланды 5
-vless://17c1efa3-dd76-4c76-ac7b-846d1f295c5b@ya.voxyvpn.ru:9443?flow=xtls-rprx-vision&fp=ios&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&security=reality&sid=6d021e&sni=ads.x5.ru&type=tcp#🇳🇱 Нидерланды 6
+vless://17c1efa3-dd76-4c76-ac7b-846d1f295c5b@ya.voxyvpn.ru:9443?flow=xtls-rprx-vision&fp=ios&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&security=reality&sid=c3d8aa&sni=ads.x5.ru&type=tcp#🇳🇱 Нидерланды 6

@@ -1,3 +1,0 @@
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443?alpn=http/1.1,h2&flow=xtls-rprx-vision&security=tls&sni=nlety.ksnodes.net&type=tcp#🇦🇪 ОАЭ 1
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443?flow=xtls-rprx-vision&security=tls&sni=nlety.ksnodes.net&type=tcp#🇦🇪 ОАЭ 2
-vless://4e8d48bb-3c03-4e02-b15f-a76737cca9e7@84.54.31.117:444?flow=xtls-rprx-vision&fp=chrome&pbk=-Tj46yKjFq-x9lbLMoOoLN18PKi7BvVHaqnkvnGCB3s&security=reality&sid=90abcd&sni=yandex.ru&type=tcp#🇦🇪 ОАЭ 3

@@ -1,6 +1,0 @@
-vless://75807638-6f19-07d0-ae08-38492ee85c88@91.206.14.229:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Россия 1
-vless://75807638-6f19-07d0-ae08-38492ee85c88@91.206.14.229:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cluster-russia-1.firstvideocdn.ru&type=tcp#🇷🇺 Россия 2
-vless://75807638-6f19-07d0-ae08-38492ee85c88@91.206.14.229:52006?flow=xtls-rprx-vision&security=tls&sni=cluster-russia-1.firstvideocdn.ru&type=tcp#🇷🇺 Россия 3
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443?alpn=http/1.1,h2&flow=xtls-rprx-vision&security=tls&sni=nlety.ksnodes.net&type=tcp#🇦🇪 ОАЭ 1
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443?flow=xtls-rprx-vision&security=tls&sni=nlety.ksnodes.net&type=tcp#🇦🇪 ОАЭ 2
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@45.151.183.111:443?alpn=http/1.1,h2&flow=xtls-rprx-vision&security=tls&sni=czu.ksnodes.net&type=tcp#🇨🇿 Чехия
