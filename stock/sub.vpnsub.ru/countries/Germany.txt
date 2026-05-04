@@ -1,0 +1,2 @@
+vless://d7dcc39e-e43d-44e7-ad35-a3726dc51060@95.85.227.185:443?flow=xtls-rprx-vision&fp=firefox&pbk=Db9LqZCurs0KyNxhW20sBImFIi3-68Am4M_mmgx7EwY&security=reality&sid=57b212a6a3d23173&sni=ya.ru&type=tcp#🇩🇪 Германия 1
+vless://d7dcc39e-e43d-44e7-ad35-a3726dc51060@45.12.254.41:443?flow=xtls-rprx-vision&fp=firefox&pbk=Db9LqZCurs0KyNxhW20sBImFIi3-68Am4M_mmgx7EwY&security=reality&sid=57b212a6a3d23173&sni=ya.ru&type=tcp#🇩🇪 Германия 2
