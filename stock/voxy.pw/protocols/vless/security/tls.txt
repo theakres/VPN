@@ -1,1 +1,1 @@
-vless://17c1efa3-dd76-4c76-ac7b-846d1f295c5b@91.238.111.224:443?allowInsecure=1&alpn=h2,http/1.1&fp=ios&mode=packet-up&path=/xhttp&security=tls&sni=test.crackable.fun&type=xhttp#🇳🇴 Норвегия
+vless://17c1efa3-dd76-4c76-ac7b-846d1f295c5b@91.238.111.248:443?allowInsecure=1&alpn=h2,http/1.1&fp=ios&mode=packet-up&path=/xhttp&security=tls&sni=test.crackable.fun&type=xhttp#🇳🇴 Норвегия
