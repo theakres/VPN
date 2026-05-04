@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-05-04 15:37 МСК",
- "total": 115,
+ "updated_at": "2026-05-04 15:49 МСК",
+ "total": 128,
  "protocols": {
   "VLESS": {
    "file": "https://vpn.akres.fun/protocols/vless/vless",
-   "count": 103,
+   "count": 116,
    "security": {
     "Reality": {
      "file": "https://vpn.akres.fun/protocols/vless/security/reality",
-     "count": 72
+     "count": 85
     },
     "TLS": {
      "file": "https://vpn.akres.fun/protocols/vless/security/tls",
@@ -18,7 +18,7 @@
    "transports": {
     "TCP": {
      "file": "https://vpn.akres.fun/protocols/vless/transports/tcp",
-     "count": 67
+     "count": 79
     },
     "WebSocket": {
      "file": "https://vpn.akres.fun/protocols/vless/transports/ws",
@@ -26,7 +26,7 @@
     },
     "gRPC": {
      "file": "https://vpn.akres.fun/protocols/vless/transports/grpc",
-     "count": 5
+     "count": 6
     },
     "XHTTP": {
      "file": "https://vpn.akres.fun/protocols/vless/transports/xhttp",
@@ -53,19 +53,19 @@
   "NL": {
    "flag": "🇳🇱",
    "name": "Нидерланды",
-   "count": 19,
+   "count": 22,
    "file": "https://vpn.akres.fun/countries/Netherlands"
   },
   "DE": {
    "flag": "🇩🇪",
    "name": "Германия",
-   "count": 18,
+   "count": 21,
    "file": "https://vpn.akres.fun/countries/Germany"
   },
   "RU": {
    "flag": "🇷🇺",
    "name": "Россия",
-   "count": 18,
+   "count": 21,
    "file": "https://vpn.akres.fun/countries/Russia"
   },
   "FI": {
@@ -77,7 +77,7 @@
   "US": {
    "flag": "🇺🇸",
    "name": "США",
-   "count": 8,
+   "count": 9,
    "file": "https://vpn.akres.fun/countries/USA"
   },
   "LT": {
@@ -85,6 +85,12 @@
    "name": "Литва",
    "count": 6,
    "file": "https://vpn.akres.fun/countries/Lithuania"
+  },
+  "EE": {
+   "flag": "🇪🇪",
+   "name": "Эстония",
+   "count": 6,
+   "file": "https://vpn.akres.fun/countries/Estonia"
   },
   "SE": {
    "flag": "🇸🇪",
@@ -109,12 +115,6 @@
    "name": "Польша",
    "count": 3,
    "file": "https://vpn.akres.fun/countries/Poland"
-  },
-  "EE": {
-   "flag": "🇪🇪",
-   "name": "Эстония",
-   "count": 3,
-   "file": "https://vpn.akres.fun/countries/Estonia"
   },
   "GB": {
    "flag": "🇬🇧",
