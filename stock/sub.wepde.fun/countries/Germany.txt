@@ -1,0 +1,2 @@
+vless://4d06f190-266c-08ae-b334-11f374513d10@193.58.122.51:443?flow=xtls-rprx-vision&pbk=VtH-C4xWPaUHx7Z0ejJZwH1dPk0JoiytRhM4jjmGtiU&security=reality&sni=google.com&type=tcp#🇩🇪 Германия 1
+vless://4d06f190-266c-08ae-b334-11f374513d10@37.18.15.91:2096?flow=xtls-rprx-vision&pbk=ZE2C3BLzCbbQePEaxqVnFrqT8U-D7UVsNX5cNfEuLH8&security=reality&sni=eh.vk.ru&type=tcp#🇩🇪 Германия 2

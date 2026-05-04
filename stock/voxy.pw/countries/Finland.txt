@@ -1,4 +1,4 @@
 vless://17c1efa3-dd76-4c76-ac7b-846d1f295c5b@94.156.180.64:6443?flow=xtls-rprx-vision&fp=chrome&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&security=reality&sid=deadbeef&sni=dl.google.com&type=tcp#🇫🇮 Финляндия 1
-vless://17c1efa3-dd76-4c76-ac7b-846d1f295c5b@185.84.163.75:8443?flow=xtls-rprx-vision&fp=chrome&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&security=reality&sid=91fe&sni=promo.myapelsin.ru&type=tcp#🇫🇮 Финляндия 2
-vless://17c1efa3-dd76-4c76-ac7b-846d1f295c5b@37.139.42.96:8443?flow=xtls-rprx-vision&fp=chrome&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&security=reality&sid=91fe&sni=promo.myapelsin.ru&type=tcp#🇫🇮 Финляндия 3
-vless://17c1efa3-dd76-4c76-ac7b-846d1f295c5b@51.250.70.16:8443?flow=xtls-rprx-vision&fp=ios&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&security=reality&sid=91fe&sni=ads.x5.ru&type=tcp#🇫🇮 Финляндия 4
+vless://17c1efa3-dd76-4c76-ac7b-846d1f295c5b@185.84.163.75:8443?flow=xtls-rprx-vision&fp=chrome&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&security=reality&sid=a94fbc12e3d4&sni=promo.myapelsin.ru&type=tcp#🇫🇮 Финляндия 2
+vless://17c1efa3-dd76-4c76-ac7b-846d1f295c5b@37.139.42.96:8443?flow=xtls-rprx-vision&fp=chrome&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&security=reality&sid=c3d8aa&sni=promo.myapelsin.ru&type=tcp#🇫🇮 Финляндия 3
+vless://17c1efa3-dd76-4c76-ac7b-846d1f295c5b@51.250.70.16:8443?flow=xtls-rprx-vision&fp=ios&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&security=reality&sid=ff02ab19&sni=ads.x5.ru&type=tcp#🇫🇮 Финляндия 4
