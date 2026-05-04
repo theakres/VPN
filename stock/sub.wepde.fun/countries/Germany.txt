@@ -1,3 +1,3 @@
-vless://4d06f190-266c-08ae-b334-11f374513d10@94.156.122.153:443?flow=xtls-rprx-vision&fp=chrome&pbk=jJiCR2Z2gHmSNv7L_6zvwZjNjkh4kLI1gihTnIKcP1k&security=reality&sni=google.com&type=tcp#🇩🇪 Германия 1
-vless://4d06f190-266c-08ae-b334-11f374513d10@37.18.15.91:2096?flow=xtls-rprx-vision&fp=chrome&pbk=ZE2C3BLzCbbQePEaxqVnFrqT8U-D7UVsNX5cNfEuLH8&security=reality&sni=eh.vk.ru&type=tcp#🇩🇪 Германия 2
-vless://4d06f190-266c-08ae-b334-11f374513d10@94.156.122.153:443?flow=xtls-rprx-vision&fp=chrome&pbk=W9BJXdMpnQVlS1dbQi61ETz3Vcx7iZ2_OsjMNE4Jn0Y&security=reality&sni=google.com&type=tcp#🇩🇪 Германия 3
+vless://4d06f190-266c-08ae-b334-11f374513d10@94.156.122.153:443?flow=xtls-rprx-vision&pbk=jJiCR2Z2gHmSNv7L_6zvwZjNjkh4kLI1gihTnIKcP1k&security=reality&sni=google.com&type=tcp#🇩🇪 Германия 1
+vless://4d06f190-266c-08ae-b334-11f374513d10@37.18.15.91:2096?flow=xtls-rprx-vision&pbk=ZE2C3BLzCbbQePEaxqVnFrqT8U-D7UVsNX5cNfEuLH8&security=reality&sni=eh.vk.ru&type=tcp#🇩🇪 Германия 2
+vless://4d06f190-266c-08ae-b334-11f374513d10@94.156.122.153:443?flow=xtls-rprx-vision&pbk=W9BJXdMpnQVlS1dbQi61ETz3Vcx7iZ2_OsjMNE4Jn0Y&security=reality&sni=google.com&type=tcp#🇩🇪 Германия 3

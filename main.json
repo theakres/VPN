@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-05-04 16:35 МСК",
- "total": 193,
+ "updated_at": "2026-05-04 17:05 МСК",
+ "total": 195,
  "protocols": {
   "VLESS": {
    "file": "https://vpn.akres.fun/protocols/vless/vless",
-   "count": 181,
+   "count": 183,
    "security": {
     "Reality": {
      "file": "https://vpn.akres.fun/protocols/vless/security/reality",
-     "count": 138
+     "count": 140
     },
     "TLS": {
      "file": "https://vpn.akres.fun/protocols/vless/security/tls",
@@ -18,7 +18,7 @@
    "transports": {
     "TCP": {
      "file": "https://vpn.akres.fun/protocols/vless/transports/tcp",
-     "count": 110
+     "count": 112
     },
     "WebSocket": {
      "file": "https://vpn.akres.fun/protocols/vless/transports/ws",
@@ -53,7 +53,7 @@
   "RU": {
    "flag": "🇷🇺",
    "name": "Россия",
-   "count": 48,
+   "count": 50,
    "file": "https://vpn.akres.fun/countries/Russia"
   },
   "NL": {
