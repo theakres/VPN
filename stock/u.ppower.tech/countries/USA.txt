@@ -1,0 +1,1 @@
+vless://bb943368-d676-40a5-918f-a27d95bc366e@82.146.56.132:443?extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&fp=chrome&mode=auto&path=/ws&pbk=i3F_hP7yc9VpcUC2Vn1oAqLyW3hZayGdTybl-VnWdz0&security=reality&sid=02827ef87f4a23c0&sni=stats.vk-portal.net&type=xhttp#🇺🇸 США

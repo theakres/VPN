@@ -1,0 +1,1 @@
+vless://a74649e5-8019-4a2a-abc9-39ab93fb48a3@51.250.40.186:8443?flow=xtls-rprx-vision&pbk=rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A&security=reality&sni=max.ru&type=tcp#🇫🇮 Финляндия
