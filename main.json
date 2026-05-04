@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-05-04 15:49 МСК",
- "total": 128,
+ "updated_at": "2026-05-04 16:10 МСК",
+ "total": 119,
  "protocols": {
   "VLESS": {
    "file": "https://vpn.akres.fun/protocols/vless/vless",
-   "count": 116,
+   "count": 107,
    "security": {
     "Reality": {
      "file": "https://vpn.akres.fun/protocols/vless/security/reality",
-     "count": 85
+     "count": 76
     },
     "TLS": {
      "file": "https://vpn.akres.fun/protocols/vless/security/tls",
@@ -18,7 +18,7 @@
    "transports": {
     "TCP": {
      "file": "https://vpn.akres.fun/protocols/vless/transports/tcp",
-     "count": 79
+     "count": 70
     },
     "WebSocket": {
      "file": "https://vpn.akres.fun/protocols/vless/transports/ws",
@@ -56,22 +56,22 @@
    "count": 22,
    "file": "https://vpn.akres.fun/countries/Netherlands"
   },
-  "DE": {
-   "flag": "🇩🇪",
-   "name": "Германия",
-   "count": 21,
-   "file": "https://vpn.akres.fun/countries/Germany"
-  },
   "RU": {
    "flag": "🇷🇺",
    "name": "Россия",
    "count": 21,
    "file": "https://vpn.akres.fun/countries/Russia"
   },
+  "DE": {
+   "flag": "🇩🇪",
+   "name": "Германия",
+   "count": 16,
+   "file": "https://vpn.akres.fun/countries/Germany"
+  },
   "FI": {
    "flag": "🇫🇮",
    "name": "Финляндия",
-   "count": 15,
+   "count": 14,
    "file": "https://vpn.akres.fun/countries/Finland"
   },
   "US": {
@@ -85,12 +85,6 @@
    "name": "Литва",
    "count": 6,
    "file": "https://vpn.akres.fun/countries/Lithuania"
-  },
-  "EE": {
-   "flag": "🇪🇪",
-   "name": "Эстония",
-   "count": 6,
-   "file": "https://vpn.akres.fun/countries/Estonia"
   },
   "SE": {
    "flag": "🇸🇪",
@@ -115,6 +109,12 @@
    "name": "Польша",
    "count": 3,
    "file": "https://vpn.akres.fun/countries/Poland"
+  },
+  "EE": {
+   "flag": "🇪🇪",
+   "name": "Эстония",
+   "count": 3,
+   "file": "https://vpn.akres.fun/countries/Estonia"
   },
   "GB": {
    "flag": "🇬🇧",
