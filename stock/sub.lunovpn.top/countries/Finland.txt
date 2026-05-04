@@ -1,0 +1,1 @@
+vless://59b8c4a7-0c14-4d7f-8314-7dab904b83f9@95.85.250.12:2040?flow=xtls-rprx-vision&fp=chrome&pbk=oBVnekuZs5-Z2W7G-O4QVP-uoPkcZT9cHJRZ90rcfgM&security=reality&sni=sun6-22.userapi.com&type=tcp#🇫🇮 Финляндия
