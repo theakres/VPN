@@ -1,4 +1,0 @@
-vless://0cc221a1-8386-4438-9716-1f610cec40a5@162.244.82.234:443?fp=chrome&pbk=tOBOAHGWx5AM66UlGYYU5qXPfrx6Ugv1lc1cGldGUXM&security=reality&sid=f6c4dd1a&sni=cooking.nytimes.com&type=xhttp#🇺🇸 США 1
-vless://754bb54d-d268-0005-86d8-dfd5687d3d0f@185.11.246.176:443?flow=xtls-rprx-vision&fp=chrome&pbk=skQrUvqTYNsmUQiEFd2ySa94etOjlEQz6JbHwtgRclk&security=reality&sid=d6a66bb4&sni=www.sravni.ru&type=tcp#🇺🇸 США 2
-vless://754bb54d-d268-0006-86d8-dfd5687d3d0f@185.11.246.176:443?flow=xtls-rprx-vision&fp=chrome&pbk=skQrUvqTYNsmUQiEFd2ySa94etOjlEQz6JbHwtgRclk&security=reality&sid=d6a66bb4&sni=www.sravni.ru&type=tcp#🇺🇸 США 3
-vless://43982be6-5368-4968-9c54-15879f27a0c6@162.244.81.176:443?fp=chrome&security=tls&sni=newyorklove.website&type=xhttp#🇺🇸 США 4

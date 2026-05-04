@@ -1,2 +1,0 @@
-vless://754bb54d-d268-439b-86d8-dfd5687d3d0f@185.11.246.176:443?flow=xtls-rprx-vision&fp=chrome&pbk=skQrUvqTYNsmUQiEFd2ySa94etOjlEQz6JbHwtgRclk&security=reality&sid=d6a66bb4&sni=www.sravni.ru&type=tcp#🇷🇺 Россия 1
-vless://d783b41a-eef6-4f4b-b04c-76387afae811@195.133.5.237:443?fp=chrome&pbk=jX3GH_m1C2Y1gk_pWa9i94Fp3rmn-bZwo9iY__v6gzc&security=reality&sid=0956a159&sni=www.sravni.ru&type=xhttp#🇷🇺 Россия 2
