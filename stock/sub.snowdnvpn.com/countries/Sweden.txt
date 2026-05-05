@@ -1,0 +1,2 @@
+vless://87f24033-d6e9-4612-bd5d-50d93ee177dd@185.117.88.196:8443?flow=xtls-rprx-vision&fp=chrome&pbk=hZ2suCOyxMqdLE9YexeRtoG5r5isMoztbDrfMbiOIEY&security=reality&sni=login.vk.com&type=tcp#🇸🇪 Швеция 1
+vless://87f24033-d6e9-4612-bd5d-50d93ee177dd@158.160.235.245:2083?flow=xtls-rprx-vision&fp=chrome&pbk=GBq78LaVzdcarcTEGJV0sOIa32JlYQoCdsStkQfVmwo&security=reality&sid=abcdef1234567890&sni=console.yandex.cloud&type=tcp#🇸🇪 Швеция 2

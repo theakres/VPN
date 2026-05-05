@@ -1,1 +1,0 @@
-vless://5ad9f8f3-40dc-457b-942b-d210825d7627@213.176.72.60:8443?flow=xtls-rprx-vision&fp=qq&pbk=z6CAPj_1mjwtCGxurOmLSggT1Y9acF5lgvQCmk4IJXk&security=reality&sid=d1f04de066138f7f&sni=api-maps.yandex.ru&type=tcp#🇬🇧 Великобритания

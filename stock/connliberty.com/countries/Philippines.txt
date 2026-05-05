@@ -1,2 +1,2 @@
-vless://048ef90b-9c7f-46e2-b028-5fae927d29ec@45.196.224.55:8443?flow=xtls-rprx-vision&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=f34818a561dfd1fe&sni=rbc.ru&type=tcp#🇵🇭 Филиппины 1
-vless://048ef90b-9c7f-46e2-b028-5fae927d29ec@45.196.224.55:443?flow=xtls-rprx-vision&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=f34818a561dfd1fe&sni=rbc.ru&type=tcp#🇵🇭 Филиппины 2
+vless://048ef90b-9c7f-46e2-b028-5fae927d29ec@45.196.224.55:8443?flow=xtls-rprx-vision&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=ece180c605b5453c&sni=rbc.ru&type=tcp#🇵🇭 Филиппины 1
+vless://048ef90b-9c7f-46e2-b028-5fae927d29ec@45.196.224.55:443?flow=xtls-rprx-vision&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=364994a6f61fc955&sni=rbc.ru&type=tcp#🇵🇭 Филиппины 2

@@ -5,8 +5,8 @@ vless://690157a9-dc02-4687-9cbd-de9bf4300b0a@94.139.247.192:443?fp=qq&pbk=x6cB3a
 vless://690157a9-dc02-4687-9cbd-de9bf4300b0a@94.139.247.192:443?fp=qq&pbk=x6cB3avjxjxzhNESk8iJTTCzOPKXnB0AbnjKSqKkang&security=reality&serviceName=/grpc&sid=1b3de616b36b1233&sni=m.47news.ru&type=grpc#🇷🇺 Россия 5
 vless://690157a9-dc02-4687-9cbd-de9bf4300b0a@176.109.87.33:443?fp=qq&pbk=gEkBb04WCKpvyDowiwAd_6zMxYAHArFibO6KOw9FDH8&security=reality&serviceName=/grpc&sid=1b6de111b96b8122&sni=5post-gate.x5.ru&type=grpc#🇷🇺 Россия 6
 vless://690157a9-dc02-4687-9cbd-de9bf4300b0a@176.109.87.34:443?fp=qq&pbk=gEkBb04WCKpvyDowiwAd_6zMxYAHArFibO6KOw9FDH8&security=reality&serviceName=/grpc&sid=2b6de111b96b8121&sni=5post-gate.x5.ru&type=grpc#🇷🇺 Россия 7
-trojan://8uhZdC5fE0unvuWGgPzKUY-WsxEHMbkD@79.174.93.60:443?security=tls&sni=zz7.tgnn.live&type=tcp#🇷🇺 Россия 8
+trojan://8uhZdC5fE0unvuWGgPzKUY-WsxEHMbkD@79.174.93.60:443?security=tls&sni=zz77.tgnn.live&type=tcp#🇷🇺 Россия 8
 trojan://8uhZdC5fE0unvuWGgPzKUY-WsxEHMbkD@176.109.87.77:443?security=tls&sni=zz23.tgnn.live&type=tcp#🇷🇺 Россия 9
-trojan://8uhZdC5fE0unvuWGgPzKUY-WsxEHMbkD@91.218.230.161:443?security=tls&sni=zz2.tgnn.live&type=tcp#🇷🇺 Россия 10
+trojan://8uhZdC5fE0unvuWGgPzKUY-WsxEHMbkD@213.226.112.139:443?security=tls&sni=zz35.tgnn.live&type=tcp#🇷🇺 Россия 10
 trojan://8uhZdC5fE0unvuWGgPzKUY-WsxEHMbkD@178.250.243.210:443?security=tls&sni=zz8.tgnn.live&type=tcp#🇷🇺 Россия 11
 trojan://8uhZdC5fE0unvuWGgPzKUY-WsxEHMbkD@46.8.209.223:443?security=tls&sni=zz.tgnn.live&type=tcp#🇷🇺 Россия 12
