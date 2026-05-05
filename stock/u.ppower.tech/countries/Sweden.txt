@@ -1,1 +1,1 @@
-vless://2d66de0d-d4de-4abd-ab83-ea7d0e9ddea3@93.93.205.8:443?fp=chrome&host=752.ppower.tech&pbk=JH2rYd93apg4vucjoxNk17pVOT5rgNc6HWEWNgxRmB8&security=reality&sid=841f793858d22152&sni=752.ppower.tech&type=tcp#🇸🇪 Швеция
+vless://2d66de0d-d4de-4abd-ab83-ea7d0e9ddea3@91.223.169.194:443?fp=chrome&host=752.ppower.tech&pbk=JH2rYd93apg4vucjoxNk17pVOT5rgNc6HWEWNgxRmB8&security=reality&sid=841f793858d22152&sni=752.ppower.tech&type=tcp#🇸🇪 Швеция

@@ -1,2 +1,1 @@
-vless://d7dcc39e-e43d-44e7-ad35-a3726dc51060@62.60.237.124:443?flow=xtls-rprx-vision&fp=firefox&pbk=Db9LqZCurs0KyNxhW20sBImFIi3-68Am4M_mmgx7EwY&security=reality&sid=57b212a6a3d23173&sni=ya.ru&type=tcp#🇫🇮 Финляндия 1
-vless://d789b20d-70b9-498f-a439-1d6ac78b8c5a@62.60.237.124:443?flow=xtls-rprx-vision&fp=chrome&pbk=Db9LqZCurs0KyNxhW20sBImFIi3-68Am4M_mmgx7EwY&security=reality&sid=57b212a6a3d23173&sni=ya.ru&type=tcp#🇫🇮 Финляндия 2
+vless://d789b20d-70b9-498f-a439-1d6ac78b8c5a@62.60.237.124:443?flow=xtls-rprx-vision&fp=chrome&pbk=p9D2P4KlnkpwCzY15muBfNpe6lSAwuDrUUkR_irZv1I&security=reality&sni=google.com&type=tcp#🇫🇮 Финляндия

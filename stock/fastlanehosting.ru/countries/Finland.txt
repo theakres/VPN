@@ -1,2 +1,2 @@
 hysteria2://hysteria2_fastlane_u6omlk5r1:4PKcLGDncxaF3sKblDd0jqLoEC4ZI84O@64.188.107.79:1935/?sni=fn1.h.fastlanehosting.ru&insecure=1#🇫🇮 Финляндия 1
-vless://e1a36afa-775b-472d-90dd-ee19d5f7eaa4@2.27.31.68:443?flow=xtls-rprx-vision&fp=chrome&pbk=vE113ytfg2fUQhXxEq8Ypj_CDV0G8QRTZcyBjk5FA2Q&security=reality&sid=c313813144&sni=vk.com&spx=/video&type=tcp#🇫🇮 Финляндия 2
+vless://e1a36afa-775b-472d-90dd-ee19d5f7eaa4@144.31.232.166:443?flow=xtls-rprx-vision&fp=chrome&pbk=vE113ytfg2fUQhXxEq8Ypj_CDV0G8QRTZcyBjk5FA2Q&security=reality&sid=c313813144&sni=vk.com&spx=/video&type=tcp#🇫🇮 Финляндия 2
