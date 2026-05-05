@@ -1,2 +1,0 @@
-vless://4d06f190-266c-4b50-b334-11f374513d10@92.118.112.210:443?flow=xtls-rprx-vision&fp=chrome&pbk=NZStExD9vhtPSwyhbhzN255rmk9am2HCs79slyVCqgg&security=reality&sni=google.com&type=tcp#🇺🇸 США 1
-vless://4d06f190-266c-4b50-b334-11f374513d10@37.18.15.91:7443?flow=xtls-rprx-vision&fp=chrome&pbk=eNLTMnTdcrNF5INPKBHz_fLM3Mhy1jHzWiIPoWwX81k&security=reality&sni=max.ru&type=tcp#🇺🇸 США 2

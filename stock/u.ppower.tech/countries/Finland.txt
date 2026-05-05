@@ -1,1 +1,1 @@
-vless://3c24c0c0-828f-4797-aa9f-450e2752a47b@45.144.53.69:443?fp=qq&pbk=hyWywSIlgux05EhWlFV4QEIOYWkZK55GUuPJBMDXUW0&security=reality&sid=111aaa43&sni=fl3.cowjuice.me&type=tcp#🇫🇮 Финляндия
+vless://a74649e5-8019-4a2a-abc9-39ab93fb48a3@84.201.150.246:443?flow=xtls-rprx-vision&pbk=rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A&security=reality&sni=max.ru&type=tcp#🇫🇮 Финляндия

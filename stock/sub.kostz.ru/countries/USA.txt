@@ -1,0 +1,2 @@
+vless://90a3d2f9-04d4-467a-9603-63781354f915@23.177.185.168:444?fp=chrome&pbk=k4Lzi9W9WA5DZNWrDfodl_8XCkegl9INee7JWlre1Rk&security=reality&serviceName=grpc&sid=fcafb151&sni=vk.com&type=grpc#🇺🇸 США 1
+vless://c35f8079-2baa-4011-af58-ac52fcd9b561@23.177.185.168:443?flow=xtls-rprx-vision&fp=chrome&pbk=OxoUEY80ZIYn3kwbksAklEhs98qhA-awIrWKv_nxvXI&security=reality&sid=70f1222b&sni=disk.yandex.ru&spx=/&type=tcp#🇺🇸 США 2

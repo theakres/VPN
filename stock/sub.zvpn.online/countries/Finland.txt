@@ -1,0 +1,7 @@
+vless://f5ab38b9-3c6d-478c-9b9f-3c4bc41b8cb7@5.188.141.249:1443?flow=xtls-rprx-vision&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&security=reality&sid=ad7dab462a323acb&sni=max.ru&type=tcp#🇫🇮 Финляндия 1
+vless://f5ab38b9-3c6d-478c-9b9f-3c4bc41b8cb7@5.188.141.45:1443?flow=xtls-rprx-vision&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&security=reality&sid=ad7dab462a323acb&sni=max.ru&type=tcp#🇫🇮 Финляндия 2
+vless://f5ab38b9-3c6d-478c-9b9f-3c4bc41b8cb7@5.188.141.54:1443?flow=xtls-rprx-vision&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&security=reality&sid=ad7dab462a323acb&sni=max.ru&type=tcp#🇫🇮 Финляндия 3
+vless://f5ab38b9-3c6d-478c-9b9f-3c4bc41b8cb7@89.208.231.35:1443?flow=xtls-rprx-vision&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&security=reality&sid=ad7dab462a323acb&sni=max.ru&type=tcp#🇫🇮 Финляндия 4
+vless://f5ab38b9-3c6d-478c-9b9f-3c4bc41b8cb7@89.208.230.252:1443?flow=xtls-rprx-vision&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&security=reality&sid=ad7dab462a323acb&sni=max.ru&type=tcp#🇫🇮 Финляндия 5
+vless://f5ab38b9-3c6d-478c-9b9f-3c4bc41b8cb7@152.89.244.26:7443?flow=xtls-rprx-vision&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&security=reality&sid=ad7dab462a323acb&sni=yandex.ru&type=tcp#🇫🇮 Финляндия 6
+vless://f5ab38b9-3c6d-478c-9b9f-3c4bc41b8cb7@144.31.7.141:7443?flow=xtls-rprx-vision&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&security=reality&sid=ad7dab462a323acb&sni=yandex.ru&type=tcp#🇫🇮 Финляндия 7

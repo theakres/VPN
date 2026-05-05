@@ -1,0 +1,2 @@
+vless://bdaff4a6-f521-4f2e-87e9-ab92f8a6e7f6@77.238.243.232:8443?flow=xtls-rprx-vision&fp=chrome&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&security=reality&sid=331a8c3fe668c1ee&sni=rbc.ru&type=tcp#🇳🇱 Нидерланды 1
+vless://bdaff4a6-f521-4f2e-87e9-ab92f8a6e7f6@77.238.243.232:443?flow=xtls-rprx-vision&fp=chrome&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&security=reality&sid=808e2d36726ee97e&sni=rbc.ru&type=tcp#🇳🇱 Нидерланды 2

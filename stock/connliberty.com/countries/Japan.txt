@@ -1,0 +1,2 @@
+vless://8cae3d46-7340-47be-876a-f61b7b3de2c2@45.89.109.90:8443?flow=xtls-rprx-vision&fp=chrome&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&security=reality&sid=83780413c2ad3eaa&sni=rbc.ru&type=tcp#🇯🇵 Япония 1
+vless://8cae3d46-7340-47be-876a-f61b7b3de2c2@45.89.109.90:443?flow=xtls-rprx-vision&fp=chrome&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&security=reality&sid=83780413c2ad3eaa&sni=rbc.ru&type=tcp#🇯🇵 Япония 2

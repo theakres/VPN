@@ -1,0 +1,2 @@
+vless://c02a21a9-398e-4bf1-880b-f9b8154658f2@154.88.3.52:8443?flow=xtls-rprx-vision&fp=chrome&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&security=reality&sid=60e104f7126798c4&sni=rbc.ru&type=tcp#Неизвестно 1
+vless://c02a21a9-398e-4bf1-880b-f9b8154658f2@154.88.3.52:443?flow=xtls-rprx-vision&fp=chrome&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&security=reality&sid=60e104f7126798c4&sni=rbc.ru&type=tcp#Неизвестно 2

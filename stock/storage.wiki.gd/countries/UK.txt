@@ -1,0 +1,1 @@
+vless://147d6553-eb25-4eb4-bf3e-97a53e22c868@138.124.125.12:443?flow=xtls-rprx-vision&fp=chrome&pbk=G4pdR-Y6SfzxTDtU89V6CMwp1x7MovY9Ax_ZnTcmnUw&security=reality&sid=af15023a7f94f76c&sni=sync.wikilegia.com&type=tcp#🇬🇧 Великобритания
