@@ -1,6 +1,6 @@
 # VPN Configs
 
-Обновлено: **2026-05-05 05:31 МСК**
+Обновлено: **2026-05-05 12:20 МСК**
 Всего конфигов: **180**
 
 ---
@@ -39,11 +39,11 @@
 
 ## По странам
 
-- 🇷🇺 **Россия** (57) — [Копировать](https://vpn.akres.fun/countries/Russia)
-- 🇳🇱 **Нидерланды** (19) — [Копировать](https://vpn.akres.fun/countries/Netherlands)
+- 🇷🇺 **Россия** (53) — [Копировать](https://vpn.akres.fun/countries/Russia)
+- 🇳🇱 **Нидерланды** (20) — [Копировать](https://vpn.akres.fun/countries/Netherlands)
 - 🇩🇪 **Германия** (18) — [Копировать](https://vpn.akres.fun/countries/Germany)
+- 🇺🇸 **США** (12) — [Копировать](https://vpn.akres.fun/countries/USA)
 - 🇫🇮 **Финляндия** (12) — [Копировать](https://vpn.akres.fun/countries/Finland)
-- 🇺🇸 **США** (11) — [Копировать](https://vpn.akres.fun/countries/USA)
 - 🇱🇹 **Литва** (7) — [Копировать](https://vpn.akres.fun/countries/Lithuania)
 - 🇸🇪 **Швеция** (6) — [Копировать](https://vpn.akres.fun/countries/Sweden)
 - 🇫🇷 **Франция** (5) — [Копировать](https://vpn.akres.fun/countries/France)
@@ -58,6 +58,7 @@
 - 🇨🇦 **Канада** (2) — [Копировать](https://vpn.akres.fun/countries/Canada)
 - 🇱🇻 **Латвия** (2) — [Копировать](https://vpn.akres.fun/countries/Latvia)
 - 🇲🇰 **Северная Македония** (2) — [Копировать](https://vpn.akres.fun/countries/NorthMacedonia)
+- 🇪🇪 **Эстония** (2) — [Копировать](https://vpn.akres.fun/countries/Estonia)
 - 🇭🇺 **Венгрия** (1) — [Копировать](https://vpn.akres.fun/countries/Hungary)
 - 🇮🇱 **Израиль** (1) — [Копировать](https://vpn.akres.fun/countries/Israel)
 - 🇮🇸 **Исландия** (1) — [Копировать](https://vpn.akres.fun/countries/Iceland)

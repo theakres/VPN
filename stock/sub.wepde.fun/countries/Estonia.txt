@@ -1,0 +1,2 @@
+vless://4d06f190-266c-4b50-b334-11f374513d10@5.180.40.44:443?flow=xtls-rprx-vision&fp=chrome&pbk=gi1VZWr2l-HU-5f_dzBjl0GgDMDY4Sy5HWOHrVxRx3M&security=reality&sni=google.ee&type=tcp#🇪🇪 Эстония 1
+vless://4d06f190-266c-4b50-b334-11f374513d10@37.18.15.91:9443?flow=xtls-rprx-vision&fp=chrome&pbk=IJVQDlRH8b3oeGlpl9ifjAIeSTuASjHIOZWTKvWqGnA&security=reality&sni=max.ru&type=tcp#🇪🇪 Эстония 2

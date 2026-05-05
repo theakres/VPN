@@ -1,1 +1,2 @@
-vless://4d06f190-266c-4b50-b334-11f374513d10@5.180.40.44:443?flow=xtls-rprx-vision&fp=chrome&pbk=gi1VZWr2l-HU-5f_dzBjl0GgDMDY4Sy5HWOHrVxRx3M&security=reality&sni=google.ee&type=tcp#🇳🇱 Нидерланды
+vless://4d06f190-266c-4b50-b334-11f374513d10@150.241.94.116:443?flow=xtls-rprx-vision&fp=chrome&pbk=fQorY6gWODnSTOS6xGEWaFmbK36rNAZuoFpJY0ebZVM&security=reality&sni=google.com&type=tcp#🇳🇱 Нидерланды 1
+vless://4d06f190-266c-4b50-b334-11f374513d10@37.18.15.91:6443?flow=xtls-rprx-vision&fp=chrome&pbk=4rpTWls7_TW5QIYN8ppZAsKRiMgW7eDWLlU_63FmHxo&security=reality&sni=max.ru&type=tcp#🇳🇱 Нидерланды 2
