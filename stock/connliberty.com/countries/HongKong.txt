@@ -1,1 +1,1 @@
-vless://b1610af7-8886-4921-98da-309a6293df73@merlinty.site:8443?flow=xtls-rprx-vision&fp=chrome&pbk=uWB8HfNVK_-9KtjDGjmBovnYxTh6wN95APRUBmCC30M&security=reality&sid=fe31454fcc98d74d&sni=rbc.ru&type=tcp#🇭🇰 Гонконг
+vless://b1610af7-8886-4921-98da-309a6293df73@merlinty.site:8443?flow=xtls-rprx-vision&fp=chrome&pbk=uWB8HfNVK_-9KtjDGjmBovnYxTh6wN95APRUBmCC30M&security=reality&sid=348fac7c65368555&sni=rbc.ru&type=tcp#🇭🇰 Гонконг

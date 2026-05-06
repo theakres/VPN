@@ -2,4 +2,4 @@ vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#Torrent на сервере noP2P запрещен
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#Если это ошибка, то
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#свяжитесь с нами @vitalik_support_bot
-vless://c61ec320-29f1-4e00-9272-8b676e6957b4@telegram.looks-free.rutube.info:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&sid=825867&fp=qq#🔷 [FREE] Telegram + сайт
+vless://c61ec320-29f1-4e00-9272-8b676e6957b4@telegram.looks-free.rutube.info:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&sid=96962fed&fp=qq#🔷 [FREE] Telegram + сайт

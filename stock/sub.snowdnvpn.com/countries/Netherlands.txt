@@ -1,1 +1,1 @@
-vless://87f24033-d6e9-4612-bd5d-50d93ee177dd@50.7.41.190:443?flow=xtls-rprx-vision&fp=chrome&pbk=EG3q0J7gCoc9d0eHDfXX86OhQT27rQk3flGdiZPXmQ8&security=reality&sid=8315bf&sni=taxi.yandex.ru&type=tcp#🇳🇱 Нидерланды
+vless://87f24033-d6e9-4612-bd5d-50d93ee177dd@62.106.66.131:443?flow=xtls-rprx-vision&fp=chrome&pbk=EG3q0J7gCoc9d0eHDfXX86OhQT27rQk3flGdiZPXmQ8&security=reality&sid=ba&sni=taxi.yandex.ru&type=tcp#🇳🇱 Нидерланды

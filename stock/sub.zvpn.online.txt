@@ -1,2 +1,0 @@
-vless://4c1ae76a-691d-4e27-8bd2-ff8d20ad1ea9@0.0.0.0:1?security=&type=tcp&headerType=&path=&host=#🚧 Subscription limited
-vless://20f23f82-b140-4dc7-bda9-8aac66b54c0c@0.0.0.0:1?security=&type=tcp&headerType=&path=&host=#Contact support
