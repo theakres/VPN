@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-05-06 16:12 МСК",
- "total": 360,
+ "updated_at": "2026-05-06 16:34 МСК",
+ "total": 372,
  "protocols": {
   "VLESS": {
    "file": "https://vpn.akres.fun/protocols/vless/vless",
-   "count": 336,
+   "count": 348,
    "security": {
     "Reality": {
      "file": "https://vpn.akres.fun/protocols/vless/security/reality",
-     "count": 286
+     "count": 298
     },
     "TLS": {
      "file": "https://vpn.akres.fun/protocols/vless/security/tls",
@@ -18,7 +18,7 @@
    "transports": {
     "TCP": {
      "file": "https://vpn.akres.fun/protocols/vless/transports/tcp",
-     "count": 210
+     "count": 222
     },
     "XHTTP": {
      "file": "https://vpn.akres.fun/protocols/vless/transports/xhttp",
@@ -53,25 +53,25 @@
   "RU": {
    "flag": "🇷🇺",
    "name": "Россия",
-   "count": 83,
+   "count": 85,
    "file": "https://vpn.akres.fun/countries/Russia"
   },
   "NL": {
    "flag": "🇳🇱",
    "name": "Нидерланды",
-   "count": 48,
+   "count": 50,
    "file": "https://vpn.akres.fun/countries/Netherlands"
   },
   "DE": {
    "flag": "🇩🇪",
    "name": "Германия",
-   "count": 44,
+   "count": 45,
    "file": "https://vpn.akres.fun/countries/Germany"
   },
   "US": {
    "flag": "🇺🇸",
    "name": "США",
-   "count": 23,
+   "count": 24,
    "file": "https://vpn.akres.fun/countries/USA"
   },
   "FI": {
@@ -116,17 +116,23 @@
    "count": 9,
    "file": "https://vpn.akres.fun/countries/France"
   },
+  "TR": {
+   "flag": "🇹🇷",
+   "name": "Турция",
+   "count": 6,
+   "file": "https://vpn.akres.fun/countries/Turkey"
+  },
+  "AL": {
+   "flag": "🇦🇱",
+   "name": "Албания",
+   "count": 5,
+   "file": "https://vpn.akres.fun/countries/Albania"
+  },
   "BR": {
    "flag": "🇧🇷",
    "name": "Бразилия",
    "count": 5,
    "file": "https://vpn.akres.fun/countries/Brazil"
-  },
-  "TR": {
-   "flag": "🇹🇷",
-   "name": "Турция",
-   "count": 5,
-   "file": "https://vpn.akres.fun/countries/Turkey"
   },
   "CZ": {
    "flag": "🇨🇿",
@@ -140,17 +146,17 @@
    "count": 4,
    "file": "https://vpn.akres.fun/countries/Austria"
   },
-  "AL": {
-   "flag": "🇦🇱",
-   "name": "Албания",
-   "count": 4,
-   "file": "https://vpn.akres.fun/countries/Albania"
-  },
   "ES": {
    "flag": "🇪🇸",
    "name": "Испания",
    "count": 4,
    "file": "https://vpn.akres.fun/countries/Spain"
+  },
+  "LV": {
+   "flag": "🇱🇻",
+   "name": "Латвия",
+   "count": 4,
+   "file": "https://vpn.akres.fun/countries/Latvia"
   },
   "MD": {
    "flag": "🇲🇩",
@@ -164,11 +170,11 @@
    "count": 3,
    "file": "https://vpn.akres.fun/countries/Canada"
   },
-  "LV": {
-   "flag": "🇱🇻",
-   "name": "Латвия",
+  "RO": {
+   "flag": "🇷🇴",
+   "name": "Румыния",
    "count": 3,
-   "file": "https://vpn.akres.fun/countries/Latvia"
+   "file": "https://vpn.akres.fun/countries/Romania"
   },
   "PH": {
    "flag": "🇵🇭",
@@ -194,17 +200,11 @@
    "count": 2,
    "file": "https://vpn.akres.fun/countries/Belgium"
   },
-  "IT": {
-   "flag": "🇮🇹",
-   "name": "Италия",
+  "HU": {
+   "flag": "🇭🇺",
+   "name": "Венгрия",
    "count": 2,
-   "file": "https://vpn.akres.fun/countries/Italy"
-  },
-  "RO": {
-   "flag": "🇷🇴",
-   "name": "Румыния",
-   "count": 2,
-   "file": "https://vpn.akres.fun/countries/Romania"
+   "file": "https://vpn.akres.fun/countries/Hungary"
   },
   "MK": {
    "flag": "🇲🇰",
@@ -224,11 +224,17 @@
    "count": 2,
    "file": "https://vpn.akres.fun/countries/Estonia"
   },
-  "HU": {
-   "flag": "🇭🇺",
-   "name": "Венгрия",
+  "BG": {
+   "flag": "🇧🇬",
+   "name": "Болгария",
    "count": 1,
-   "file": "https://vpn.akres.fun/countries/Hungary"
+   "file": "https://vpn.akres.fun/countries/Bulgaria"
+  },
+  "HK": {
+   "flag": "🇭🇰",
+   "name": "Гонконг",
+   "count": 1,
+   "file": "https://vpn.akres.fun/countries/HongKong"
   },
   "IL": {
    "flag": "🇮🇱",
@@ -247,6 +253,12 @@
    "name": "Исландия",
    "count": 1,
    "file": "https://vpn.akres.fun/countries/Iceland"
+  },
+  "IT": {
+   "flag": "🇮🇹",
+   "name": "Италия",
+   "count": 1,
+   "file": "https://vpn.akres.fun/countries/Italy"
   },
   "LU": {
    "flag": "🇱🇺",

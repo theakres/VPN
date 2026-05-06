@@ -1,2 +1,1 @@
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@ru.moktana.app:443?flow=xtls-rprx-vision&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&security=reality&sid=686d8b9042922641&sni=ru.moktana.app&type=tcp#🇷🇺 Россия 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@ru.moktana.app:51523#🇷🇺 Россия 2
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@ru.moktana.app:443?flow=xtls-rprx-vision&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&security=reality&sid=7a148891e3bb2f93&sni=ru.moktana.app&type=tcp#🇷🇺 Россия

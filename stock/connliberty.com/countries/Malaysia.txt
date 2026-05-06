@@ -1,1 +1,1 @@
-vless://1914ba65-7568-444e-8696-967edbec1999@ch-gt-01.com:8443?flow=xtls-rprx-vision&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=d515d6cfdfe60b02&sni=rbc.ru&type=tcp#🇲🇾 Малайзия
+vless://1914ba65-7568-444e-8696-967edbec1999@ch-gt-01.com:8443?flow=xtls-rprx-vision&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=445ab326fc7c90ac&sni=rbc.ru&type=tcp#🇲🇾 Малайзия
