@@ -6,6 +6,6 @@ proxy-groups:
 proxy-providers:
   Akres:
     type: http
-    url: "https://vpn.akres.fun/countries/Singapore"
+    url: "https://vpn.akres.fun/countries/Unknown"
     path: ./proxy_providers/sub.yml
     interval: 3600

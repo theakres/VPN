@@ -1,2 +1,0 @@
-vless://87f24033-d6e9-4612-bd5d-50d93ee177dd@46.229.214.190:2083?flow=xtls-rprx-vision&fp=chrome&pbk=hZ2suCOyxMqdLE9YexeRtoG5r5isMoztbDrfMbiOIEY&security=reality&sni=grafana.com&type=tcp#🇷🇺 Россия 1
-vless://87f24033-d6e9-4612-bd5d-50d93ee177dd@2.59.43.243:8543?flow=xtls-rprx-vision&fp=chrome&pbk=hZ2suCOyxMqdLE9YexeRtoG5r5isMoztbDrfMbiOIEY&security=reality&sni=cloud.mail.ru&type=tcp#🇷🇺 Россия 2

@@ -1,1 +1,0 @@
-trojan://SXYcCsYHq32ey1JGfQfkPeA-ZyL69F6Y@kz.nnmm.me:443?security=tls&sni=kz.nnmm.me&type=tcp#🇰🇿 Казахстан

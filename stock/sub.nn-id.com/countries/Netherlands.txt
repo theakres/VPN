@@ -1,2 +1,0 @@
-trojan://SXYcCsYHq32ey1JGfQfkPeA-ZyL69F6Y@nl2.nnmm.me:443?security=tls&sni=nl2.nnmm.me&type=tcp#🇳🇱 Нидерланды 1
-trojan://SXYcCsYHq32ey1JGfQfkPeA-ZyL69F6Y@nl8.nnmm.me:443?security=tls&sni=nl8.nnmm.me&type=tcp#🇳🇱 Нидерланды 2
