@@ -1,2 +1,2 @@
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@nl.moktana.app:443?flow=xtls-rprx-vision&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&security=reality&sid=7e78ac362cbfbd85&sni=nl.moktana.app&type=tcp#🇳🇱 Нидерланды 1
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@nl.moktana.app:443?flow=xtls-rprx-vision&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&security=reality&sid=a70d5136d3aa912e&sni=nl.moktana.app&type=tcp#🇳🇱 Нидерланды 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@nl.moktana.app:51523#🇳🇱 Нидерланды 2

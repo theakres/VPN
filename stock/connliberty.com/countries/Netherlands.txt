@@ -1,2 +1,4 @@
-vless://bdaff4a6-f521-4f2e-87e9-ab92f8a6e7f6@midorinote.online:8443?flow=xtls-rprx-vision&fp=chrome&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&security=reality&sid=331a8c3fe668c1ee&sni=rbc.ru&type=tcp#🇳🇱 Нидерланды 1
-vless://bdaff4a6-f521-4f2e-87e9-ab92f8a6e7f6@midorinote.online:443?flow=xtls-rprx-vision&fp=chrome&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&security=reality&sid=808e2d36726ee97e&sni=rbc.ru&type=tcp#🇳🇱 Нидерланды 2
+hysteria2://340326094:1de53c432149ac650b1207bc@v350647.midorinote.online:9443?sni=v350647.midorinote.online#🇳🇱 Нидерланды 1
+hysteria2://340326094:1de53c432149ac650b1207bc@v331469.midorinote.online:9443?sni=v331469.midorinote.online#🇳🇱 Нидерланды 2
+vless://bdaff4a6-f521-4f2e-87e9-ab92f8a6e7f6@midorinote.online:8443?flow=xtls-rprx-vision&fp=chrome&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&security=reality&sid=331a8c3fe668c1ee&sni=rbc.ru&type=tcp#🇳🇱 Нидерланды 3
+vless://bdaff4a6-f521-4f2e-87e9-ab92f8a6e7f6@midorinote.online:443?flow=xtls-rprx-vision&fp=chrome&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&security=reality&sid=808e2d36726ee97e&sni=rbc.ru&type=tcp#🇳🇱 Нидерланды 4

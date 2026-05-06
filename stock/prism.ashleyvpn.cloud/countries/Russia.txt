@@ -1,6 +1,0 @@
-vless://5ad9f8f3-40dc-457b-942b-d210825d7627@germany.boot-lee.ru:8443?flow=xtls-rprx-vision&fp=qq&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&security=reality&sid=abc323&sni=sun6-22.userapi.com&type=tcp#🇷🇺 Россия 1
-vless://5ad9f8f3-40dc-457b-942b-d210825d7627@usa.boot-lee.ru:8443?flow=xtls-rprx-vision&fp=qq&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&security=reality&sid=abc323&sni=sun6-22.userapi.com&type=tcp#🇷🇺 Россия 2
-vless://5ad9f8f3-40dc-457b-942b-d210825d7627@france.boot-lee.ru:8443?flow=xtls-rprx-vision&fp=qq&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&security=reality&sid=abc323&sni=sun6-22.userapi.com&type=tcp#🇷🇺 Россия 3
-vless://5ad9f8f3-40dc-457b-942b-d210825d7627@turkey.boot-lee.ru:8443?flow=xtls-rprx-vision&fp=qq&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&security=reality&sid=abc323&sni=sun6-22.userapi.com&type=tcp#🇷🇺 Россия 4
-vless://5ad9f8f3-40dc-457b-942b-d210825d7627@wl.boot-lee.ru:8443?flow=xtls-rprx-vision&fp=qq&pbk=ftJX46NbpM_erIWJ8rHc-M-ebVhWVSFaQb0SP99QtTY&security=reality&sid=2dd892b57281389b&sni=api-maps.yandex.ru&type=tcp#🇷🇺 Россия 5
-vless://5ad9f8f3-40dc-457b-942b-d210825d7627@wld.boot-lee.ru:8443?flow=xtls-rprx-vision&fp=qq&pbk=ftJX46NbpM_erIWJ8rHc-M-ebVhWVSFaQb0SP99QtTY&security=reality&sid=2dd892b57281389b&sni=api-maps.yandex.ru&type=tcp#🇷🇺 Россия 6

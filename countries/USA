@@ -4,8 +4,8 @@ vless://87f24033-d6e9-4612-bd5d-50d93ee177dd@216.227.169.208:443?flow=xtls-rprx-
 vless://7fbeb76f-2fa1-4a5a-9f99-4dbfaafb4da2@205.172.56.16:443?flow=xtls-rprx-vision&fp=chrome&pbk=4v_4RSmE8ztHfQ4EV8Ym6J-6C8ACtYiznTHcdWJw6WA&security=reality&sid=aabbccdd&sni=www.google.com&type=tcp#🇺🇸 США 4
 vless://7fbeb76f-2fa1-4a5a-9f99-4dbfaafb4da2@205.172.56.16:2443?fp=chrome&mode=auto&path=/&pbk=dqahhX8zcY5BGM8EP3tjULc6r-eYs1oGQ7EVRhyJJkI&security=reality&sid=11223344&sni=www.google.com&type=xhttp#🇺🇸 США 5
 trojan://SXYcCsYHq32ey1JGfQfkPeA-ZyL69F6Y@us.nnmm.me:443?security=tls&sni=us.nnmm.me&type=tcp#🇺🇸 США 6
-vless://1a380e3d-b336-425c-938b-bac548f67ab9@80.209.241.221:443?extra={"mode":"auto"}&fp=chrome&mode=auto&path=/_/VisualFrontend/clientlog&pbk=5IH4GxRn58hemmfY2nr_cETdTXwFC1PHngCLY2OiWz8&security=reality&sid=4a7b2e8f1c5d9036&sni=www.google.com&type=xhttp#🇺🇸 США 7
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@216.227.161.43:443?fp=chrome&mode=gun&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&security=reality&serviceName=xyz&sid=ad345ecb588a9372&sni=deepl.com&type=grpc#🇺🇸 США 8
+vless://1a380e3d-b336-425c-938b-bac548f67ab9@80.209.241.221:443?extra={"mode":"auto"}&fp=chrome&mode=auto&path=/_/VisualFrontend/clientlog&pbk=5IH4GxRn58hemmfY2nr_cETdTXwFC1PHngCLY2OiWz8&security=reality&sid=9f3c8d04b1e6&sni=www.google.com&type=xhttp#🇺🇸 США 7
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@216.227.161.55:443?fp=chrome&mode=gun&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&security=reality&serviceName=xyz&sid=f686db337158180e&sni=deepl.com&type=grpc#🇺🇸 США 8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@216.227.161.43:51523#🇺🇸 США 9
 vless://90972d17-6c31-470b-8b23-2a31d989c60d@usa77.freednet.org:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=usa77.freednet.org&type=tcp#🇺🇸 США 10
 vless://90972d17-6c31-470b-8b23-2a31d989c60d@usa77.freednet.org:443?alpn=h2&fp=chrome&path=/api/v1/&security=tls&sni=usa77.freednet.org&type=xhttp#🇺🇸 США 11
@@ -21,6 +21,6 @@ vless://e9888b9b-658b-4f51-94f3-b8ba80e4ef91@chicagomeow.nethcloud.top:443?flow=
 vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@74.208.68.134:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇺🇸 США 21
 vless://edabe54f-5b45-472b-8de2-a339f12d2a6f@usa6.odavpn.online:46564/?flow=xtls-rprx-vision&fp=chrome&pbk=Nx4kKncMyQZVNXvdWpWYvK23e5HDxbTE7c7-MOITxHk&security=reality&sid=aabbccdd&sni=ya.ru&type=tcp#🇺🇸 США 22
 vless://edabe54f-5b45-472b-8de2-a339f12d2a6f@usag.odavpn.online:443/?flow=xtls-rprx-vision&fp=chrome&pbk=oHs8Wv_zHt4srBX1J7Qr2EgE4An0ldm5trGrfB6QPUQ&security=reality&sid=aeb79644c3935e&sni=apple.com&type=tcp#🇺🇸 США 23
-vless://2876ce50-34c5-448e-8a6c-f646e009857c@213.239.157.121:8443?fp=chrome&pbk=-c6RbjMXXWbHe7xRZGZrUIDUaKmi3PFRlR66roMufg0&security=reality&sid=4590f8d60dcb3686&sni=www.bing.com&type=tcp#🇺🇸 США 24
-vless://9c1d1c98-697d-4565-8a27-c15e17152ace@107.161.168.188:7443?flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🇺🇸 США 25
+vless://2876ce50-34c5-448e-8a6c-f646e009857c@213.239.157.121:8443?fp=chrome&pbk=-c6RbjMXXWbHe7xRZGZrUIDUaKmi3PFRlR66roMufg0&security=reality&sid=4590f8d60dcb3686&sni=www.microsoft.com&type=tcp#🇺🇸 США 24
+vless://9c1d1c98-697d-4565-8a27-c15e17152ace@107.161.168.188:7443?flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=chat.deepseek.com&type=tcp#🇺🇸 США 25
 vless://ff2d1168-6634-4683-950c-86416f156bb1@usanode.verdian.app:443?flow=xtls-rprx-vision&fp=chrome&pbk=lXmYnBaoyNMcH6TaKLuiKrDhT4j3agj93AMu2vv5-TA&security=reality&sni=usanode.verdian.app&spx=/&type=tcp#🇺🇸 США 26

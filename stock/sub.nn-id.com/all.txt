@@ -9,8 +9,8 @@ vless://c0ee4035-15f6-428e-ab27-db7cfe3048c6@176.109.87.34:443?fp=qq&pbk=gEkBb04
 trojan://SXYcCsYHq32ey1JGfQfkPeA-ZyL69F6Y@zz23.tgnn.live:443?security=tls&sni=zz23.tgnn.live&type=tcp#🇷🇺 Россия 9
 trojan://SXYcCsYHq32ey1JGfQfkPeA-ZyL69F6Y@79.174.93.60:443?security=tls&sni=zz7.tgnn.live&type=tcp#🇷🇺 Россия 10
 trojan://SXYcCsYHq32ey1JGfQfkPeA-ZyL69F6Y@79.174.95.226:443?security=tls&sni=zz77.tgnn.live&type=tcp#🇷🇺 Россия 11
-trojan://SXYcCsYHq32ey1JGfQfkPeA-ZyL69F6Y@zz36.tgnn.live:443?security=tls&sni=zz36.tgnn.live&type=tcp#🇷🇺 Россия 12
-trojan://SXYcCsYHq32ey1JGfQfkPeA-ZyL69F6Y@178.250.243.210:443?security=tls&sni=zz3.tgnn.live&type=tcp#🇷🇺 Россия 13
+trojan://SXYcCsYHq32ey1JGfQfkPeA-ZyL69F6Y@zz33.tgnn.live:443?security=tls&sni=zz33.tgnn.live&type=tcp#🇷🇺 Россия 12
+trojan://SXYcCsYHq32ey1JGfQfkPeA-ZyL69F6Y@178.250.243.210:443?security=tls&sni=zz8.tgnn.live&type=tcp#🇷🇺 Россия 13
 trojan://SXYcCsYHq32ey1JGfQfkPeA-ZyL69F6Y@nl2.nnmm.me:443?security=tls&sni=nl2.nnmm.me&type=tcp#🇳🇱 Нидерланды 1
 trojan://SXYcCsYHq32ey1JGfQfkPeA-ZyL69F6Y@nl8.nnmm.me:443?security=tls&sni=nl8.nnmm.me&type=tcp#🇳🇱 Нидерланды 2
 trojan://SXYcCsYHq32ey1JGfQfkPeA-ZyL69F6Y@uk1.nnmm.me:443?security=tls&sni=uk1.nnmm.me&type=tcp#🇬🇧 Великобритания

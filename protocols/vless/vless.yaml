@@ -6,6 +6,6 @@ proxy-groups:
 proxy-providers:
   Akres:
     type: http
-    url: "https://vpn.akres.fun/protocols/vless"
+    url: "https://vpn.akres.fun/protocols/vless/vless"
     path: ./proxy_providers/sub.yml
     interval: 3600

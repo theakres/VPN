@@ -6,6 +6,6 @@ proxy-groups:
 proxy-providers:
   Akres:
     type: http
-    url: "https://vpn.akres.fun/protocols/trojan"
+    url: "https://vpn.akres.fun/protocols/trojan/trojan"
     path: ./proxy_providers/sub.yml
     interval: 3600

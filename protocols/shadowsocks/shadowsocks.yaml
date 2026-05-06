@@ -6,6 +6,6 @@ proxy-groups:
 proxy-providers:
   Akres:
     type: http
-    url: "https://vpn.akres.fun/protocols/shadowsocks"
+    url: "https://vpn.akres.fun/protocols/shadowsocks/shadowsocks"
     path: ./proxy_providers/sub.yml
     interval: 3600
