@@ -1,2 +1,2 @@
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@216.227.161.43:443?fp=chrome&mode=gun&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&security=reality&serviceName=xyz&sid=6a8cbbe13bd1a18e&sni=deepl.com&type=grpc#🇺🇸 США 1
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@216.227.161.55:443?fp=chrome&mode=gun&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&security=reality&serviceName=xyz&sid=f92c39ea62608dfd&sni=deepl.com&type=grpc#🇺🇸 США 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@216.227.161.55:51523#🇺🇸 США 2

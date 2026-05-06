@@ -1,2 +1,0 @@
-vless://ff2d1168-6634-4683-950c-86416f156bb1@195.133.198.232:49000?flow=xtls-rprx-vision&fp=qq&pbk=_0mCSfjteNMQ12XDVglHVc0gPMfz1l6F2-TbrdQ6CRM&security=reality&sni=ads.x5.ru&type=tcp#Неизвестно 1
-vless://ff2d1168-6634-4683-950c-86416f156bb1@45.10.246.244:49000?flow=xtls-rprx-vision&fp=qq&pbk=_0mCSfjteNMQ12XDVglHVc0gPMfz1l6F2-TbrdQ6CRM&security=reality&sni=ads.x5.ru&type=tcp#Неизвестно 2

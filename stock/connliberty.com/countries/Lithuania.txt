@@ -1,2 +1,2 @@
-vless://3b9c35a3-9d43-4f8a-bc8c-b618b4fa10db@130.193.62.165:8443?flow=xtls-rprx-vision&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=reality&sid=0d960275b7b0f9af&sni=max.ru&type=tcp#🇱🇹 Литва 1
-vless://3b9c35a3-9d43-4f8a-bc8c-b618b4fa10db@51.250.97.92:8443?flow=xtls-rprx-vision&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=reality&sid=0d960275b7b0f9af&sni=ads.x5.ru&type=tcp#🇱🇹 Литва 2
+vless://3b9c35a3-9d43-4f8a-bc8c-b618b4fa10db@51.250.97.92:8443?flow=xtls-rprx-vision&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=reality&sid=e0ef3d5c0aacb615&sni=max.ru&type=tcp#🇱🇹 Литва 1
+vless://3b9c35a3-9d43-4f8a-bc8c-b618b4fa10db@130.193.62.165:8443?flow=xtls-rprx-vision&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=reality&sid=e0ef3d5c0aacb615&sni=max.ru&type=tcp#🇱🇹 Литва 2
