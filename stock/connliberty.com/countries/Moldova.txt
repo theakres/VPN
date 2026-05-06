@@ -1,2 +1,2 @@
-vless://b18dc0c5-47b1-448f-b4bc-5a3dc29229a9@176.123.4.159:8443?flow=xtls-rprx-vision&fp=chrome&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&security=reality&sid=9f4263b353817e73&sni=rbc.ru&type=tcp#🇲🇩 Молдова 1
-vless://b18dc0c5-47b1-448f-b4bc-5a3dc29229a9@188.72.103.3:443?host=cdn.midorinote.ru&mode=packet-up&path=/livestreamcontent/&security=tls&sni=cdn.tracker.yandex.net&type=xhttp#🇲🇩 Молдова 2
+vless://b18dc0c5-47b1-448f-b4bc-5a3dc29229a9@md-alex-01.com:8443?flow=xtls-rprx-vision&fp=chrome&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&security=reality&sid=58a6be9762c769f2&sni=rbc.ru&type=tcp#🇲🇩 Молдова 1
+vless://b18dc0c5-47b1-448f-b4bc-5a3dc29229a9@ad206a8ca71ba024.topology.gslb.yccdn.ru:443?host=cdn.midorinote.ru&mode=packet-up&path=/livestreamcontent/&security=tls&sni=cdn.tracker.yandex.net&type=xhttp#🇲🇩 Молдова 2

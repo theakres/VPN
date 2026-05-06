@@ -1,2 +1,2 @@
-vless://6da4c13d-1666-4d04-bec7-b0f2883e7402@2.27.20.85:443?fp=chrome&mode=auto&path=/update&pbk=3lZGDWVueYwBX2HEDEeLzrpJ4kB7Z6fex1g_uSe0JW0&security=reality&sid=5f984498&sni=disk.yandex.ru&type=xhttp#🇩🇪 Германия 1
-vless://557fdc57-5d61-4884-9ea9-8052f4d49f74@176.109.101.198:14601?fp=chrome&mode=auto&path=/debridge&pbk=rvG1q01fQdzf84zaGDUMM68sWrXcLNPW6-h1cUz78ho&security=reality&sid=5812d49c&sni=max.ru&type=xhttp#🇩🇪 Германия 2
+vless://6da4c13d-1666-4d04-bec7-b0f2883e7402@de1server.rabstvo.shop:443?fp=chrome&mode=auto&path=/update&pbk=3lZGDWVueYwBX2HEDEeLzrpJ4kB7Z6fex1g_uSe0JW0&security=reality&sid=5f984498&sni=disk.yandex.ru&type=xhttp#🇩🇪 Германия 1
+vless://557fdc57-5d61-4884-9ea9-8052f4d49f74@ru1server.rabstvo.shop:14601?fp=chrome&mode=auto&path=/debridge&pbk=rvG1q01fQdzf84zaGDUMM68sWrXcLNPW6-h1cUz78ho&security=reality&sid=5812d49c&sni=max.ru&type=xhttp#🇩🇪 Германия 2

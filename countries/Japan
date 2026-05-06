@@ -1,5 +1,4 @@
-vless://87f24033-d6e9-4612-bd5d-50d93ee177dd@152.236.6.3:443?flow=xtls-rprx-vision&fp=chrome&pbk=DMS_8O1KKLhmgYG7jx0i3DHKRahWIxeOIgMJRXlIsC0&security=reality&sid=37d91598e4f1a07e&sni=www.sony.com&type=tcp#🇯🇵 Япония 1
-hysteria2://690157a9-dc02-4687-9cbd-de9bf4300b0a@147.45.49.127:443?sni=ja.nnmm.me&pinSHA256=firefox#🇯🇵 Япония 2
-vless://f5ab38b9-3c6d-478c-9b9f-3c4bc41b8cb7@147.45.220.126:8443?flow=xtls-rprx-vision&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&security=reality&sid=ad7dab462a323acb&sni=sun6-22.userapi.com&type=tcp#🇯🇵 Япония 3
-vless://8cae3d46-7340-47be-876a-f61b7b3de2c2@45.89.109.55:8443?flow=xtls-rprx-vision&fp=chrome&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&security=reality&sid=f1af4b63b7e47b8a&sni=rbc.ru&type=tcp#🇯🇵 Япония 4
-vless://8cae3d46-7340-47be-876a-f61b7b3de2c2@45.89.109.55:443?flow=xtls-rprx-vision&fp=chrome&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&security=reality&sid=98f4e12d491b58ec&sni=rbc.ru&type=tcp#🇯🇵 Япония 5
+vless://87f24033-d6e9-4612-bd5d-50d93ee177dd@152.236.6.3:443?flow=xtls-rprx-vision&fp=chrome&pbk=DMS_8O1KKLhmgYG7jx0i3DHKRahWIxeOIgMJRXlIsC0&security=reality&sid=b9cd333706f5&sni=www.sony.com&type=tcp#🇯🇵 Япония 1
+vless://edabe54f-5b45-472b-8de2-a339f12d2a6f@116.206.93.243:443/?flow=xtls-rprx-vision&fp=firefox&pbk=6rCJ3C8U-AdmDRBZFweq9zk8CtGa1bb4FUrql8GXBGY&security=reality&sid=042368adcca5d7c7&sni=yahoo.com&type=tcp#🇯🇵 Япония 2
+vless://8cae3d46-7340-47be-876a-f61b7b3de2c2@shimorra.site:8443?flow=xtls-rprx-vision&fp=chrome&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&security=reality&sid=98f4e12d491b58ec&sni=rbc.ru&type=tcp#🇯🇵 Япония 3
+vless://8cae3d46-7340-47be-876a-f61b7b3de2c2@shimorra.site:443?flow=xtls-rprx-vision&fp=chrome&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&security=reality&sid=f1af4b63b7e47b8a&sni=rbc.ru&type=tcp#🇯🇵 Япония 4

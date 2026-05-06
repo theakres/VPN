@@ -1,2 +1,2 @@
 hysteria2://hysteria2_fastlane_4agme7y77:YWXMbReFzylkffJipZNtVurHxzDAYW7I@150.241.78.128:1935/?sni=de9.h.fastlanehosting.ru&insecure=1#🇨🇭 Швейцария 1
-vless://07fd97f4-8501-4d7a-8a11-935f58d1e7a9@45.12.111.151:443?flow=xtls-rprx-vision&fp=chrome&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&security=reality&sid=0c80cc39&sni=store.steampowered.com&spx=/&type=tcp#🇨🇭 Швейцария 2
+vless://07fd97f4-8501-4d7a-8a11-935f58d1e7a9@ch2.fastlanehosting.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&security=reality&sid=0c80cc39&sni=store.steampowered.com&spx=/&type=tcp#🇨🇭 Швейцария 2

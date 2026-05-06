@@ -1,0 +1,2 @@
+vless://90972d17-6c31-470b-8b23-2a31d989c60d@usa77.freednet.org:443?encryption=none&security=tls&type=tcp&fp=chrome&flow=xtls-rprx-vision&sni=usa77.freednet.org#key-2731943🇺🇸 Vis Основа
+vless://90972d17-6c31-470b-8b23-2a31d989c60d@usa77.freednet.org:443?encryption=none&security=tls&type=xhttp&fp=chrome&path=/api/v1/&alpn=h2&sni=usa77.freednet.org#key-2731943🇺🇸 xHTTP Резерв

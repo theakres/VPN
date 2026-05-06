@@ -1,4 +1,1 @@
-vless://11b50152-1989-48e6-8587-870aae492925@84.201.186.199:443?fp=qq&mode=auto&pbk=TnQwYOH2ATi0bTu3gnqVFDnEkvBYIcvNRGLPW0IpjXE&security=reality&sni=api-maps.yandex.ru&type=xhttp#🇷🇺 Россия 1
-vless://11b50152-1989-48e6-8587-870aae492925@84.201.186.39:443?fp=qq&mode=auto&pbk=TnQwYOH2ATi0bTu3gnqVFDnEkvBYIcvNRGLPW0IpjXE&security=reality&sni=api-maps.yandex.ru&type=xhttp#🇷🇺 Россия 2
-vless://11b50152-1989-48e6-8587-870aae492925@95.143.191.28:443?fp=qq&mode=auto&pbk=TnQwYOH2ATi0bTu3gnqVFDnEkvBYIcvNRGLPW0IpjXE&security=reality&sni=srv81.towersflowerss.com&type=xhttp#🇷🇺 Россия 3
-vless://11b50152-1989-48e6-8587-870aae492925@82.202.197.121:443?flow=xtls-rprx-vision&fp=chrome&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0&security=reality&sni=srv185.towersflowerss.com&type=tcp#🇷🇺 Россия 4
+vless://11b50152-1989-48e6-8587-870aae492925@srv89.towersflowerss.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0&security=reality&sni=srv89.towersflowerss.com&type=tcp#🇷🇺 Россия

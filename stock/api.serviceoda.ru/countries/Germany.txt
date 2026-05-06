@@ -1,0 +1,1 @@
+vless://edabe54f-5b45-472b-8de2-a339f12d2a6f@gg1.serviceoda.ru:8443/?flow=xtls-rprx-vision&fp=qq&pbk=Tl0GCbgfsNHxGGN0TzZt3_OFsPc4xe1kMkn_L3qwiS8&security=reality&sid=3d8b549801de&sni=ya.ru&type=tcp#🇩🇪 Германия

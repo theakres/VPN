@@ -1,0 +1,1 @@
+vless://edabe54f-5b45-472b-8de2-a339f12d2a6f@tag.serviceoda.ru:8443/?flow=xtls-rprx-vision&fp=chrome&pbk=nyfS5R7iesjxqw50lm6TOAiEVVcMENmQFuKdUk3SYBI&security=reality&sid=a8015f9399d39551&sni=ya.ru&type=tcp#🇸🇪 Швеция

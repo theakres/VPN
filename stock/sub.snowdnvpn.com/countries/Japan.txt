@@ -1,1 +1,1 @@
-vless://87f24033-d6e9-4612-bd5d-50d93ee177dd@152.236.6.3:443?flow=xtls-rprx-vision&fp=chrome&pbk=DMS_8O1KKLhmgYG7jx0i3DHKRahWIxeOIgMJRXlIsC0&security=reality&sid=37d91598e4f1a07e&sni=www.sony.com&type=tcp#🇯🇵 Япония
+vless://87f24033-d6e9-4612-bd5d-50d93ee177dd@152.236.6.3:443?flow=xtls-rprx-vision&fp=chrome&pbk=DMS_8O1KKLhmgYG7jx0i3DHKRahWIxeOIgMJRXlIsC0&security=reality&sid=b9cd333706f5&sni=www.sony.com&type=tcp#🇯🇵 Япония

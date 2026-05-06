@@ -1,0 +1,2 @@
+vless://edabe54f-5b45-472b-8de2-a339f12d2a6f@usa6.odavpn.online:46564/?flow=xtls-rprx-vision&fp=chrome&pbk=Nx4kKncMyQZVNXvdWpWYvK23e5HDxbTE7c7-MOITxHk&security=reality&sid=aabbccdd&sni=ya.ru&type=tcp#🇺🇸 США 1
+vless://edabe54f-5b45-472b-8de2-a339f12d2a6f@usag.odavpn.online:443/?flow=xtls-rprx-vision&fp=chrome&pbk=oHs8Wv_zHt4srBX1J7Qr2EgE4An0ldm5trGrfB6QPUQ&security=reality&sid=aeb79644c3935e&sni=apple.com&type=tcp#🇺🇸 США 2

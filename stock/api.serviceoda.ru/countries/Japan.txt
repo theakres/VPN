@@ -1,0 +1,1 @@
+vless://edabe54f-5b45-472b-8de2-a339f12d2a6f@116.206.93.243:443/?flow=xtls-rprx-vision&fp=firefox&pbk=6rCJ3C8U-AdmDRBZFweq9zk8CtGa1bb4FUrql8GXBGY&security=reality&sid=042368adcca5d7c7&sni=yahoo.com&type=tcp#🇯🇵 Япония

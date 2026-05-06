@@ -1,1 +1,1 @@
-vless://147d6553-eb25-4eb4-bf3e-97a53e22c868@185.120.59.80:443?flow=xtls-rprx-vision&fp=chrome&pbk=bAsmfgKZYXYptO4f2eV622XRbnai3kcQvxLSGTebK2k&security=reality&sid=6caf94f7f05077a7&sni=ms-office.opior.com&type=tcp#🇫🇷 Франция
+vless://147d6553-eb25-4eb4-bf3e-97a53e22c868@ms-office.opior.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=bAsmfgKZYXYptO4f2eV622XRbnai3kcQvxLSGTebK2k&security=reality&sid=6caf94f7f05077a7&sni=ms-office.opior.com&type=tcp#🇫🇷 Франция

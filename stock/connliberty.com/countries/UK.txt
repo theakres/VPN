@@ -1,2 +1,2 @@
-vless://c02a21a9-398e-4bf1-880b-f9b8154658f2@154.88.3.52:8443?flow=xtls-rprx-vision&fp=chrome&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&security=reality&sid=c76ba2c2fb172e8b&sni=rbc.ru&type=tcp#🇬🇧 Великобритания 1
-vless://c02a21a9-398e-4bf1-880b-f9b8154658f2@154.88.3.52:443?flow=xtls-rprx-vision&fp=chrome&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&security=reality&sid=dbbe8dca27a92c35&sni=rbc.ru&type=tcp#🇬🇧 Великобритания 2
+vless://c02a21a9-398e-4bf1-880b-f9b8154658f2@us-cherry-01.com:8443?flow=xtls-rprx-vision&fp=chrome&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&security=reality&sid=dbbe8dca27a92c35&sni=rbc.ru&type=tcp#🇬🇧 Великобритания 1
+vless://c02a21a9-398e-4bf1-880b-f9b8154658f2@us-cherry-01.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&security=reality&sid=dbbe8dca27a92c35&sni=rbc.ru&type=tcp#🇬🇧 Великобритания 2

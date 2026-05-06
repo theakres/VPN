@@ -1,17 +1,13 @@
 vless://11b50152-1989-48e6-8587-870aae492925@srv161.towersflowerss.com:443?security=none&encryption=none&fp=chrome&type=tcp&sni=srv161.towersflowerss.com#🌎 Лучшая локация ♾️
-vless://11b50152-1989-48e6-8587-870aae492925@ywl3.towersflowerss.com:443?mode=auto&security=reality&encryption=none&fp=qq&pbk=TnQwYOH2ATi0bTu3gnqVFDnEkvBYIcvNRGLPW0IpjXE&type=xhttp&sni=api-maps.yandex.ru#🏳️ Белый список / LTE #1
-vless://11b50152-1989-48e6-8587-870aae492925@srvwl4.towersflowerss.com:443?security=none&encryption=none&fp=randomized&type=ws&path=/#🏳️ Белый список / LTE #2
-vless://11b50152-1989-48e6-8587-870aae492925@dv5.towersflowerss.com:443?security=none&encryption=none&fp=randomized&type=ws&path=/#🏳️ Белый список / LTE #3
-vless://11b50152-1989-48e6-8587-870aae492925@ywl4.towersflowerss.com:443?mode=auto&security=reality&encryption=none&fp=qq&pbk=TnQwYOH2ATi0bTu3gnqVFDnEkvBYIcvNRGLPW0IpjXE&type=xhttp&sni=api-maps.yandex.ru#🏳️ Белый список / LTE #4
-vless://11b50152-1989-48e6-8587-870aae492925@srv81.towersflowerss.com:443?mode=auto&security=reality&encryption=none&fp=qq&pbk=TnQwYOH2ATi0bTu3gnqVFDnEkvBYIcvNRGLPW0IpjXE&type=xhttp&sni=srv81.towersflowerss.com#🏳️ Белый список / LTE #5
-vless://11b50152-1989-48e6-8587-870aae492925@srv122.towersflowerss.com:64534?security=none&encryption=none&fp=chrome&type=ws&path=/#🔥🇫🇷 Франция ♾️
-vless://11b50152-1989-48e6-8587-870aae492925@srv127.towersflowerss.com:64534?security=none&encryption=none&fp=randomized&type=ws&path=/#🔥🇨🇿 Чехия ♾️
-vless://11b50152-1989-48e6-8587-870aae492925@srv187.towersflowerss.com:64534?security=none&encryption=none&fp=randomized&type=ws&path=/#🔥🇳🇱 Нидерланды ♾️
-vless://11b50152-1989-48e6-8587-870aae492925@srv82.towersflowerss.com:65000?security=none&encryption=none&fp=chrome&type=ws&path=/&sni=srv82.towersflowerss.com#🔥🇵🇱 Польша ♾️
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:443?type=tcp&security=none&encryption=none#❌ Белый список - НЕТ ТРАФИКА
+vless://11b50152-1989-48e6-8587-870aae492925@srv120.towersflowerss.com:65000?security=none&encryption=none&fp=chrome&type=ws&path=/#🔥🇫🇷 Франция ♾️
+vless://11b50152-1989-48e6-8587-870aae492925@srv128.towersflowerss.com:65000?security=none&encryption=none&fp=randomized&type=ws&path=/#🔥🇨🇿 Чехия ♾️
+vless://11b50152-1989-48e6-8587-870aae492925@srv186.towersflowerss.com:64534?security=none&encryption=none&fp=randomized&type=ws&path=/#🔥🇳🇱 Нидерланды ♾️
+vless://11b50152-1989-48e6-8587-870aae492925@srv180.towersflowerss.com:65000?security=none&encryption=none&fp=chrome&type=ws&path=/&sni=srv180.towersflowerss.com#🔥🇵🇱 Польша ♾️
 vless://11b50152-1989-48e6-8587-870aae492925@srv161.towersflowerss.com:443?security=none&encryption=none&fp=chrome&type=tcp&sni=srv161.towersflowerss.com#🇩🇪 Германия ♾️
 vless://11b50152-1989-48e6-8587-870aae492925@srv191.towersflowerss.com:65000?security=none&encryption=none&fp=randomized&type=ws&path=/#🇬🇧 Великобритания ♾️
 vless://11b50152-1989-48e6-8587-870aae492925@srv152.towersflowerss.com:64534?security=none&encryption=none&fp=chrome&type=ws&path=/&sni=srv152.towersflowerss.com#🇦🇹 Австрия ♾️
-vless://11b50152-1989-48e6-8587-870aae492925@srv31.towersflowerss.com:443?security=none&encryption=none&fp=randomized&type=ws&path=/#🇰🇿 Казахстан ♾️
-vless://11b50152-1989-48e6-8587-870aae492925@srv185.towersflowerss.com:443?security=reality&flow=xtls-rprx-vision&encryption=none&fp=chrome&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0&type=tcp&sni=srv185.towersflowerss.com#🇷🇺 Россия(YouTube без рекламы!) ♾️
-vless://11b50152-1989-48e6-8587-870aae492925@tr1.datatowers.net:64534?security=none&encryption=none&fp=qq&type=tcp#🇹🇷 Турция ♾️
-vless://11b50152-1989-48e6-8587-870aae492925@srv168.towersflowerss.com:443?security=none&encryption=none&fp=randomized&type=ws&path=/#🇺🇸 США ♾️
+vless://11b50152-1989-48e6-8587-870aae492925@srv179.towersflowerss.com:443?security=none&encryption=none&fp=randomized&type=ws&path=/#🇰🇿 Казахстан ♾️
+vless://11b50152-1989-48e6-8587-870aae492925@srv89.towersflowerss.com:443?security=reality&flow=xtls-rprx-vision&encryption=none&fp=chrome&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0&type=tcp&sni=srv89.towersflowerss.com#🇷🇺 Россия(YouTube без рекламы!) ♾️
+vless://11b50152-1989-48e6-8587-870aae492925@srv18.datatowers.net:64534?security=none&encryption=none&fp=qq&type=tcp#🇹🇷 Турция ♾️
+vless://11b50152-1989-48e6-8587-870aae492925@srv169.towersflowerss.com:443?security=none&encryption=none&fp=randomized&type=ws&path=/#🇺🇸 США ♾️
