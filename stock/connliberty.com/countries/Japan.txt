@@ -1,2 +1,2 @@
-vless://8cae3d46-7340-47be-876a-f61b7b3de2c2@shimorra.site:8443?flow=xtls-rprx-vision&fp=chrome&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&security=reality&sid=98f4e12d491b58ec&sni=rbc.ru&type=tcp#🇯🇵 Япония 1
-vless://8cae3d46-7340-47be-876a-f61b7b3de2c2@shimorra.site:443?flow=xtls-rprx-vision&fp=chrome&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&security=reality&sid=83780413c2ad3eaa&sni=rbc.ru&type=tcp#🇯🇵 Япония 2
+vless://8cae3d46-7340-47be-876a-f61b7b3de2c2@shimorra.site:8443?flow=xtls-rprx-vision&fp=chrome&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&security=reality&sid=83780413c2ad3eaa&sni=rbc.ru&type=tcp#🇯🇵 Япония 1
+vless://8cae3d46-7340-47be-876a-f61b7b3de2c2@shimorra.site:443?flow=xtls-rprx-vision&fp=chrome&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&security=reality&sid=f1af4b63b7e47b8a&sni=rbc.ru&type=tcp#🇯🇵 Япония 2

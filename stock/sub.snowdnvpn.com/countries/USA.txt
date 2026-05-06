@@ -1,1 +1,1 @@
-vless://87f24033-d6e9-4612-bd5d-50d93ee177dd@216.227.169.208:443?flow=xtls-rprx-vision&fp=chrome&pbk=OrFVOchJMyDupqxOithPOMJvUbYs8PHs2O7XFtaR1X4&security=reality&sid=9a0d&sni=duckduckgo.com&type=tcp#🇺🇸 США
+vless://87f24033-d6e9-4612-bd5d-50d93ee177dd@216.227.169.208:443?flow=xtls-rprx-vision&fp=chrome&pbk=OrFVOchJMyDupqxOithPOMJvUbYs8PHs2O7XFtaR1X4&security=reality&sid=37d91598e4f1a07e&sni=duckduckgo.com&type=tcp#🇺🇸 США

@@ -1,13 +1,13 @@
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@se.moktana.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=se.moktana.app&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&sid=b79a17126558389a#🇸🇪 Швеция
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@85.192.49.172:443?encryption=none&type=grpc&serviceName=xyz&mode=gun&security=reality&sni=fi.moktana.app&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=afb0cf5e23b2e185#🇫🇮 Финляндия
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@lt.moktana.app:443?encryption=none&type=grpc&serviceName=moktana.net.v1.StreamService&mode=gun&security=reality&sni=lt.moktana.app&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=7df3f63f34eb0903#🇱🇹 Литва
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@185.191.118.33:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de.moktana.app&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&sid=f20ba89c3406b475#🇩🇪 Германия
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@pl.moktana.app:443?encryption=none&type=grpc&serviceName=moktana.net.v1.StreamService&mode=gun&security=reality&sni=pl.moktana.app&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=ced1a0dea0dbca64#🇵🇱 Польша
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@162.249.125.107:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pl.moktana.app&fp=qq&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&sid=0ab47a2bbe154fd4#🇷🇴 Румыния
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@nl.moktana.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nl.moktana.app&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&sid=734db14770cea02e#🇳🇱 Нидерланды
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@31.57.56.135:443?encryption=none&type=grpc&serviceName=xyz&mode=gun&security=reality&sni=deepl.com&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=da23266f5e41886b#🇬🇧 Великобритания
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@216.227.161.55:443?encryption=none&type=grpc&serviceName=xyz&mode=gun&security=reality&sni=deepl.com&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=f92c39ea62608dfd#🇺🇸 США
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@ru.moktana.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ru.moktana.app&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&sid=c3c9a48c937b57f2#🇷🇺 Россия
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@se.moktana.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=se.moktana.app&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&sid=2286e9b9f6376053#🇸🇪 Швеция
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@85.192.48.87:443?encryption=none&type=grpc&serviceName=xyz&mode=gun&security=reality&sni=fi.moktana.app&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=0a3339fea8637fb2#🇫🇮 Финляндия
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@lt.moktana.app:443?encryption=none&type=grpc&serviceName=moktana.net.v1.StreamService&mode=gun&security=reality&sni=lt.moktana.app&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=c8540a3e9e1d8136#🇱🇹 Литва
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@185.191.118.33:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de.moktana.app&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&sid=211eee1f011579f6#🇩🇪 Германия
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@pl.moktana.app:443?encryption=none&type=grpc&serviceName=moktana.net.v1.StreamService&mode=gun&security=reality&sni=pl.moktana.app&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=946125541df56bcd#🇵🇱 Польша
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@162.249.125.107:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pl.moktana.app&fp=qq&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&sid=e42bd6748536af48#🇷🇴 Румыния
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@nl.moktana.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nl.moktana.app&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&sid=7e78ac362cbfbd85#🇳🇱 Нидерланды
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@31.57.56.193:443?encryption=none&type=grpc&serviceName=xyz&mode=gun&security=reality&sni=deepl.com&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=faded267f0cd68eb#🇬🇧 Великобритания
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@216.227.161.43:443?encryption=none&type=grpc&serviceName=xyz&mode=gun&security=reality&sni=deepl.com&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=ad345ecb588a9372#🇺🇸 США
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@ru.moktana.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ru.moktana.app&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&sid=6613969a2ba727e3#🇷🇺 Россия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@nl.moktana.app:51523#⬇️ Доп. протокол ⬇️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@ru.moktana.app:51523#⚡️ 📹 YouTube без рекламы |  SS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@se.moktana.app:51523#🇸🇪 Швеция | SS
@@ -18,5 +18,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@162.249.125.107:51523#🇷🇴 Румыния | SS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@nl.moktana.app:51523#🇳🇱 Нидерланды | SS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@31.57.56.135:51523#🇬🇧 Великобритания | SS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@216.227.161.55:51523#🇺🇸 США | SS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@216.227.161.43:51523#🇺🇸 США | SS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@ru.moktana.app:51523#🇷🇺 Россия | SS
