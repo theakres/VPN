@@ -1,0 +1,1 @@
+trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@us.nnmm.me:443?security=tls&sni=us.nnmm.me&type=tcp#🇺🇸 США

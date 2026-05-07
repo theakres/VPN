@@ -1,1 +1,1 @@
-vless://11b50152-1989-48e6-8587-870aae492925@srv80.towersflowerss.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0&security=reality&sni=srv80.towersflowerss.com&type=tcp#🇷🇺 Россия
+vless://11b50152-1989-48e6-8587-870aae492925@srv89.towersflowerss.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0&security=reality&sni=srv89.towersflowerss.com&type=tcp#🇷🇺 Россия
