@@ -1,2 +1,2 @@
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@185.191.118.33:443?flow=xtls-rprx-vision&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&security=reality&sid=f7c4a396361109b6&sni=de.moktana.app&type=tcp#🇩🇪 Германия 1
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@185.191.118.33:443?flow=xtls-rprx-vision&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&security=reality&sid=6f5b185e1c2f898f&sni=de.moktana.app&type=tcp#🇩🇪 Германия 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@185.191.118.33:51523#🇩🇪 Германия 2

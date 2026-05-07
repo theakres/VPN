@@ -1,4 +1,4 @@
-trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@sw.nnmm.me:443?security=tls&type=tcp&sni=sw.nnmm.me#🇪🇺 Автовыбор локации
+trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@uk1.nnmm.me:443?security=tls&type=tcp&sni=uk1.nnmm.me#🇪🇺 Автовыбор локации
 trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@nl2.nnmm.me:443?security=tls&type=tcp&sni=nl2.nnmm.me#🇪🇺 Автовыбор локации
 trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@ee1.nnmm.me:443?security=tls&type=tcp&sni=ee1.nnmm.me#🇪🇪 Эстония
 trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@nl2.nnmm.me:443?security=tls&type=tcp&sni=nl2.nnmm.me#🇪🇪 Эстония
@@ -29,5 +29,5 @@ vless://9bd0724e-0c1a-4167-98c7-92126c0a1c76@176.109.87.34:443?encryption=none&t
 trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@zz23.tgnn.live:443?security=tls&type=tcp&sni=zz23.tgnn.live#🇪🇺 Обход² 🐌
 trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@79.174.93.60:443?security=tls&type=tcp&sni=zz7.tgnn.live#🇪🇺 Обход² 🐌
 trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@79.174.95.226:443?security=tls&type=tcp&sni=zz77.tgnn.live#🇪🇺 Обход² 🐌
-trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@zz33.tgnn.live:443?security=tls&type=tcp&sni=zz33.tgnn.live#🇪🇺 Обход² 🐌
-trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@62.152.59.70:443?security=tls&type=tcp&sni=zz8.tgnn.live#🇪🇺 Обход² 🐌
+trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@zz35.tgnn.live:443?security=tls&type=tcp&sni=zz35.tgnn.live#🇪🇺 Обход² 🐌
+trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@178.250.243.210:443?security=tls&type=tcp&sni=zz3.tgnn.live#🇪🇺 Обход² 🐌

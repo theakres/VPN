@@ -1,1 +1,1 @@
-vless://a5ff4d58-23e4-4f1a-8e56-409959dd107c@family.asperwild.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=fUZyupItwKlQ2LzZJvsWckqOlEqEXNzlWVBuHeGRUiY&security=reality&sid=6a75073deb127ae5&sni=family.asperwild.com&type=tcp#🇪🇸 Испания
+vless://a5ff4d58-23e4-4f1a-8e56-409959dd107c@family.asperwild.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=fUZyupItwKlQ2LzZJvsWckqOlEqEXNzlWVBuHeGRUiY&security=reality&sid=199480aaf96f1b6c&sni=family.asperwild.com&type=tcp#🇪🇸 Испания

@@ -1,2 +1,2 @@
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@se.moktana.app:443?flow=xtls-rprx-vision&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&security=reality&sid=89ea8cebb6c77539&sni=se.moktana.app&type=tcp#🇸🇪 Швеция 1
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@se.moktana.app:443?flow=xtls-rprx-vision&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&security=reality&sid=0651ae3a91b8f761&sni=se.moktana.app&type=tcp#🇸🇪 Швеция 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@se.moktana.app:51523#🇸🇪 Швеция 2
