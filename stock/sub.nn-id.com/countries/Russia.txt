@@ -10,4 +10,4 @@ trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@zz23.tgnn.live:443?security=tls&sni=zz
 trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@79.174.93.60:443?security=tls&sni=zz7.tgnn.live&type=tcp#🇷🇺 Россия 10
 trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@79.174.95.226:443?security=tls&sni=zz77.tgnn.live&type=tcp#🇷🇺 Россия 11
 trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@zz35.tgnn.live:443?security=tls&sni=zz35.tgnn.live&type=tcp#🇷🇺 Россия 12
-trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@62.152.59.70:443?security=tls&sni=zz3.tgnn.live&type=tcp#🇷🇺 Россия 13
+trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@178.250.243.210:443?security=tls&sni=zz8.tgnn.live&type=tcp#🇷🇺 Россия 13

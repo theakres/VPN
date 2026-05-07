@@ -1,1 +1,1 @@
-vless://a5ff4d58-23e4-4f1a-8e56-409959dd107c@daily.asperwild.com:443?flow=xtls-rprx-vision&fp=qq&pbk=fUZyupItwKlQ2LzZJvsWckqOlEqEXNzlWVBuHeGRUiY&security=reality&sid=6a75073deb127ae5&sni=daily.asperwild.com&type=tcp#🇨🇦 Канада
+vless://a5ff4d58-23e4-4f1a-8e56-409959dd107c@daily.asperwild.com:443?flow=xtls-rprx-vision&fp=qq&pbk=fUZyupItwKlQ2LzZJvsWckqOlEqEXNzlWVBuHeGRUiY&security=reality&sid=91d3ad78022fd16a&sni=daily.asperwild.com&type=tcp#🇨🇦 Канада
