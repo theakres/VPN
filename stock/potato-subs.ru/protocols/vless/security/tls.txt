@@ -1,0 +1,5 @@
+vless://1a380e3d-b336-425c-938b-bac548f67ab9@45.89.60.123:443?host=aldamn.potatosubge20.org&mode=auto&path=/xhttp&security=tls&sni=aldamn.potatosubge20.org&type=xhttp#🇦🇱 Албания 1
+vless://1a380e3d-b336-425c-938b-bac548f67ab9@78.159.131.46:3443?host=vpnalb.potatosubge20.org&mode=auto&path=/xhttp&security=tls&sni=vpnalb.potatosubge20.org&type=xhttp#🇦🇱 Албания 2
+vless://1a380e3d-b336-425c-938b-bac548f67ab9@2.59.163.98:3443?host=vpnpl.potatosubge20.org&mode=auto&path=/xhttp&security=tls&sni=vpnpl.potatosubge20.org&type=xhttp#🇵🇱 Польша 1
+vless://1a380e3d-b336-425c-938b-bac548f67ab9@45.140.204.100:443?host=pldamn.potatosubge20.org&mode=auto&path=/xhttp&security=tls&sni=pldamn.potatosubge20.org&type=xhttp#🇵🇱 Польша 2
+vless://1a380e3d-b336-425c-938b-bac548f67ab9@5.178.101.81:443?host=tk2.potatosubge20.org&mode=auto&path=/xhttp&security=tls&sni=tk2.potatosubge20.org&type=xhttp#🇩🇪 Германия

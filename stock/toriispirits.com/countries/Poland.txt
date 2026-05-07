@@ -1,1 +1,1 @@
-vless://a5ff4d58-23e4-4f1a-8e56-409959dd107c@klyukva.syrniki-iz-samokata.live:443?fp=qq&mode=gun&pbk=FtY8IgsDHbkd67tpQhDfBnWlFg-IvJJ4GpiRGdXZgno&security=reality&serviceName=grpc&sid=8939c553dc1cd028&sni=klyukva.syrniki-iz-samokata.live&type=grpc#🇵🇱 Польша
+vless://a5ff4d58-23e4-4f1a-8e56-409959dd107c@klyukva.syrniki-iz-samokata.live:443?fp=qq&mode=gun&pbk=FtY8IgsDHbkd67tpQhDfBnWlFg-IvJJ4GpiRGdXZgno&security=reality&serviceName=grpc&sid=e48793f5c9dc85de&sni=klyukva.syrniki-iz-samokata.live&type=grpc#🇵🇱 Польша
