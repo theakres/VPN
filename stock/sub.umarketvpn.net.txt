@@ -1,6 +1,2 @@
-vless://729a544f-aa57-4d0d-a2b0-df9775bc6a2f@5.181.202.123:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.ya.ru&fp=chrome&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA#🇩🇪 Германия
-vless://729a544f-aa57-4d0d-a2b0-df9775bc6a2f@2.26.114.181:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.ya.ru&fp=chrome&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA#🇳🇱 Нидерланды
-vless://729a544f-aa57-4d0d-a2b0-df9775bc6a2f@5.181.202.123:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.ya.ru&fp=chrome&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA#🇪🇪 Эстония
-vless://729a544f-aa57-4d0d-a2b0-df9775bc6a2f@2.27.47.172:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.ya.ru&fp=chrome&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA#🇫🇮 Финляндия
-vless://729a544f-aa57-4d0d-a2b0-df9775bc6a2f@95.85.254.231:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.ya.ru&fp=chrome&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA#🇵🇱 Польша
-vless://729a544f-aa57-4d0d-a2b0-df9775bc6a2f@62.60.159.61:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.ya.ru&fp=chrome&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA#🇸🇪 Швеция
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#🚧 Subscription limited
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#Contact support

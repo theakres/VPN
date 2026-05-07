@@ -1,1 +1,0 @@
-vless://729a544f-aa57-4d0d-a2b0-df9775bc6a2f@62.60.159.61:443?flow=xtls-rprx-vision&fp=chrome&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA&security=reality&sni=www.ya.ru&type=tcp#🇸🇪 Швеция

@@ -1,3 +1,0 @@
-vless://059d3e1f-478b-4026-8901-acfd4642be93@ru-selectel-01.com:8443?flow=xtls-rprx-vision&fp=chrome&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&security=reality&sid=1c74cf626ef50bb3&sni=sni.ru-selectel-01.com&type=tcp#🇷🇺 Россия 1
-vless://059d3e1f-478b-4026-8901-acfd4642be93@ru-selectel-01.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&security=reality&sid=1c74cf626ef50bb3&sni=sni.ru-selectel-01.com&type=tcp#🇷🇺 Россия 2
-vless://34d87d6c-418e-4387-a1e3-2bb477c0b363@51.250.117.233:443?flow=xtls-rprx-vision&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=6419bed7fd0a2cff&sni=ads.x5.ru&type=tcp#🇷🇺 Россия 3
