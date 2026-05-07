@@ -1,18 +1,18 @@
 {
- "updated_at": "2026-05-07 06:46 МСК",
- "total": 245,
+ "updated_at": "2026-05-07 07:22 МСК",
+ "total": 248,
  "protocols": {
   "VLESS": {
    "file": "https://vpn.akres.fun/protocols/vless/vless",
-   "count": 216,
+   "count": 219,
    "security": {
     "Reality": {
      "file": "https://vpn.akres.fun/protocols/vless/security/reality",
-     "count": 167
+     "count": 169
     },
     "TLS": {
      "file": "https://vpn.akres.fun/protocols/vless/security/tls",
-     "count": 49
+     "count": 50
     }
    },
    "transports": {
@@ -26,11 +26,11 @@
     },
     "gRPC": {
      "file": "https://vpn.akres.fun/protocols/vless/transports/grpc",
-     "count": 36
+     "count": 37
     },
     "XHTTP": {
      "file": "https://vpn.akres.fun/protocols/vless/transports/xhttp",
-     "count": 35
+     "count": 37
     }
    }
   },
@@ -81,7 +81,7 @@
   "DE": {
    "flag": "🇩🇪",
    "name": "Германия",
-   "count": 24,
+   "count": 27,
    "file": "https://vpn.akres.fun/countries/Germany"
   },
   "US": {

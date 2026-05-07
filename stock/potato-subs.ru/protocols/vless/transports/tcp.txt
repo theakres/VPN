@@ -1,3 +1,3 @@
-vless://1a380e3d-b336-425c-938b-bac548f67ab9@158.160.175.227:443?flow=xtls-rprx-vision&fp=chrome&pbk=5IH4GxRn58hemmfY2nr_cETdTXwFC1PHngCLY2OiWz8&security=reality&sid=1a7f3b9e2c40&sni=ads.x5.ru&type=tcp#🇷🇺 Россия 1
+vless://1a380e3d-b336-425c-938b-bac548f67ab9@158.160.175.227:443?flow=xtls-rprx-vision&fp=chrome&pbk=5IH4GxRn58hemmfY2nr_cETdTXwFC1PHngCLY2OiWz8&security=reality&sid=2b5e7a1d&sni=ads.x5.ru&type=tcp#🇷🇺 Россия 1
 vless://1a380e3d-b336-425c-938b-bac548f67ab9@158.160.232.92:443?flow=xtls-rprx-vision&fp=chrome&pbk=5IH4GxRn58hemmfY2nr_cETdTXwFC1PHngCLY2OiWz8&security=reality&sid=2b5e7a1d&sni=ads.x5.ru&type=tcp#🇷🇺 Россия 2
-vless://1a380e3d-b336-425c-938b-bac548f67ab9@51.250.14.57:443?flow=xtls-rprx-vision&fp=chrome&pbk=5IH4GxRn58hemmfY2nr_cETdTXwFC1PHngCLY2OiWz8&security=reality&sid=2b5e7a1d&sni=ads.x5.ru&type=tcp#🇷🇺 Россия 3
+vless://1a380e3d-b336-425c-938b-bac548f67ab9@51.250.14.57:443?flow=xtls-rprx-vision&fp=chrome&pbk=5IH4GxRn58hemmfY2nr_cETdTXwFC1PHngCLY2OiWz8&security=reality&sid=4a7b2e8f1c5d9036&sni=ads.x5.ru&type=tcp#🇷🇺 Россия 3

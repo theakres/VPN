@@ -1,7 +1,7 @@
 # VPN Configs
 
-Обновлено: **2026-05-07 06:46 МСК**
-Всего конфигов: **245**
+Обновлено: **2026-05-07 07:22 МСК**
+Всего конфигов: **248**
 
 ---
 
@@ -13,21 +13,21 @@
 
 ## Протоколы
 
-### VLESS (216)
+### VLESS (219)
 
 [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/vless)
 
 **По защите:**
 
-- Reality (167) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/security/reality)
-- TLS (49) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/security/tls)
+- Reality (169) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/security/reality)
+- TLS (50) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/security/tls)
 
 **По транспорту:**
 
 - TCP (104) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/tcp)
 - WebSocket (41) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/ws)
-- gRPC (36) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/grpc)
-- XHTTP (35) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/xhttp)
+- gRPC (37) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/grpc)
+- XHTTP (37) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/xhttp)
 
 ---
 
@@ -65,7 +65,7 @@
 
 - 🇷🇺 **Россия** (78) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Russia)
 - 🇳🇱 **Нидерланды** (35) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Netherlands)
-- 🇩🇪 **Германия** (24) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Germany)
+- 🇩🇪 **Германия** (27) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Germany)
 - 🇺🇸 **США** (17) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/USA)
 - 🇫🇮 **Финляндия** (17) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Finland)
 - 🇵🇱 **Польша** (12) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Poland)

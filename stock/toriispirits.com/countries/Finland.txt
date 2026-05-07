@@ -1,1 +1,1 @@
-vless://a5ff4d58-23e4-4f1a-8e56-409959dd107c@life.asperwild.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=fUZyupItwKlQ2LzZJvsWckqOlEqEXNzlWVBuHeGRUiY&security=reality&sid=4eddcc5b1bfb67a7&sni=life.asperwild.com&type=tcp#🇫🇮 Финляндия
+vless://a5ff4d58-23e4-4f1a-8e56-409959dd107c@life.asperwild.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=fUZyupItwKlQ2LzZJvsWckqOlEqEXNzlWVBuHeGRUiY&security=reality&sid=91d3ad78022fd16a&sni=life.asperwild.com&type=tcp#🇫🇮 Финляндия
