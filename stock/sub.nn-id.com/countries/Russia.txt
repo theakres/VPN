@@ -9,5 +9,5 @@ vless://9bd0724e-0c1a-4167-98c7-92126c0a1c76@176.109.87.34:443?fp=qq&pbk=gEkBb04
 trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@zz23.tgnn.live:443?security=tls&sni=zz23.tgnn.live&type=tcp#🇷🇺 Россия 9
 trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@79.174.93.60:443?security=tls&sni=zz7.tgnn.live&type=tcp#🇷🇺 Россия 10
 trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@79.174.95.226:443?security=tls&sni=zz77.tgnn.live&type=tcp#🇷🇺 Россия 11
-trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@zz35.tgnn.live:443?security=tls&sni=zz35.tgnn.live&type=tcp#🇷🇺 Россия 12
-trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@178.250.243.210:443?security=tls&sni=zz8.tgnn.live&type=tcp#🇷🇺 Россия 13
+trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@zz36.tgnn.live:443?security=tls&sni=zz36.tgnn.live&type=tcp#🇷🇺 Россия 12
+trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@62.152.59.70:443?security=tls&sni=zz3.tgnn.live&type=tcp#🇷🇺 Россия 13

@@ -1,2 +1,0 @@
-vless://4dabaf66-e48c-4abf-8c93-1ec030fc7e6f@lapa.hutsharing.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gazprom.hutsharing.com&fp=chrome&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&sid=fd&spx=&type=tcp#ЛАПА 1
-vless://4dabaf66-e48c-4abf-8c93-1ec030fc7e6f@lapa.hutsharing.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gazprom.hutsharing.com&fp=chrome&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&sid=fd&spx=&type=tcp#ЛАПА ПРОТИВ ГЛУШИЛОК

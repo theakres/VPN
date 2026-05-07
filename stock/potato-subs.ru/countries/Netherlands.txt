@@ -1,1 +1,1 @@
-vless://1a380e3d-b336-425c-938b-bac548f67ab9@95.85.248.118:443?fp=chrome&host=vk.com&mode=auto&path=/upload&pbk=5IH4GxRn58hemmfY2nr_cETdTXwFC1PHngCLY2OiWz8&security=reality&sid=9f3c8d04b1e6&sni=vk.com&type=xhttp#🇳🇱 Нидерланды
+vless://1a380e3d-b336-425c-938b-bac548f67ab9@95.85.248.118:443?fp=chrome&host=vk.com&mode=auto&path=/upload&pbk=5IH4GxRn58hemmfY2nr_cETdTXwFC1PHngCLY2OiWz8&security=reality&sid=4a7b2e8f1c5d9036&sni=vk.com&type=xhttp#🇳🇱 Нидерланды

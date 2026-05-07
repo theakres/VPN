@@ -1,1 +1,1 @@
-vless://1a380e3d-b336-425c-938b-bac548f67ab9@138.124.63.186:443?fp=chrome&mode=auto&path=/api/v1/sync&pbk=bjNO8Qo_UHsGPjMoIlINncJJJPNEWyT_ludd_LJjTHA&security=reality&sid=2b5e7a1d&sni=ya.ru&type=xhttp#🇱🇻 Латвия
+vless://1a380e3d-b336-425c-938b-bac548f67ab9@138.124.63.186:443?fp=chrome&mode=auto&path=/api/v1/sync&pbk=bjNO8Qo_UHsGPjMoIlINncJJJPNEWyT_ludd_LJjTHA&security=reality&sid=9f3c8d04b1e6&sni=ya.ru&type=xhttp#🇱🇻 Латвия
