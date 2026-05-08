@@ -1,2 +1,2 @@
-vless://e50329b6-1add-4360-86a2-e00de951f739@109.71.240.191:443?flow=xtls-rprx-vision&fp=chrome&pbk=VUTfN-BEUcoR9hUW8HQ5jWl6iTBSGBmaHxklrL05hRs&security=reality&sid=99d43973&sni=max.ru&spx=/&type=tcp#🇳🇱 Нидерланды
-vless://c35f8079-2baa-4011-af58-ac52fcd9b561@23.177.185.168:443?flow=xtls-rprx-vision&fp=chrome&pbk=OxoUEY80ZIYn3kwbksAklEhs98qhA-awIrWKv_nxvXI&security=reality&sid=70f1222b&sni=disk.yandex.ru&spx=/&type=tcp#🇺🇸 США
+vless://e4103db2-0965-416e-8ca8-a66d46eeee45@nl1server.rabstvo.shop:443?flow=xtls-rprx-vision&fp=chrome&pbk=mr6pvCeUkQCaRcpbWvZ1ixoKlzZBEFTRlsN0uFcqbic&security=reality&sid=c5204446&sni=ya.ru&spx=/&type=tcp#🇳🇱 Нидерланды
+vless://c35f8079-2baa-4011-af58-ac52fcd9b561@us1server.rabstvo.shop:443?flow=xtls-rprx-vision&fp=chrome&pbk=OxoUEY80ZIYn3kwbksAklEhs98qhA-awIrWKv_nxvXI&security=reality&sid=70f1222b&sni=disk.yandex.ru&spx=/&type=tcp#🇺🇸 США

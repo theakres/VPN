@@ -1,1 +1,0 @@
-vless://147d6553-eb25-4eb4-bf3e-97a53e22c868@oracle.fin-tech.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=ykf7AWlcmRL3ouG5uv3HHAADs67HtaTbOkPIcvqm80I&security=reality&sid=8f793949dd98853c&sni=oracle.fin-tech.com&type=tcp#🇸🇪 Швеция

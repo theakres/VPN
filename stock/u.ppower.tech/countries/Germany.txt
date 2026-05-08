@@ -1,1 +1,1 @@
-vless://3c24c0c0-828f-4797-aa9f-450e2752a47b@94.26.239.120:443?fp=qq&pbk=hyWywSIlgux05EhWlFV4QEIOYWkZK55GUuPJBMDXUW0&security=reality&sid=112bba44&sni=ads.x5.ru&type=tcp#🇩🇪 Германия
+vless://3c24c0c0-828f-4797-aa9f-450e2752a47b@217.13.104.89:443?fp=qq&pbk=hyWywSIlgux05EhWlFV4QEIOYWkZK55GUuPJBMDXUW0&security=reality&sid=111aaa41&sni=max.ru&type=tcp#🇩🇪 Германия

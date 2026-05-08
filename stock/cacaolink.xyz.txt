@@ -1,23 +1,5 @@
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@se.moktana.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=se.moktana.app&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&sid=c3c9a48c937b57f2#🇸🇪 Швеция
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@85.192.49.174:443?encryption=none&type=grpc&serviceName=xyz&mode=gun&security=reality&sni=fi.moktana.app&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=93d9bca8c5a45a49#🇫🇮 Финляндия
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@lt.moktana.app:443?encryption=none&type=grpc&serviceName=moktana.net.v1.StreamService&mode=gun&security=reality&sni=lt.moktana.app&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=ddd1dad320916808#🇱🇹 Литва
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@193.160.208.17:443?encryption=none&type=grpc&serviceName=moktana.net.v1.StreamService&mode=gun&security=reality&sni=lt.moktana.app&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=5bd286ff70629b60#🇱🇹 Литва РЕЗЕРВ (тест)
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@185.191.118.33:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de.moktana.app&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&sid=0ab47a2bbe154fd4#🇩🇪 Германия
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@pl.moktana.app:443?encryption=none&type=grpc&serviceName=moktana.net.v1.StreamService&mode=gun&security=reality&sni=pl.moktana.app&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=51d05591052b7834#🇵🇱 Польша
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@162.249.125.107:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pl.moktana.app&fp=qq&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&sid=4bf34da77fb0f20f#🇷🇴 Румыния
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@nl.moktana.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nl.moktana.app&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&sid=7a148891e3bb2f93#🇳🇱 Нидерланды
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@31.57.56.135:443?encryption=none&type=grpc&serviceName=xyz&mode=gun&security=reality&sni=deepl.com&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=faded267f0cd68eb#🇬🇧 Великобритания
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@216.227.161.43:443?encryption=none&type=grpc&serviceName=xyz&mode=gun&security=reality&sni=deepl.com&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=268bc9dc4d829802#🇺🇸 США
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@ru.moktana.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ru.moktana.app&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&sid=ad9dc833409e535c#🇷🇺 Россия
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@nl.moktana.app:51523#⬇️ Доп. протокол ⬇️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@ru.moktana.app:51523#⚡️ 📹 YouTube без рекламы |  SS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@se.moktana.app:51523#🇸🇪 Швеция | SS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@85.192.48.87:51523#🇫🇮 Финляндия | SS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@lt.moktana.app:51523#🇱🇹 Литва | SS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@185.191.118.33:51523#🇩🇪 Германия | SS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@pl.moktana.app:51523#🇵🇱 Польша | SS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@162.249.125.107:51523#🇷🇴 Румыния | SS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@nl.moktana.app:51523#🇳🇱 Нидерланды | SS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@31.57.56.135:51523#🇬🇧 Великобритания | SS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@216.227.161.55:51523#🇺🇸 США | SS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@ru.moktana.app:51523#🇷🇺 Россия | SS
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#⛔️ Превышен лимит трафика
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#⛔️ Лимит 50 ГБ В ДЕНЬ
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#Чтобы снять ограничение
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#Оформите платную подписку
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#ТГ: @CacaoVPN_bot
