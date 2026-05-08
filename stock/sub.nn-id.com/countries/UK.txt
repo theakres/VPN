@@ -1,1 +1,0 @@
-trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@uk1.nnmm.me:443?security=tls&sni=uk1.nnmm.me&type=tcp#🇬🇧 Великобритания

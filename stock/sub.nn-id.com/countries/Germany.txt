@@ -1,1 +1,0 @@
-trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@de5.nnmm.me:443?security=tls&sni=de5.nnmm.me&type=tcp#🇩🇪 Германия

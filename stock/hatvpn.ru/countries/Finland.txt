@@ -1,1 +1,1 @@
-vless://a9cac45f-de21-4858-aa2e-42be08002b39@144.31.143.86:443?flow=xtls-rprx-vision&fp=chrome&pbk=SvQNeUViPFTH2-zG7HPZki4iY6a-d6yWdBXkMStqwjU&security=reality&sid=74db5d&sni=www.apple.com&spx=/&type=tcp#🇫🇮 Финляндия
+vless://a9cac45f-de21-4858-aa2e-42be08002b39@64.188.76.112:443?flow=xtls-rprx-vision&fp=chrome&pbk=SvQNeUViPFTH2-zG7HPZki4iY6a-d6yWdBXkMStqwjU&security=reality&sid=74db5d&sni=www.apple.com&spx=/&type=tcp#🇫🇮 Финляндия

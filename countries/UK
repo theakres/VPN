@@ -1,6 +1,5 @@
-trojan://1N2e7uHYsgD20chFUXrSjZMhNAGKgatB@uk1.nnmm.me:443?security=tls&sni=uk1.nnmm.me&type=tcp#🇬🇧 Великобритания 1
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@31.57.56.193:443?fp=chrome&mode=gun&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&security=reality&serviceName=xyz&sid=d377b6a07df0d1cd&sni=deepl.com&type=grpc#🇬🇧 Великобритания 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@31.57.56.193:51523#🇬🇧 Великобритания 3
-vless://ada16414-ea27-433b-b448-f77744493deb@api.cloudconsole.ru:443?fp=chrome&host=vk.com&mode=auto&path=/&pbk=xejt7baNPj-ZmBgQVNW0MikXcVuLSro14gb6EyW4rAA&security=reality&sid=ab&sni=vk.com&spx=/&type=xhttp#🇬🇧 Великобритания 4
-vless://147d6553-eb25-4eb4-bf3e-97a53e22c868@sync.wikilegia.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=G4pdR-Y6SfzxTDtU89V6CMwp1x7MovY9Ax_ZnTcmnUw&security=reality&sid=af15023a7f94f76c&sni=sync.wikilegia.com&type=tcp#🇬🇧 Великобритания 5
-vless://a5ff4d58-23e4-4f1a-8e56-409959dd107c@world.asperwild.com:443?fp=qq&mode=auto&path=/&pbk=hLlhnCZGMfjakOk2U1uDynwnqG0z4A8HSE4cu-lrrzo&security=reality&sid=9a461d450ab387b5&sni=world.asperwild.com&type=xhttp#🇬🇧 Великобритания 6
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@31.57.56.135:443?fp=chrome&mode=gun&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&security=reality&serviceName=xyz&sid=faded267f0cd68eb&sni=deepl.com&type=grpc#🇬🇧 Великобритания 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@31.57.56.135:51523#🇬🇧 Великобритания 2
+vless://ada16414-ea27-433b-b448-f77744493deb@api.cloudconsole.ru:443?fp=chrome&host=vk.com&mode=auto&path=/&pbk=xejt7baNPj-ZmBgQVNW0MikXcVuLSro14gb6EyW4rAA&security=reality&sid=ab&sni=vk.com&spx=/&type=xhttp#🇬🇧 Великобритания 3
+vless://147d6553-eb25-4eb4-bf3e-97a53e22c868@sync.wikilegia.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=G4pdR-Y6SfzxTDtU89V6CMwp1x7MovY9Ax_ZnTcmnUw&security=reality&sid=af15023a7f94f76c&sni=sync.wikilegia.com&type=tcp#🇬🇧 Великобритания 4
+vless://a5ff4d58-23e4-4f1a-8e56-409959dd107c@world.asperwild.com:443?fp=qq&mode=auto&path=/&pbk=hLlhnCZGMfjakOk2U1uDynwnqG0z4A8HSE4cu-lrrzo&security=reality&sid=3874cd0467864ea4&sni=world.asperwild.com&type=xhttp#🇬🇧 Великобритания 5
