@@ -1,5 +1,0 @@
-vless://241718c4-953e-4728-ab58-92cba5f656a5@filesdownloader.ru:443?flow=xtls-rprx-vision&fp=firefox&pbk=vzaXwBbTZZFTsEf3em31a8tllt0nJuktSJTW5m3wFUw&security=reality&sid=93&sni=yandex.ru&spx=/&type=tcp#🇷🇺 Россия 1
-vless://3733beda-55e3-4f98-94d4-89210f4f9b67@mail.filesdownloader.ru:443?flow=xtls-rprx-vision&fp=firefox&pbk=a0_XvyL0fCoFyJPbkvYnba5h6ipO0aSQ8SfP0iUpdAg&security=reality&sid=b52c6281a1&sni=vk.com&spx=/&type=tcp#🇷🇺 Россия 2
-vless://a8ebcce6-3260-49a4-9be0-cea2fa479753@vk01.filesdownloader.ru:443?flow=xtls-rprx-vision&fp=ios&pbk=zlmNRlSzdn2zegjL4nFXmOmlBe_2_Wm0mKhD2aeJ9BE&security=reality&sid=b3&sni=vk.com&spx=/&type=tcp#🇷🇺 Россия 3
-vless://17c3863e-b620-44b8-af07-79629e4625dd@vk2.filesdownloader.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=kCCkO87l5dyii0T3azOBG3NyLkIyxG-EO73OFrD84wA&security=reality&sid=58d75a36e67da736&sni=yandex.ru&spx=/&type=tcp#🇷🇺 Россия 4
-vless://6220e45d-8ac6-4a10-8433-0dbadcf747ca@usa2.vpnfreedom.tech:443?flow=xtls-rprx-vision&fp=firefox&pbk=dl8h7j1NKxBL_p2leIy9SWKznB0VG5h8ftsb0hlLICk&security=reality&sid=2404&sni=google.com&spx=/&type=tcp#🇺🇸 США
