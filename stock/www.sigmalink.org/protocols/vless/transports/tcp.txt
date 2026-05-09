@@ -1,1 +1,1 @@
-vless://90972d17-6c31-470b-8b23-2a31d989c60d@5.253.30.228:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=usa77.freednet.org&type=tcp#🇺🇸 США
+vless://90972d17-6c31-470b-8b23-2a31d989c60d@usa77.freednet.org:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=usa77.freednet.org&type=tcp#🇺🇸 США

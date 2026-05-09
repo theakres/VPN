@@ -1,1 +1,1 @@
-vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@72.56.15.240:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇳🇱 Нидерланды
+vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@ru-nl.braidx.tech:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇳🇱 Нидерланды

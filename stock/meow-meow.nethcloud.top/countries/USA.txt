@@ -1,2 +1,2 @@
-vless://e9888b9b-658b-4f51-94f3-b8ba80e4ef91@186.246.4.41:443?flow=xtls-rprx-vision&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&security=reality&sid=8bd29483ded126b4&sni=wikihow.com&type=tcp#🇺🇸 США 1
-vless://e9888b9b-658b-4f51-94f3-b8ba80e4ef91@88.216.68.50:443?flow=xtls-rprx-vision&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&security=reality&sid=8bd29483ded126b4&sni=wikihow.com&type=tcp#🇺🇸 США 2
+vless://e9888b9b-658b-4f51-94f3-b8ba80e4ef91@myau.nethcloud.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&security=reality&sid=8bd29483ded126b4&sni=wikihow.com&type=tcp#🇺🇸 США 1
+vless://e9888b9b-658b-4f51-94f3-b8ba80e4ef91@chicagomeow.nethcloud.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&security=reality&sid=8bd29483ded126b4&sni=wikihow.com&type=tcp#🇺🇸 США 2

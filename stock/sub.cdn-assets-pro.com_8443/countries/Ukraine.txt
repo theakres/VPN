@@ -1,0 +1,1 @@
+vless://5b0e69f1-d138-45c7-b418-78ac303c9fdc@130.0.232.44:443?flow=xtls-rprx-vision&fp=chrome&pbk=yyLjHYIbdZbRpuxeMn37u1dlcvxLDOfbrBgPuQZXCCc&security=reality&sid=e02f294d173b7eb7&sni=www.samsung.com&type=tcp#🇺🇦 Украина

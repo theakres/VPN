@@ -1,0 +1,1 @@
+vless://5b0e69f1-d138-45c7-b418-78ac303c9fdc@193.233.88.219:2053?flow=xtls-rprx-vision&fp=chrome&fragment=40-80,5-10,1-3&pbk=myuG_XuE4gcn0YmWQktvnbtUd1uyVjbDqzbjdhtzTQw&security=reality&sid=1d3a11fddafff2f8&sni=www.dell.com&type=tcp#🇹🇷 Турция
