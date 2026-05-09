@@ -1,3 +1,3 @@
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@lt.moktana.app:443?fp=chrome&mode=gun&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&security=reality&serviceName=moktana.net.v1.StreamService&sid=0580beb241a6b89e&sni=lt.moktana.app&type=grpc#🇱🇹 Литва 1
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@193.160.208.17:443?fp=chrome&mode=gun&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&security=reality&serviceName=moktana.net.v1.StreamService&sid=89e9db85b2cbdbe9&sni=lt.moktana.app&type=grpc#🇱🇹 Литва 2
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@lt.moktana.app:443?fp=chrome&mode=gun&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&security=reality&serviceName=moktana.net.v1.StreamService&sid=dccad4b0b63407de&sni=lt.moktana.app&type=grpc#🇱🇹 Литва 1
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@193.160.208.17:443?fp=chrome&mode=gun&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&security=reality&serviceName=moktana.net.v1.StreamService&sid=d581d2d4b3269718&sni=lt.moktana.app&type=grpc#🇱🇹 Литва 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@lt.moktana.app:51523#🇱🇹 Литва 3
