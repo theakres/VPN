@@ -1,1 +1,1 @@
-vless://2003b2e8-0f93-47d7-8290-9df2321ef62a@germ2.helper-internet.com:443?flow=xtls-rprx-vision&fp=random&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=germ2.helper-internet.com&spx=/&type=tcp#🇩🇪 Германия
+vless://2003b2e8-0f93-47d7-8290-9df2321ef62a@181.214.231.52:443?flow=xtls-rprx-vision&fp=random&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=germ2.helper-internet.com&spx=/&type=tcp#🇩🇪 Германия

@@ -1,1 +1,1 @@
-vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@ru-pl.braidx.tech:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇵🇱 Польша
+vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@109.73.195.235:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇵🇱 Польша

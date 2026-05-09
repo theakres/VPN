@@ -1,2 +1,2 @@
 vless://2003b2e8-0f93-47d7-8290-9df2321ef62a@5.188.115.230:443?fp=random&mode=gun&pbk=EC3wOGb2DaO1WKlcB-00bIU7oH573aI9Xww_3x5DUTs&security=reality&sid=3da16894f6a521B2&sni=5post-gate.x5.ru&type=grpc#🇨🇿 Чехия 1
-vless://2003b2e8-0f93-47d7-8290-9df2321ef62a@cz.helper-internet.com:443?flow=xtls-rprx-vision&fp=random&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=cz.helper-internet.com&spx=/&type=tcp#🇨🇿 Чехия 2
+vless://2003b2e8-0f93-47d7-8290-9df2321ef62a@5.39.202.80:443?flow=xtls-rprx-vision&fp=random&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=cz.helper-internet.com&spx=/&type=tcp#🇨🇿 Чехия 2

@@ -1,3 +1,0 @@
-vless://90a3d2f9-04d4-467a-9603-63781354f915@us1server.rabstvo.shop:443?fp=chrome&pbk=k4Lzi9W9WA5DZNWrDfodl_8XCkegl9INee7JWlre1Rk&security=reality&serviceName=grpc&sid=fcafb151&sni=vk.com&type=grpc#🇺🇸 США 1
-vless://c35f8079-2baa-4011-af58-ac52fcd9b561@us1server.rabstvo.shop:443?flow=xtls-rprx-vision&fp=chrome&pbk=OxoUEY80ZIYn3kwbksAklEhs98qhA-awIrWKv_nxvXI&security=reality&sid=70f1222b&sni=disk.yandex.ru&spx=/&type=tcp#🇺🇸 США 2
-vless://3dd8b048-c913-4714-ae7a-b0a001a90799@us1server.rabstvo.shop:443?fp=chrome&mode=auto&path=/&pbk=k4Lzi9W9WA5DZNWrDfodl_8XCkegl9INee7JWlre1Rk&security=reality&sid=fcafb151&sni=okcdn.ru&type=xhttp#🇺🇸 США 3

@@ -1,1 +1,1 @@
-vless://e9888b9b-658b-4f51-94f3-b8ba80e4ef91@meow-riga.nethcloud.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&security=reality&sid=8bd29483ded126b4&sni=wikihow.com&type=tcp#🇱🇻 Латвия
+vless://e9888b9b-658b-4f51-94f3-b8ba80e4ef91@84.32.9.92:443?flow=xtls-rprx-vision&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&security=reality&sid=8bd29483ded126b4&sni=wikihow.com&type=tcp#🇱🇻 Латвия

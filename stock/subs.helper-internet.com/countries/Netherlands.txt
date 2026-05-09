@@ -1,2 +1,2 @@
 vless://2003b2e8-0f93-47d7-8290-9df2321ef62a@51.250.108.107:443?flow=xtls-rprx-vision&fp=random&pbk=kKiat1UsRVMj7F5APS8MMMDbwFE6fUI5maS3oMsrTgI&security=reality&sid=27e53bbcab7593d7&sni=web.max.ru&spx=/&type=tcp#🇳🇱 Нидерланды 1
-vless://2003b2e8-0f93-47d7-8290-9df2321ef62a@nl4.helper-internet.com:443?flow=xtls-rprx-vision&fp=random&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=nl4.helper-internet.com&spx=/&type=tcp#🇳🇱 Нидерланды 2
+vless://2003b2e8-0f93-47d7-8290-9df2321ef62a@89.105.206.115:443?flow=xtls-rprx-vision&fp=random&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=nl4.helper-internet.com&spx=/&type=tcp#🇳🇱 Нидерланды 2

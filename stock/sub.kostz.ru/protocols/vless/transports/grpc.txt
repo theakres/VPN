@@ -1,3 +1,0 @@
-vless://e50329b6-1add-4360-86a2-e00de951f739@nl1server.rabstvo.shop:443?fp=chrome&pbk=VUTfN-BEUcoR9hUW8HQ5jWl6iTBSGBmaHxklrL05hRs&security=reality&serviceName=grpc&sid=99d43973&sni=max.ru&type=grpc#🇳🇱 Нидерланды
-vless://9ec55f0a-e403-4fde-8fe0-33e179c90d18@ru2server.rabstvo.shop:443?fp=chrome&pbk=pXb0GDp9m0SkK719ebV1O0FlYyoWGK2vX00t_Lz2WGU&security=reality&serviceName=grpc&sid=d9319a0b&sni=rutube.ru&type=grpc#🇷🇺 Россия
-vless://90a3d2f9-04d4-467a-9603-63781354f915@us1server.rabstvo.shop:443?fp=chrome&pbk=k4Lzi9W9WA5DZNWrDfodl_8XCkegl9INee7JWlre1Rk&security=reality&serviceName=grpc&sid=fcafb151&sni=vk.com&type=grpc#🇺🇸 США

@@ -1,9 +1,9 @@
-vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@rusx2.braidx.tech:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇷🇺 Россия 1
+vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@72.56.39.178:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇷🇺 Россия 1
 vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@51.250.86.113:443?flow=xtls-rprx-vision&fp=chrome&pbk=SSR8qHHHwFhf-LHig6DhZFoglHdVdImR6upc5DcpmHI&security=reality&sni=ads.x5.ru&type=tcp#🇷🇺 Россия 2
-vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@ru-de2.braidx.tech:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇩🇪 Германия
-vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@ru-li.braidx.tech:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇱🇹 Литва
-vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@ru-nl.braidx.tech:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇳🇱 Нидерланды
-vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@ru-pl.braidx.tech:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇵🇱 Польша
+vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@91.222.236.64:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇩🇪 Германия
+vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@109.248.201.149:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇱🇹 Литва
+vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@72.56.15.240:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇳🇱 Нидерланды
+vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@109.73.195.235:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇵🇱 Польша
 vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@74.208.68.134:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇺🇸 США
-vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@ru-fi.braidx.tech:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇫🇮 Финляндия
-vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@ru-fr.braidx.tech:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇫🇷 Франция
+vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@109.248.226.91:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇫🇮 Финляндия
+vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@185.186.142.210:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇫🇷 Франция

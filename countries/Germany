@@ -1,6 +1,3 @@
-vless://834868b6-0f2f-4759-8840-0663307896c6@2.26.22.139:443?flow=xtls-rprx-vision&fp=firefox&pbk=FNUvdW0gSMh30g80qiD2LejYDzbh6vwUGtV3fbihwzk&security=reality&sid=2627&sni=google.com&spx=/&type=tcp#🇩🇪 Германия 1
-vless://2003b2e8-0f93-47d7-8290-9df2321ef62a@germ2.helper-internet.com:443?flow=xtls-rprx-vision&fp=random&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=germ2.helper-internet.com&spx=/&type=tcp#🇩🇪 Германия 2
-vless://6da4c13d-1666-4d04-bec7-b0f2883e7402@de1server.rabstvo.shop:443?fp=chrome&mode=auto&path=/update&pbk=3lZGDWVueYwBX2HEDEeLzrpJ4kB7Z6fex1g_uSe0JW0&security=reality&sid=5f984498&sni=disk.yandex.ru&type=xhttp#🇩🇪 Германия 3
-vless://3c24c0c0-828f-4797-aa9f-450e2752a47b@178.250.246.244:443?fp=qq&pbk=hyWywSIlgux05EhWlFV4QEIOYWkZK55GUuPJBMDXUW0&security=reality&sid=121aaa41&sni=max.ru&type=tcp#🇩🇪 Германия 4
-vless://5e217cdf-9a6e-4ddc-84d2-ccda9e7e16fa@92.119.166.100:7443?flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🇩🇪 Германия 5
-vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@ru-de2.braidx.tech:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇩🇪 Германия 6
+vless://2003b2e8-0f93-47d7-8290-9df2321ef62a@181.214.231.52:443?flow=xtls-rprx-vision&fp=random&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=germ2.helper-internet.com&spx=/&type=tcp#🇩🇪 Германия 1
+vless://5e217cdf-9a6e-4ddc-84d2-ccda9e7e16fa@92.119.166.61:7443?flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=chat.deepseek.com&type=tcp#🇩🇪 Германия 2
+vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@91.222.236.64:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇩🇪 Германия 3

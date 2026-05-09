@@ -1,2 +1,2 @@
 vless://2003b2e8-0f93-47d7-8290-9df2321ef62a@109.120.188.54:443?flow=xtls-rprx-vision&fp=random&pbk=4woJiVyGtLro6qRQdUcM2EJDHI3CLOeeE-knmSHk8lE&security=reality&sid=1ca44564cda56661&sni=ads.x5.ru&type=tcp#🇸🇪 Швеция 1
-vless://2003b2e8-0f93-47d7-8290-9df2321ef62a@swed1.helper-internet.com:443?flow=xtls-rprx-vision&fp=random&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=swed1.helper-internet.com&spx=/&type=tcp#🇸🇪 Швеция 2
+vless://2003b2e8-0f93-47d7-8290-9df2321ef62a@185.231.102.111:443?flow=xtls-rprx-vision&fp=random&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=swed1.helper-internet.com&spx=/&type=tcp#🇸🇪 Швеция 2
