@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-05-09 07:59 МСК",
+ "updated_at": "2026-05-09 08:56 МСК",
  "total": 118,
  "protocols": {
   "VLESS": {
@@ -18,11 +18,11 @@
    "transports": {
     "TCP": {
      "file": "https://vpn.akres.fun/protocols/vless/transports/tcp",
-     "count": 76
+     "count": 75
     },
     "gRPC": {
      "file": "https://vpn.akres.fun/protocols/vless/transports/grpc",
-     "count": 24
+     "count": 25
     },
     "XHTTP": {
      "file": "https://vpn.akres.fun/protocols/vless/transports/xhttp",

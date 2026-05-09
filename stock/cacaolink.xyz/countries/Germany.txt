@@ -1,3 +1,3 @@
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@185.191.118.33:443?flow=xtls-rprx-vision&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&security=reality&sid=686d8b9042922641&sni=de.moktana.app&type=tcp#🇩🇪 Германия 1
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@217.149.25.97:443?flow=xtls-rprx-vision&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&security=reality&sid=b6621cd49e21cd30&sni=de.moktana.app&type=tcp#🇩🇪 Германия 2
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@185.191.118.33:443?flow=xtls-rprx-vision&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&security=reality&sid=7a872af74fdbae77&sni=de.moktana.app&type=tcp#🇩🇪 Германия 1
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@217.149.25.97:443?flow=xtls-rprx-vision&fp=chrome&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&security=reality&sid=7a148891e3bb2f93&sni=de.moktana.app&type=tcp#🇩🇪 Германия 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@185.191.118.33:51523#🇩🇪 Германия 3

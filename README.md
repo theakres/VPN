@@ -1,6 +1,6 @@
 # VPN Configs
 
-Обновлено: **2026-05-09 07:59 МСК**
+Обновлено: **2026-05-09 08:56 МСК**
 Всего конфигов: **118**
 
 ---
@@ -24,8 +24,8 @@
 
 **По транспорту:**
 
-- TCP (76) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/tcp)
-- gRPC (24) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/grpc)
+- TCP (75) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/tcp)
+- gRPC (25) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/grpc)
 - XHTTP (8) — [Копировать](https://github.com/theakres/VPN/raw/main/protocols/vless/transports/xhttp)
 
 ---

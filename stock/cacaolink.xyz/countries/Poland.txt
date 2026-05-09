@@ -1,2 +1,2 @@
-vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@pl.moktana.app:443?fp=chrome&mode=gun&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&security=reality&serviceName=moktana.net.v1.StreamService&sid=0a3339fea8637fb2&sni=pl.moktana.app&type=grpc#🇵🇱 Польша 1
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@pl.moktana.app:443?fp=chrome&mode=gun&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&security=reality&serviceName=moktana.net.v1.StreamService&sid=93d9bca8c5a45a49&sni=pl.moktana.app&type=grpc#🇵🇱 Польша 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@pl.moktana.app:51523#🇵🇱 Польша 2
