@@ -1,0 +1,2 @@
+vless://055a7e17-a710-00cf-a413-8996a7386b7c@194.152.44.1:443?host=cf.akenai.click&path=/stream/ws&security=tls&sni=cf.akenai.click&type=ws#🇩🇪 Германия 1
+vless://055a7e17-a710-00ce-a413-8996a7386b7c@188.72.103.3:443?host=schcpm.ru&path=/stream/ws&security=tls&sni=schcpm.ru&type=ws#🇩🇪 Германия 2
