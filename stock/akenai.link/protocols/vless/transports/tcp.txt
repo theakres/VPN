@@ -1,6 +1,5 @@
 vless://055a7e17-a710-04d2-a413-8996a7386b7c@31.76.249.1:443?fp=chrome&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&security=reality&sid=b91a73752053b039&sni=de-mirror.api.akenai.click&type=tcp#🇩🇪 Германия 1
-vless://055a7e17-a710-00ce-a413-8996a7386b7c@5.188.140.34:443?fp=chrome&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&security=reality&sid=b91a73752053b039&sni=eh.vk.ru&type=tcp#🇩🇪 Германия 2
-vless://055a7e17-a710-00ce-a413-8996a7386b7c@5.188.115.105:443?fp=chrome&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&security=reality&sid=b91a73752053b039&sni=ads.x5.ru&type=tcp#🇩🇪 Германия 3
+vless://055a7e17-a710-00ce-a413-8996a7386b7c@217.16.17.1:443?fp=chrome&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&security=reality&sid=b91a73752053b039&sni=eh.vk.ru&type=tcp#🇩🇪 Германия 2
 vless://055a7e17-a710-0001-a413-8996a7386b7c@45.144.51.75:753?fp=chrome&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&security=reality&sid=b91a73752053b039&sni=www.amd.com&type=tcp#🇵🇱 Польша 1
 vless://055a7e17-a710-0013-a413-8996a7386b7c@45.144.51.75:443?fp=chrome&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&security=reality&sid=b91a73752053b039&type=tcp#🇵🇱 Польша 2
 vless://055a7e17-a710-00d7-a413-8996a7386b7c@31.76.249.1:443?fp=chrome&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&security=reality&sid=b91a73752053b039&sni=de-mirror.api.akenai.click&type=tcp#🇺🇸 США 1

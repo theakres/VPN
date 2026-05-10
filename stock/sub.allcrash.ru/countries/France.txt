@@ -1,1 +1,1 @@
-vless://5e217cdf-9a6e-4ddc-84d2-ccda9e7e16fa@45.67.139.21:7443?flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🇫🇷 Франция
+vless://5e217cdf-9a6e-4ddc-84d2-ccda9e7e16fa@152.89.253.112:7443?flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🇫🇷 Франция
