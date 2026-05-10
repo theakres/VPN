@@ -1,4 +1,2 @@
-vless://055a7e17-a710-00cf-a413-8996a7386b7c@194.152.44.1:443?host=cf.akenai.click&path=/stream/ws&security=tls&sni=cf.akenai.click&type=ws#🇩🇪 Германия 1
-vless://055a7e17-a710-00ce-a413-8996a7386b7c@188.72.103.3:443?host=schcpm.ru&path=/stream/ws&security=tls&sni=schcpm.ru&type=ws#🇩🇪 Германия 2
 vless://90972d17-6c31-470b-8b23-2a31d989c60d@usa77.freednet.org:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=usa77.freednet.org&type=tcp#🇺🇸 США 1
 vless://90972d17-6c31-470b-8b23-2a31d989c60d@usa77.freednet.org:443?alpn=h2&fp=chrome&path=/api/v1/&security=tls&sni=usa77.freednet.org&type=xhttp#🇺🇸 США 2

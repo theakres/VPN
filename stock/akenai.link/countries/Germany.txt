@@ -1,7 +1,0 @@
-vless://055a7e17-a710-04d2-a413-8996a7386b7c@31.76.249.1:443?fp=chrome&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&security=reality&sid=b91a73752053b039&sni=de-mirror.api.akenai.click&type=tcp#🇩🇪 Германия 1
-vless://055a7e17-a710-00ce-a413-8996a7386b7c@109.120.190.224:443?fp=chrome&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&security=reality&sid=b91a73752053b039&sni=eh.vk.ru&type=tcp#🇩🇪 Германия 2
-vless://055a7e17-a710-00ce-a413-8996a7386b7c@79.174.94.51:443?fp=chrome&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&security=reality&sid=b91a73752053b039&sni=ads.x5.ru&type=tcp#🇩🇪 Германия 3
-vless://055a7e17-a710-00ce-a413-8996a7386b7c@194.156.118.57:443?fp=chrome&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&security=reality&sid=b91a73752053b039&sni=ads.x5.ru&type=tcp#🇩🇪 Германия 4
-vless://055a7e17-a710-00cf-a413-8996a7386b7c@194.152.44.1:443?host=cf.akenai.click&path=/stream/ws&security=tls&sni=cf.akenai.click&type=ws#🇩🇪 Германия 5
-vless://055a7e17-a710-00ce-a413-8996a7386b7c@188.72.103.3:443?host=schcpm.ru&path=/stream/ws&security=tls&sni=schcpm.ru&type=ws#🇩🇪 Германия 6
-vless://055a7e17-a710-00ce-a413-8996a7386b7c@84.201.156.206:443?fp=chrome&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&security=reality&sid=b91a73752053b039&sni=ads.x5.ru&type=tcp#🇩🇪 Германия 7

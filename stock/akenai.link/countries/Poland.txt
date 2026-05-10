@@ -1,2 +1,0 @@
-vless://055a7e17-a710-0001-a413-8996a7386b7c@45.144.51.75:753?fp=chrome&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&security=reality&sid=b91a73752053b039&sni=www.amd.com&type=tcp#🇵🇱 Польша 1
-vless://055a7e17-a710-0013-a413-8996a7386b7c@45.144.51.75:443?fp=chrome&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&security=reality&sid=b91a73752053b039&type=tcp#🇵🇱 Польша 2
