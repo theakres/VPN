@@ -1,0 +1,1 @@
+vless://e69d5f8a-2629-45ac-889b-981983209933@95.164.55.147:443?flow=xtls-rprx-vision&fp=chrome&pbk=PxiVEKI3dp1UpqzpgnD31-Wl4MFiHjTI23ylGFn5Slg&security=reality&sid=8531dc89&sni=www.apple.com&type=tcp#🇵🇭 Филиппины
