@@ -1,1 +1,1 @@
-vless://5e217cdf-9a6e-4ddc-84d2-ccda9e7e16fa@107.161.174.35:7443?flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=chat.deepseek.com&type=tcp#🇹🇷 Турция
+vless://5e217cdf-9a6e-4ddc-84d2-ccda9e7e16fa@45.92.219.44:7443?flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=chat.deepseek.com&type=tcp#🇹🇷 Турция

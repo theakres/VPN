@@ -1,0 +1,1 @@
+vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@ya-x1.braidx.tech:443?flow=xtls-rprx-vision&fp=chrome&pbk=SSR8qHHHwFhf-LHig6DhZFoglHdVdImR6upc5DcpmHI&security=reality&sni=ads.x5.ru&type=tcp#Неизвестно
