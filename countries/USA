@@ -1,5 +1,4 @@
-vless://5b0e69f1-d138-45c7-b418-78ac303c9fdc@77.110.122.207:443?flow=xtls-rprx-vision&fp=chrome&pbk=WYip6TfWbDy0-KaGuYXNlVKkZq-D6qazENiRlMe2KRY&security=reality&sid=10fd36f143a88881&sni=www.samsung.com&type=tcp#🇺🇸 США 1
-vless://90972d17-6c31-470b-8b23-2a31d989c60d@usa77.freednet.org:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=usa77.freednet.org&type=tcp#🇺🇸 США 2
-vless://90972d17-6c31-470b-8b23-2a31d989c60d@usa77.freednet.org:443?alpn=h2&fp=chrome&path=/api/v1/&security=tls&sni=usa77.freednet.org&type=xhttp#🇺🇸 США 3
-vless://5e217cdf-9a6e-4ddc-84d2-ccda9e7e16fa@152.53.165.20:7443?flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🇺🇸 США 4
-vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@74.208.68.134:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇺🇸 США 5
+vless://90972d17-6c31-470b-8b23-2a31d989c60d@usa77.freednet.org:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=usa77.freednet.org&type=tcp#🇺🇸 США 1
+vless://90972d17-6c31-470b-8b23-2a31d989c60d@usa77.freednet.org:443?alpn=h2&fp=chrome&path=/api/v1/&security=tls&sni=usa77.freednet.org&type=xhttp#🇺🇸 США 2
+vless://5e217cdf-9a6e-4ddc-84d2-ccda9e7e16fa@152.53.91.94:7443?flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🇺🇸 США 3
+vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@74.208.68.134:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇺🇸 США 4
