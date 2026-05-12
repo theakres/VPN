@@ -1,1 +1,1 @@
-vless://21e1482b-b332-41eb-bb21-43b0be5a55a0@nl.snowfall.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&security=reality&sid=ffa6bc9956909c19&sni=nl.snowfall.top&spx=/&type=tcp#🇳🇱 Нидерланды
+vless://21e1482b-b332-41eb-bb21-43b0be5a55a0@nl.snowfall.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&security=reality&sid=69afb4b98a8a2968&sni=nl.snowfall.top&spx=/&type=tcp#🇳🇱 Нидерланды

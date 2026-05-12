@@ -1,2 +1,2 @@
 vless://21e1482b-b332-41eb-bb21-43b0be5a55a0@balance.durkaedet.top:1443?flow=xtls-rprx-vision&fp=chrome&pbk=p0hA1CGJmV2WIFV-Vg_fyBNtokdxQcrOxYb5pB7Y-Gw&security=reality&sid=0441f3e34348cb41&sni=balance.durkaedet.top&spx=/&type=tcp#🇩🇪 Германия 1
-vless://21e1482b-b332-41eb-bb21-43b0be5a55a0@hog.netotcluchai.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&security=reality&sid=69afb4b98a8a2968&sni=hog.netotcluchai.top&spx=/&type=tcp#🇩🇪 Германия 2
+vless://21e1482b-b332-41eb-bb21-43b0be5a55a0@hog.netotcluchai.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&security=reality&sid=ae21d7848b22e6d0&sni=hog.netotcluchai.top&spx=/&type=tcp#🇩🇪 Германия 2

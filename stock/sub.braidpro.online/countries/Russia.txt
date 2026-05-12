@@ -1,4 +1,0 @@
-vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@rusx2.braidx.tech:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇷🇺 Россия 1
-vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@82.202.159.36:443?flow=xtls-rprx-vision&fp=chrome&pbk=SSR8qHHHwFhf-LHig6DhZFoglHdVdImR6upc5DcpmHI&security=reality&sni=ads.x5.ru&type=tcp#🇷🇺 Россия 2
-vless://e7f6e8a7-2512-46c8-b6b2-4ab7cee48641@158.160.241.212:8443?flow=xtls-rprx-vision&fp=qq&pbk=vgECJ1J0IOIrxpnh7Pu7nhy2wJ_RJWq5wp_5sxp-3Bk&security=reality&sid=9db07670a7b491cb&sni=ads.x5.ru&type=tcp#🇷🇺 Россия 3
-vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@217.16.21.98:27472?flow=xtls-rprx-vision&fp=chrome&pbk=tfBYj32NRb7oc8lmVjr0nlote_rqpe_vd367HlcwxVs&security=reality&sid=b0&sni=www.samsung.com&type=tcp#🇷🇺 Россия 4
