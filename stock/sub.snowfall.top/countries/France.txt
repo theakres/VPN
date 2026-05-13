@@ -1,2 +1,0 @@
-vless://21e1482b-b332-41eb-bb21-43b0be5a55a0@fr.snowfall.top:1443?flow=xtls-rprx-vision&fp=chrome&pbk=usZBWuWxqOoWtx36GJ0XUaDv2KgNsRzLW6uPXpHeEEg&security=reality&sid=0441f3e34348cb45&sni=fr.snowfall.top&spx=/&type=tcp#🇫🇷 Франция 1
-vless://21e1482b-b332-41eb-bb21-43b0be5a55a0@fr.snowfall.top:443?fp=chrome&mode=multi&pbk=lA8jHv9jtnEfUuPjPrWbEYrUuNRekHm6RJj91jUvuxs&security=reality&serviceName=fr.snowfall.top&sid=0ac1b591aafcfa51&sni=fr.snowfall.top&spx=/&type=grpc#🇫🇷 Франция 2

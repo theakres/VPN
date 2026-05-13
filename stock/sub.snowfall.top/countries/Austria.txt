@@ -1,2 +1,0 @@
-vless://21e1482b-b332-41eb-bb21-43b0be5a55a0@davai.kupivodku.top:1443?flow=xtls-rprx-vision&fp=chrome&pbk=h-ofuILZVZLM3zSC6NIFwL7T7TdXsEsKS04upiMzmQY&security=reality&sid=0131f3e34341cb40&sni=davai.kupivodku.top&spx=/&type=tcp#🇦🇹 Австрия 1
-vless://21e1482b-b332-41eb-bb21-43b0be5a55a0@at.snowfall.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&security=reality&sid=8f2342038a173437&sni=at.snowfall.top&spx=/&type=tcp#🇦🇹 Австрия 2

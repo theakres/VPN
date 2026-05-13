@@ -1,2 +1,0 @@
-vless://21e1482b-b332-41eb-bb21-43b0be5a55a0@it.buildsnow.top:1443?flow=xtls-rprx-vision&fp=chrome&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&security=reality&sid=0441f3e34348cb45&sni=it.buildsnow.top&spx=/&type=tcp#🇮🇹 Италия 1
-vless://21e1482b-b332-41eb-bb21-43b0be5a55a0@it.buildsnow.top:443?fp=ios&mode=multi&pbk=WwKMyOXBb9FaWTZ0eoTFO6-6Bst3nBvVw0v7EytWGAk&security=reality&serviceName=it.buildsnow.top&sid=0ac1b591aafcfa51&sni=it.buildsnow.top&spx=/&type=grpc#🇮🇹 Италия 2
