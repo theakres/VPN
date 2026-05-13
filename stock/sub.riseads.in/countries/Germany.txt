@@ -1,1 +1,1 @@
-vless://fc1ddaaa-609c-4649-8280-7afd6e411291@37.120.175.98:443?flow=xtls-rprx-vision&fp=chrome&pbk=2cdGHEGP5A3WdXhrCSZEdNtMe80thM6o2mhzre3sMhY&security=reality&sid=af04f5b2bf4071af&sni=apple.com&type=tcp#🇩🇪 Германия
+vless://fc1ddaaa-609c-4649-8280-7afd6e411291@185.232.70.119:443?flow=xtls-rprx-vision&fp=chrome&pbk=2cdGHEGP5A3WdXhrCSZEdNtMe80thM6o2mhzre3sMhY&security=reality&sid=94d59abc6f&sni=apple.com&type=tcp#🇩🇪 Германия

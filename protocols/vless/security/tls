@@ -1,3 +1,3 @@
 vless://90972d17-6c31-470b-8b23-2a31d989c60d@usa77.freednet.org:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=usa77.freednet.org&type=tcp#🇺🇸 США 1
 vless://90972d17-6c31-470b-8b23-2a31d989c60d@usa77.freednet.org:443?alpn=h2&fp=chrome&path=/api/v1/&security=tls&sni=usa77.freednet.org&type=xhttp#🇺🇸 США 2
-vless://a024e161-bce3-4d9a-b341-3747fdb8cb3d@fast47.visi.rip:52843?security=tls&sni=gazprom.hutsharing.com&type=tcp#🇷🇺 Россия
+vless://a024e161-bce3-4d9a-b341-3747fdb8cb3d@fast94.visi.rip:52843?security=tls&sni=gazprom.hutsharing.com&type=tcp#🇷🇺 Россия
