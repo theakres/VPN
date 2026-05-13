@@ -1,0 +1,1 @@
+vless://error@error.error:1?security=none&encryption=none#❌_Превышен_лимит_устройств_(1/1)

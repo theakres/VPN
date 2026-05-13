@@ -1,2 +1,0 @@
-vless://c2c7d567-a0ed-0614-8387-af7db0dcfee6@ve-ru.volnalink.uk:4433?flow=xtls-rprx-vision&fp=qq&pbk=1YIROH0_y0ErpYZtnSBL93Wa75ydKXE18jHVNHwdmHM&security=reality&sid=af55e4201576cf6c&sni=yandex.ru&type=tcp#🇸🇪 Швеция 1
-vless://c2c7d567-a0ed-0001-8387-af7db0dcfee6@ve-sw.volnalink.uk:443?flow=xtls-rprx-vision&fp=qq&pbk=a3_DLO6p_ZfPf7I0JFTVlAI2pPAPtC-ji2diyPcHcQA&security=reality&sid=b92f48e92d8ffa08&sni=drive.yandex.ru&type=tcp#🇸🇪 Швеция 2
