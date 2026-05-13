@@ -1,2 +1,0 @@
-vless://2316d247-44dc-427f-ba6b-6380d7620bda@fi.suslikvpn.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=diw5L3O4EkRQGWDSfdpQooPUc3zBTItooeOQ_fIDFWI&security=reality&sid=7f2e9c4b1a8d6e53&sni=yahoo.com&type=tcp#🇫🇮 Финляндия 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFTTBIOGNTLVBvc2IxRDdKdkM4TnJzekZ3WkZvSnV1dw==@fi.suslikvpn.ru:1080#🇫🇮 Финляндия 2

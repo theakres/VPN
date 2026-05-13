@@ -1,0 +1,1 @@
+vless://f4a453f6-0dca-4fe2-b5f3-e68fd89d20df@gernode.lumixnet.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=-U0X6cr4KpOkyLdyVto-F6JJTgy0Y5dkpm9FIRu1rhU&security=reality&sid=d620f50383558d8a&sni=gernode.lumixnet.com&type=tcp#🇩🇪 Германия
