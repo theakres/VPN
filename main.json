@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-05-13 17:34 МСК",
+ "updated_at": "2026-05-13 17:38 МСК",
  "total": 63,
  "protocols": {
   "VLESS": {
@@ -45,13 +45,13 @@
   "RU": {
    "flag": "🇷🇺",
    "name": "Россия",
-   "count": 26,
+   "count": 25,
    "file": "https://vpn.akres.fun/countries/Russia"
   },
   "NL": {
    "flag": "🇳🇱",
    "name": "Нидерланды",
-   "count": 11,
+   "count": 12,
    "file": "https://vpn.akres.fun/countries/Netherlands"
   },
   "DE": {
@@ -142,7 +142,7 @@
  "bwl": {
   "flag": "🏳️",
   "name": "Обход БС",
-  "count": 27,
+  "count": 26,
   "file": "https://vpn.akres.fun/bwl"
  }
 }

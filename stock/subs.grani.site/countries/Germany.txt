@@ -1,3 +1,3 @@
-vless://c8341a91-138a-4187-9f90-affcbe86b239@159.195.57.113:443?flow=xtls-rprx-vision&fp=chrome&pbk=I3MPJG-CasqTjXGM84N7bF0Xi4r0WYeXQ4fvJ3T-4HU&security=reality&sid=2d6a8f1c3e9b7045&sni=de-netcup.grani.site&type=tcp#🇩🇪 Германия 1
-vless://c8341a91-138a-4187-9f90-affcbe86b239@de01.grani.site:443?flow=xtls-rprx-vision&fp=chrome&pbk=Uv79PXocWtyRukj1QmLj_qoZYFxeFVIDHPpk9ul7WxU&security=reality&sid=4e9c1a7d3b5f0286&sni=de01.grani.site&type=tcp#🇩🇪 Германия 2
-vless://c8341a91-138a-4187-9f90-affcbe86b239@45.15.129.26:443?flow=xtls-rprx-vision&fp=chrome&pbk=_guCk4U7V4-w9g0fK5C6sQf0hHa98uu5zIDBZqPi_2g&security=reality&sid=f3c1e7a9d4b06285&sni=de03.grani.site&type=tcp#🇩🇪 Германия 3
+vless://c8341a91-138a-4187-9f90-affcbe86b239@159.195.57.113:443?flow=xtls-rprx-vision&fp=chrome&pbk=I3MPJG-CasqTjXGM84N7bF0Xi4r0WYeXQ4fvJ3T-4HU&security=reality&sid=f9a3c1e7d5b08264&sni=de-netcup.grani.site&type=tcp#🇩🇪 Германия 1
+vless://c8341a91-138a-4187-9f90-affcbe86b239@de01.grani.site:443?flow=xtls-rprx-vision&fp=chrome&pbk=Uv79PXocWtyRukj1QmLj_qoZYFxeFVIDHPpk9ul7WxU&security=reality&sid=a7c1e3d9b4f06285&sni=de01.grani.site&type=tcp#🇩🇪 Германия 2
+vless://c8341a91-138a-4187-9f90-affcbe86b239@45.15.129.26:443?flow=xtls-rprx-vision&fp=chrome&pbk=_guCk4U7V4-w9g0fK5C6sQf0hHa98uu5zIDBZqPi_2g&security=reality&sid=5e2f7c1a9d3b8460&sni=de03.grani.site&type=tcp#🇩🇪 Германия 3
