@@ -1,0 +1,1 @@
+vless://a024e161-bce3-4d9a-b341-3747fdb8cb3d@fast12.visi.rip:52843?security=tls&sni=gazprom.hutsharing.com&type=tcp#🇷🇺 Россия
