@@ -1,1 +1,1 @@
-vless://fc1ddaaa-609c-4649-8280-7afd6e411291@185.215.187.205:443?flow=xtls-rprx-vision&fp=chrome&pbk=2cdGHEGP5A3WdXhrCSZEdNtMe80thM6o2mhzre3sMhY&security=reality&sid=5d8bd36d&sni=apple.com&type=tcp#🇪🇪 Эстония
+vless://fc1ddaaa-609c-4649-8280-7afd6e411291@185.215.184.149:443?flow=xtls-rprx-vision&fp=chrome&pbk=2cdGHEGP5A3WdXhrCSZEdNtMe80thM6o2mhzre3sMhY&security=reality&sid=648a8c&sni=apple.com&type=tcp#🇪🇪 Эстония
