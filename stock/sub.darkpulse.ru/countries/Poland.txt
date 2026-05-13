@@ -1,0 +1,1 @@
+vless://36857a1a-e6f5-4832-bf5e-b9109a7ce789@81.85.73.17:443?encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&fp=chrome&pbk=f8vUGEPOgk9UexqfW_X8g12teWaiE0y3CKeUDp1Kr10&security=reality&sid=67&sni=www.amd.com&spx=/&type=tcp#🇵🇱 Польша

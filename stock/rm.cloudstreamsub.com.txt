@@ -1,4 +1,0 @@
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#⚠️ Трафик исчерпан
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#💳 Сбросьте трафик
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#В телеграм👉@K13_VPN_BOT
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#На сайте👉K13VPN.COM
