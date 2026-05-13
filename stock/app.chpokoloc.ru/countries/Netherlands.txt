@@ -1,2 +1,1 @@
-vless://a024e161-bce3-4d9a-b341-3747fdb8cb3d@fast84.visi.rip:443?flow=xtls-rprx-vision&fp=chrome&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&security=reality&sid=fd&sni=rutube.ru&type=tcp#🇳🇱 Нидерланды 1
-vless://a024e161-bce3-4d9a-b341-3747fdb8cb3d@yashka293.hutsharing.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&security=reality&sid=fd&sni=gazprom.hutsharing.com&type=tcp#🇳🇱 Нидерланды 2
+vless://a024e161-bce3-4d9a-b341-3747fdb8cb3d@fast125.visi.rip:22842?flow=xtls-rprx-vision&fp=chrome&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&security=reality&sid=fd&sni=gazprom.hutsharing.com&type=tcp#🇳🇱 Нидерланды

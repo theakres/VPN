@@ -1,6 +1,6 @@
 # VPN Configs
 
-Обновлено: **2026-05-13 17:23 МСК**
+Обновлено: **2026-05-13 17:26 МСК**
 Всего конфигов: **63**
 
 ---
@@ -42,8 +42,8 @@
 
 ## По странам
 
-- 🇷🇺 **Россия** (24) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Russia)
-- 🇳🇱 **Нидерланды** (13) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Netherlands)
+- 🇷🇺 **Россия** (25) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Russia)
+- 🇳🇱 **Нидерланды** (12) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Netherlands)
 - 🇩🇪 **Германия** (7) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Germany)
 - 🇺🇸 **США** (4) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/USA)
 - 🇵🇱 **Польша** (3) — [Копировать](https://github.com/theakres/VPN/raw/main/countries/Poland)
