@@ -1,4 +1,4 @@
 vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@77.110.123.203:443?fp=random&host=maps.apple.com&mode=auto&path=/api/internal/d8f4e2a91c6b&pbk=fS59W37_i8457GqkbB9_kdCfLCtWbl14qmVRnm2ty2I&security=reality&sid=2da4299da566b7&sni=maps.apple.com&type=xhttp#🇺🇸 США 1
-vless://c8341a91-138a-4187-9f90-affcbe86b239@45.86.74.93:443?flow=xtls-rprx-vision&fp=chrome&pbk=Vyh7Kf4o8NdoqzGHkvZZvs_CayHEW_u7bHxl9ByGU2k&security=reality&sid=f3c1e7a9d4b06285&sni=usa02.grani.site&type=tcp#🇺🇸 США 2
+vless://c8341a91-138a-4187-9f90-affcbe86b239@45.86.74.93:443?flow=xtls-rprx-vision&fp=chrome&pbk=Vyh7Kf4o8NdoqzGHkvZZvs_CayHEW_u7bHxl9ByGU2k&security=reality&sid=4d9c1e7a3b5f0286&sni=usa02.grani.site&type=tcp#🇺🇸 США 2
 vless://90972d17-6c31-470b-8b23-2a31d989c60d@usa77.freednet.org:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=usa77.freednet.org&type=tcp#🇺🇸 США 3
 vless://90972d17-6c31-470b-8b23-2a31d989c60d@usa77.freednet.org:443?alpn=h2&fp=chrome&path=/api/v1/&security=tls&sni=usa77.freednet.org&type=xhttp#🇺🇸 США 4

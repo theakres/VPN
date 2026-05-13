@@ -1,1 +1,1 @@
-vless://c8341a91-138a-4187-9f90-affcbe86b239@45.86.74.93:443?flow=xtls-rprx-vision&fp=chrome&pbk=Vyh7Kf4o8NdoqzGHkvZZvs_CayHEW_u7bHxl9ByGU2k&security=reality&sid=f3c1e7a9d4b06285&sni=usa02.grani.site&type=tcp#🇺🇸 США
+vless://c8341a91-138a-4187-9f90-affcbe86b239@45.86.74.93:443?flow=xtls-rprx-vision&fp=chrome&pbk=Vyh7Kf4o8NdoqzGHkvZZvs_CayHEW_u7bHxl9ByGU2k&security=reality&sid=4d9c1e7a3b5f0286&sni=usa02.grani.site&type=tcp#🇺🇸 США
