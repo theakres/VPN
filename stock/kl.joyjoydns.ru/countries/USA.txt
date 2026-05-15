@@ -1,1 +1,1 @@
-vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@195.26.250.121:8443?fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&security=reality&sid=b3a1cc510a2001c6&sni=alfabank.ru&type=tcp#🇺🇸 США
+vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@195.26.250.121:8443?fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&security=reality&sid=b3a1cc510a2001c6&sni=id.tbank.ru&type=tcp#🇺🇸 США

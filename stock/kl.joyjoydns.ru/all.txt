@@ -11,20 +11,23 @@ vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@95.85.229.226:39800?fp=chrome&mode=
 vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@64.188.80.213:8443?fp=ios&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&security=reality&sid=b3a1cc510a2001c6&sni=eh.vk.com&type=tcp#🇫🇮 Финляндия 1
 vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@64.188.80.213:39800?fp=chrome&mode=auto&pbk=bpHDYJWkA0h_nOqRBLUbuJJXfqmIZIMGcv07zcFpdCs&security=reality&sid=dc27d60c096413b5&sni=apple.com&type=xhttp#🇫🇮 Финляндия 2
 vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@play.google.com:443?fp=android&host=edfingcptest-364343017979.europe-north1.run.app&path=/&security=tls&sni=play.google.com&type=ws#🇫🇮 Финляндия 3
-vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@84.201.129.19:4433?allowInsecure=0&host=e.genesis1780.ru&insecure=0&path=/&security=tls&sni=e.genesis1780.ru&type=ws#🇫🇮 Финляндия 4
-vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@84.201.167.77:443?allowInsecure=0&host=e.genesis1780.ru&insecure=0&path=/&security=tls&sni=e.genesis1780.ru&type=ws#🇫🇮 Финляндия 5
+vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@158.160.224.147:8443?host=e.genesis1780.ru&insecure=0&path=/&security=tls&sni=e.genesis1780.ru&type=ws#🇫🇮 Финляндия 4
+vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@158.160.50.116:8443?host=e.genesis1780.ru&insecure=0&path=/&security=tls&sni=e.genesis1780.ru&type=ws#🇫🇮 Финляндия 5
 vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@158.160.224.147:8443?allowInsecure=0&host=e.genesis1780.ru&insecure=0&path=/&security=tls&sni=e.genesis1780.ru&type=ws#🇫🇮 Финляндия 6
-vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@84.201.129.19:8433?allowInsecure=0&host=e.genesis1780.ru&insecure=0&path=/&security=tls&sni=e.genesis1780.ru&type=ws#🇫🇮 Финляндия 7
-vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@193.135.137.46:8443?fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&security=reality&sid=b3a1cc510a2001c6&sni=eh.vk.com&type=tcp#🇩🇪 Германия 1
-vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@64.188.70.10:8443?fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&security=reality&sid=b3a1cc510a2001c6&sni=eh.vk.com&type=tcp#🇩🇪 Германия 2
-vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@193.135.137.46:39800?fp=ios&mode=auto&pbk=bpHDYJWkA0h_nOqRBLUbuJJXfqmIZIMGcv07zcFpdCs&security=reality&sid=dc27d60c096413b5&sni=apple.com&type=xhttp#🇩🇪 Германия 3
-vless://6eb0a91a-598d-4ef1-aa3f-32e80b6d2944@de2.cvs-a.com:443?bx=/&fp=chrome&mode=auto&path=/api&pbk=eD-bO21C31l_HjvJNOQB_FdF_oinWj-tqLPW4Bd-WFI&security=reality&sid=bb55683efa59799d&sni=de2.cvs-a.com&type=xhttp#🇩🇪 Германия 4
-vless://99031195-9123-4645-9b3c-1089a1e27845@84.201.174.121:43303?flow=xtls-rprx-vision&fp=qq&pbk=BrNSmuPtggwQ1VuLIyJJMgeJSf-ttrg9jcH9DqTi41Y&security=reality&sid=15a1d6bc0c&sni=ads.x5.ru&type=tcp#🇩🇪 Германия 5
+vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@84.201.167.77:443?allowInsecure=0&host=e.genesis1780.ru&insecure=0&path=/&security=tls&sni=e.genesis1780.ru&type=ws#🇫🇮 Финляндия 7
+vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@158.160.50.116:8443?allowInsecure=0&host=e.genesis1780.ru&insecure=0&path=/&security=tls&sni=e.genesis1780.ru&type=ws#🇫🇮 Финляндия 8
+vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@81.200.149.93:443?allowInsecure=0&host=e.genesis1780.ru&insecure=0&path=/&security=tls&sni=e.genesis1780.ru&type=ws#🇫🇮 Финляндия 9
 vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@64.188.77.5:8443?fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&security=reality&sid=b3a1cc510a2001c6&sni=eh.vk.com&type=tcp#🇳🇱 Нидерланды 1
 vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@64.188.77.140:8443?fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&security=reality&sid=b3a1cc510a2001c6&sni=eh.vk.com&type=tcp#🇳🇱 Нидерланды 2
 vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@64.188.77.5:39800?fp=ios&mode=auto&pbk=bpHDYJWkA0h_nOqRBLUbuJJXfqmIZIMGcv07zcFpdCs&security=reality&sid=dc27d60c096413b5&sni=apple.com&type=xhttp#🇳🇱 Нидерланды 3
 vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@64.188.77.140:39800?fp=ios&mode=auto&pbk=bpHDYJWkA0h_nOqRBLUbuJJXfqmIZIMGcv07zcFpdCs&security=reality&sid=dc27d60c096413b5&sni=apple.com&type=xhttp#🇳🇱 Нидерланды 4
-vless://81cac9ae-ef19-427f-8f6f-96a8c7a6406a@217.16.23.28:5444?flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#🇫🇷 Франция 1
-vless://81cac9ae-ef19-427f-8f6f-96a8c7a6406a@217.16.22.172:5444?flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#🇫🇷 Франция 2
+vless://04a69b1a-0ef4-4daa-b179-5dbd9b25a3b0@158.160.106.23:443?flow=xtls-rprx-vision&fp=chrome&pbk=-5N6BJPDvTQm7vVOFpNnoJrZDaOsPccu6SeZGPGKEkI&security=reality&sid=3626b118a6e54d7b&sni=wl-3-1.legendary-vpn.com&type=tcp#🇳🇱 Нидерланды 5
+vless://04a69b1a-0ef4-4daa-b179-5dbd9b25a3b0@51.250.39.162:443?flow=xtls-rprx-vision&fp=chrome&pbk=uofZM1SG_RthhSONWy50U6cQ5m3kXy-sglwY0CANfi8&security=reality&sid=468d8ab371f8f563&sni=wl-6-1.legendary.ac&type=tcp#🇳🇱 Нидерланды 6
+vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@193.135.137.46:8443?fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&security=reality&sid=b3a1cc510a2001c6&sni=eh.vk.com&type=tcp#🇩🇪 Германия 1
+vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@64.188.70.10:8443?fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&security=reality&sid=b3a1cc510a2001c6&sni=eh.vk.com&type=tcp#🇩🇪 Германия 2
+vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@193.135.137.46:39800?fp=ios&mode=auto&pbk=bpHDYJWkA0h_nOqRBLUbuJJXfqmIZIMGcv07zcFpdCs&security=reality&sid=dc27d60c096413b5&sni=apple.com&type=xhttp#🇩🇪 Германия 3
+vless://6eb0a91a-598d-4ef1-aa3f-32e80b6d2944@de2.cvs-a.com:443?bx=/&fp=chrome&mode=auto&path=/api&pbk=eD-bO21C31l_HjvJNOQB_FdF_oinWj-tqLPW4Bd-WFI&security=reality&sid=bb55683efa59799d&sni=de2.cvs-a.com&type=xhttp#🇩🇪 Германия 4
+vless://81cac9ae-ef19-427f-8f6f-96a8c7a6406a@217.16.22.172:5444?flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#🇫🇷 Франция 1
+vless://81cac9ae-ef19-427f-8f6f-96a8c7a6406a@217.16.23.28:5444?flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#🇫🇷 Франция 2
 vless://81cac9ae-ef19-427f-8f6f-96a8c7a6406a@217.16.22.172:443?flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#🇷🇺 Россия
-vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@195.26.250.121:8443?fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&security=reality&sid=b3a1cc510a2001c6&sni=alfabank.ru&type=tcp#🇺🇸 США
+vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@195.26.250.121:8443?fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&security=reality&sid=b3a1cc510a2001c6&sni=id.tbank.ru&type=tcp#🇺🇸 США

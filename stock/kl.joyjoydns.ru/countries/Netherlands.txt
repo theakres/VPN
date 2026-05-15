@@ -2,3 +2,5 @@ vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@64.188.77.5:8443?fp=chrome&pbk=GzQr
 vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@64.188.77.140:8443?fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&security=reality&sid=b3a1cc510a2001c6&sni=eh.vk.com&type=tcp#🇳🇱 Нидерланды 2
 vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@64.188.77.5:39800?fp=ios&mode=auto&pbk=bpHDYJWkA0h_nOqRBLUbuJJXfqmIZIMGcv07zcFpdCs&security=reality&sid=dc27d60c096413b5&sni=apple.com&type=xhttp#🇳🇱 Нидерланды 3
 vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@64.188.77.140:39800?fp=ios&mode=auto&pbk=bpHDYJWkA0h_nOqRBLUbuJJXfqmIZIMGcv07zcFpdCs&security=reality&sid=dc27d60c096413b5&sni=apple.com&type=xhttp#🇳🇱 Нидерланды 4
+vless://04a69b1a-0ef4-4daa-b179-5dbd9b25a3b0@158.160.106.23:443?flow=xtls-rprx-vision&fp=chrome&pbk=-5N6BJPDvTQm7vVOFpNnoJrZDaOsPccu6SeZGPGKEkI&security=reality&sid=3626b118a6e54d7b&sni=wl-3-1.legendary-vpn.com&type=tcp#🇳🇱 Нидерланды 5
+vless://04a69b1a-0ef4-4daa-b179-5dbd9b25a3b0@51.250.39.162:443?flow=xtls-rprx-vision&fp=chrome&pbk=uofZM1SG_RthhSONWy50U6cQ5m3kXy-sglwY0CANfi8&security=reality&sid=468d8ab371f8f563&sni=wl-6-1.legendary.ac&type=tcp#🇳🇱 Нидерланды 6
