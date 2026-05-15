@@ -1,0 +1,1 @@
+vless://d240c779-9b3e-4b42-9049-4f38acc20a8c@alania.kosmolet.me:443?flow=xtls-rprx-vision&fp=chrome&pbk=oj25dNZEs1tQLL30RTP2-nV1yQ-sFQdzWq9FUlRfKlU&security=reality&sid=991fb31cca1810d7&sni=alania.kosmolet.me&type=tcp#🇹🇷 Турция

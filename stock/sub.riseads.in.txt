@@ -1,5 +1,1 @@
-vless://fc1ddaaa-609c-4649-8280-7afd6e411291@139.28.240.41:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=apple.com&fp=chrome&pbk=2cdGHEGP5A3WdXhrCSZEdNtMe80thM6o2mhzre3sMhY&sid=5d8bd36d#🇳🇱 Основной
-vless://fc1ddaaa-609c-4649-8280-7afd6e411291@72.56.102.231:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=login.vk.com&fp=random&pbk=2cdGHEGP5A3WdXhrCSZEdNtMe80thM6o2mhzre3sMhY&sid=648a8c#🇳🇱 Запасной
-vless://fc1ddaaa-609c-4649-8280-7afd6e411291@185.232.70.119:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=apple.com&fp=chrome&pbk=2cdGHEGP5A3WdXhrCSZEdNtMe80thM6o2mhzre3sMhY&sid=94d59abc6f#🇪🇺Автовыбор 
-vless://fc1ddaaa-609c-4649-8280-7afd6e411291@185.215.187.205:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=apple.com&fp=chrome&pbk=2cdGHEGP5A3WdXhrCSZEdNtMe80thM6o2mhzre3sMhY&sid=af04f5b2bf4071af#🇪🇪 Эстония
-vless://fc1ddaaa-609c-4649-8280-7afd6e411291@195.63.137.157:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=eh.vk.com&fp=chrome&pbk=2cdGHEGP5A3WdXhrCSZEdNtMe80thM6o2mhzre3sMhY&sid=94d59abc6f#Тест
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#App not supported

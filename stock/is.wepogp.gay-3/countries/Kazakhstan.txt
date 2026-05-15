@@ -1,0 +1,1 @@
+vless://d240c779-9b3e-4b42-9049-4f38acc20a8c@mika.kosmojoy.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=16_txbp5fv0AbOw7pKOkJ4K70D1dnmjVXuVwRq50GA0&security=reality&sid=2ea6b019aee171bc&sni=mika.kosmojoy.ru&type=tcp#🇰🇿 Казахстан

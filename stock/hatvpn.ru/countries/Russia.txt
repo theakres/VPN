@@ -1,1 +1,2 @@
-vless://54aa50e0-1a7b-434e-b3f8-ff911d1c218c@158.160.227.187:443?flow=xtls-rprx-vision&fp=qq&pbk=7G1Hv-YQ347DIbLeuLFf5zmuBpYTc5A0yC1_KtNAvhg&security=reality&sid=6af4b1c3&sni=www.amd.com&spx=/&type=tcp#🇷🇺 Россия
+vless://54aa50e0-1a7b-434e-b3f8-ff911d1c218c@158.160.227.187:443?flow=xtls-rprx-vision&fp=qq&pbk=7G1Hv-YQ347DIbLeuLFf5zmuBpYTc5A0yC1_KtNAvhg&security=reality&sid=6af4b1c3&sni=www.amd.com&spx=/&type=tcp#🇷🇺 Россия 1
+vless://54aa50e0-1a7b-434e-b3f8-ff911d1c218c@158.160.143.1:443?flow=xtls-rprx-vision&fp=qq&pbk=7G1Hv-YQ347DIbLeuLFf5zmuBpYTc5A0yC1_KtNAvhg&security=reality&sid=6af4b1c3&sni=www.amd.com&spx=/&type=tcp#🇷🇺 Россия 2

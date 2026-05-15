@@ -1,0 +1,1 @@
+vless://d511e429-e32b-46a7-ac07-a0fffa9b634c@cdn.prostovpn.website:2087?host=cdn.prostovpn.website&path=/ws-cdn&security=tls&sni=cdn.prostovpn.website&type=ws#🇵🇱 Польша

@@ -1,0 +1,2 @@
+vless://81cac9ae-ef19-427f-8f6f-96a8c7a6406a@217.16.23.28:5444?flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#🇫🇷 Франция 1
+vless://81cac9ae-ef19-427f-8f6f-96a8c7a6406a@217.16.22.172:5444?flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#🇫🇷 Франция 2

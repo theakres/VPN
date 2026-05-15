@@ -1,0 +1,1 @@
+vless://85b5cb2e-2617-4930-b6a4-4aeaf3b7b9aa@fr-tx.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#🇫🇷 Франция
