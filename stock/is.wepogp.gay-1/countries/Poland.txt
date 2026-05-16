@@ -1,1 +1,2 @@
-vless://d511e429-e32b-46a7-ac07-a0fffa9b634c@cdn.prostovpn.website:2087?host=cdn.prostovpn.website&path=/ws-cdn&security=tls&sni=cdn.prostovpn.website&type=ws#🇵🇱 Польша
+vless://d240c779-9b3e-4b42-9049-4f38acc20a8c@aneta.kosmolet.xyz:443?flow=xtls-rprx-vision&fp=chrome&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&security=reality&sid=a67894cec8a930c4&sni=aneta.kosmolet.xyz&type=tcp#🇵🇱 Польша 1
+vless://d240c779-9b3e-4b42-9049-4f38acc20a8c@hiro.kosmojoy.ru:11443?flow=xtls-rprx-vision&fp=chrome&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&security=reality&sid=be0191cc&sni=www.tesla.com&type=tcp#🇵🇱 Польша 2

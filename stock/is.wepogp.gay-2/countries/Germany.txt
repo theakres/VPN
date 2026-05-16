@@ -1,3 +1,0 @@
-vless://e9ca5fcc-807e-4290-8e3c-6329d7cd2885@de.ethervds.com:47030?flow=xtls-rprx-vision&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&security=reality&sid=e18eda8458cab0d7&sni=api-maps.yandex.ru&type=tcp#🇩🇪 Германия 1
-vless://e9ca5fcc-807e-4290-8e3c-6329d7cd2885@sqw2.ethervds.com:8414?fp=qq&mode=auto&path=/api/v1/data&pbk=f1RWqWYFHjUxAVBxFNlLtBbVs7THYjuAJvhG7nK4IEE&security=reality&sid=0123456789abcdef&sni=max.ru&type=xhttp#🇩🇪 Германия 2
-vless://e9ca5fcc-807e-4290-8e3c-6329d7cd2885@cn.ethervds.com:8414?fp=qq&mode=auto&path=/api/v1/data&pbk=f1RWqWYFHjUxAVBxFNlLtBbVs7THYjuAJvhG7nK4IEE&security=reality&sid=0123456789abcdef&sni=max.ru&type=xhttp#🇩🇪 Германия 3

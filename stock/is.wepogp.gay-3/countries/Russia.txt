@@ -1,4 +1,0 @@
-vless://d240c779-9b3e-4b42-9049-4f38acc20a8c@miya.kosmolet.me:8443?flow=xtls-rprx-vision&fp=chrome&pbk=F8-vs46mNbq9-5gAP08KD420Jf1tdHwcefIDTFpEMSs&security=reality&sid=30095c0f0d&sni=max.ru&type=tcp#🇷🇺 Россия 1
-vless://d240c779-9b3e-4b42-9049-4f38acc20a8c@hiro.kosmojoy.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=-a1bAXPMUF33Z8ADP8kqK_S3t5JTqZgRjXEpruMKfnc&security=reality&sid=b34e9c2736da49fa&sni=www.amd.com&type=tcp#🇷🇺 Россия 2
-vless://d240c779-9b3e-4b42-9049-4f38acc20a8c@hiro.kosmojoy.ru:8443?flow=xtls-rprx-vision&fp=chrome&pbk=fFLZtWzm2ZJUs7jsiJN2OS_mONE7GHycuywe3JmksXs&security=reality&sid=3dc5c3657166&sni=www.nvidia.com&type=tcp#🇷🇺 Россия 3
-vless://d240c779-9b3e-4b42-9049-4f38acc20a8c@hiro.kosmojoy.ru:10443?flow=xtls-rprx-vision&fp=chrome&pbk=qlLv5V1CVWa6karfTn1ti2FNNL1-SSVe3CAhnNuTHX0&security=reality&sid=9dd5c3647166&sni=www.nvidia.com&type=tcp#🇷🇺 Россия 4

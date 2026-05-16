@@ -1,4 +1,4 @@
-vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@193.135.137.46:8443?fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&security=reality&sid=b3a1cc510a2001c6&sni=eh.vk.com&type=tcp#🇩🇪 Германия 1
-vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@64.188.70.10:8443?fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&security=reality&sid=b3a1cc510a2001c6&sni=eh.vk.com&type=tcp#🇩🇪 Германия 2
-vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@193.135.137.46:39800?fp=ios&mode=auto&pbk=bpHDYJWkA0h_nOqRBLUbuJJXfqmIZIMGcv07zcFpdCs&security=reality&sid=dc27d60c096413b5&sni=apple.com&type=xhttp#🇩🇪 Германия 3
-vless://6eb0a91a-598d-4ef1-aa3f-32e80b6d2944@de2.cvs-a.com:443?bx=/&fp=chrome&mode=auto&path=/api&pbk=eD-bO21C31l_HjvJNOQB_FdF_oinWj-tqLPW4Bd-WFI&security=reality&sid=bb55683efa59799d&sni=de2.cvs-a.com&type=xhttp#🇩🇪 Германия 4
+vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@64.188.70.10:8443?fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&security=reality&sid=b3a1cc510a2001c6&sni=eh.vk.com&type=tcp#🇩🇪 Германия 1
+vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@64.188.70.161:8443?fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&security=reality&sid=b3a1cc510a2001c6&sni=eh.vk.com&type=tcp#🇩🇪 Германия 2
+vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@193.135.137.46:8443?fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&security=reality&sid=b3a1cc510a2001c6&sni=eh.vk.com&type=tcp#🇩🇪 Германия 3
+vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@193.135.137.46:39800?fp=ios&mode=auto&pbk=bpHDYJWkA0h_nOqRBLUbuJJXfqmIZIMGcv07zcFpdCs&security=reality&sid=dc27d60c096413b5&sni=apple.com&type=xhttp#🇩🇪 Германия 4

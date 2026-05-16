@@ -1,1 +1,1 @@
-vless://e0f94ee1-e44a-44e7-b1dc-c1227ce11b64@64.188.77.219:443?flow=xtls-rprx-vision-udp443&fp=chrome&pbk=IS8fxs8Tr7PL9Ugx5VgqDHNQ3Ez-D-UjPaBCEtQxShA&security=reality&sid=7a1473&sni=www.microsoft.com&spx=/&type=tcp#🇳🇱 Нидерланды
+vless://e0f94ee1-e44a-44e7-b1dc-c1227ce11b64@2.26.20.214:443?flow=xtls-rprx-vision&fp=chrome&pbk=IS8fxs8Tr7PL9Ugx5VgqDHNQ3Ez-D-UjPaBCEtQxShA&security=reality&sid=7a1473&sni=www.microsoft.com&spx=/&type=tcp#🇳🇱 Нидерланды

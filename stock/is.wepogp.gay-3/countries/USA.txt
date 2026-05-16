@@ -1,1 +1,0 @@
-vless://d240c779-9b3e-4b42-9049-4f38acc20a8c@ashley.kosmolet.xyz:443?flow=xtls-rprx-vision&fp=chrome&pbk=cA3-aAVa0dZXMKbzXj5nLUyxB1AdgrOVU8UU_mJ67EA&security=reality&sid=c78d9525a558f9f9&sni=ashley.kosmolet.xyz&type=tcp#🇺🇸 США

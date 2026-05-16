@@ -1,1 +1,3 @@
-vless://d511e429-e32b-46a7-ac07-a0fffa9b634c@45.89.110.231:443?flow=xtls-rprx-vision&fp=chrome&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sid=c4fb372c78b32874&sni=www.deepl.com&type=tcp#🇳🇱 Нидерланды
+vless://d240c779-9b3e-4b42-9049-4f38acc20a8c@nagatoro.kosmojoy.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&security=reality&sid=be0191cc&sni=www.tesla.com&type=tcp#🇳🇱 Нидерланды 1
+vless://d240c779-9b3e-4b42-9049-4f38acc20a8c@kyon.kosmojoy.ru:443?fp=chrome&pbk=aGTELh6I5BV90lQbbrsI5z0BKFGClzAxot8OJ5UIQhQ&security=reality&serviceName=NekoService&sid=86bc8157365bb1&sni=www.oracle.com&type=grpc#🇳🇱 Нидерланды 2
+vless://d240c779-9b3e-4b42-9049-4f38acc20a8c@kanzaki.kosmolet.me:443?host=kanzaki.kosmolet.me&path=/lovelive&security=tls&sni=kanzaki.kosmolet.me&type=ws#🇳🇱 Нидерланды 3

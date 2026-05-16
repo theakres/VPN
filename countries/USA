@@ -1,9 +1,3 @@
 vless://4e11ad7d-a372-0348-81c5-a03a52cc8291@auto.api-rutube.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&security=reality&sni=cdn.trahodrom.fun&type=tcp#🇺🇸 США 1
-vless://d511e429-e32b-46a7-ac07-a0fffa9b634c@185.72.8.63:443?flow=xtls-rprx-vision&fp=chrome&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sid=1a&sni=www.deepl.com&type=tcp#🇺🇸 США 2
-vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@193.233.202.81:443?fp=random&host=maps.apple.com&mode=auto&path=/api/internal/d8f4e2a91c6b&pbk=fS59W37_i8457GqkbB9_kdCfLCtWbl14qmVRnm2ty2I&security=reality&sid=2da4299da566b7&sni=maps.apple.com&type=xhttp#🇺🇸 США 3
-vless://e9ca5fcc-807e-4290-8e3c-6329d7cd2885@it.ethervds.com:47030?flow=xtls-rprx-vision&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&security=reality&sid=e18eda8458cab0d7&sni=api-maps.yandex.ru&type=tcp#🇺🇸 США 4
-vless://e9ca5fcc-807e-4290-8e3c-6329d7cd2885@us.ethervds.com:47030?flow=xtls-rprx-vision&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&security=reality&sid=e18eda8458cab0d7&sni=api-maps.yandex.ru&type=tcp#🇺🇸 США 5
-vless://d240c779-9b3e-4b42-9049-4f38acc20a8c@ashley.kosmolet.xyz:443?flow=xtls-rprx-vision&fp=chrome&pbk=cA3-aAVa0dZXMKbzXj5nLUyxB1AdgrOVU8UU_mJ67EA&security=reality&sid=c78d9525a558f9f9&sni=ashley.kosmolet.xyz&type=tcp#🇺🇸 США 6
-vless://85b5cb2e-2617-4930-b6a4-4aeaf3b7b9aa@apple.com:443?alpn=http/1.1&flow=xtls-rprx-vision&fp=qq&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#🇺🇸 США 7
-vless://85b5cb2e-2617-4930-b6a4-4aeaf3b7b9aa@us-bridge.sbrf-cdn342.ru:443?alpn=h2,http/1.1&flow=xtls-rprx-vision&fp=random&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#🇺🇸 США 8
-vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@195.26.250.121:8443?fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&security=reality&sid=b3a1cc510a2001c6&sni=id.tbank.ru&type=tcp#🇺🇸 США 9
+vless://d240c779-9b3e-4b42-9049-4f38acc20a8c@ashley.kosmolet.xyz:443?flow=xtls-rprx-vision&fp=chrome&pbk=cA3-aAVa0dZXMKbzXj5nLUyxB1AdgrOVU8UU_mJ67EA&security=reality&sid=c78d9525a558f9f9&sni=ashley.kosmolet.xyz&type=tcp#🇺🇸 США 2
+vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@195.26.250.121:8443?fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&security=reality&sid=b3a1cc510a2001c6&sni=www.kinopoisk.ru&type=tcp#🇺🇸 США 3
