@@ -1,2 +1,0 @@
-vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@45.146.202.55:443?flow=xtls-rprx-vision&fp=chrome&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&security=reality&sni=sun1-16.userapi.com&type=tcp#🇩🇪 Германия 1
-vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@45.146.202.55:443?flow=xtls-rprx-vision&fp=firefox&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&security=reality&sni=cloud.vk.ru&type=tcp#🇩🇪 Германия 2

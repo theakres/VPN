@@ -1,3 +1,0 @@
-vless://ecd72350-722c-47c0-b282-a5572aaf4a6e@51.250.77.145:48922?flow=xtls-rprx-vision&fp=chrome&pbk=g6OC5hb7CoEn3aTRnwXYrV44j8Moaz0r8umPSurE33o&security=reality&sid=a9488a5d&sni=www.icloud.com&spx=/&type=tcp#🇷🇺 Россия 1
-vless://2fc319cc-2ae1-45d2-a006-582257ad7a7a@51.250.77.145:443?flow=xtls-rprx-vision&fp=chrome&pbk=iEI0dNmfwrpNeyMnKGGYFK-3Fu11154qT5-qIC9wr1k&security=reality&sid=c8fa4b&sni=www.max.ru&spx=/&type=tcp#🇷🇺 Россия 2
-vless://f8494f58-8c32-42ed-b492-5009bcdfd743@144.31.50.134:443?flow=xtls-rprx-vision&fp=chrome&pbk=JbxZQuL2t4eews1QuA8O4jpsU_NXPMpmzKwlxSQj5Sk&security=reality&sid=f690c1046814dc9d&sni=www.icloud.com&spx=/&type=tcp#🇷🇺 Россия 3

@@ -1,2 +1,0 @@
-vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@45.83.140.189:443?flow=xtls-rprx-vision&fp=firefox&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&security=reality&sni=cloudcdn-m9-9.cdn.yandex.net&type=tcp#🇺🇸 США 1
-vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@192.166.82.177:443?flow=xtls-rprx-vision&fp=chrome&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&security=reality&sni=tori.fi&type=tcp#🇺🇸 США 2

@@ -1,1 +1,0 @@
-vless://a2372b3e-04ea-4c7b-ae6d-5226d1adea71@5.42.101.135:443?flow=xtls-rprx-vision&fp=chrome&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&security=reality&sid=abbcd128&sni=sun9-38.userapi.com&type=tcp#🇷🇺 Россия

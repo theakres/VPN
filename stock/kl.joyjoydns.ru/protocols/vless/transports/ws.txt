@@ -1,5 +1,0 @@
-vless://a8e85855-1b37-4247-97a1-f65814e1e3b1@64.233.162.100:443?fp=android&host=edfingcptest-364343017979.europe-north1.run.app&path=/&security=tls&sni=play.google.com&type=ws#🇫🇮 Финляндия 1
-vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@84.201.167.77:443?allowInsecure=0&host=e.genesis1780.ru&insecure=0&path=/&security=tls&sni=e.genesis1780.ru&type=ws#🇫🇮 Финляндия 2
-vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@158.160.224.147:8443?allowInsecure=0&host=e.genesis1780.ru&insecure=0&path=/&security=tls&sni=e.genesis1780.ru&type=ws#🇫🇮 Финляндия 3
-vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@158.160.50.116:8443?allowInsecure=0&host=e.genesis1780.ru&insecure=0&path=/&security=tls&sni=e.genesis1780.ru&type=ws#🇫🇮 Финляндия 4
-vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@81.200.149.93:443?allowInsecure=0&host=e.genesis1780.ru&insecure=0&path=/&security=tls&sni=e.genesis1780.ru&type=ws#🇫🇮 Финляндия 5

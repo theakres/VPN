@@ -1,2 +1,0 @@
-vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@103.13.210.38:8443?fp=chrome&host=server30.duckvpn.app&mode=auto&path=/&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&security=reality&sid=8b2492&sni=sun1-18.userapi.com&type=xhttp#🇳🇱 Нидерланды
-vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@194.55.188.3:8443?fp=chrome&host=194.55.188.3&mode=auto&path=/&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&security=reality&sid=76ed77cc&sni=sun6-21.userapi.com&type=xhttp#🇵🇱 Польша

@@ -1,1 +1,0 @@
-vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@81.30.105.8:443?flow=xtls-rprx-vision&fp=chrome&pbk=KXH20sfS9hK7kFK3VzY-348MwWCsK6LSOZhjb-QZ_C8&security=reality&sid=7d207d31&sni=cloudcdn-m9-9.cdn.yandex.net&type=tcp#🇷🇺 Россия

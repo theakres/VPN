@@ -1,1 +1,0 @@
-vless://e502ee54-8e2a-4b5a-a3ca-3d192e8710fb@2.26.90.84:443?fp=qq&pbk=PdpC_vd6QYOgFb-p-1X5LcwvkW4Go8HlVyyzX_uVL0I&security=reality&serviceName=xraygrpc&sid=ae99cc80bf3da3de&sni=adminvps.ru&type=grpc#🇰🇿 Казахстан
