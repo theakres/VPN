@@ -1,0 +1,2 @@
+vless://79d6a159-67c8-4164-9534-89f103c81aaf@144.31.178.5:8443?flow=xtls-rprx-vision&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&security=reality&sid=4326&sni=bez2.stream-room.com&type=tcp#🇪🇪 Эстония 1
+vless://79d6a159-67c8-4164-9534-89f103c81aaf@144.31.178.5:8080?extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&fp=chrome&mode=auto&path=/&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&security=reality&sid=6d6f13013d3e1d0c&sni=ozon.ru&type=xhttp#🇪🇪 Эстония 2

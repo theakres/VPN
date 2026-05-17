@@ -1,1 +1,0 @@
-vless://f4a453f6-0dca-4fe2-b5f3-e68fd89d20df@swed.lumixnet.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=cM7DvI5154nlTnovCUR-JZSq3jKLy5nME8rlJfdE0WU&security=reality&sid=c2863747e0abe44e&sni=swed.lumixnet.com&type=tcp#🇸🇪 Швеция

@@ -1,0 +1,1 @@
+vless://a2372b3e-04ea-4c7b-ae6d-5226d1adea71@93.177.101.138:443?flow=xtls-rprx-vision&fp=chrome&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&security=reality&sid=abbcd128&sni=sun9-37.userapi.com&type=tcp#🇹🇷 Турция

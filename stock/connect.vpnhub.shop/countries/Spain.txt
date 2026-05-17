@@ -1,0 +1,2 @@
+vless://e502ee54-8e2a-41c6-a3ca-3d192e8710fb@185.210.154.104:573?security=tls&serviceName=/sequre/grpc/&sni=185.210.154.104.speed-storage.ru&type=grpc#🇪🇸 Испания 1
+vless://e502ee54-8e2a-41c6-a3ca-3d192e8710fb@185.210.154.105:573?security=tls&serviceName=/sequre/grpc/&sni=185.210.154.105.speed-storage.ru&type=grpc#🇪🇸 Испания 2

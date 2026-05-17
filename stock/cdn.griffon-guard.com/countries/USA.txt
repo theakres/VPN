@@ -1,1 +1,1 @@
-vless://4e11ad7d-a372-0348-81c5-a03a52cc8291@auto.api-rutube.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&security=reality&sni=cdn.trahodrom.fun&type=tcp#🇺🇸 США
+vless://4e11ad7d-a372-0348-81c5-a03a52cc8291@195.58.34.45:443?flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&security=reality&sni=cdn.trahodrom.fun&type=tcp#🇺🇸 США

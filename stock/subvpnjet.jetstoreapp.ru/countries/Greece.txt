@@ -1,0 +1,1 @@
+vless://7e5f3794-b417-4107-9b5f-91c5a69e850f@185.242.84.50:2053?flow=xtls-rprx-vision&fp=chrome&pbk=D5-aLP_OhMtqt9cDy3pVnd8EoHU1xGO92Uy0V---ZH4&security=reality&sid=a8b9c0d1e2f34567&sni=ads.x5.ru&type=tcp#🇬🇷 Греция

@@ -1,96 +1,94 @@
 {
- "updated_at": "2026-05-16 12:30 МСК",
- "total": 91,
+ "updated_at": "2026-05-17 19:42 МСК",
+ "total": 153,
  "protocols": {
   "VLESS": {
    "file": "https://vpn.akres.fun/protocols/vless/vless",
-   "count": 87,
+   "count": 153,
    "security": {
     "Reality": {
      "file": "https://vpn.akres.fun/protocols/vless/security/reality",
-     "count": 84
+     "count": 125
     },
     "TLS": {
      "file": "https://vpn.akres.fun/protocols/vless/security/tls",
-     "count": 3
+     "count": 28
     }
    },
    "transports": {
     "TCP": {
      "file": "https://vpn.akres.fun/protocols/vless/transports/tcp",
-     "count": 68
-    },
-    "XHTTP": {
-     "file": "https://vpn.akres.fun/protocols/vless/transports/xhttp",
-     "count": 14
-    },
-    "WebSocket": {
-     "file": "https://vpn.akres.fun/protocols/vless/transports/ws",
-     "count": 3
+     "count": 80
     },
     "gRPC": {
      "file": "https://vpn.akres.fun/protocols/vless/transports/grpc",
-     "count": 2
+     "count": 28
+    },
+    "XHTTP": {
+     "file": "https://vpn.akres.fun/protocols/vless/transports/xhttp",
+     "count": 23
+    },
+    "WebSocket": {
+     "file": "https://vpn.akres.fun/protocols/vless/transports/ws",
+     "count": 22
     }
    }
-  },
-  "Shadowsocks": {
-   "file": "https://vpn.akres.fun/protocols/shadowsocks/shadowsocks",
-   "count": 1,
-   "encryption": {
-    "chacha20-ietf-poly1305": {
-     "file": "https://vpn.akres.fun/protocols/shadowsocks/encryption/chacha20-ietf-poly1305",
-     "count": 1
-    }
-   }
-  },
-  "Hysteria2": {
-   "file": "https://vpn.akres.fun/protocols/hysteria2",
-   "count": 3
   }
  },
  "countries": {
   "RU": {
    "flag": "🇷🇺",
    "name": "Россия",
-   "count": 20,
+   "count": 28,
    "file": "https://vpn.akres.fun/countries/Russia"
-  },
-  "PL": {
-   "flag": "🇵🇱",
-   "name": "Польша",
-   "count": 15,
-   "file": "https://vpn.akres.fun/countries/Poland"
   },
   "NL": {
    "flag": "🇳🇱",
    "name": "Нидерланды",
-   "count": 10,
+   "count": 24,
    "file": "https://vpn.akres.fun/countries/Netherlands"
   },
   "DE": {
    "flag": "🇩🇪",
    "name": "Германия",
-   "count": 9,
+   "count": 19,
    "file": "https://vpn.akres.fun/countries/Germany"
+  },
+  "PL": {
+   "flag": "🇵🇱",
+   "name": "Польша",
+   "count": 17,
+   "file": "https://vpn.akres.fun/countries/Poland"
   },
   "FI": {
    "flag": "🇫🇮",
    "name": "Финляндия",
-   "count": 8,
+   "count": 17,
    "file": "https://vpn.akres.fun/countries/Finland"
   },
-  "FR": {
-   "flag": "🇫🇷",
-   "name": "Франция",
-   "count": 4,
-   "file": "https://vpn.akres.fun/countries/France"
+  "US": {
+   "flag": "🇺🇸",
+   "name": "США",
+   "count": 9,
+   "file": "https://vpn.akres.fun/countries/USA"
+  },
+  "EE": {
+   "flag": "🇪🇪",
+   "name": "Эстония",
+   "count": 8,
+   "file": "https://vpn.akres.fun/countries/Estonia"
   },
   "ES": {
    "flag": "🇪🇸",
    "name": "Испания",
-   "count": 3,
+   "count": 6,
    "file": "https://vpn.akres.fun/countries/Spain"
+  },
+  "AT": {
+   "flag": "🇦🇹",
+   "name": "Австрия",
+   "count": 3,
+   "file": "https://vpn.akres.fun/countries/Austria"
   },
   "KZ": {
    "flag": "🇰🇿",
@@ -98,41 +96,47 @@
    "count": 3,
    "file": "https://vpn.akres.fun/countries/Kazakhstan"
   },
-  "US": {
-   "flag": "🇺🇸",
-   "name": "США",
-   "count": 3,
-   "file": "https://vpn.akres.fun/countries/USA"
-  },
-  "IT": {
-   "flag": "🇮🇹",
-   "name": "Италия",
-   "count": 2,
-   "file": "https://vpn.akres.fun/countries/Italy"
-  },
   "TR": {
    "flag": "🇹🇷",
    "name": "Турция",
-   "count": 2,
+   "count": 3,
    "file": "https://vpn.akres.fun/countries/Turkey"
   },
-  "CZ": {
-   "flag": "🇨🇿",
-   "name": "Чехия",
+  "FR": {
+   "flag": "🇫🇷",
+   "name": "Франция",
    "count": 2,
-   "file": "https://vpn.akres.fun/countries/Czechia"
+   "file": "https://vpn.akres.fun/countries/France"
   },
-  "BE": {
-   "flag": "🇧🇪",
-   "name": "Бельгия",
+  "SE": {
+   "flag": "🇸🇪",
+   "name": "Швеция",
+   "count": 2,
+   "file": "https://vpn.akres.fun/countries/Sweden"
+  },
+  "GB": {
+   "flag": "🇬🇧",
+   "name": "Великобритания",
    "count": 1,
-   "file": "https://vpn.akres.fun/countries/Belgium"
+   "file": "https://vpn.akres.fun/countries/UK"
   },
   "HK": {
    "flag": "🇭🇰",
    "name": "Гонконг",
    "count": 1,
    "file": "https://vpn.akres.fun/countries/HongKong"
+  },
+  "GR": {
+   "flag": "🇬🇷",
+   "name": "Греция",
+   "count": 1,
+   "file": "https://vpn.akres.fun/countries/Greece"
+  },
+  "IT": {
+   "flag": "🇮🇹",
+   "name": "Италия",
+   "count": 1,
+   "file": "https://vpn.akres.fun/countries/Italy"
   },
   "CA": {
    "flag": "🇨🇦",
@@ -158,6 +162,12 @@
    "count": 1,
    "file": "https://vpn.akres.fun/countries/UAE"
   },
+  "SG": {
+   "flag": "🇸🇬",
+   "name": "Сингапур",
+   "count": 1,
+   "file": "https://vpn.akres.fun/countries/Singapore"
+  },
   "UA": {
    "flag": "🇺🇦",
    "name": "Украина",
@@ -170,12 +180,6 @@
    "count": 1,
    "file": "https://vpn.akres.fun/countries/Switzerland"
   },
-  "SE": {
-   "flag": "🇸🇪",
-   "name": "Швеция",
-   "count": 1,
-   "file": "https://vpn.akres.fun/countries/Sweden"
-  },
   "JP": {
    "flag": "🇯🇵",
    "name": "Япония",
@@ -186,7 +190,7 @@
  "bwl": {
   "flag": "🏳️",
   "name": "Обход БС",
-  "count": 37,
+  "count": 43,
   "file": "https://vpn.akres.fun/bwl"
  }
 }
