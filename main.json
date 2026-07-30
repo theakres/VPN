@@ -1,36 +1,36 @@
 {
- "updated_at": "2026-07-30 14:12 МСК",
- "total": 146,
+ "updated_at": "2026-07-30 15:12 МСК",
+ "total": 160,
  "protocols": {
   "VLESS": {
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/vless",
-   "count": 146,
+   "count": 160,
    "transports": {
     "TCP": {
      "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/transports/tcp",
-     "count": 105
+     "count": 108
     },
     "WebSocket": {
      "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/transports/ws",
-     "count": 25
+     "count": 24
     },
     "xHTTP": {
      "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/transports/xhttp",
-     "count": 12
+     "count": 23
     },
     "gRPC": {
      "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/transports/grpc",
-     "count": 4
+     "count": 5
     }
    },
    "security": {
     "Reality": {
      "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/security/reality",
-     "count": 87
+     "count": 92
     },
     "TLS": {
      "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/security/tls",
-     "count": 59
+     "count": 68
     }
    }
   }
@@ -39,44 +39,32 @@
   "RU": {
    "flag": "🇷🇺",
    "name": "Россия",
-   "count": 78,
+   "count": 81,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/RU"
   },
   "DE": {
    "flag": "🇩🇪",
    "name": "Германия",
-   "count": 19,
+   "count": 27,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/DE"
-  },
-  "FR": {
-   "flag": "🇫🇷",
-   "name": "Франция",
-   "count": 16,
-   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/FR"
-  },
-  "US": {
-   "flag": "🇺🇸",
-   "name": "США",
-   "count": 11,
-   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/US"
-  },
-  "FI": {
-   "flag": "🇫🇮",
-   "name": "Финляндия",
-   "count": 4,
-   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/FI"
   },
   "NL": {
    "flag": "🇳🇱",
    "name": "Нидерланды",
-   "count": 4,
+   "count": 13,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/NL"
   },
-  "SE": {
-   "flag": "🇸🇪",
-   "name": "Швеция",
-   "count": 3,
-   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/SE"
+  "US": {
+   "flag": "🇺🇸",
+   "name": "США",
+   "count": 13,
+   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/US"
+  },
+  "FR": {
+   "flag": "🇫🇷",
+   "name": "Франция",
+   "count": 12,
+   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/FR"
   },
   "PL": {
    "flag": "🇵🇱",
@@ -84,11 +72,17 @@
    "count": 3,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/PL"
   },
-  "KZ": {
-   "flag": "🇰🇿",
-   "name": "Казахстан",
-   "count": 2,
-   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/KZ"
+  "FI": {
+   "flag": "🇫🇮",
+   "name": "Финляндия",
+   "count": 3,
+   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/FI"
+  },
+  "SE": {
+   "flag": "🇸🇪",
+   "name": "Швеция",
+   "count": 3,
+   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/SE"
   },
   "CA": {
    "flag": "🇨🇦",
@@ -96,17 +90,17 @@
    "count": 2,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/CA"
   },
-  "CH": {
-   "flag": "🇨🇭",
-   "name": "Швейцария",
-   "count": 2,
-   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/CH"
-  },
   "CZ": {
    "flag": "🇨🇿",
    "name": "Чехия",
    "count": 1,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/CZ"
+  },
+  "AT": {
+   "flag": "🇦🇹",
+   "name": "Австрия",
+   "count": 1,
+   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/AT"
   },
   "HU": {
    "flag": "🇭🇺",
