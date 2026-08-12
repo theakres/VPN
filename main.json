@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-08-12 08:01 МСК",
- "total": 17,
+ "updated_at": "2026-08-12 09:01 МСК",
+ "total": 16,
  "protocols": {
   "VLESS": {
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/vless",
-   "count": 17,
+   "count": 16,
    "transports": {
     "TCP": {
      "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/transports/tcp",
@@ -12,7 +12,7 @@
     },
     "gRPC": {
      "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/transports/grpc",
-     "count": 4
+     "count": 3
     },
     "xHTTP": {
      "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/transports/xhttp",
@@ -26,35 +26,29 @@
     },
     "TLS": {
      "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/security/tls",
-     "count": 5
+     "count": 4
     }
    }
   }
  },
  "countries": {
+  "US": {
+   "flag": "🇺🇸",
+   "name": "США",
+   "count": 3,
+   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/US"
+  },
   "DE": {
    "flag": "🇩🇪",
    "name": "Германия",
-   "count": 3,
-   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/DE"
-  },
-  "NL": {
-   "flag": "🇳🇱",
-   "name": "Нидерланды",
    "count": 2,
-   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/NL"
+   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/DE"
   },
   "SG": {
    "flag": "🇸🇬",
    "name": "Сингапур",
    "count": 2,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/SG"
-  },
-  "US": {
-   "flag": "🇺🇸",
-   "name": "США",
-   "count": 2,
-   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/US"
   },
   "FR": {
    "flag": "🇫🇷",
@@ -73,6 +67,12 @@
    "name": "Великобритания",
    "count": 1,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/GB"
+  },
+  "NL": {
+   "flag": "🇳🇱",
+   "name": "Нидерланды",
+   "count": 1,
+   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/NL"
   },
   "RU": {
    "flag": "🇷🇺",
