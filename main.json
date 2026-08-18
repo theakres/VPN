@@ -1,36 +1,36 @@
 {
- "updated_at": "2026-08-18 07:24 МСК",
- "total": 1391,
+ "updated_at": "2026-08-18 08:25 МСК",
+ "total": 1312,
  "protocols": {
   "VLESS": {
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/vless",
-   "count": 1391,
+   "count": 1312,
    "transports": {
     "TCP": {
      "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/transports/tcp",
-     "count": 719
+     "count": 702
+    },
+    "xHTTP": {
+     "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/transports/xhttp",
+     "count": 275
     },
     "gRPC": {
      "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/transports/grpc",
      "count": 70
     },
-    "xHTTP": {
-     "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/transports/xhttp",
-     "count": 281
-    },
     "WebSocket": {
      "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/transports/ws",
-     "count": 321
+     "count": 265
     }
    },
    "security": {
-    "TLS": {
-     "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/security/tls",
-     "count": 593
-    },
     "Reality": {
      "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/security/reality",
-     "count": 798
+     "count": 775
+    },
+    "TLS": {
+     "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/protocols/vless/security/tls",
+     "count": 537
     }
    }
   }
@@ -39,44 +39,44 @@
   "NL": {
    "flag": "🇳🇱",
    "name": "Нидерланды",
-   "count": 239,
+   "count": 226,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/NL"
   },
   "DE": {
    "flag": "🇩🇪",
    "name": "Германия",
-   "count": 216,
+   "count": 209,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/DE"
   },
   "US": {
    "flag": "🇺🇸",
    "name": "США",
-   "count": 188,
+   "count": 193,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/US"
   },
   "RU": {
    "flag": "🇷🇺",
    "name": "Россия",
-   "count": 133,
+   "count": 121,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/RU"
   },
   "GB": {
    "flag": "🇬🇧",
    "name": "Великобритания",
-   "count": 81,
+   "count": 80,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/GB"
-  },
-  "FI": {
-   "flag": "🇫🇮",
-   "name": "Финляндия",
-   "count": 73,
-   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/FI"
   },
   "PL": {
    "flag": "🇵🇱",
    "name": "Польша",
-   "count": 64,
+   "count": 67,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/PL"
+  },
+  "FI": {
+   "flag": "🇫🇮",
+   "name": "Финляндия",
+   "count": 67,
+   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/FI"
   },
   "SG": {
    "flag": "🇸🇬",
@@ -90,35 +90,29 @@
    "count": 45,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/HK"
   },
-  "TH": {
-   "flag": "🇹🇭",
-   "name": "Таиланд",
-   "count": 39,
-   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/TH"
+  "AT": {
+   "flag": "🇦🇹",
+   "name": "Австрия",
+   "count": 35,
+   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/AT"
   },
   "JP": {
    "flag": "🇯🇵",
    "name": "Япония",
-   "count": 37,
+   "count": 35,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/JP"
-  },
-  "AT": {
-   "flag": "🇦🇹",
-   "name": "Австрия",
-   "count": 36,
-   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/AT"
-  },
-  "FR": {
-   "flag": "🇫🇷",
-   "name": "Франция",
-   "count": 33,
-   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/FR"
   },
   "SE": {
    "flag": "🇸🇪",
    "name": "Швеция",
-   "count": 33,
+   "count": 34,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/SE"
+  },
+  "FR": {
+   "flag": "🇫🇷",
+   "name": "Франция",
+   "count": 30,
+   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/FR"
   },
   "IT": {
    "flag": "🇮🇹",
@@ -129,13 +123,13 @@
   "EE": {
    "flag": "🇪🇪",
    "name": "Эстония",
-   "count": 18,
+   "count": 15,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/EE"
   },
   "ES": {
    "flag": "🇪🇸",
    "name": "Испания",
-   "count": 8,
+   "count": 7,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/ES"
   },
   "TR": {
@@ -150,17 +144,17 @@
    "count": 7,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/KR"
   },
-  "CA": {
-   "flag": "🇨🇦",
-   "name": "Канада",
+  "KZ": {
+   "flag": "🇰🇿",
+   "name": "Казахстан",
    "count": 6,
-   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/CA"
+   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/KZ"
   },
-  "LV": {
-   "flag": "🇱🇻",
-   "name": "Латвия",
+  "CH": {
+   "flag": "🇨🇭",
+   "name": "Швейцария",
    "count": 6,
-   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/LV"
+   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/CH"
   },
   "IN": {
    "flag": "🇮🇳",
@@ -168,11 +162,17 @@
    "count": 5,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/IN"
   },
-  "CH": {
-   "flag": "🇨🇭",
-   "name": "Швейцария",
+  "CA": {
+   "flag": "🇨🇦",
+   "name": "Канада",
    "count": 5,
-   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/CH"
+   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/CA"
+  },
+  "LV": {
+   "flag": "🇱🇻",
+   "name": "Латвия",
+   "count": 5,
+   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/LV"
   },
   "AL": {
    "flag": "🇦🇱",
@@ -185,12 +185,6 @@
    "name": "Греция",
    "count": 4,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/GR"
-  },
-  "KZ": {
-   "flag": "🇰🇿",
-   "name": "Казахстан",
-   "count": 4,
-   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/KZ"
   },
   "AM": {
    "flag": "🇦🇲",
@@ -263,12 +257,6 @@
    "name": "Дания",
    "count": 1,
    "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/DK"
-  },
-  "IL": {
-   "flag": "🇮🇱",
-   "name": "Израиль",
-   "count": 1,
-   "file": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/countries/IL"
   },
   "CY": {
    "flag": "🇨🇾",
