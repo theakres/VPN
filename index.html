@@ -1397,8 +1397,8 @@ function setCountrySort(sort,btn){
   if(_data) renderCountries(_data);
 }
 
-// Флаги — картинки Apple-эмодзи с jsdelivr; если CDN недоступен, остаётся системный эмодзи.
-const EMOJI_CDN='https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/';
+// Флаги — Apple-эмодзи из локальной папки assets/emoji/64; если файл не найден, остаётся системный эмодзи.
+const EMOJI_CDN='assets/emoji/64/';
 function emojiFile(e){ return [...e].map(ch=>ch.codePointAt(0).toString(16)).join('-')+'.png' }
 window.flagFallback=function(img){ img.parentNode.textContent=img.dataset.emoji||'' };
 const FLAG_CODES='aealamaratauazbgbrbycachclczdedkeeegesfifrgbgegrhkhuilinisitjpkgkrkzltlvmdmxngnlnopephplptrorsrusesgskthtrtwuausza';
