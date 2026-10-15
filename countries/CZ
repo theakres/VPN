@@ -1,0 +1,11 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQp9C10YXQuNGP
+vless://f5b496d0-072a-4475-9f93-658f3f871d53@2.27.203.50:30429?encryption=none&fp=firefox&pbk=WLd4VgIcJjLyMk5-M5ndu_bmhS6fy5HpJdMN2-jsmgc&security=reality&serviceName=grpc&sid=f5549bb52cff0ca0&sni=grpc.io&type=grpc#🇨🇿 Чехия 1 Cloudflare, Inc.
+vless://f5b496d0-072a-4475-9f93-658f3f871d53@2.27.203.50:10429?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8oBxq4W9BXCRWKDKkgYryFQELejSiQF4pImDM0gDY2E&security=reality&sid=b65d22979c9010ce&sni=cdn.amplitude.com&type=tcp#🇨🇿 Чехия 2 Cloudflare, Inc.
+vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&security=reality&sid=e90360ec7cc61b20&sni=udemy.com&type=tcp#🇨🇿 Чехия 3 Datacamp Limited
+vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw&security=reality&sid=23d0950d60bc0d5b&sni=gateway.icloud.com&type=tcp#🇨🇿 Чехия 4 ROUTE 95 LLC
+vless://d0e771c5-024e-4393-bb90-4a3e3c561656@31.76.7.227:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nIL5EeUo2XUkCaLJGbzgRm6zhF-96kWvV2VmhEt3CX4&security=reality&sid=4af4102cb26e59&sni=origin.vpnoodles.ru&type=tcp#🇨🇿 Чехия 5 SERV.HOST GROUP LTD

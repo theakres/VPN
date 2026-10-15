@@ -1,0 +1,13 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQm9Cw0YLQstC40Y8=
+vless://388ccac9-2adf-47ca-998c-15ca6899416c@185.76.241.222:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wEq2tZjBf-K4874ErnlupCaI24wDTB5elHB-ZXwjBio&security=reality&sid=b629457828a7d4bf&sni=ru-in-lv-4vp.movietop24.site&type=tcp#🇱🇻 Латвия 1 ROUTE 95 LLC
+vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo&security=reality&sid=5c256336e3b673fa&sni=www.cloudflare.com&type=tcp#🇱🇻 Латвия 2 ROUTE 95 LLC
+vless://1ebcb694-875c-4be7-b6a2-d53c8208991b@195.123.208.32:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ICrsmE5hqN7IsDIyHPG2WkDUUFK_VEj9yobLv8zuDwk&security=reality&sid=757b9e1ef18e60f0&sni=gateway.icloud.com&type=tcp#🇱🇻 Латвия 3 ROUTE 95 LLC
+vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#🇱🇻 Латвия 4 Baykov Ilya Sergeevich
+vless://a4801105-c0c7-4cab-87c6-f257ff2afc09@31.57.106.241:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4SJB--DChFNhmOUz0-BZK2dS3GhZ1yZwMVIhmpobB0o&security=reality&sid=44f7c5615039ae1b&sni=www.lmt.lv&type=tcp#🇱🇻 Латвия 5 CGI GLOBAL LIMITED
+vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@138.124.63.224:8444?encryption=none&fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sid=457fab2ac885dbe0&sni=github.com&type=grpc#🇱🇻 Латвия 6 GLOBAL CONNECTIVITY SOLUTIONS LLP
+hysteria2://990c8eb6-4c4e-4277-8602-79af8402cdd0@104.165.205.42:8443?sni=speedtestmark.com#🇱🇻 Латвия 7 Intars Rupeiks
