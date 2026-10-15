@@ -5,4 +5,6 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQm9C40YLQstCw
 vless://388ccac9-2adf-47ca-998c-15ca6899416c@89.23.113.11:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DP_8vX-l2ugAHn828ZGa4wHp4Y7YOZrhGKiTMaFoCDc&security=reality&sid=4ea43db267b5fd8b&sni=ru-in-lt-4vp.movietop24.site&type=tcp#🇱🇹 Литва 1 GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@84.32.109.20:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3jySGemfaqPZ2vM66Qtzo5SotO3eoRn1FeGaKp6KBQ4&security=reality&sid=0da7e14db353e7d0&sni=litv.nztvpn.com&type=tcp#🇱🇹 Литва 2 UAB Cherry Servers
+vless://6656cc0a-5908-4d04-a436-64f5843c0c7a@147.45.217.206:21731?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QeLV1NQeTG3e1DRFSNnK_f9Ca5Gf9smexICxtr27WUA&security=reality&sid=0446eb17&sni=metrika.yandex.ru&type=tcp#🇱🇹 Литва 2 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@147.45.217.206:21731?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QeLV1NQeTG3e1DRFSNnK_f9Ca5Gf9smexICxtr27WUA&security=reality&sid=0446eb17&sni=metrika.yandex.ru&type=tcp#🇱🇹 Литва 3 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@84.32.109.20:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3jySGemfaqPZ2vM66Qtzo5SotO3eoRn1FeGaKp6KBQ4&security=reality&sid=0da7e14db353e7d0&sni=litv.nztvpn.com&type=tcp#🇱🇹 Литва 4 UAB Cherry Servers

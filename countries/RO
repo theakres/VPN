@@ -4,8 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNGD0LzRi9C90LjRjw==
-vless://f5b496d0-072a-4475-9f93-658f3f871d53@2.27.203.50:10428?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vh_QlGTYMSBbNsbDx4CwwLQxmQxOzBAskgReDPGp_jQ&security=reality&sid=16d3b4ea76471072&sni=cdn.amplitude.com&type=tcp#🇷🇴 Румыния 1 Cloudflare, Inc.
-vless://f5b496d0-072a-4475-9f93-658f3f871d53@2.27.203.50:30428?encryption=none&fp=firefox&pbk=lPnZ5BjnC5-c6Nkye-vOv45h_eBghzOuusWZWxDw5gA&security=reality&serviceName=grpc&sid=b14ac64de68b5b2e&sni=grpc.io&type=grpc#🇷🇴 Румыния 2 Cloudflare, Inc.
+vless://f5b496d0-072a-4475-9f93-658f3f871d53@2.27.203.50:30428?encryption=none&fp=firefox&pbk=lPnZ5BjnC5-c6Nkye-vOv45h_eBghzOuusWZWxDw5gA&security=reality&serviceName=grpc&sid=b14ac64de68b5b2e&sni=grpc.io&type=grpc#🇷🇴 Румыния 1 Cloudflare, Inc.
+vless://f5b496d0-072a-4475-9f93-658f3f871d53@2.27.203.50:10428?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vh_QlGTYMSBbNsbDx4CwwLQxmQxOzBAskgReDPGp_jQ&security=reality&sid=16d3b4ea76471072&sni=cdn.amplitude.com&type=tcp#🇷🇴 Румыния 2 Cloudflare, Inc.
 vless://8dc66819-a598-4857-a084-7f6d927399ef@185.22.234.233:15443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=314NsicCiiLrzh7cXZiLYeJk54lzW2CtIRpeaHJJ9nE&security=reality&sid=f7c760add9fa3b89&sni=main-xhttp.g-kast.ru&type=tcp#🇷🇴 Румыния 3 HOSTOX GROUP S.R.L.
 vless://8dc66819-a598-4857-a084-7f6d927399ef@188.225.76.59:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mzEHXxP-ArhmSYq4Wb_b0i1QuFsj80z8mNALhhTSACk&security=reality&sid=49962f5c723724dd&sni=digital.g-kast.ru&type=tcp#🇷🇴 Румыния 4 HOSTOX GROUP S.R.L.
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#🇷🇴 Румыния 5 INTERKVM HOST SRL
