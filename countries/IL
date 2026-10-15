@@ -4,4 +4,5 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmNC30YDQsNC40LvRjA==
-vless://f5b496d0-072a-4475-9f93-658f3f871d53@2.27.203.50:10423?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=LbV0MaBK5P90-gDkGK6ypd65QRr9h0bFO6mYf6z-khQ&security=reality&sid=d5c67c21bd4dec1e&sni=cdn.amplitude.com&type=tcp#🇮🇱 Израиль Cloudflare, Inc.
+vless://f5b496d0-072a-4475-9f93-658f3f871d53@2.27.203.50:30423?encryption=none&fp=firefox&pbk=5V1TtGOm69bz9nHM2aNd_KTOvTr-F7N4dJ9DbvR51mM&security=reality&serviceName=grpc&sid=d46c9c2c6bafca6d&sni=grpc.io&type=grpc#🇮🇱 Израиль 1 Cloudflare, Inc.
+vless://f5b496d0-072a-4475-9f93-658f3f871d53@2.27.203.50:10423?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=LbV0MaBK5P90-gDkGK6ypd65QRr9h0bFO6mYf6z-khQ&security=reality&sid=d5c67c21bd4dec1e&sni=cdn.amplitude.com&type=tcp#🇮🇱 Израиль 2 Cloudflare, Inc.
