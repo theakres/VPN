@@ -4,7 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNGD0LzRi9C90LjRjw==
-vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&security=reality&sid=d06d78e974491b6e&sni=www.cloudflare.com&type=tcp#🇷🇴 Румыния 1 ROUTE 95 LLC
-vless://679439c5-28f2-485e-af5f-60a5fcd9c36c@82.117.255.174:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0QDBHaCRO2dPeeSVy3B3R_U12ZOvbvWl1JTFW_ZcpD0&security=reality&sid=31e91d43e553bf32&sni=gateway.icloud.com&type=tcp#🇷🇴 Румыния 2 ROUTE 95 LLC
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#🇷🇴 Румыния 3 INTERKVM HOST SRL
+vless://679439c5-28f2-485e-af5f-60a5fcd9c36c@82.117.255.174:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0QDBHaCRO2dPeeSVy3B3R_U12ZOvbvWl1JTFW_ZcpD0&security=reality&sid=31e91d43e553bf32&sni=gateway.icloud.com&type=tcp#🇷🇴 Румыния 1 ROUTE 95 LLC
+vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&security=reality&sid=d06d78e974491b6e&sni=www.cloudflare.com&type=tcp#🇷🇴 Румыния 2 ROUTE 95 LLC
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#🇷🇴 Румыния 3 Interkvm Host SRL
 vless://40abbe13-f02e-4da2-9b19-966c2c3eb4ee@146.70.124.85:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=byzvlw97wjAAAfHs5AZRV0P0H6_JKBEZ4yfLS0HNewE&security=reality&sid=fe24f8a0a560056e&sni=www.datadoghq.com&type=tcp#🇷🇴 Румыния 4 M247 Europe SRL
