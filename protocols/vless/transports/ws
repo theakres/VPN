@@ -4,48 +4,50 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
-vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?encryption=none&fp=firefox&host=lucasjow.us.ci&security=tls&sni=lucasjow.us.ci&type=ws#🇩🇪 Германия 1 Cloudflare, Inc.
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@2.28.42.209:8443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇩🇪 Германия 2 Cloudflare, Inc.
-vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?encryption=none&fp=firefox&host=lucasjow.us.ci&path=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&security=tls&sni=lucasjow.us.ci&type=ws#🇩🇪 Германия 3 Cloudflare, Inc.
-vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?encryption=none&fp=firefox&host=lucasjow.us.ci&path=/?TELEGRAM-TOOTFFARANGI&security=tls&sni=lucasjow.us.ci&type=ws#🇩🇪 Германия 4 Cloudflare, Inc.
-vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?encryption=none&fp=firefox&security=tls&sni=lucasjow.us.ci&type=ws#🇩🇪 Германия 5 Cloudflare, Inc.
-vless://497f5381-3533-4c6a-939c-66eb3a7de108@95.182.99.226:443?encryption=none&fp=firefox&host=cdn.topingr.ir&path=/gropcdn&security=tls&sni=cdn.topingr.ir&type=ws#🇩🇪 Германия 6 The Constant Company, LLC
-vless://497f5381-3533-4c6a-939c-66eb3a7de108@140.82.59.103:443?encryption=none&fp=firefox&host=cdn.topingr.ir&path=/gropcdn&security=tls&sni=cdn.topingr.ir&type=ws#🇩🇪 Германия 7 The Constant Company, LLC
-vless://497f5381-3533-4c6a-939c-66eb3a7de108@95.182.99.226:443?encryption=none&fp=firefox&path=/gropcdn&security=tls&sni=cdn.topingr.ir&type=ws#🇩🇪 Германия 8 The Constant Company, LLC
-vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@91.107.247.173:2083?encryption=none&fp=firefox&security=tls&sni=sino.bestsellers1.site&type=ws#🇩🇪 Германия 9 Hetzner Online GmbH
-vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@91.107.247.173:2083?encryption=none&fp=firefox&host=sino.bestsellers1.site&security=tls&sni=sino.bestsellers1.site&type=ws#🇩🇪 Германия 10 Hetzner Online GmbH
-vless://4947e8b5-3ab5-4401-96b3-866cc15f3e05@78.17.104.244:3443?encryption=none&fp=firefox&host=nl2.ggvpn.pro&path=/ws&security=tls&sni=nl2.ggvpn.pro&type=ws#🇩🇪 Германия 11 HOSTKEY B.V.
-vless://1d29d287-0e02-4e8e-81a4-14708d96e7ba@140.225.209.170:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇩🇪 Германия 12 UXHOST LTD
-vless://497f5381-3533-4c6a-939c-66eb3a7de108@13.140.89.188:443?encryption=none&fp=firefox&host=cdn.topingr.ir&path=/gropcdn&security=tls&sni=cdn.topingr.ir&type=ws#🇳🇱 Нидерланды 1 UpCloud Ltd
-vless://497f5381-3533-4c6a-939c-66eb3a7de108@95.182.99.119:443?encryption=none&fp=firefox&host=cdn.topingr.ir&path=/gropcdn&security=tls&sni=cdn.topingr.ir&type=ws#🇳🇱 Нидерланды 2 UpCloud Ltd
-vless://497f5381-3533-4c6a-939c-66eb3a7de108@95.182.99.119:443?encryption=none&fp=firefox&path=/gropcdn&security=tls&sni=cdn.topingr.ir&type=ws#🇳🇱 Нидерланды 3 UpCloud Ltd
-vless://497f5381-3533-4c6a-939c-66eb3a7de108@140.82.59.103:443?encryption=none&fp=firefox&path=/gropcdn&security=tls&sni=cdn.topingr.ir&type=ws#🇳🇱 Нидерланды 4 UpCloud Ltd
-vless://497f5381-3533-4c6a-939c-66eb3a7de108@13.140.89.188:443?encryption=none&fp=firefox&path=/gropcdn&security=tls&sni=cdn.topingr.ir&type=ws#🇳🇱 Нидерланды 5 UpCloud Ltd
-vless://05d7a479-a099-40cf-aecf-41aa934767b0@93.152.215.176:8443?encryption=none&fp=firefox&host=nl5.hap-plus.ru&path=/api/v1/events&security=tls&sni=nl5.hap-plus.ru&type=ws#🇳🇱 Нидерланды 6 DEDIK SERVICES LIMITED
-vless://05d7a479-a099-40cf-aecf-41aa934767b0@93.152.215.176:8443?encryption=none&fp=firefox&path=/api/v1/events&security=tls&sni=nl5.hap-plus.ru&type=ws#🇳🇱 Нидерланды 7 DEDIK SERVICES LIMITED
-vless://247084ed-5f38-692c-915c-95b6f295bfdb@69.46.46.3:443?encryption=none&fp=firefox&host=multipanel-production-b080.up.railway.app&path=/ws/247084ed-5f38-692c-915c-95b6f295bfdb&security=tls&sni=multipanel-production-b080.up.railway.app&type=ws#🇳🇱 Нидерланды 8 Railway
-vless://20ff936a-8eb5-4d27-9cce-93f2016d467b@45.118.133.249:443?encryption=none&fp=firefox&host=free.nadun.store&security=tls&sni=free.nadun.store&type=ws#🇸🇬 Сингапур 1 Akamai Technologies, Inc.
+vless://497f5381-3533-4c6a-939c-66eb3a7de108@95.182.99.226:443?encryption=none&fp=firefox&host=cdn.topingr.ir&path=/gropcdn&security=tls&sni=cdn.topingr.ir&type=ws#🇩🇪 Германия 1 The Constant Company, LLC
+vless://497f5381-3533-4c6a-939c-66eb3a7de108@140.82.59.103:443?encryption=none&fp=firefox&host=cdn.topingr.ir&path=/gropcdn&security=tls&sni=cdn.topingr.ir&type=ws#🇩🇪 Германия 2 The Constant Company, LLC
+vless://497f5381-3533-4c6a-939c-66eb3a7de108@13.140.89.188:443?encryption=none&fp=firefox&host=cdn.topingr.ir&path=/gropcdn&security=tls&sni=cdn.topingr.ir&type=ws#🇩🇪 Германия 3 The Constant Company, LLC
+vless://497f5381-3533-4c6a-939c-66eb3a7de108@13.140.87.102:443?encryption=none&fp=firefox&host=cdn.topingr.ir&path=/gropcdn&security=tls&sni=cdn.topingr.ir&type=ws#🇩🇪 Германия 4 The Constant Company, LLC
+vless://497f5381-3533-4c6a-939c-66eb3a7de108@95.182.99.119:443?encryption=none&fp=firefox&host=cdn.topingr.ir&path=/gropcdn&security=tls&sni=cdn.topingr.ir&type=ws#🇩🇪 Германия 5 The Constant Company, LLC
+vless://497f5381-3533-4c6a-939c-66eb3a7de108@140.82.59.103:443?encryption=none&fp=firefox&path=/gropcdn&security=tls&sni=cdn.topingr.ir&type=ws#🇩🇪 Германия 6 The Constant Company, LLC
+vless://497f5381-3533-4c6a-939c-66eb3a7de108@95.182.99.119:443?encryption=none&fp=firefox&path=/gropcdn&security=tls&sni=cdn.topingr.ir&type=ws#🇩🇪 Германия 7 The Constant Company, LLC
+vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?encryption=none&fp=firefox&host=lucasjow.us.ci&path=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&security=tls&sni=lucasjow.us.ci&type=ws#🇩🇪 Германия 8 Cloudflare, Inc.
+vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?encryption=none&fp=firefox&host=lucasjow.us.ci&path=/?TELEGRAM-TOOTFFARANGI&security=tls&sni=lucasjow.us.ci&type=ws#🇩🇪 Германия 9 Cloudflare, Inc.
+vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?encryption=none&fp=firefox&host=lucasjow.us.ci&security=tls&sni=lucasjow.us.ci&type=ws#🇩🇪 Германия 10 Cloudflare, Inc.
+vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?encryption=none&fp=firefox&security=tls&sni=lucasjow.us.ci&type=ws#🇩🇪 Германия 11 Cloudflare, Inc.
+vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@91.107.247.173:2083?encryption=none&fp=firefox&security=tls&sni=sino.bestsellers1.site&type=ws#🇩🇪 Германия 12 Hetzner Online GmbH
+vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@91.107.247.173:2083?encryption=none&fp=firefox&host=sino.bestsellers1.site&security=tls&sni=sino.bestsellers1.site&type=ws#🇩🇪 Германия 13 Hetzner Online GmbH
+vless://4947e8b5-3ab5-4401-96b3-866cc15f3e05@78.17.104.244:3443?encryption=none&fp=firefox&host=nl2.ggvpn.pro&path=/ws&security=tls&sni=nl2.ggvpn.pro&type=ws#🇩🇪 Германия 14 HOSTKEY B.V.
+vless://1d29d287-0e02-4e8e-81a4-14708d96e7ba@140.225.209.130:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇩🇪 Германия 15 UXHOST LTD
+vless://497f5381-3533-4c6a-939c-66eb3a7de108@95.182.99.226:443?encryption=none&fp=firefox&path=/gropcdn&security=tls&sni=cdn.topingr.ir&type=ws#🇳🇱 Нидерланды 1 UpCloud Ltd
+vless://497f5381-3533-4c6a-939c-66eb3a7de108@13.140.89.188:443?encryption=none&fp=firefox&path=/gropcdn&security=tls&sni=cdn.topingr.ir&type=ws#🇳🇱 Нидерланды 2 UpCloud Ltd
+vless://497f5381-3533-4c6a-939c-66eb3a7de108@13.140.87.102:443?encryption=none&fp=firefox&path=/gropcdn&security=tls&sni=cdn.topingr.ir&type=ws#🇳🇱 Нидерланды 3 UpCloud Ltd
+vless://05d7a479-a099-40cf-aecf-41aa934767b0@93.152.215.176:8443?encryption=none&fp=firefox&host=nl5.hap-plus.ru&path=/api/v1/events&security=tls&sni=nl5.hap-plus.ru&type=ws#🇳🇱 Нидерланды 4 DEDIK SERVICES LIMITED
+vless://05d7a479-a099-40cf-aecf-41aa934767b0@93.152.215.176:8443?encryption=none&fp=firefox&path=/api/v1/events&security=tls&sni=nl5.hap-plus.ru&type=ws#🇳🇱 Нидерланды 5 DEDIK SERVICES LIMITED
+vless://20ff936a-8eb5-4d27-9cce-93f2016d467b@45.118.133.249:443?encryption=none&fp=firefox&security=tls&sni=free.nadun.store&type=ws#🇸🇬 Сингапур 1 Akamai Technologies, Inc.
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?encryption=none&fp=firefox&host=free-server.techsonic.dev&path=/free-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&type=ws#🇸🇬 Сингапур 2 Akamai Technologies, Inc.
-vless://20ff936a-8eb5-4d27-9cce-93f2016d467b@45.118.133.249:443?encryption=none&fp=firefox&security=tls&sni=free.nadun.store&type=ws#🇸🇬 Сингапур 3 Akamai Technologies, Inc.
+vless://20ff936a-8eb5-4d27-9cce-93f2016d467b@45.118.133.249:443?encryption=none&fp=firefox&host=free.nadun.store&security=tls&sni=free.nadun.store&type=ws#🇸🇬 Сингапур 3 Akamai Technologies, Inc.
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@76.13.218.192:8443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇸🇬 Сингапур 4 Cloudflare, Inc.
-vless://e6df2095-a73c-4043-8693-8d5a03686870@45.38.60.153:2053?encryption=none&fp=firefox&host=lucasjow.us.ci&security=tls&sni=lucasjow.us.ci&type=ws#🇸🇬 Сингапур 5 Shenzhen Tencent Computer Systems Company Limited
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@154.31.114.162:8443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония 1 Oracle Corporation
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.129.80.179:8443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония 2 Oracle Corporation
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.170.8.95:443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония 3 Oracle Corporation
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@152.69.200.216:443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония 4 Oracle Corporation
-vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.17:443?encryption=none&fp=firefox&host=lucasjow.us.ci&path=/cart/docs/www/proxyip=108.160.132.132&security=tls&sni=lucasjow.us.ci&type=ws#🇯🇵 Япония 5 The Constant Company, LLC
-vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.17:443?encryption=none&fp=firefox&host=lucasjow.us.ci&security=tls&sni=lucasjow.us.ci&type=ws#🇪🇸 Испания 1 Cloudflare, Inc.
-vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.49:443?encryption=none&fp=firefox&security=tls&sni=lucasjow.us.ci&type=ws#🇪🇸 Испания 2 Cloudflare, Inc.
-vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.49:443?encryption=none&fp=firefox&host=lucasjow.us.ci&security=tls&sni=lucasjow.us.ci&type=ws#🇪🇸 Испания 3 Cloudflare, Inc.
-vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.17:443?encryption=none&fp=firefox&security=tls&sni=lucasjow.us.ci&type=ws#🇪🇸 Испания 4 Cloudflare, Inc.
-vless://XpnTeam-11@199.232.78.160:443?encryption=none&fp=firefox&host=Appxdn.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#🇫🇷 Франция 1 Dyjix SAS
-vless://XpnTeam-12@199.232.78.160:443?encryption=none&fp=firefox&host=Appxdn.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#🇫🇷 Франция 2 Dyjix SAS
-vless://XpnTeam-11@140.248.186.45:443?encryption=none&fp=firefox&host=Appxdn.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#🇫🇷 Франция 3 Dyjix SAS
-vless://6e05822a-e9da-4135-a9db-71aa07a944af@94.143.231.146:443?encryption=none&fp=firefox&path=/merky-connect/de6/&security=tls&sni=sub.merky.top&type=ws#🇸🇪 Швеция 1 Andris Jakovlevs
-vless://6e05822a-e9da-4135-a9db-71aa07a944af@94.143.231.146:443?encryption=none&fp=firefox&host=sub.merky.top&path=/merky-connect/de6/&security=tls&sni=sub.merky.top&type=ws#🇸🇪 Швеция 2 Andris Jakovlevs
+vless://e6df2095-a73c-4043-8693-8d5a03686870@45.38.60.153:2053?encryption=none&fp=firefox&host=lucasjow.us.ci&security=tls&sni=lucasjow.us.ci&type=ws#🇸🇬 Сингапур 5 The Constant Company, LLC
+vless://XpnTeam-11@140.248.186.45:443?encryption=none&fp=firefox&host=Appxdn.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#🇫🇷 Франция 1 Dyjix SAS
+vless://XpnTeam-12@199.232.78.170:443?encryption=none&fp=firefox&host=Appxdn.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#🇫🇷 Франция 2 Dyjix SAS
+vless://XpnTeam-12@199.232.78.160:443?encryption=none&fp=firefox&host=Appxdn.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#🇫🇷 Франция 3 Dyjix SAS
+vless://XpnTeam-11@199.232.78.160:443?encryption=none&fp=firefox&host=Appxdn.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#🇫🇷 Франция 4 Dyjix SAS
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@2.28.42.209:8443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇫🇷 Франция 5 Cloudflare, Inc.
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@152.69.200.216:443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония 1 Oracle Corporation
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.170.8.95:443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония 2 Oracle Corporation
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.129.80.179:8443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония 3 Oracle Corporation
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@154.31.114.162:8443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония 4 Oracle Corporation
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@108.186.158.241:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇺🇸 США 1 Cloudflare, Inc.
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@23.158.233.2:2096?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇺🇸 США 2 Cloudflare, Inc.
+vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@31.57.190.17:443?encryption=none&fp=firefox&host=a.cwvps.eu.org&path=/ws&security=tls&sni=a.cwvps.eu.org&type=ws#🇺🇸 США 3 Oracle Corporation
+vless://6e05822a-e9da-4135-a9db-71aa07a944af@94.143.231.146:443?encryption=none&fp=firefox&host=sub.merky.top&path=/merky-connect/de6/&security=tls&sni=sub.merky.top&type=ws#🇸🇪 Швеция 1 Andris Jakovlevs
+vless://6e05822a-e9da-4135-a9db-71aa07a944af@94.143.231.146:443?encryption=none&fp=firefox&path=/merky-connect/de6/&security=tls&sni=sub.merky.top&type=ws#🇸🇪 Швеция 2 Andris Jakovlevs
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@41.216.182.98:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇸🇪 Швеция 3 Cloudflare, Inc.
-vless://1d29d287-0e02-4e8e-81a4-14708d96e7ba@104.165.205.54:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇱🇻 Латвия Intars Rupeiks
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@108.186.158.241:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇺🇸 США Cloudflare, Inc.
+vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.17:443?encryption=none&fp=firefox&security=tls&sni=lucasjow.us.ci&type=ws#🇪🇸 Испания 1 Cloudflare, Inc.
+vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.17:443?encryption=none&fp=firefox&host=lucasjow.us.ci&security=tls&sni=lucasjow.us.ci&type=ws#🇪🇸 Испания 2 Cloudflare, Inc.
+vless://1d29d287-0e02-4e8e-81a4-14708d96e7ba@104.165.205.54:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇱🇻 Латвия 1 Intars Rupeiks
+vless://1d29d287-0e02-4e8e-81a4-14708d96e7ba@104.165.205.63:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇱🇻 Латвия 2 Intars Rupeiks
 vless://4947e8b5-3ab5-4401-96b3-866cc15f3e05@2.27.168.165:443?encryption=none&fp=firefox&host=fin1.airprice.store&path=/ws&security=tls&sni=fin1.airprice.store&type=ws#🇫🇮 Финляндия DEDIK SERVICES LIMITED
 vless://c136a12c-4260-48a7-a1e6-fbda83a11045@51.75.67.209:8443?encryption=none&fp=firefox&host=free.sahanwickramasinghe.me&security=tls&sni=free.sahanwickramasinghe.me&type=ws#🇱🇰 Шри-Ланка Cyberzone S.A.
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@134.185.100.238:8443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇰🇷 Южная Корея Cloudflare, Inc.
