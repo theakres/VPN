@@ -1,0 +1,21 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IEhUVFBVcGdyYWRl
+vless://dadb0935-c238-4171-aa65-b8a54fc492b5@94.242.55.122:443?encryption=none&fp=firefox&host=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&path=/us14/&security=tls&sni=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&type=httpupgrade#🇺🇸 США 1 M247 Europe SRL
+vless://dadb0935-c238-4171-aa65-b8a54fc492b5@94.242.55.122:443?encryption=none&fp=firefox&host=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&path=/us44-7/&security=tls&sni=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&type=httpupgrade#🇺🇸 США 2 M247 Europe SRL
+vless://dadb0935-c238-4171-aa65-b8a54fc492b5@94.242.55.122:443?encryption=none&fp=firefox&host=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&path=/us23-5/&security=tls&sni=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&type=httpupgrade#🇺🇸 США 3 HZ Hosting Ltd
+vless://dadb0935-c238-4171-aa65-b8a54fc492b5@94.242.55.122:443?encryption=none&fp=firefox&host=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&path=/de7/&security=tls&sni=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&type=httpupgrade#🇩🇪 Германия 1 23M GmbH
+vless://dadb0935-c238-4171-aa65-b8a54fc492b5@94.242.55.122:443?encryption=none&fp=firefox&host=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&path=/de8-1/&security=tls&sni=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&type=httpupgrade#🇩🇪 Германия 2 23M GmbH
+vless://dadb0935-c238-4171-aa65-b8a54fc492b5@94.242.55.122:443?encryption=none&fp=firefox&host=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&path=/nl3-1/&security=tls&sni=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&type=httpupgrade#🇳🇱 Нидерланды 1 WorldStream B.V.
+vless://dadb0935-c238-4171-aa65-b8a54fc492b5@94.242.55.122:443?encryption=none&fp=firefox&host=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&path=/nl4/&security=tls&sni=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&type=httpupgrade#🇳🇱 Нидерланды 2 WorldStream B.V.
+vless://dadb0935-c238-4171-aa65-b8a54fc492b5@94.242.55.122:443?encryption=none&fp=firefox&host=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&path=/au11-1/&security=tls&sni=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&type=httpupgrade#🇦🇺 Австралия Datacamp Limited
+vless://dadb0935-c238-4171-aa65-b8a54fc492b5@94.242.55.122:443?encryption=none&fp=firefox&host=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&path=/be1-1/&security=tls&sni=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&type=httpupgrade#🇧🇪 Бельгия M247 Europe SRL
+vless://dadb0935-c238-4171-aa65-b8a54fc492b5@94.242.55.122:443?encryption=none&fp=firefox&host=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&path=/bg1-1/&security=tls&sni=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&type=httpupgrade#🇧🇬 Болгария M247 Europe SRL
+vless://dadb0935-c238-4171-aa65-b8a54fc492b5@94.242.55.122:443?encryption=none&fp=firefox&host=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&path=/dk1/&security=tls&sni=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&type=httpupgrade#🇩🇰 Дания M247 Europe SRL
+vless://dadb0935-c238-4171-aa65-b8a54fc492b5@94.242.55.122:443?encryption=none&fp=firefox&host=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&path=/in1/&security=tls&sni=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&type=httpupgrade#🇮🇳 Индия DigitalOcean, LLC
+vless://dadb0935-c238-4171-aa65-b8a54fc492b5@94.242.55.122:443?encryption=none&fp=firefox&host=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&path=/nz1-1/&security=tls&sni=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&type=httpupgrade#🇳🇿 Новая Зеландия 5G NETWORK OPERATIONS PTY LTD
+vless://dadb0935-c238-4171-aa65-b8a54fc492b5@94.242.55.122:443?encryption=none&fp=firefox&host=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&path=/fi1/&security=tls&sni=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&type=httpupgrade#🇫🇮 Финляндия FIRST SERVER LIMITED
+vless://dadb0935-c238-4171-aa65-b8a54fc492b5@94.242.55.122:443?encryption=none&fp=firefox&host=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&path=/ch2/&security=tls&sni=34hkd98u.x9v2m4q7n1p5r8t3w6z0b4k8.online&type=httpupgrade#🇨🇭 Швейцария M247 Europe SRL
