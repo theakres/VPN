@@ -4,10 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQp9C10YXQuNGP
-vless://e625f8ef-f935-4c7d-a259-0f154b6842fd@195.133.35.171:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jQC3Kmmbu-CfUKlQaeuSn4I8dbqAZhpgihZhWu1SvBk&security=reality&sid=6b69118a7847c4c3&sni=seal-cz.bypassme.online&type=tcp#🇨🇿 Чехия 1 Host-Telecom.com s.r.o.
-vless://e625f8ef-f935-4c7d-a259-0f154b6842fd@195.133.35.171:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jQC3Kmmbu-CfUKlQaeuSn4I8dbqAZhpgihZhWu1SvBk&security=reality&sni=seal-cz.bypassme.online&type=tcp#🇨🇿 Чехия 2 Host-Telecom.com s.r.o.
-vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&security=reality&sid=e90360ec7cc61b20&sni=udemy.com&type=tcp#🇨🇿 Чехия 3 Datacamp Limited
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.118.4:443?encryption=none&fp=firefox&security=tls&serviceName=r7Kp4mN9tQ2v&sni=api.mediavolna.cc&type=grpc#🇨🇿 Чехия 4 FDCservers.net
-vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw&security=reality&sid=23d0950d60bc0d5b&sni=gateway.icloud.com&type=tcp#🇨🇿 Чехия 5 ROUTE 95 LLC
-vless://d0e771c5-024e-4393-bb90-4a3e3c561656@31.76.7.227:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nIL5EeUo2XUkCaLJGbzgRm6zhF-96kWvV2VmhEt3CX4&security=reality&sid=4af4102cb26e59&sni=origin.vpnoodles.ru&type=tcp#🇨🇿 Чехия 6 SERV.HOST GROUP LTD
-vless://e625f8ef-f935-4c7d-a259-0f154b6842fd@2.27.21.85:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jQC3Kmmbu-CfUKlQaeuSn4I8dbqAZhpgihZhWu1SvBk&security=reality&sni=cz.test-gret.work.gd&type=tcp#🇨🇿 Чехия 7 Voxility LLP
+vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&security=reality&sid=e90360ec7cc61b20&sni=udemy.com&type=tcp#🇨🇿 Чехия 1 Datacamp Limited
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.118.4:443?encryption=none&fp=firefox&security=tls&serviceName=r7Kp4mN9tQ2v&sni=api.mediavolna.cc&type=grpc#🇨🇿 Чехия 2 FDCservers.net
+vless://d78d6815-5f00-4fe3-8aae-3344aeb7783f@81.90.31.111:443?encryption=none&fp=firefox&host=1f0c1c7297521d51.wgse.info&path=/ws&security=tls&sni=1f0c1c7297521d51.wgse.info&type=ws#🇨🇿 Чехия 3 Mastersoft S.R.L.
+vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw&security=reality&sid=23d0950d60bc0d5b&sni=gateway.icloud.com&type=tcp#🇨🇿 Чехия 4 ROUTE 95 LLC
+vless://d0e771c5-024e-4393-bb90-4a3e3c561656@31.76.7.227:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nIL5EeUo2XUkCaLJGbzgRm6zhF-96kWvV2VmhEt3CX4&security=reality&sid=4af4102cb26e59&sni=origin.vpnoodles.ru&type=tcp#🇨🇿 Чехия 5 SERV.HOST GROUP LTD
