@@ -4,10 +4,11 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQp9C10YXQuNGP
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.118.5:443?encryption=none&fp=firefox&security=tls&serviceName=r7Kp4mN9tQ2v&sni=api.mediavolna.cc&type=grpc#🇨🇿 Чехия 1 FDCservers.net
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.118.4:443?encryption=none&fp=firefox&security=tls&serviceName=r7Kp4mN9tQ2v&sni=api.mediavolna.cc&type=grpc#🇨🇿 Чехия 2 FDCservers.net
-vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&security=reality&sid=e90360ec7cc61b20&sni=udemy.com&type=tcp#🇨🇿 Чехия 3 Datacamp Limited
-vless://9eb9905d-d211-4049-8aeb-6c965503f751@5.39.202.72:443?encryption=none&fp=firefox&pbk=1Wuq1aa8cy2f9HhFVnqUHj8LL-vJtp-QtNR6u5yh8Bg&security=reality&serviceName=api.v1.StreamService&sni=settings.pixellow.online&type=grpc#🇨🇿 Чехия 4 GamerHost s.r.o.
-vless://6206cb76-491d-4237-baf1-8c29eea4eafb@81.28.12.12:443?encryption=none&fp=firefox&host=node-3.wt419.site&path=/qVnRkTxmLwBzHjYpFaDgUcSeNrKxMtVbWqZhPcLsJfGy&security=tls&sni=node-3.wt419.site&type=ws#🇨🇿 Чехия 5 Mastersoft S.R.L.
-vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw&security=reality&sid=23d0950d60bc0d5b&sni=gateway.icloud.com&type=tcp#🇨🇿 Чехия 6 ROUTE 95 LLC
-vless://d0e771c5-024e-4393-bb90-4a3e3c561656@31.76.7.227:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nIL5EeUo2XUkCaLJGbzgRm6zhF-96kWvV2VmhEt3CX4&security=reality&sid=4af4102cb26e59&sni=origin.vpnoodles.ru&type=tcp#🇨🇿 Чехия 7 SERV.HOST GROUP LTD
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.118.8:443?encryption=none&fp=firefox&security=tls&serviceName=r7Kp4mN9tQ2v&sni=api.mediavolna.cc&type=grpc#🇨🇿 Чехия 1 FDCservers.net
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.118.5:443?encryption=none&fp=firefox&security=tls&serviceName=r7Kp4mN9tQ2v&sni=api.mediavolna.cc&type=grpc#🇨🇿 Чехия 2 FDCservers.net
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.118.4:443?encryption=none&fp=firefox&security=tls&serviceName=r7Kp4mN9tQ2v&sni=api.mediavolna.cc&type=grpc#🇨🇿 Чехия 3 FDCservers.net
+vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&security=reality&sid=e90360ec7cc61b20&sni=udemy.com&type=tcp#🇨🇿 Чехия 4 Datacamp Limited
+vless://9eb9905d-d211-4049-8aeb-6c965503f751@5.39.202.72:443?encryption=none&fp=firefox&pbk=1Wuq1aa8cy2f9HhFVnqUHj8LL-vJtp-QtNR6u5yh8Bg&security=reality&serviceName=api.v1.StreamService&sni=settings.pixellow.online&type=grpc#🇨🇿 Чехия 5 GamerHost s.r.o.
+vless://6206cb76-491d-4237-baf1-8c29eea4eafb@81.28.12.12:443?encryption=none&fp=firefox&host=node-3.wt419.site&path=/qVnRkTxmLwBzHjYpFaDgUcSeNrKxMtVbWqZhPcLsJfGy&security=tls&sni=node-3.wt419.site&type=ws#🇨🇿 Чехия 6 Mastersoft S.R.L.
+vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw&security=reality&sid=23d0950d60bc0d5b&sni=gateway.icloud.com&type=tcp#🇨🇿 Чехия 7 ROUTE 95 LLC
+vless://d0e771c5-024e-4393-bb90-4a3e3c561656@31.76.7.227:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nIL5EeUo2XUkCaLJGbzgRm6zhF-96kWvV2VmhEt3CX4&security=reality&sid=4af4102cb26e59&sni=origin.vpnoodles.ru&type=tcp#🇨🇿 Чехия 8 SERV.HOST GROUP LTD
