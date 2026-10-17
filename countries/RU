@@ -5,5 +5,5 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNC+0YHRgdC40Y8=
 vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.39:444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=P7F65GjTQGZju-N8CVHtlKNaWebVe_76Xt7Lm00RuH0&security=reality&sni=vextor.win&type=tcp#🇷🇺 Россия 1 Delta Ltd
-vless://ebd88879-be85-4125-8fc9-48e1bfa411a9@45.150.33.159:443?encryption=none&fp=firefox&path=/c59ce47c51&pbk=06CMWo9ejVj7mAbax0c5pRaTAo3_SBhIaG7T4ihQRSM&security=reality&sid=f752f4e1711953f2&sni=cdn-efe716.nl2.mediacrate.net&type=xhttp#🇷🇺 Россия 2 NetCrafters OU
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@185.147.27.39:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=id-6ad3c751.adhil.uk&type=tcp#🇷🇺 Россия 2 KVIKTEL LLC
 vless://f8f23b48-57e6-4a87-9ff5-a086ec1b1803@13.143.184.226:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qPh1iuwpELosLWTxOXyfCiMghs_sjSzCOGbkiF0gdkk&security=reality&sid=f7e66e308136e1a1&sni=msc1.serverslocal.ru&type=tcp#🇷🇺 Россия 3 SERV.HOST GROUP LTD
