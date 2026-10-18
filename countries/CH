@@ -4,9 +4,9 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXQudGG0LDRgNC40Y8=
-vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@79.132.141.248:23202?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=firefox&pbk=6oC15TpJ0YxlXVvax9G4Zw-FcP3kKoqgs4iSwOHlvwc&security=reality&sid=8c6e&sni=www.sony.com&type=xhttp#🇨🇭 Швейцария 1 Datasource AG
-vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@79.132.141.248:8443?encryption=none&fp=firefox&pbk=rp_TkuctK207nrtJP6AYTvsWWkHToQLtRLOSYP3zpg0&security=reality&sid=32aa&sni=npdev.uk&type=tcp#🇨🇭 Швейцария 2 Datasource AG
-vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@79.132.141.248:8443?encryption=none&fp=firefox&pbk=rp_TkuctK207nrtJP6AYTvsWWkHToQLtRLOSYP3zpg0&security=reality&sid=ac6bf30f3e&sni=npdev.uk&type=tcp#🇨🇭 Швейцария 3 Datasource AG
+vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@79.132.141.248:8443?encryption=none&fp=firefox&pbk=rp_TkuctK207nrtJP6AYTvsWWkHToQLtRLOSYP3zpg0&security=reality&sid=ac6bf30f3e&sni=npdev.uk&type=tcp#🇨🇭 Швейцария 1 Datasource AG
+vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@79.132.141.248:23202?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=firefox&pbk=6oC15TpJ0YxlXVvax9G4Zw-FcP3kKoqgs4iSwOHlvwc&security=reality&sid=8c6e&sni=www.sony.com&type=xhttp#🇨🇭 Швейцария 2 Datasource AG
+vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@79.132.141.248:8443?encryption=none&fp=firefox&pbk=rp_TkuctK207nrtJP6AYTvsWWkHToQLtRLOSYP3zpg0&security=reality&sid=32aa&sni=npdev.uk&type=tcp#🇨🇭 Швейцария 3 Datasource AG
 vless://6bd87180-71cf-02f4-bf36-07f2e615d020@131.123.25.26:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=00a61d55a07de885&sni=de-cdn.convert-flow.net&type=tcp#🇨🇭 Швейцария 4 GLOBAL CONNECTIVITY SOLUTIONS LLP
 vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?encryption=none&fp=firefox&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&security=reality&sid=ad86e2d52ff40ebd&sni=www.apple.com&type=tcp#🇨🇭 Швейцария 5 GTHost
 vless://318c935d-c195-41d3-99ad-9bbcfdab3386@167.148.183.51:444?encryption=none&fp=firefox&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&security=reality&sid=4be4110078ebed4a&sni=ch.srv.vbuste.ru&type=grpc#🇨🇭 Швейцария 6 NETGRID HOST LTD
