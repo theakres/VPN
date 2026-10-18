@@ -4,4 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkNCy0YHRgtGA0LjRjw==
-vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@159.195.240.82:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ&security=reality&sid=c8c75aaf699259b4&sni=vie1.tsumshop.org&type=tcp#🇦🇹 Австрия netcup GmbH
+vless://852cb226-cc38-4702-b530-2d472b8c248e@50.7.113.50:443?encryption=none&fp=firefox&pbk=cj6pCChEt7OHSDn8vMIxh3FRpb4_i2AB7sKq4gcjV0I&security=reality&serviceName=at4b2b5bf083&sni=at4.secured-by-tenzo.sbs&type=grpc#🇦🇹 Австрия 1 FDCservers.net
+vless://5f20d234-98cf-4056-a82d-ff50ddb31e3d@50.7.113.50:443?encryption=none&fp=firefox&pbk=cj6pCChEt7OHSDn8vMIxh3FRpb4_i2AB7sKq4gcjV0I&security=reality&serviceName=at4b2b5bf083&sni=at4.secured-by-tenzo.sbs&type=grpc#🇦🇹 Австрия 2 FDCservers.net
+vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@159.195.240.82:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ&security=reality&sid=c8c75aaf699259b4&sni=vie1.tsumshop.org&type=tcp#🇦🇹 Австрия 3 netcup GmbH
