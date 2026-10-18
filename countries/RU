@@ -5,9 +5,7 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNC+0YHRgdC40Y8=
 vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.39:444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=P7F65GjTQGZju-N8CVHtlKNaWebVe_76Xt7Lm00RuH0&security=reality&sni=vextor.win&type=tcp#🇷🇺 Россия 1 Delta Ltd
-vless://66217279-de40-4b62-b2bb-9c33b8fb7a01@45.81.33.16:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&security=reality&sid=abcd1234&sni=ru.willo.help&type=tcp#🇷🇺 Россия 2 Delta Ltd
-vless://d4eea5b2-219c-4f6c-8eee-cd35a4371888@188.130.209.222:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&security=reality&sid=11979c0c9b2da371&sni=thumbs.mycdn-io.ru&type=tcp#🇷🇺 Россия 3 Delta Ltd
+vless://d4eea5b2-219c-4f6c-8eee-cd35a4371888@188.130.209.222:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&security=reality&sid=11979c0c9b2da371&sni=thumbs.mycdn-io.ru&type=tcp#🇷🇺 Россия 2 Delta Ltd
+hysteria2://9yOIR2_QAChKs26rYaiX_aoNnOALd0aU@193.233.88.26:443?sni=ru1server.rabstvo.shop#🇷🇺 Россия 3 AEZA GROUP LLC
 vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@185.147.27.39:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=id-6ad3c751.adhil.uk&type=tcp#🇷🇺 Россия 4 KVIKTEL LLC
-vless://a11213e8-a42f-4492-beaa-14084f6ae28a@185.147.26.80:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GM-fP74KIMEVerUJ-xUA6jsy2sJEhuwIwOhxzeRdXH4&security=reality&sid=3b491c212a9504c1&sni=www.aeroflot.ru&type=tcp#🇷🇺 Россия 5 KVIKTEL LLC
-hysteria2://9yOIR2_QAChKs26rYaiX_aoNnOALd0aU@193.233.88.26:443?sni=ru1server.rabstvo.shop#🇷🇺 Россия 6 AEZA GROUP LLC
-vless://f8f23b48-57e6-4a87-9ff5-a086ec1b1803@13.143.184.226:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qPh1iuwpELosLWTxOXyfCiMghs_sjSzCOGbkiF0gdkk&security=reality&sid=f7e66e308136e1a1&sni=msc1.serverslocal.ru&type=tcp#🇷🇺 Россия 7 SERV.HOST GROUP LTD
+vless://f8f23b48-57e6-4a87-9ff5-a086ec1b1803@13.143.184.226:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qPh1iuwpELosLWTxOXyfCiMghs_sjSzCOGbkiF0gdkk&security=reality&sid=f7e66e308136e1a1&sni=msc1.serverslocal.ru&type=tcp#🇷🇺 Россия 5 SERV.HOST GROUP LTD
