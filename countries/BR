@@ -4,5 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkdGA0LDQt9C40LvQuNGP
-vless://6bd87180-71cf-004c-bf36-07f2e615d020@131.123.25.26:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=00a61d55a07de885&sni=de-cdn.convert-flow.net&type=tcp#🇧🇷 Бразилия 1 GLOBAL CONNECTIVITY SOLUTIONS LLP
-hysteria2://CyG0RFxMjzs41uQD4OLuHQ%3D%3D@137.131.171.249:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D#🇧🇷 Бразилия 2 Oracle Corporation
+vless://817b61c8-9bf0-4365-8a52-e43dfad274a6@146.235.59.153:2053?encryption=none&fp=firefox&host=shin-ra.ccwu.cc&security=tls&sni=shin-ra.ccwu.cc&type=ws#🇧🇷 Бразилия 1 Cloudflare, Inc.
+vless://6bd87180-71cf-004c-bf36-07f2e615d020@131.123.25.26:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=00a61d55a07de885&sni=de-cdn.convert-flow.net&type=tcp#🇧🇷 Бразилия 2 GLOBAL CONNECTIVITY SOLUTIONS LLP
+hysteria2://CyG0RFxMjzs41uQD4OLuHQ%3D%3D@137.131.171.249:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D#🇧🇷 Бразилия 3 Oracle Corporation
