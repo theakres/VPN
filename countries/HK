@@ -4,15 +4,12 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQk9C+0L3QutC+0L3Qsw==
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@209.33.161.104:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇭🇰 Гонконг 1 Cloudflare, Inc.
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@154.16.183.190:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&path=/fdip&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇭🇰 Гонконг 2 Cloudflare, Inc.
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@154.16.183.190:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&path=/fdip&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇭🇰 Гонконг 1 Cloudflare, Inc.
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@209.33.161.104:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇭🇰 Гонконг 2 Cloudflare, Inc.
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.38.236.248:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇭🇰 Гонконг 3 Cloudflare, Inc.
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.206.171.43:2053?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇭🇰 Гонконг 4 Cloudflare, Inc.
-vless://41a7af38-0bb1-4493-aa8d-634af0c2548b@82.29.36.250:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=09XPceP705hC-5sEDXDSLeL2eMOrF-mFISK8JaJ7q2g&security=reality&sid=09353d6dc5b789&sni=aws.amazon.com&type=tcp#🇭🇰 Гонконг 5 ACCK LLC
-vless://41a7af38-0bb1-4493-aa8d-634af0c2548b@82.29.36.250:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=09XPceP705hC-5sEDXDSLeL2eMOrF-mFISK8JaJ7q2g&security=reality&sid=ac3342a709db&sni=aws.amazon.com&type=tcp#🇭🇰 Гонконг 6 ACCK LLC
-vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?encryption=none&fp=firefox&security=tls&type=tcp#🇭🇰 Гонконг 7 PANSTAR CLOUD LIMITED
-vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?encryption=none&fp=firefox&security=tls&sni=195.58.144.56&type=tcp#🇭🇰 Гонконг 8 PANSTAR CLOUD LIMITED
-vless://154bd388-4968-4900-a088-18676f428a20@139.28.168.75:10444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&security=reality&sid=8debcf36f1cc69ff&sni=video.yandex.ru&type=tcp#🇭🇰 Гонконг 9 Adcdata.com
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.238.210.5:13779?encryption=none&fp=firefox&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&security=reality&sid=af1bdd293097b664&sni=tesla.com&type=tcp#🇭🇰 Гонконг 10 Alibaba US Technology Co., Ltd.
-vless://6bd87180-71cf-0158-bf36-07f2e615d020@131.123.25.26:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=00a61d55a07de885&sni=de-cdn.convert-flow.net&type=tcp#🇭🇰 Гонконг 11 GLOBAL CONNECTIVITY SOLUTIONS LLP
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰 Гонконг 12 UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+vless://41a7af38-0bb1-4493-aa8d-634af0c2548b@82.29.36.250:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=09XPceP705hC-5sEDXDSLeL2eMOrF-mFISK8JaJ7q2g&security=reality&sid=ac3342a709db&sni=aws.amazon.com&type=tcp#🇭🇰 Гонконг 5 ACCK LLC
+vless://41a7af38-0bb1-4493-aa8d-634af0c2548b@82.29.36.250:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=09XPceP705hC-5sEDXDSLeL2eMOrF-mFISK8JaJ7q2g&security=reality&sid=09353d6dc5b789&sni=aws.amazon.com&type=tcp#🇭🇰 Гонконг 6 ACCK LLC
+vless://154bd388-4968-4900-a088-18676f428a20@139.28.168.75:10444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&security=reality&sid=8debcf36f1cc69ff&sni=video.yandex.ru&type=tcp#🇭🇰 Гонконг 7 Adcdata.com
+vless://6bd87180-71cf-0158-bf36-07f2e615d020@131.123.25.26:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=00a61d55a07de885&sni=de-cdn.convert-flow.net&type=tcp#🇭🇰 Гонконг 8 GLOBAL CONNECTIVITY SOLUTIONS LLP
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰 Гонконг 9 UCLOUD INFORMATION TECHNOLOGY HK LIMITED

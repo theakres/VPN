@@ -7,8 +7,8 @@
 vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@196.198.111.138:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-6ad3c751.adhil.uk&type=tcp#🇪🇪 Эстония 1 Orion Network Limited
 vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@165.231.170.18:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-6ad3c751.adhil.uk&type=tcp#🇪🇪 Эстония 2 Orion Network Limited
 vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@196.198.111.107:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-6ad3c751.adhil.uk&type=tcp#🇪🇪 Эстония 3 Orion Network Limited
-vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?encryption=none&fp=firefox&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&security=reality&sni=player.vimeo.com&type=xhttp#🇪🇪 Эстония 4 Andris Jakovlevs
-vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?encryption=none&fp=firefox&host=132.243.65.82&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&security=reality&sni=player.vimeo.com&type=xhttp#🇪🇪 Эстония 5 Andris Jakovlevs
+vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?encryption=none&fp=firefox&host=132.243.65.82&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&security=reality&sni=player.vimeo.com&type=xhttp#🇪🇪 Эстония 4 Andris Jakovlevs
+vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?encryption=none&fp=firefox&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&security=reality&sni=player.vimeo.com&type=xhttp#🇪🇪 Эстония 5 Andris Jakovlevs
 vless://43212c32-01f2-4356-b216-67dc1c178262@143.246.41.31:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=h1xVB_-djXL6A7tvnnVbjV4bYKplHOuN0bgmFJQE6AE&security=reality&sid=7f3a91c2d8e640ab&sni=ees92.shhflow.xyz&type=tcp#🇪🇪 Эстония 6 Cloudflare, Inc.
 hysteria2://43212c32-01f2-4356-b216-67dc1c178262@143.246.41.31:5443?sni=ees92.shhflow.xyz#🇪🇪 Эстония 7 Cloudflare, Inc.
 vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=yandex.net&type=tcp#🇪🇪 Эстония 8 SERV.HOST GROUP LTD

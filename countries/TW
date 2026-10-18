@@ -5,7 +5,4 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQotCw0LnQstCw0L3RjA==
 vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.219.24:24215?encryption=none&fp=firefox&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&security=reality&sni=addons.mozilla.org&type=tcp#🇹🇼 Тайвань 1 Chunghwa Telecom Co., Ltd.
-vless://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@130.162.177.187:1003?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=VNxeZH2-AUjHiZ3NpQpG54DN-0WFk9Rej1s9Zu_IYQk&security=reality&sid=661613a7&sni=thtrjhtyjjfd.weebly.com&type=tcp#🇹🇼 Тайвань 2 Chunghwa Telecom Co., Ltd.
-vless://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@152.70.175.40:1003?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=VNxeZH2-AUjHiZ3NpQpG54DN-0WFk9Rej1s9Zu_IYQk&security=reality&sid=661613a7&sni=thtrjhtyjjfd.weebly.com&type=tcp#🇹🇼 Тайвань 3 Chunghwa Telecom Co., Ltd.
-vless://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@84.13.81.2:1003?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=VNxeZH2-AUjHiZ3NpQpG54DN-0WFk9Rej1s9Zu_IYQk&security=reality&sid=661613a7&sni=thtrjhtyjjfd.weebly.com&type=tcp#🇹🇼 Тайвань 4 Chunghwa Telecom Co., Ltd.
-vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&security=reality&sid=f713561d&sni=www.cloudflare.com&type=tcp#🇹🇼 Тайвань 5 Zillion Network Inc.
+vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&security=reality&sid=f713561d&sni=www.cloudflare.com&type=tcp#🇹🇼 Тайвань 2 Zillion Network Inc.
