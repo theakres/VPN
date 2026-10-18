@@ -6,4 +6,6 @@
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmtCw0LfQsNGF0YHRgtCw0L0=
 vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?encryption=none&fp=firefox&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&security=reality&sid=69a2&sni=yahoo.com&type=tcp#🇰🇿 Казахстан 1 NLS ASTANA LLP
 vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?encryption=none&fp=firefox&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&security=reality&sid=fa&sni=yahoo.com&type=tcp#🇰🇿 Казахстан 2 NLS ASTANA LLP
-vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=none&fp=firefox&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&security=reality&sid=83&sni=yahoo.com&type=tcp#🇰🇿 Казахстан 3 Fedinyak Sergey Vyacheslavovich
+vless://87023925-a754-4b67-b89a-a10d3bf6874b@45.136.59.170:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2UL-sVKR-fF2iveJcEutaZGpqVyOM375UCLtDj9xMHw&security=reality&sid=a64c4a2d1f869590&sni=kz.api.nurcloud.org&type=tcp#🇰🇿 Казахстан 3 Cloudflare, Inc.
+vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=none&fp=firefox&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&security=reality&sid=83&sni=yahoo.com&type=tcp#🇰🇿 Казахстан 4 Fedinyak Sergey Vyacheslavovich
+vless://3cbacf72-6310-4879-b8ba-855a6049b15c@62.144.49.19:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-q97GmwI_UXqbG2u5IMWjXz8fgOg_yDfZA9yQqWj6mc&security=reality&sid=443edb770c05d09b&sni=r0o8wxwq6t.mail.ru&type=tcp#🇰🇿 Казахстан 5 HOSTES LTD
