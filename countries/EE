@@ -6,5 +6,5 @@
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
 vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=yandex.net&type=tcp#🇪🇪 Эстония 1 SERV.HOST GROUP LTD
 vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=yandex.net&type=tcp#🇪🇪 Эстония 2 SERV.HOST GROUP LTD
-vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?encryption=none&fp=firefox&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&security=reality&sni=player.vimeo.com&type=xhttp#🇪🇪 Эстония 3 Andris Jakovlevs
+vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?encryption=none&fp=firefox&host=132.243.65.82&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&security=reality&sni=player.vimeo.com&type=xhttp#🇪🇪 Эстония 3 Andris Jakovlevs
 vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&security=reality&sid=226509f017e4c36d&sni=co-es.speedtec.ru&type=tcp#🇪🇪 Эстония 4 Paul Sagov
