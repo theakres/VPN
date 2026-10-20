@@ -4,11 +4,4 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNC+0YHRgdC40Y8=
-vless://5d7e07ba-f460-4638-af79-bbcde67fcb6b@81.26.182.128:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xlXuN8KDdbqGEsaj1m2D8NUnR5d2oeo5TT71RSMmfxY&security=reality&sni=www.samsung.com&type=tcp#🇷🇺 Россия 1 Yandex.Cloud LLC
-vless://5d7e07ba-f460-4638-af79-bbcde67fcb6b@81.26.182.128:8443?encryption=none&fp=firefox&path=/xh&pbk=xlXuN8KDdbqGEsaj1m2D8NUnR5d2oeo5TT71RSMmfxY&security=reality&sni=www.asus.com&type=xhttp#🇷🇺 Россия 2 Yandex.Cloud LLC
-vless://38332d09-bf62-4178-9d87-a1e11a5c0ea3@81.26.182.128:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xlXuN8KDdbqGEsaj1m2D8NUnR5d2oeo5TT71RSMmfxY&security=reality&sni=www.samsung.com&type=tcp#🇷🇺 Россия 3 Yandex.Cloud LLC
-vless://38332d09-bf62-4178-9d87-a1e11a5c0ea3@81.26.182.128:8443?encryption=none&fp=firefox&path=/xh&pbk=xlXuN8KDdbqGEsaj1m2D8NUnR5d2oeo5TT71RSMmfxY&security=reality&sni=www.asus.com&type=xhttp#🇷🇺 Россия 4 Yandex.Cloud LLC
-vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@85.193.85.231:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=tcp#🇷🇺 Россия 5 JSC TIMEWEB
-hysteria2://41edb44c8e@103.88.243.142:11592?sni=srv-17e124.21freedom.net#🇷🇺 Россия 6 JSC TIMEWEB
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@139.100.226.187:8443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇷🇺 Россия 7 Cloudflare, Inc.
-vless://81167507-b634-4f56-9555-33e4fd660ce0@193.187.95.124:443?encryption=none&fp=firefox&pbk=8bMoXjt19DiBhVEEzx2xxe9dsgYOerlQC6yf0JDOoQE&security=reality&sid=6f01a3e0f21267&sni=github.com&type=tcp#🇷🇺 Россия 8 HOSTKEY B.V.
+vless://81167507-b634-4f56-9555-33e4fd660ce0@193.187.95.124:443?encryption=none&fp=firefox&pbk=8bMoXjt19DiBhVEEzx2xxe9dsgYOerlQC6yf0JDOoQE&security=reality&sid=6f01a3e0f21267&sni=github.com&type=tcp#🇷🇺 Россия HOSTKEY B.V.

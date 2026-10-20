@@ -4,10 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
-vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?encryption=none&fp=firefox&host=132.243.65.82&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&security=reality&sni=player.vimeo.com&type=xhttp#🇪🇪 Эстония 1 Andris Jakovlevs
-vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?encryption=none&fp=firefox&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&security=reality&sni=player.vimeo.com&type=xhttp#🇪🇪 Эстония 2 Andris Jakovlevs
-vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&security=reality&sid=226509f017e4c36d&sni=co-es.speedtec.ru&type=tcp#🇪🇪 Эстония 3 Paul Sagov
-vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@186.246.29.249:27443?encryption=none&fp=firefox&pbk=zIF5SLjmd3gzvGPhEBKjqLv8_-7MOHMpJciVEehL0C8&security=reality&serviceName=grpc&sni=static.polina.mom&type=grpc#🇪🇪 Эстония 4 Paul Sagov
-vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=yandex.net&type=tcp#🇪🇪 Эстония 5 SERV.HOST GROUP LTD
-vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=yandex.net&type=tcp#🇪🇪 Эстония 6 SERV.HOST GROUP LTD
-vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@185.255.178.28:8443?encryption=none&fp=firefox&pbk=pbsZ_WKQppqB0qF2zgcgwRhy8wnRtPy26sDDp3uqxl4&security=reality&sid=b7e3f4bc485bc37b&sni=npdev.uk&type=tcp#🇪🇪 Эстония 7 Baykov Ilya Sergeevich
+vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=yandex.net&type=tcp#🇪🇪 Эстония 1 SERV.HOST GROUP LTD
+vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=yandex.net&type=tcp#🇪🇪 Эстония 2 SERV.HOST GROUP LTD
+vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?encryption=none&fp=firefox&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&security=reality&sni=player.vimeo.com&type=xhttp#🇪🇪 Эстония 3 Andris Jakovlevs
+vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&security=reality&sid=226509f017e4c36d&sni=co-es.speedtec.ru&type=tcp#🇪🇪 Эстония 4 Paul Sagov
+vless://1f50163a-33c9-4ef8-b5da-fa1b3694d9a7@5.253.177.40:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JPFGvwqbUaVMgakxgnG6DSibIlVclpXmj1kC3kJJKVA&security=reality&sid=6116985f1613ff84&sni=es-01.file-rkat.online&type=tcp#🇪🇪 Эстония 5 RJ Network OU
