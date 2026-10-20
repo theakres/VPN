@@ -6,8 +6,8 @@
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQp9C10YXQuNGP
 vless://d65fb384-5029-4edf-bdc7-0f5960600e3d@153.76.190.31:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇨🇿 Чехия 1 Alfahost LLC
 hysteria2://d65fb384-5029-4edf-bdc7-0f5960600e3d@153.76.190.31:8443?sni=speedtestmark.com#🇨🇿 Чехия 2 Alfahost LLC
-vless://d6eb8a46-e6a4-4891-b22e-dfaa609c6afd@153.76.190.31:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇨🇿 Чехия 3 Alfahost LLC
-vless://58037ab8-a8e2-4927-a8b1-f909f9fdb64c@153.76.190.31:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇨🇿 Чехия 4 Alfahost LLC
+vless://58037ab8-a8e2-4927-a8b1-f909f9fdb64c@153.76.190.31:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇨🇿 Чехия 3 Alfahost LLC
+vless://d6eb8a46-e6a4-4891-b22e-dfaa609c6afd@153.76.190.31:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇨🇿 Чехия 4 Alfahost LLC
 vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&security=reality&sid=e90360ec7cc61b20&sni=udemy.com&type=tcp#🇨🇿 Чехия 5 Datacamp Limited
 vless://8007dda2-aed2-4514-8299-6e3edbdb015b@66.90.111.117:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&security=reality&sid=8718c58d3d51db59&sni=pr1.wolffast.net&type=tcp#🇨🇿 Чехия 6 FDCservers.net
 vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw&security=reality&sid=23d0950d60bc0d5b&sni=gateway.icloud.com&type=tcp#🇨🇿 Чехия 7 ROUTE 95 LLC

@@ -4,5 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpdC+0YDQstCw0YLQuNGP
-vless://9ab9291e-fd72-4af9-b227-93419e90ff2e@5.181.2.168:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FSoosmyb1Odcc6yucO4B-0YC0fKytdBbvuwJKn7Wbkg&security=reality&sid=86afa150bc3a48f6&sni=hr1-4v.zvcorp24.com&type=tcp#🇭🇷 Хорватия 1 GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://8179d7cc-82bc-4eae-a97f-5d30c6c2a812@2.56.175.179:9443?encryption=none&fp=firefox&pbk=8bhS-nnIN67a292RpJsCPzXQy4CzpzOVLTPn5CiAFyg&security=reality&serviceName=grpc&sid=6ba7b810&sni=itunes.apple.com&type=grpc#🇭🇷 Хорватия 2 NetCrafters OU
+vless://8179d7cc-82bc-4eae-a97f-5d30c6c2a812@2.56.175.179:9443?encryption=none&fp=firefox&pbk=8bhS-nnIN67a292RpJsCPzXQy4CzpzOVLTPn5CiAFyg&security=reality&serviceName=grpc&sid=6ba7b810&sni=itunes.apple.com&type=grpc#🇭🇷 Хорватия 1 NetCrafters OU
+vless://786c7f8a-78f0-40ea-92a5-2592bb16046b@2.56.175.114:443?encryption=none&fp=firefox&host=cdn-028bcc.fi4.kestrelstream.net&path=/c59ce47c51&pbk=06CMWo9ejVj7mAbax0c5pRaTAo3_SBhIaG7T4ihQRSM&security=reality&sid=f752f4e1711953f2&sni=cdn-028bcc.fi4.kestrelstream.net&type=xhttp#🇭🇷 Хорватия 2 NetCrafters OU
+vless://9ab9291e-fd72-4af9-b227-93419e90ff2e@5.181.2.168:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FSoosmyb1Odcc6yucO4B-0YC0fKytdBbvuwJKn7Wbkg&security=reality&sid=86afa150bc3a48f6&sni=hr1-4v.zvcorp24.com&type=tcp#🇭🇷 Хорватия 3 GLOBAL CONNECTIVITY SOLUTIONS LLP
