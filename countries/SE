@@ -4,11 +4,15 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.143.182.82:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇸🇪 Швеция 1 Cloudflare, Inc.
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.71.22.158:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇸🇪 Швеция 2 Cloudflare, Inc.
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@62.182.192.195:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&path=/fdip&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇸🇪 Швеция 3 Cloudflare, Inc.
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@109.120.133.26:8443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇸🇪 Швеция 4 Cloudflare, Inc.
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@109.122.194.61:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇸🇪 Швеция 5 Cloudflare, Inc.
-vless://817b61c8-9bf0-4365-8a52-e43dfad274a6@103.71.23.244:443?encryption=none&fp=firefox&host=shin-ra.ccwu.cc&security=tls&sni=shin-ra.ccwu.cc&type=ws#🇸🇪 Швеция 6 Cloudflare, Inc.
-vless://6e05822a-e9da-4135-a9db-71aa07a944af@94.143.231.146:443?encryption=none&fp=firefox&host=sub.merky.top&path=/merky-connect/de6/&security=tls&sni=sub.merky.top&type=ws#🇸🇪 Швеция 7 Andris Jakovlevs
-vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@31.77.18.220:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&security=reality&sni=google.com&type=tcp#🇸🇪 Швеция 8 PLAY2GO - FZCO
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.71.22.158:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇸🇪 Швеция 1 Cloudflare, Inc.
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@41.216.182.98:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇸🇪 Швеция 2 Cloudflare, Inc.
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.143.182.82:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇸🇪 Швеция 3 Cloudflare, Inc.
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.230.44.140:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇸🇪 Швеция 4 Cloudflare, Inc.
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@62.182.192.195:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&path=/fdip&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇸🇪 Швеция 5 Cloudflare, Inc.
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@109.120.133.26:8443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇸🇪 Швеция 6 Cloudflare, Inc.
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@62.182.192.195:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇸🇪 Швеция 7 Cloudflare, Inc.
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@109.122.194.61:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇸🇪 Швеция 8 Cloudflare, Inc.
+vless://817b61c8-9bf0-4365-8a52-e43dfad274a6@103.71.23.244:443?encryption=none&fp=firefox&host=shin-ra.ccwu.cc&security=tls&sni=shin-ra.ccwu.cc&type=ws#🇸🇪 Швеция 9 Cloudflare, Inc.
+vless://6e05822a-e9da-4135-a9db-71aa07a944af@94.143.231.146:443?encryption=none&fp=firefox&path=/merky-connect/de6/&security=tls&sni=sub.merky.top&type=ws#🇸🇪 Швеция 10 Andris Jakovlevs
+vless://6e05822a-e9da-4135-a9db-71aa07a944af@94.143.231.146:443?encryption=none&fp=firefox&host=sub.merky.top&path=/merky-connect/de6/&security=tls&sni=sub.merky.top&type=ws#🇸🇪 Швеция 11 Andris Jakovlevs
+vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@31.77.18.220:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&security=reality&sni=google.com&type=tcp#🇸🇪 Швеция 12 PLAY2GO - FZCO
