@@ -5,10 +5,9 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNGD0LzRi9C90LjRjw==
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@154.46.31.118:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇷🇴 Румыния 1 Cloudflare, Inc.
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@132.243.165.215:2083?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#🇷🇴 Румыния 2 Cloudflare, Inc.
-vless://817b61c8-9bf0-4365-8a52-e43dfad274a6@194.180.191.249:443?encryption=none&fp=firefox&host=shin-ra.ccwu.cc&security=tls&sni=shin-ra.ccwu.cc&type=ws#🇷🇴 Румыния 3 Cloudflare, Inc.
+vless://817b61c8-9bf0-4365-8a52-e43dfad274a6@194.180.191.249:443?encryption=none&fp=firefox&host=shin-ra.ccwu.cc&security=tls&sni=shin-ra.ccwu.cc&type=ws#🇷🇴 Румыния 2 Cloudflare, Inc.
+vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&security=reality&sid=d06d78e974491b6e&sni=www.cloudflare.com&type=tcp#🇷🇴 Румыния 3 ROUTE 95 LLC
 vless://679439c5-28f2-485e-af5f-60a5fcd9c36c@82.117.255.174:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0QDBHaCRO2dPeeSVy3B3R_U12ZOvbvWl1JTFW_ZcpD0&security=reality&sid=31e91d43e553bf32&sni=gateway.icloud.com&type=tcp#🇷🇴 Румыния 4 ROUTE 95 LLC
-vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&security=reality&sid=d06d78e974491b6e&sni=www.cloudflare.com&type=tcp#🇷🇴 Румыния 5 ROUTE 95 LLC
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#🇷🇴 Румыния 6 Interkvm Host SRL
-vless://40abbe13-f02e-4da2-9b19-966c2c3eb4ee@146.70.124.85:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=byzvlw97wjAAAfHs5AZRV0P0H6_JKBEZ4yfLS0HNewE&security=reality&sid=fe24f8a0a560056e&sni=www.datadoghq.com&type=tcp#🇷🇴 Румыния 7 M247 Europe SRL
-vless://e5544327-834c-455a-9db5-2454c788fa17@109.104.106.101:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V-6tk21giXjug4ZXwpAhT4aXHjsXYwkgznT4dQEc9Aw&security=reality&sid=48d6ed723454f6db&sni=d1-ro.cloud-cdn.xyz&type=tcp#🇷🇴 Румыния 8 Shock Hosting LLC
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#🇷🇴 Румыния 5 Interkvm Host SRL
+vless://40abbe13-f02e-4da2-9b19-966c2c3eb4ee@146.70.124.85:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=byzvlw97wjAAAfHs5AZRV0P0H6_JKBEZ4yfLS0HNewE&security=reality&sid=fe24f8a0a560056e&sni=www.datadoghq.com&type=tcp#🇷🇴 Румыния 6 M247 Europe SRL
+vless://e5544327-834c-455a-9db5-2454c788fa17@109.104.106.101:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V-6tk21giXjug4ZXwpAhT4aXHjsXYwkgznT4dQEc9Aw&security=reality&sid=48d6ed723454f6db&sni=d1-ro.cloud-cdn.xyz&type=tcp#🇷🇴 Румыния 7 Shock Hosting LLC
