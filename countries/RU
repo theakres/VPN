@@ -5,6 +5,6 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNC+0YHRgdC40Y8=
 vless://3acb386b-fdd7-4bc9-911f-159fdcd834ce@45.91.52.28:443?encryption=none&fp=firefox&pbk=aovrqfVIxA_POvJorIg05wBQJM9nZ859c0fsNL7v9RM&security=reality&sid=0ea5f9d7955c3971&sni=9f6635t.msk1.h1clayd.click&type=tcp#🇷🇺 Россия 1 Delta Ltd
-vless://3acb386b-fdd7-4bc9-911f-159fdcd834ce@45.91.52.28:443?encryption=none&fp=firefox&path=/480b05c5d6a2&pbk=Ed81TkUg2vyyUq_bmfMmGUZyQR9NrMAFVp7lN6Q1zC8&security=reality&sid=773dc2a2513eadc4&sni=27e8dax.msk1.h1clayd.click&type=xhttp#🇷🇺 Россия 2 Delta Ltd
-vless://3acb386b-fdd7-4bc9-911f-159fdcd834ce@45.91.52.28:443?encryption=none&fp=firefox&pbk=_UKyZZvF2cvo6qev4VY-QoOyzqE8cGT3hciD0g--sD8&security=reality&serviceName=fb78f1bc0355&sid=07e197719352d606&sni=0f5857g.msk1.h1clayd.click&type=grpc#🇷🇺 Россия 3 Delta Ltd
+vless://3acb386b-fdd7-4bc9-911f-159fdcd834ce@45.91.52.28:443?encryption=none&fp=firefox&pbk=_UKyZZvF2cvo6qev4VY-QoOyzqE8cGT3hciD0g--sD8&security=reality&serviceName=fb78f1bc0355&sid=07e197719352d606&sni=0f5857g.msk1.h1clayd.click&type=grpc#🇷🇺 Россия 2 Delta Ltd
+vless://3acb386b-fdd7-4bc9-911f-159fdcd834ce@45.91.52.28:443?encryption=none&fp=firefox&path=/480b05c5d6a2&pbk=Ed81TkUg2vyyUq_bmfMmGUZyQR9NrMAFVp7lN6Q1zC8&security=reality&sid=773dc2a2513eadc4&sni=27e8dax.msk1.h1clayd.click&type=xhttp#🇷🇺 Россия 3 Delta Ltd
 vless://dc4512bd-44d8-4211-9559-f2e165bb34b0@113.30.154.239:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=apple.com&type=tcp#🇷🇺 Россия 4 NEUROSIGNAL LLC
