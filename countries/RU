@@ -4,7 +4,5 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNC+0YHRgdC40Y8=
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@95.182.120.128:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7MRwvMvlDcjZqfdbBmePpZI5WDEYgya1y_pOp7B9CDc&security=reality&sid=d0dc65ab94f5e69b&sni=api.stride.surf&type=tcp#🇷🇺 Россия 1 Cloudflare, Inc.
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@46.8.29.199:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7MRwvMvlDcjZqfdbBmePpZI5WDEYgya1y_pOp7B9CDc&security=reality&sid=d0dc65ab94f5e69b&sni=api.stride.surf&type=tcp#🇷🇺 Россия 2 Cloudflare, Inc.
-vless://d4e7bb0a-ad2c-4030-b2e0-7bb6840b04f5@144.31.190.230:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&security=reality&sid=4326&sni=ozon.ru&type=tcp#🇷🇺 Россия 3 Denis Aleksandrovich Iakovlev
-vless://dc4512bd-44d8-4211-9559-f2e165bb34b0@113.30.154.239:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=apple.com&type=tcp#🇷🇺 Россия 4 NEUROSIGNAL LLC
+vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=user-6a917f32.noooo.win&type=tcp#🇷🇺 Россия 1 KVIKTEL LLC
+vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@185.147.27.164:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=user-6a8d949a.noooo.win&type=tcp#🇷🇺 Россия 2 KVIKTEL LLC
