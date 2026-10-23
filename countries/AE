@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQntCQ0K0=
+vless://f3d2a62e-f71a-48d5-9109-8481036f353e@31.57.228.249:443?encryption=none&fp=firefox&host=dubai01.servertest.cc&path=/gateway/v1/ws/253b54cc6938dd3d543bf8711a8f6bb2&security=tls&sni=dubai01.servertest.cc&type=ws#🇦🇪 ОАЭ Zenlayer Inc
