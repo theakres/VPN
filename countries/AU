@@ -4,8 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkNCy0YHRgtGA0LDQu9C40Y8=
-hysteria2://b42d90fa667942aebc734d60@158.178.137.129:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#🇦🇺 Австралия 1 Oracle Corporation
-hysteria2://a34f3990b69f44bfa0d32385@137.23.3.91:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=a34f3990b69f44bfa0d32385#🇦🇺 Австралия 2 Oracle Corporation
-vless://caf3d607-95c9-4ea0-98b5-864027056ba0@88.216.211.130:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&security=reality&sid=1c5869a95671bcb0&sni=au1.accessboy.com&type=tcp#🇦🇺 Австралия 3 BrainStorm Network, Inc
-vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?encryption=none&fp=firefox&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E&security=reality&sid=4cc9dc65f7770115&sni=www.cloudflare.com&type=tcp#🇦🇺 Австралия 4 Contabo Asia Private Limited
-vless://36e89875-9c53-482b-bc41-d3890e9da176@51.161.204.244:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gCAazs5uxNuMZIxfDdw8wPE0nwKY4QfBfBkQveKAkEk&security=reality&sid=0ad08b47f498efd2&sni=www.cloudflare.com&type=tcp#🇦🇺 Австралия 5 OVH SAS
+vless://caf3d607-95c9-4ea0-98b5-864027056ba0@88.216.211.130:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&security=reality&sid=1c5869a95671bcb0&sni=au1.accessboy.com&type=tcp#🇦🇺 Австралия 1 BrainStorm Network, Inc
+vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?encryption=none&fp=firefox&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E&security=reality&sid=4cc9dc65f7770115&sni=www.cloudflare.com&type=tcp#🇦🇺 Австралия 2 Contabo Asia Private Limited
+hysteria2://b42d90fa667942aebc734d60@158.178.137.129:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#🇦🇺 Австралия 3 Oracle Corporation
+vless://36e89875-9c53-482b-bc41-d3890e9da176@51.161.204.244:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gCAazs5uxNuMZIxfDdw8wPE0nwKY4QfBfBkQveKAkEk&security=reality&sid=0ad08b47f498efd2&sni=www.cloudflare.com&type=tcp#🇦🇺 Австралия 4 OVH SAS
