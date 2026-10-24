@@ -4,8 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
-vless://52b65306-7529-486c-ae0c-883340ac5300@212.87.190.5:443?encryption=none&fp=firefox&host=ee.ghostnode.lol&path=/hpwpuswlznhk/&security=tls&sni=ee.ghostnode.lol&type=xhttp#🇪🇪 Эстония 1 Paul Sagov
-vless://73274f8c-ac7b-4d71-b67a-1ea200c9ed82@212.87.190.147:443?encryption=none&fp=firefox&host=esti.kramiliantha.sbs&path=/api/v1/sync/&pbk=NrHeHBE4mzlczsTWFOpO_2Pi4Iw3ySuxu_Pr9TsPPUU&security=reality&sid=8fc2eb4017c18576&sni=esti.kramiliantha.sbs&type=xhttp#🇪🇪 Эстония 2 Paul Sagov
+vless://73274f8c-ac7b-4d71-b67a-1ea200c9ed82@212.87.190.147:443?encryption=none&fp=firefox&host=esti.kramiliantha.sbs&path=/api/v1/sync/&pbk=NrHeHBE4mzlczsTWFOpO_2Pi4Iw3ySuxu_Pr9TsPPUU&security=reality&sid=8fc2eb4017c18576&sni=esti.kramiliantha.sbs&type=xhttp#🇪🇪 Эстония 1 Paul Sagov
+vless://52b65306-7529-486c-ae0c-883340ac5300@212.87.190.5:443?encryption=none&fp=firefox&host=ee.ghostnode.lol&path=/hpwpuswlznhk/&security=tls&sni=ee.ghostnode.lol&type=xhttp#🇪🇪 Эстония 2 Paul Sagov
 vless://73274f8c-ac7b-4d71-b67a-1ea200c9ed82@212.87.190.147:443?encryption=none&extra={"xmux":{"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConnections":3}}&fp=firefox&host=esti.kramiliantha.sbs&path=/api/v1/sync/&pbk=NrHeHBE4mzlczsTWFOpO_2Pi4Iw3ySuxu_Pr9TsPPUU&security=reality&sid=8fc2eb4017c18576&sni=esti.kramiliantha.sbs&type=xhttp#🇪🇪 Эстония 3 Paul Sagov
 vless://f36c82e2-e33e-4054-960a-34619d9fdd5b@13.143.239.119:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kYbLeoF13TKNPtlYwRsAqFQR3l7v6NMe6ydARMIfEC0&security=reality&sid=7230e3b3f137543c&sni=www.transip.nl&type=tcp#🇪🇪 Эстония 4 Paul Sagov
 vless://b73f766e-d807-4cf0-9a26-94ca1b2e9c6a@193.233.91.94:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&security=reality&sni=wbqit8zvij.assetgrid.sbs&type=tcp#🇪🇪 Эстония 5 TAKEHOST OU
