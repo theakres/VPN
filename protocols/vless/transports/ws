@@ -4,10 +4,10 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
-vless://71ee5343-b431-44be-bed7-22b9b9f7253c@151.101.193.242:443?encryption=none&fp=firefox&host=minimize-evenness.cdn-content.com&path=/ws&security=tls&sni=minimize-evenness.cdn-content.com&type=ws#🇺🇸 США 1 Unredacted Inc
+vless://71ee5343-b431-44be-bed7-22b9b9f7253c@151.101.65.242:443?encryption=none&fp=firefox&host=minimize-evenness.cdn-content.com&path=/ws&security=tls&sni=minimize-evenness.cdn-content.com&type=ws#🇺🇸 США 1 Unredacted Inc
 vless://71ee5343-b431-44be-bed7-22b9b9f7253c@151.101.1.242:443?encryption=none&fp=firefox&host=minimize-evenness.cdn-content.com&path=/ws&security=tls&sni=minimize-evenness.cdn-content.com&type=ws#🇺🇸 США 2 Unredacted Inc
-vless://71ee5343-b431-44be-bed7-22b9b9f7253c@151.101.129.242:443?encryption=none&fp=firefox&host=minimize-evenness.cdn-content.com&path=/ws&security=tls&sni=minimize-evenness.cdn-content.com&type=ws#🇺🇸 США 3 Unredacted Inc
-vless://71ee5343-b431-44be-bed7-22b9b9f7253c@151.101.65.242:443?encryption=none&fp=firefox&host=minimize-evenness.cdn-content.com&path=/ws&security=tls&sni=minimize-evenness.cdn-content.com&type=ws#🇺🇸 США 4 Unredacted Inc
+vless://71ee5343-b431-44be-bed7-22b9b9f7253c@151.101.193.242:443?encryption=none&fp=firefox&host=minimize-evenness.cdn-content.com&path=/ws&security=tls&sni=minimize-evenness.cdn-content.com&type=ws#🇺🇸 США 3 Unredacted Inc
+vless://71ee5343-b431-44be-bed7-22b9b9f7253c@151.101.129.242:443?encryption=none&fp=firefox&host=minimize-evenness.cdn-content.com&path=/ws&security=tls&sni=minimize-evenness.cdn-content.com&type=ws#🇺🇸 США 4 Unredacted Inc
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@31.57.190.89:443?encryption=none&fp=firefox&host=a.cwvps.eu.org&path=/ws&security=tls&sni=a.cwvps.eu.org&type=ws#🇺🇸 США 5 Oracle Corporation
 vless://36592d47-b9f5-4e8f-949e-45ac05472aab@91.107.188.129:2083?encryption=none&fp=firefox&security=tls&sni=site.check-looks.space&type=ws#🇩🇪 Германия 1 Hetzner Online GmbH
 vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@91.107.247.173:2083?encryption=none&fp=firefox&host=sino.bestsellers1.site&security=tls&sni=sino.bestsellers1.site&type=ws#🇩🇪 Германия 2 Hetzner Online GmbH
@@ -16,15 +16,13 @@ vless://36592d47-b9f5-4e8f-949e-45ac05472aab@91.107.188.129:2083?encryption=none
 vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@65.109.212.121:465?encryption=none&fp=firefox&host=hw3.divarkhaghazi.com.&security=tls&sni=hw3.divarkhaghazi.com.&type=ws#🇫🇮 Финляндия 1 Hetzner Online GmbH
 vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@2.27.13.152:2096?encryption=none&fp=firefox&host=st4834a.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st4834a.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 2 NODE HOST LIMITED
 vless://2c5e1028-528f-4017-8832-addcb6797ddf@88.151.114.24:443?encryption=none&fp=firefox&host=ru.dostupnety.website&path=/ws-hidden&security=tls&sni=ru.dostupnety.website&type=ws#🇫🇮 Финляндия 3 U1 DIGITAL SERVICES LTD
+vless://4f34bc04-479c-49ba-91a8-6bb9ed15031c@177.3.208.65:443?encryption=none&fp=firefox&path=/vless-tr&security=tls&sni=tgmansion.site&type=ws#🇷🇺 Россия 1 NEUROSIGNAL LLC
+vless://4f34bc04-479c-49ba-91a8-6bb9ed15031c@177.3.208.65:443?encryption=none&fp=firefox&host=tgmansion.site&path=/vless-tr&security=tls&sni=tgmansion.site&type=ws#🇷🇺 Россия 2 Shabalov Grigoriy Pavlovich
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?encryption=none&fp=firefox&host=free-server.techsonic.dev&path=/free-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&type=ws#🇸🇬 Сингапур 1 Akamai Technologies, Inc.
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?encryption=none&fp=firefox&path=/free-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&type=ws#🇸🇬 Сингапур 2 Akamai Technologies, Inc.
-vless://4f34bc04-479c-49ba-91a8-6bb9ed15031c@177.3.208.65:443?encryption=none&fp=firefox&path=/vless-tr&security=tls&sni=tgmansion.site&type=ws#🇹🇷 Турция 1 HOSTKEY B.V.
-vless://4f34bc04-479c-49ba-91a8-6bb9ed15031c@177.3.208.65:443?encryption=none&fp=firefox&host=tgmansion.site&path=/vless-tr&security=tls&sni=tgmansion.site&type=ws#🇹🇷 Турция 2 HOSTKEY B.V.
-vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@191.44.114.154:2096?encryption=none&fp=firefox&host=st5ff8a.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st5ff8a.rumedia-cdn.com&type=ws#🇸🇪 Швеция 1 NODE HOST LIMITED
-vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@191.44.114.179:2096?encryption=none&fp=firefox&host=st33614.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st33614.rumedia-cdn.com&type=ws#🇸🇪 Швеция 2 NODE HOST LIMITED
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.170.8.95:443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония 1 Oracle Corporation
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@152.69.200.216:443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония 2 Oracle Corporation
 vless://fda89998-7e9a-4494-857a-cd0d00661b58@51.38.71.147:443?encryption=none&fp=firefox&path=/cdn-cgi/ws&security=tls&sni=uk1.connectsuite.org&type=ws#🇬🇧 Великобритания OVH SAS
 vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?encryption=none&fp=firefox&host=app-6ada5023.deploy.meerasolution.com&path=/ws/16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&sni=app-6ada5023.deploy.meerasolution.com&type=ws#🇮🇳 Индия Bharti Airtel Limited
+vless://28a4a8fc-15ab-418b-9aaf-655a84edf521@92.119.164.196:443?encryption=none&fp=firefox&host=92.119.164.196&path=/realtime/stock/ticker&security=tls&sni=le.zadonat.net&type=ws#🇳🇱 Нидерланды Julian Achter
 vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@150.241.87.200:2096?encryption=none&fp=firefox&host=stb6390.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stb6390.rumedia-cdn.com&type=ws#🇵🇱 Польша NODE HOST LIMITED
 vless://69da3674-4941-468b-96f0-c17cf5b0a047@179.255.176.28:8443?encryption=none&fp=firefox&path=/assets&security=tls&sni=fra.yandex-api.store&type=ws#🇫🇷 Франция HOST TELECOM LTD
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@152.69.200.216:443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония Oracle Corporation

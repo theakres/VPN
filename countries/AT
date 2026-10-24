@@ -4,5 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkNCy0YHRgtGA0LjRjw==
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.104.63.173:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Dj1TD7Sy_TciG915ffXFpMu_pYHnrpGo_ypyyDw44Uc&security=reality&sid=8fbdc8d37cc76852&sni=zsat.eu-cdn294.com&type=tcp#🇦🇹 Австрия 1 Interkvm Host SRL
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@151.242.144.212:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9p1Pr_KAsgtg31YUPPZ_LlsNmNd48FjHdML8x9SDeA8&security=reality&sid=296ba5bd68d56a8d&sni=khv.nullo.pro&type=tcp#🇦🇹 Австрия 2 Matteo Fruhwald trading as PipeHost e.U.
+vless://d40fdcdb-8d6f-406d-a050-12e196fe8804@62.60.238.201:443?encryption=none&fp=firefox&security=tls&serviceName=trgrpc&sni=au1.sream-rutube.shop&type=grpc#🇦🇹 Австрия 1 AEZA GROUP LLC
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.104.63.173:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Dj1TD7Sy_TciG915ffXFpMu_pYHnrpGo_ypyyDw44Uc&security=reality&sid=8fbdc8d37cc76852&sni=zsat.eu-cdn294.com&type=tcp#🇦🇹 Австрия 2 Interkvm Host SRL
+vless://e0216964-ffa1-4d39-82c4-0e40879a470d@151.242.144.212:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9p1Pr_KAsgtg31YUPPZ_LlsNmNd48FjHdML8x9SDeA8&security=reality&sid=296ba5bd68d56a8d&sni=khv.nullo.pro&type=tcp#🇦🇹 Австрия 3 Matteo Fruhwald trading as PipeHost e.U.
