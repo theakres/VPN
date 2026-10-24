@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmtC40YLQsNC5
+vless://4edc0c09-76ba-03e7-8fb4-82cc0f6ef564@2.27.26.163:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jydkvpm6P7x3p5Ueco8tMR9b3XrbwRSyr445QpWrjTo&security=reality&sid=563774&sni=fi.convexia.net&type=tcp#🇨🇳 Китай 1 H2NEXUS CLOUD SERVICES - FZCO
+vless://4edc0c09-76ba-03e7-8fb4-82cc0f6ef564@2.27.26.163:443?encryption=none&fp=firefox&security=tls&serviceName=api/v2/internal/mnpc&sni=gr.convexia.net&type=grpc#🇨🇳 Китай 2 H2NEXUS CLOUD SERVICES - FZCO
