@@ -4,7 +4,5 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQp9C10YXQuNGP
-vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@13.143.183.86:443?encryption=none&fp=firefox&host=pbeq1jxy3pgsm.hat.onl&path=/live/3mesu4-q3s409&security=tls&sni=pbeq1jxy3pgsm.hat.onl&type=xhttp#🇨🇿 Чехия 1 SERV.HOST GROUP LTD
-vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@13.143.183.86:443?encryption=none&fp=firefox&security=tls&serviceName=hls-vod.tyl8fr6dporp.segment-177-v1-a1.ts&sni=qomn0f3sw8f2w.hat.onl&type=grpc#🇨🇿 Чехия 2 SERV.HOST GROUP LTD
-vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&security=reality&sid=e90360ec7cc61b20&sni=udemy.com&type=tcp#🇨🇿 Чехия 3 Datacamp Limited
-vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw&security=reality&sid=23d0950d60bc0d5b&sni=gateway.icloud.com&type=tcp#🇨🇿 Чехия 4 ROUTE 95 LLC
+vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&security=reality&sid=e90360ec7cc61b20&sni=udemy.com&type=tcp#🇨🇿 Чехия 1 Datacamp Limited
+vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw&security=reality&sid=23d0950d60bc0d5b&sni=gateway.icloud.com&type=tcp#🇨🇿 Чехия 2 ROUTE 95 LLC
