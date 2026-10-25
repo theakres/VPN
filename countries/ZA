@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrtCQ0KA=
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@156.38.157.171:8443?encryption=none&fp=firefox&host=vlso5.1d.mom&security=tls&sni=vlso5.1d.mom&type=ws#🇿🇦 ЮАР 1 Cloudflare, Inc.
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@139.84.242.103:443?encryption=none&fp=firefox&host=vlso5.1d.mom&security=tls&sni=vlso5.1d.mom&type=ws#🇿🇦 ЮАР 2 Cloudflare, Inc.
