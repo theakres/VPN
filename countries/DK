@@ -4,8 +4,10 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQlNCw0L3QuNGP
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@212.147.234.124:443?encryption=none&fp=firefox&host=vp5.1145678.xyz&path=/pic/rank&security=tls&sni=vp5.1145678.xyz&type=ws#🇩🇰 Дания 1 Cloudflare, Inc.
-vless://24916ad0-847d-4522-9e17-f4347dee57fd@193.181.212.80:443?encryption=none&fp=firefox&host=kv.074167.xyz&security=tls&sni=kv.074167.xyz&type=ws#🇩🇰 Дания 2 Cloudflare, Inc.
-vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@144.31.242.123:443?encryption=none&fp=firefox&host=ml8uobxi5gv8.hat.onl&path=/hls/4ibs6k8n/seg&security=tls&sni=ml8uobxi5gv8.hat.onl&type=xhttp#🇩🇰 Дания 3 SERV.HOST GROUP LTD
-vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@144.31.242.123:443?encryption=none&fp=firefox&security=tls&serviceName=hls-vod.hpclv90swb.segment-146-v1-a1.ts&sni=bj30722i.hat.onl&type=grpc#🇩🇰 Дания 4 SERV.HOST GROUP LTD
-vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@193.233.253.180:8444?encryption=none&fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sid=457fab2ac885dbe0&sni=github.com&type=grpc#🇩🇰 Дания 5 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://35dc3ea6-2cdf-4f6e-95ea-ce786ac2947a@193.180.211.245:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pbLP4dV9Nx4aHWf35QFadbjOCdP_klwS9fvKSszlr3Q&security=reality&sid=926b123d&sni=api-maps.yandex.ru&type=tcp#🇩🇰 Дания 1 Webdock.io ApS
+vless://2eca7953-0a12-4379-bc28-8f8b02aa4a95@193.181.213.231:41863?encryption=none&fp=firefox&pbk=QzAJlxEbGf1Ia_trncHmVN-fRDxpedCih7ci1qMZ5Ho&security=reality&serviceName=2a71c0f1&sid=caea3bd372e0af07&sni=usher.ttvnw.net&type=grpc#🇩🇰 Дания 2 Webdock.io ApS
+vless://2eca7953-0a12-4379-bc28-8f8b02aa4a95@193.180.211.245:41863?encryption=none&fp=firefox&pbk=bRLXf7zNX-D5z2-V6TP77ZMNfsXxFloO-1uPce3aezQ&security=reality&serviceName=b89f555f&sid=9673709057c436b9&sni=usher.ttvnw.net&type=grpc#🇩🇰 Дания 3 Webdock.io ApS
+vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@144.31.242.123:443?encryption=none&fp=firefox&host=ml8uobxi5gv8.hat.onl&path=/hls/4ibs6k8n/seg&security=tls&sni=ml8uobxi5gv8.hat.onl&type=xhttp#🇩🇰 Дания 4 SERV.HOST GROUP LTD
+vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@144.31.242.123:443?encryption=none&fp=firefox&security=tls&serviceName=hls-vod.hpclv90swb.segment-146-v1-a1.ts&sni=bj30722i.hat.onl&type=grpc#🇩🇰 Дания 5 SERV.HOST GROUP LTD
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@212.147.234.124:443?encryption=none&fp=firefox&host=vp5.1145678.xyz&path=/pic/rank&security=tls&sni=vp5.1145678.xyz&type=ws#🇩🇰 Дания 6 Cloudflare, Inc.
+vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@193.233.253.180:8444?encryption=none&fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sid=457fab2ac885dbe0&sni=github.com&type=grpc#🇩🇰 Дания 7 GLOBAL CONNECTIVITY SOLUTIONS LLP
