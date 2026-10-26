@@ -4,18 +4,17 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkNCy0YHRgtGA0LjRjw==
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@62.83.41.69:8443?encryption=none&fp=firefox&host=au6.pad-sservice.lat&path=/AU6W&security=tls&sni=au6.pad-sservice.lat&type=ws#🇦🇹 Австрия 1 netcup GmbH
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@62.83.19.127:8443?encryption=none&fp=firefox&host=au5.pad-sservice.lat&path=/AU5W&security=tls&sni=au5.pad-sservice.lat&type=ws#🇦🇹 Австрия 1 netcup GmbH
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@62.83.19.186:8443?encryption=none&fp=firefox&host=au7.pad-sservice.lat&path=/AU7W&security=tls&sni=au7.pad-sservice.lat&type=ws#🇦🇹 Австрия 2 netcup GmbH
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@62.83.19.127:8443?encryption=none&fp=firefox&host=au5.pad-sservice.lat&path=/AU5W&security=tls&sni=au5.pad-sservice.lat&type=ws#🇦🇹 Австрия 3 netcup GmbH
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@152.53.1.40:8443?encryption=none&fp=firefox&host=au4.pad-service.com&path=/A14U&security=tls&sni=au4.pad-sservice.lat&type=ws#🇦🇹 Австрия 4 netcup GmbH
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@159.195.253.15:8443?encryption=none&fp=firefox&host=au1.pad-service.com&path=/au1&security=tls&sni=au1.pad-sservice.lat&type=ws#🇦🇹 Австрия 5 netcup GmbH
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@62.83.19.127:8443?encryption=none&fp=firefox&path=/AU5W&security=tls&sni=au5.pad-sservice.lat&type=ws#🇦🇹 Австрия 6 netcup GmbH
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@159.195.253.15:8443?encryption=none&fp=firefox&host=au1.pad-service.com&path=/au1&security=tls&sni=au1.pad-sservice.lat&type=ws#🇦🇹 Австрия 3 netcup GmbH
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@62.83.41.69:8443?encryption=none&fp=firefox&host=au6.pad-sservice.lat&path=/AU6W&security=tls&sni=au6.pad-sservice.lat&type=ws#🇦🇹 Австрия 4 netcup GmbH
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@62.83.19.127:8443?encryption=none&fp=firefox&path=/AU5W&security=tls&sni=au5.pad-sservice.lat&type=ws#🇦🇹 Австрия 5 netcup GmbH
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@152.53.1.40:8443?encryption=none&fp=firefox&host=au4.pad-service.com&path=/A14U&security=tls&sni=au4.pad-sservice.lat&type=ws#🇦🇹 Австрия 6 netcup GmbH
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@62.83.41.69:8443?encryption=none&fp=firefox&path=/AU6W&security=tls&sni=au6.pad-sservice.lat&type=ws#🇦🇹 Австрия 7 netcup GmbH
 vless://e0216964-ffa1-4d39-82c4-0e40879a470d@151.242.144.212:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9p1Pr_KAsgtg31YUPPZ_LlsNmNd48FjHdML8x9SDeA8&security=reality&sid=296ba5bd68d56a8d&sni=khv.nullo.pro&type=tcp#🇦🇹 Австрия 8 Matteo Fruhwald trading as PipeHost e.U.
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.159:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=softice.net&type=tcp#🇦🇹 Австрия 9 Matteo Fruhwald trading as PipeHost e.U.
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.199:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=softice.net&type=tcp#🇦🇹 Австрия 10 Matteo Fruhwald trading as PipeHost e.U.
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.169:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=softice.net&type=tcp#🇦🇹 Австрия 11 Matteo Fruhwald trading as PipeHost e.U.
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.189:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=softice.net&type=tcp#🇦🇹 Австрия 12 Matteo Fruhwald trading as PipeHost e.U.
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.179:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=softice.net&type=tcp#🇦🇹 Австрия 13 Matteo Fruhwald trading as PipeHost e.U.
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.199:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=softice.net&type=tcp#🇦🇹 Австрия 9 Matteo Fruhwald trading as PipeHost e.U.
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.189:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=softice.net&type=tcp#🇦🇹 Австрия 10 Matteo Fruhwald trading as PipeHost e.U.
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.179:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=softice.net&type=tcp#🇦🇹 Австрия 11 Matteo Fruhwald trading as PipeHost e.U.
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.169:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=softice.net&type=tcp#🇦🇹 Австрия 12 Matteo Fruhwald trading as PipeHost e.U.
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.159:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=softice.net&type=tcp#🇦🇹 Австрия 13 Matteo Fruhwald trading as PipeHost e.U.
 vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@146.19.143.218:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg&security=reality&sid=4a7b1c8d&sni=tau1.freerunet.online&type=tcp#🇦🇹 Австрия 14 AEZA GROUP LLC
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@92.112.48.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tm7sjELBJNNXrr-MhZEA5Rpxr9A7Ed2ooGU999DIByw&security=reality&sid=e92c07abee4169a8&sni=at.lamibeauty.site&type=tcp#🇦🇹 Австрия 15 Ronald Agorsah trading as Alpenhost e.U.
