@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQntCQ0K0=
+vless://593440ee-3813-4958-9e59-8f4e2ae87850@91.132.48.136:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_0hmzeEAGEx6boacV3d-FrFGaFBYfdvJno39FxveJwM&security=reality&sid=e7c5f2a9&sni=bunny.net&type=tcp#🇦🇪 ОАЭ BFB ONE FZ-LLC
