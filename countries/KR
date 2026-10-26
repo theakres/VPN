@@ -8,4 +8,5 @@ vless://cdb7d825-9892-4d6f-80b8-7add83159dac@43.108.48.169:40701?encryption=none
 vless://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms&security=reality&sid=3c4041d3&sni=gateway.icloud.com&type=tcp#🇰🇷 Южная Корея 2 Alibaba US Technology Co., Ltd.
 hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150.230.252.217:50160?sni=150-230-252-217.liao.kdns.fr#🇰🇷 Южная Корея 3 Oracle Corporation
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=152-67-200-82.liao.kdns.fr#🇰🇷 Южная Корея 4 Oracle Corporation
-vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?encryption=none&fp=firefox&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo&security=reality&sid=429499c03d4cc8a0&sni=www.cloudflare.com&type=tcp#🇰🇷 Южная Корея 5 HostHatch, LLC
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@43.108.37.107:443?encryption=none&fp=firefox&host=edg-2oo.pages.dev&path=/groups?ed=2560&security=tls&sni=edg-2oo.pages.dev&type=ws#🇰🇷 Южная Корея 5 Cloudflare, Inc.
+vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?encryption=none&fp=firefox&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo&security=reality&sid=429499c03d4cc8a0&sni=www.cloudflare.com&type=tcp#🇰🇷 Южная Корея 6 HostHatch, LLC
