@@ -6,6 +6,6 @@ proxy-groups:
 proxy-providers:
   Akres:
     type: http
-    url: "https://github.com/theakres/VPN/raw/main/countries/MK"
+    url: "https://github.com/theakres/VPN/raw/main/countries/BE"
     path: ./proxy_providers/sub.yml
     interval: 3600
