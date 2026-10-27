@@ -4,24 +4,23 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQn9C+0LvRjNGI0LA=
-vless://3edfab95-a259-45f2-846c-3a1ca12c9b60@150.251.112.44:12443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pmuJt78YwO4hmuVE-d1fxgYRtRho7Cb36CcR9ynt9jQ&security=reality&sid=886cda2e22e571d1&sni=94bffb5c3f23.j.cloudfront.hls.ttvnw.net&type=tcp#🇵🇱 Польша 1 Regxa Company for Information Technology Ltd
-vless://f333ac5d-1e0b-4947-a123-7bb605803ad8@150.251.112.45:2066?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kLCwYNBhCg68BQah9El1lNg6GQ7-7Y7xfTtIs6MiTEg&security=reality&sid=d18f4e&sni=tiktok.com&type=tcp#🇵🇱 Польша 2 Regxa Company for Information Technology Ltd
-vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8&security=reality&sid=150a627d15154cf2&sni=www.cloudflare.com&type=tcp#🇵🇱 Польша 3 Regxa Company for Information Technology Ltd
-vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?encryption=none&fp=firefox&security=tls&type=tcp#🇵🇱 Польша 4 MITELIS SECURITY LIMITED
-vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?encryption=none&fp=firefox&security=tls&sni=2.26.6.1&type=tcp#🇵🇱 Польша 5 MITELIS SECURITY LIMITED
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@45.91.53.228:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&security=reality&sid=c31f187b&sni=stable.nullo.pro&type=tcp#🇵🇱 Польша 6 NetCrafters OU
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@94.228.173.227:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&security=reality&sid=c31f187b&sni=stable.nullo.pro&type=tcp#🇵🇱 Польша 7 NetCrafters OU
+vless://e0216964-ffa1-4d39-82c4-0e40879a470d@45.91.53.228:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&security=reality&sid=c31f187b&sni=stable.nullo.pro&type=tcp#🇵🇱 Польша 1 NetCrafters OU
+vless://e0216964-ffa1-4d39-82c4-0e40879a470d@94.228.173.227:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&security=reality&sid=c31f187b&sni=stable.nullo.pro&type=tcp#🇵🇱 Польша 2 NetCrafters OU
+vless://e0216964-ffa1-4d39-82c4-0e40879a470d@91.196.163.150:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&security=reality&sid=c31f187b&sni=stable.nullo.pro&type=tcp#🇵🇱 Польша 3 NetCrafters OU
+vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?encryption=none&fp=firefox&security=tls&sni=2.26.6.1&type=tcp#🇵🇱 Польша 4 MITELIS SECURITY LIMITED
+vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?encryption=none&fp=firefox&security=tls&type=tcp#🇵🇱 Польша 5 MITELIS SECURITY LIMITED
+vless://f333ac5d-1e0b-4947-a123-7bb605803ad8@150.251.112.45:2066?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kLCwYNBhCg68BQah9El1lNg6GQ7-7Y7xfTtIs6MiTEg&security=reality&sid=d18f4e&sni=tiktok.com&type=tcp#🇵🇱 Польша 6 Regxa Company for Information Technology Ltd
+vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8&security=reality&sid=150a627d15154cf2&sni=www.cloudflare.com&type=tcp#🇵🇱 Польша 7 Regxa Company for Information Technology Ltd
 vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@2.26.224.23:1443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&security=reality&sid=7b6803a79bba5c52&sni=pl.peregrine-sub.net&type=tcp#🇵🇱 Польша 8 VPSPay Networks LTD
 vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@2.26.224.23:8443?encryption=none&fp=firefox&host=pl.peregrine-sub.net&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&security=reality&sid=7b6803a79bba5c52&sni=pl.peregrine-sub.net&type=xhttp#🇵🇱 Польша 9 VPSPay Networks LTD
-hysteria2://8d18449d-e60d-40e1-b100-0468f1c2035b@132.243.252.21:443?sni=media.embrofree.org#🇵🇱 Польша 10 Baxet Group Inc.
+vless://8d18449d-e60d-40e1-b100-0468f1c2035b@77.83.246.158:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Xbd0JeKM6WsUITbELeeCEmQLl-4Sw_A-JQuzDBEco2M&security=reality&sni=cdn.jsdelivr.net&type=tcp#🇵🇱 Польша 10 Cloudflare, Inc.
 hysteria2://XI5CJGoEWqxxkbmwRpLZrDflUgQAfghg@222.167.245.112:443?sni=b-balance.avantage.7.s.cdnnow.xyz#🇵🇱 Польша 11 Datagio Systems Ltd.
 vless://f259a2e5-fd8d-4db9-a3ac-6b26322cffa9@31.59.143.242:34451?encryption=none&fp=firefox&host=pl-cfe6b10b7f.shamanapp.online&path=/ShamanXHTTP2026&security=tls&sni=pl-cfe6b10b7f.shamanapp.online&type=xhttp#🇵🇱 Польша 12 ExpressHost Ltd
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.163:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=poland-new-new.failspace.top&type=tcp#🇵🇱 Польша 13 FDCservers.net
 vless://5a519754-a673-4462-83f6-5eb25d2af141@79.182.39.35:25548?encryption=none&fp=firefox&pbk=lceynvFy326oU4ew9OPR7079m-L5ZcFELgCl0sqxU2M&security=reality&sid=bceb5b2197b76818&sni=www.cloudflare.com&type=tcp#🇵🇱 Польша 14 H1CLOUD LTD
 hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@191.217.251.225:4443?sni=nl1.obxodvpn.us#🇵🇱 Польша 15 Kochedykov Egor Aleksandrovich
-vless://888f2af0-a5d2-4562-9893-c125d2d1f131@193.233.112.125:8321?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bkQ2euy5Ls1EELvms1JGr4Bwey673s5CAvSs6b3XzwA&security=reality&sni=ya.ru&type=tcp#🇵🇱 Польша 16 Korbank S. A.
-vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&security=reality&sid=50&sni=cloudflare.com&type=tcp#🇵🇱 Польша 17 LLC HOSTOFF CSL
-vless://888f2af0-a5d2-4562-9893-c125d2d1f131@78.17.171.207:443?encryption=none&fp=firefox&pbk=8Psrf1KEB56yBqaxcNhwcVWJ0_t6in3UP-QVkmVobVw&security=reality&serviceName=grpc&sni=ya.ru&type=grpc#🇵🇱 Польша 18 Moskalev Georgiy
-vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?encryption=none&fp=firefox&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&security=reality&sid=50ba05992b05c1c3&sni=www.cloudflare.com&type=tcp#🇵🇱 Польша 19 OVH SAS
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@13.143.189.71:4444?sni=pl3.nexfile.net#🇵🇱 Польша 20 SERV.HOST GROUP LTD
-hysteria2://b4c8ee9caa74b7ba0a61@78.17.128.153:35076?sni=scrap.halyvanedorogo.ru#🇵🇱 Польша 21 Snowd Security OU
+vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&security=reality&sid=50&sni=cloudflare.com&type=tcp#🇵🇱 Польша 16 LLC HOSTOFF CSL
+vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?encryption=none&fp=firefox&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&security=reality&sid=50ba05992b05c1c3&sni=www.cloudflare.com&type=tcp#🇵🇱 Польша 17 OVH SAS
+vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&security=reality&sid=fa3ea655619a3e78&sni=www.cloudflare.com&type=tcp#🇵🇱 Польша 18 ROUTE 95 LLC
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@13.143.189.71:4444?sni=pl3.nexfile.net#🇵🇱 Польша 19 SERV.HOST GROUP LTD
+hysteria2://b4c8ee9caa74b7ba0a61@78.17.128.153:35076?sni=scrap.halyvanedorogo.ru#🇵🇱 Польша 20 Snowd Security OU
