@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmNGA0LvQsNC90LTQuNGP
+vless://d0a077eb-2672-49f9-ab7b-85c0210fc1f8@193.151.158.117:22280?encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ask.w-ert.org&type=tcp#🇮🇪 Ирландия Datacamp Limited
