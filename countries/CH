@@ -4,9 +4,10 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXQudGG0LDRgNC40Y8=
-vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&security=reality&sid=16036bbef04d0509&sni=twitch.tv&type=tcp#🇨🇭 Швейцария 1 ROUTE 95 LLC
-vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&security=reality&sid=19253fae84102271&sni=www.cloudflare.com&type=tcp#🇨🇭 Швейцария 2 ROUTE 95 LLC
+vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&security=reality&sid=19253fae84102271&sni=www.cloudflare.com&type=tcp#🇨🇭 Швейцария 1 ROUTE 95 LLC
+vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&security=reality&sid=16036bbef04d0509&sni=twitch.tv&type=tcp#🇨🇭 Швейцария 2 ROUTE 95 LLC
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@176.65.144.42:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&security=reality&sid=a1b2c3d4b5&sni=ch.viralforge.ru&type=tcp#🇨🇭 Швейцария 3 DEDIK SERVICES LIMITED
 vless://4970c1cd-13e1-498a-920a-61d07be2fa65@107.189.7.176:32752?encryption=none&fp=firefox&pbk=pfFcQxKv4EPhCDUoZMCmTjj4FK7HHQg_me-In3bOejA&security=reality&sid=d758a643034ad90e&sni=www.apple.com&type=tcp#🇨🇭 Швейцария 4 FranTech Solutions
-vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?encryption=none&fp=firefox&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&security=reality&sid=ad86e2d52ff40ebd&sni=www.apple.com&type=tcp#🇨🇭 Швейцария 5 GTHost
-vless://1b3b5bc6-cbd4-4bd4-8b98-a4a742d2186b@217.69.167.223:43000?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zOu3OvSP0TQgIrk_2gFh4UKH5KSKHbmgY_w6R94v5Ew&security=reality&sid=815e6c09&type=tcp#🇨🇭 Швейцария 6 Tom Gewiese
+vless://0d607d84-0ae0-4b9c-a4f3-1766ab456e02@171.22.16.213:10443?encryption=none&fp=firefox&pbk=XjxIJLX0cQT8zjhGdzQfAhPuxSwNUm4s_wYUTTl--Ts&security=reality&serviceName=xyz&sid=13abc4d5&sni=deepl.com&type=grpc#🇨🇭 Швейцария 5 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?encryption=none&fp=firefox&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&security=reality&sid=ad86e2d52ff40ebd&sni=www.apple.com&type=tcp#🇨🇭 Швейцария 6 GTHost
+vless://1b3b5bc6-cbd4-4bd4-8b98-a4a742d2186b@217.69.167.223:43000?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zOu3OvSP0TQgIrk_2gFh4UKH5KSKHbmgY_w6R94v5Ew&security=reality&sid=815e6c09&type=tcp#🇨🇭 Швейцария 7 Tom Gewiese
