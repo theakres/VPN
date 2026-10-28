@@ -4,4 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkNCy0YHRgtGA0LjRjw==
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@151.242.144.212:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9p1Pr_KAsgtg31YUPPZ_LlsNmNd48FjHdML8x9SDeA8&security=reality&sid=296ba5bd68d56a8d&sni=khv.nullo.pro&type=tcp#🇦🇹 Австрия Matteo Fruhwald trading as PipeHost e.U.
+vless://5e610f80-fc6a-479d-8621-b672355b96a1@91.199.160.46:443?encryption=none&fp=firefox&host=cf-1rm.pages.dev&security=tls&sni=cf-1rm.pages.dev&type=ws#🇦🇹 Австрия 1 Cloudflare, Inc.
+vless://5e610f80-fc6a-479d-8621-b672355b96a1@185.175.58.196:443?encryption=none&fp=firefox&host=cf-1rm.pages.dev&security=tls&sni=cf-1rm.pages.dev&type=ws#🇦🇹 Австрия 2 Cloudflare, Inc.
+vless://e0216964-ffa1-4d39-82c4-0e40879a470d@151.242.144.212:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9p1Pr_KAsgtg31YUPPZ_LlsNmNd48FjHdML8x9SDeA8&security=reality&sid=296ba5bd68d56a8d&sni=khv.nullo.pro&type=tcp#🇦🇹 Австрия 3 Matteo Fruhwald trading as PipeHost e.U.
