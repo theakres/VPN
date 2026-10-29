@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQktC10L3Qs9GA0LjRjw==
+vless://ed9277bd-bd89-49e0-8294-1bf845363d5d@84.21.191.228:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&security=reality&sni=hucf01d.sonicservice.digital&type=tcp#🇭🇺 Венгрия 1 ATW Internet Kft.
+vless://ed9277bd-bd89-49e0-8294-1bf845363d5d@84.21.191.228:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&security=reality&sni=hu03d.sonicservice.digital&type=tcp#🇭🇺 Венгрия 2 ATW Internet Kft.
