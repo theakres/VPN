@@ -5,4 +5,5 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQotCw0LjQu9Cw0L3QtA==
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:21033?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&security=reality&sid=cbd39bea0805e2&sni=www.kaidee.com&type=tcp#🇹🇭 Таиланд 1 Eons Data Communications Limited
-vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&security=reality&sid=3c032a7e&sni=www.cloudflare.com&type=tcp#🇹🇭 Таиланд 2 Siamdata Communication Co.,ltd.
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@38.60.233.38:22222?encryption=none&fp=firefox&security=tls&sni=th001.zestapp778.com&type=tcp#🇹🇭 Таиланд 2 LIGHT NODE LIMITED
+vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&security=reality&sid=3c032a7e&sni=www.cloudflare.com&type=tcp#🇹🇭 Таиланд 3 Siamdata Communication Co.,ltd.
