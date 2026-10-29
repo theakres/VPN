@@ -4,15 +4,13 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQr9C/0L7QvdC40Y8=
-vless://3f044365-9592-4301-8291-f2d93fcc2570@31.76.91.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&security=reality&sid=afee962d&sni=jp.launch.tel&type=tcp#🇯🇵 Япония 1 Akenai Products LTD
-vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@31.76.91.31:443?encryption=none&fp=firefox&security=tls&serviceName=grpc&sni=b.jp-1.bnc-gt.co.uk&type=grpc#🇯🇵 Япония 2 Akenai Products LTD
-vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#🇯🇵 Япония 3 BrainStorm Network, Inc
-vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:12683?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#🇯🇵 Япония 4 BrainStorm Network, Inc
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.170.8.95:443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония 5 Oracle Corporation
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@152.69.200.216:443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония 6 Oracle Corporation
-vless://81f686e2-0700-4e7d-b3aa-2f7fc544bcc3@103.232.213.114:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Z7B8VKvjAiBH93XEkHFWCVBfK8Mu5HTLtAwfr5LuYlk&security=reality&sid=00b0389a&sni=www.amzn.com&type=tcp#🇯🇵 Япония 7 AKILE LTD
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@45.153.130.176:27916?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ&security=reality&sid=6772eb2b7a&sni=cdn-dynmedia-1.microsoft.com&type=tcp#🇯🇵 Япония 8 BAGE CLOUD LLC
-vless://b4caaf57-ad77-4948-a6f5-51b3513799bf@46.250.250.149:2053?encryption=none&fp=firefox&pbk=hieuCHb3HYdDYHmTDyWw2SGqyfo36AVuA-wSiZMdU1M&security=reality&sid=9922313fffed1c63&sni=www.apple.com&type=tcp#🇯🇵 Япония 9 Contabo Asia Private Limited
-vless://b85b119a-b8c8-43ea-8a35-7f2140366e39@142.91.106.172:443?encryption=none&fp=firefox&host=jp.vpber.info&path=/api_v3/&pbk=opzTAV_yfzjz3zAWZEpFUoz6VPwvVAx78XvLX9V-ohc&security=reality&sid=9be4130078ebed0a&sni=jp.vpber.info&type=xhttp#🇯🇵 Япония 10 Leaseweb Japan K.K.
-hysteria2://STYyftThFn@85.121.123.197:12765?sni=freedom.chenlan.top#🇯🇵 Япония 11 M247 Europe SRL
-hysteria2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online#🇯🇵 Япония 12 The Constant Company, LLC
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.170.8.95:443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония 1 Oracle Corporation
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@152.69.200.216:443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония 2 Oracle Corporation
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@154.31.114.162:8443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония 3 Oracle Corporation
+vless://3f044365-9592-4301-8291-f2d93fcc2570@31.76.91.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&security=reality&sid=afee962d&sni=jp.launch.tel&type=tcp#🇯🇵 Япония 4 Akenai Products LTD
+vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@31.76.91.31:443?encryption=none&fp=firefox&security=tls&serviceName=grpc&sni=b.jp-1.bnc-gt.co.uk&type=grpc#🇯🇵 Япония 5 Akenai Products LTD
+vless://81f686e2-0700-4e7d-b3aa-2f7fc544bcc3@103.232.213.114:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Z7B8VKvjAiBH93XEkHFWCVBfK8Mu5HTLtAwfr5LuYlk&security=reality&sid=00b0389a&sni=www.amzn.com&type=tcp#🇯🇵 Япония 6 AKILE LTD
+vless://b4caaf57-ad77-4948-a6f5-51b3513799bf@46.250.250.149:2053?encryption=none&fp=firefox&pbk=hieuCHb3HYdDYHmTDyWw2SGqyfo36AVuA-wSiZMdU1M&security=reality&sid=9922313fffed1c63&sni=www.apple.com&type=tcp#🇯🇵 Япония 7 Contabo Asia Private Limited
+vless://b85b119a-b8c8-43ea-8a35-7f2140366e39@142.91.106.172:443?encryption=none&fp=firefox&host=jp.vpber.info&path=/api_v3/&pbk=opzTAV_yfzjz3zAWZEpFUoz6VPwvVAx78XvLX9V-ohc&security=reality&sid=9be4130078ebed0a&sni=jp.vpber.info&type=xhttp#🇯🇵 Япония 8 Leaseweb Japan K.K.
+hysteria2://STYyftThFn@85.121.123.197:12765?sni=freedom.chenlan.top#🇯🇵 Япония 9 M247 Europe SRL
+hysteria2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online#🇯🇵 Япония 10 The Constant Company, LLC
