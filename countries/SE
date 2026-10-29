@@ -4,11 +4,10 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
-hysteria2://70_Za5h0JLLSBIzH5E_E-A@2.26.7.24:36912?sni=mmgse.duckdns.org#🇸🇪 Швеция 1 PLAY2GO INTERNATIONAL LIMITED
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@2.26.55.145:1443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&security=reality&sid=7b6803a79bba5c52&sni=se.peregrine-sub.net&type=tcp#🇸🇪 Швеция 2 PLAY2GO INTERNATIONAL LIMITED
-vless://0d628b17-8ac4-49b9-a422-6b99077bfdf6@31.76.3.34:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CetY_ReGID1LBH275yWlxxOctI82PtgxR-fjYSRTKzM&security=reality&sid=8a2b3c4d5e6f7012&sni=tradingview.com&type=tcp#🇸🇪 Швеция 3 SERV.HOST GROUP LTD
-vless://9ea8b000-58ce-4f71-b108-989dd4f248f1@13.143.180.50:443?encryption=none&fp=firefox&path=/ubuntu&pbk=fwQbdsfHEnx2pzokCnyN698SUq5fkQKngnsyPGjmeDg&security=reality&sni=mirror.timeweb.ru&type=xhttp#🇸🇪 Швеция 4 SERV.HOST GROUP LTD
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&security=reality&sni=cloudflare-dns.com&type=tcp#🇸🇪 Швеция 5 Angelnet Limited
-vless://76ef5ab3-7075-4e23-b445-f3b1bd05d431@193.233.252.100:443?encryption=none&fp=firefox&security=tls&serviceName=assets&sni=swe.qik-fin.uk&type=grpc#🇸🇪 Швеция 6 GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://5a519754-a673-4462-83f6-5eb25d2af141@136.148.212.178:25387?encryption=none&fp=firefox&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&security=reality&sid=9608a9c65d315d52&sni=www.cloudflare.com&type=tcp#🇸🇪 Швеция 7 Hostup AB
-vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@31.77.18.220:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&security=reality&sni=google.com&type=tcp#🇸🇪 Швеция 8 PLAY2GO - FZCO
+vless://0d628b17-8ac4-49b9-a422-6b99077bfdf6@31.76.3.34:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CetY_ReGID1LBH275yWlxxOctI82PtgxR-fjYSRTKzM&security=reality&sid=8a2b3c4d5e6f7012&sni=tradingview.com&type=tcp#🇸🇪 Швеция 1 SERV.HOST GROUP LTD
+vless://9ea8b000-58ce-4f71-b108-989dd4f248f1@13.143.180.50:443?encryption=none&fp=firefox&path=/ubuntu&pbk=fwQbdsfHEnx2pzokCnyN698SUq5fkQKngnsyPGjmeDg&security=reality&sni=mirror.timeweb.ru&type=xhttp#🇸🇪 Швеция 2 SERV.HOST GROUP LTD
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&security=reality&sni=cloudflare-dns.com&type=tcp#🇸🇪 Швеция 3 Angelnet Limited
+vless://76ef5ab3-7075-4e23-b445-f3b1bd05d431@193.233.252.100:443?encryption=none&fp=firefox&security=tls&serviceName=assets&sni=swe.qik-fin.uk&type=grpc#🇸🇪 Швеция 4 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://5a519754-a673-4462-83f6-5eb25d2af141@136.148.212.178:25387?encryption=none&fp=firefox&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&security=reality&sid=9608a9c65d315d52&sni=www.cloudflare.com&type=tcp#🇸🇪 Швеция 5 Hostup AB
+vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@31.77.18.220:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&security=reality&sni=google.com&type=tcp#🇸🇪 Швеция 6 PLAY2GO - FZCO
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@2.26.55.145:1443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&security=reality&sid=7b6803a79bba5c52&sni=se.peregrine-sub.net&type=tcp#🇸🇪 Швеция 7 PLAY2GO INTERNATIONAL LIMITED

@@ -4,5 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkNCy0YHRgtGA0LDQu9C40Y8=
-vless://23611b17-4e04-42ba-88e9-ec8a9309089a@191.44.46.37:25570?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&security=reality&sid=43dcff53849b81e6&sni=kookas.fi&type=tcp#🇦🇺 Австралия 1 G-Core Labs S.A.
-vless://a14b736b-a92a-48d6-a596-5d31f7378ded@51.161.204.242:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=a2qGjvUPq6Nz5FTbn_MSHp-055q2h8YXqIL5VIJ5zwE&security=reality&sid=d15c17cef9b2e456&sni=www.cloudflare.com&type=tcp#🇦🇺 Австралия 2 OVH SAS
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.28.169.149:35652?encryption=none&fp=firefox&security=tls&sni=au001.zestapp778.com&type=tcp#🇦🇺 Австралия 1 The Constant Company, LLC
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.28.163.104:35652?encryption=none&fp=firefox&security=tls&sni=au001.zestapp778.com&type=tcp#🇦🇺 Австралия 2 The Constant Company, LLC
+vless://4dd83a42-70e6-4df3-9343-cee2d5696050@191.44.46.37:25570?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&security=reality&sid=43dcff52289b81e6&sni=kookas.fi&type=tcp#🇦🇺 Австралия 3 G-Core Labs S.A.
+vless://a14b736b-a92a-48d6-a596-5d31f7378ded@51.161.204.242:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=a2qGjvUPq6Nz5FTbn_MSHp-055q2h8YXqIL5VIJ5zwE&security=reality&sid=d15c17cef9b2e456&sni=www.cloudflare.com&type=tcp#🇦🇺 Австралия 4 OVH SAS
