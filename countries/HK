@@ -6,7 +6,7 @@
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQk9C+0L3QutC+0L3Qsw==
 vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&security=reality&sid=ca4aedd4&sni=www.amazon.com&type=tcp#🇭🇰 Гонконг 1 UCLOUD INFORMATION TECHNOLOGY HK LIMITED
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰 Гонконг 2 UCLOUD INFORMATION TECHNOLOGY HK LIMITED
-vless://35cbae61-ee10-4cb9-abb8-4950b35e9851@156.226.168.221:35193?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=d_pn_DMaIxhCkNh80h0Mc7nP94hrlN--I8liOIREDxE&security=reality&sid=e8daed2d&sni=www.apple.com&type=tcp#🇭🇰 Гонконг 3 AKILE LTD
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.238.210.5:13779?encryption=none&fp=firefox&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&security=reality&sid=af1bdd293097b664&sni=tesla.com&type=tcp#🇭🇰 Гонконг 4 Alibaba US Technology Co., Ltd.
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@152.175.6.229:31884?encryption=none&fp=firefox&security=tls&sni=hk010.zestapp778.com&type=tcp#🇭🇰 Гонконг 5 ISIF OU
-vless://ee29ce31-ee5e-479b-900c-97c50e0f1218@189.24.79.229:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Di20k-Yrc4tfKGcSYCLp88xDaYMsIrIa_6go-QvAVCw&security=reality&sid=6717a9ae&sni=www.microsoft.com&type=tcp#🇭🇰 Гонконг 6 NetLab Global
+vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.238.210.5:13779?encryption=none&fp=firefox&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&security=reality&sid=af1bdd293097b664&sni=tesla.com&type=tcp#🇭🇰 Гонконг 3 Alibaba US Technology Co., Ltd.
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@152.175.6.229:31884?encryption=none&fp=firefox&security=tls&sni=hk010.zestapp778.com&type=tcp#🇭🇰 Гонконг 4 ISIF OU
+vless://ee29ce31-ee5e-479b-900c-97c50e0f1218@189.24.79.229:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Di20k-Yrc4tfKGcSYCLp88xDaYMsIrIa_6go-QvAVCw&security=reality&sid=6717a9ae&sni=www.microsoft.com&type=tcp#🇭🇰 Гонконг 5 NetLab Global
+vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?encryption=none&fp=firefox&security=tls&type=tcp#🇭🇰 Гонконг 6 PANSTAR CLOUD LIMITED
