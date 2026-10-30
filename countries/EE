@@ -4,8 +4,9 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
-vless://c29fa587-b10d-445d-b7e3-eaa6d1bd1330@132.243.66.98:443?encryption=none&fp=firefox&host=media.aava.lalibobi.online&path=/live/showroom&security=tls&sni=media.aava.lalibobi.online&type=ws#🇪🇪 Эстония 1 Paul Sagov
-vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@132.243.67.71:25895?encryption=none&fp=firefox&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&security=reality&sid=a73f0410d728c823&sni=www.samsung.com&type=tcp#🇪🇪 Эстония 2 Paul Sagov
-hysteria2://2a0fc918-9c61-451b-a9ad-e8f796e70f52@13.143.239.127:443?sni=nl1.obxodvpn.us#🇪🇪 Эстония 3 Paul Sagov
-vless://265db9a9-1a90-4d41-9375-02a9fbc41def@163.245.52.140:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=R5Q-oKGFqq8tZlp5oJ5Qv48qDq2rlkPXUaIqW1hDsH0&security=reality&sid=66826a572267d996&sni=majuas.rivohost.cc&type=tcp#🇪🇪 Эстония 4 Andris Jakovlevs
-vless://b310e287-79fa-45e3-887f-9564c0e390f7@89.125.13.43:443?encryption=none&fp=firefox&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&security=reality&sni=player.vimeo.com&type=xhttp#🇪🇪 Эстония 5 Andris Jakovlevs
+hysteria2://2a0fc918-9c61-451b-a9ad-e8f796e70f52@13.143.239.127:443?sni=nl1.obxodvpn.us#🇪🇪 Эстония 1 Paul Sagov
+vless://c29fa587-b10d-445d-b7e3-eaa6d1bd1330@132.243.66.98:443?encryption=none&fp=firefox&host=media.aava.lalibobi.online&path=/live/showroom&security=tls&sni=media.aava.lalibobi.online&type=ws#🇪🇪 Эстония 2 Paul Sagov
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@132.243.67.76:25895?encryption=none&fp=firefox&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&security=reality&sid=a73f0410d728c823&sni=www.samsung.com&type=tcp#🇪🇪 Эстония 3 Paul Sagov
+vless://b310e287-79fa-45e3-887f-9564c0e390f7@89.125.13.43:443?encryption=none&fp=firefox&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&security=reality&sni=player.vimeo.com&type=xhttp#🇪🇪 Эстония 4 Andris Jakovlevs
+vless://265db9a9-1a90-4d41-9375-02a9fbc41def@163.245.52.140:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=R5Q-oKGFqq8tZlp5oJ5Qv48qDq2rlkPXUaIqW1hDsH0&security=reality&sid=66826a572267d996&sni=majuas.rivohost.cc&type=tcp#🇪🇪 Эстония 5 Andris Jakovlevs
+vless://da8fab8e-4a25-4eb0-b224-88ab96c753ce@179.253.179.109:57043?encryption=none&fp=firefox&security=tls&sni=87.121.86.24&type=tcp#🇪🇪 Эстония 6 OC NETWORKS LIMITED
