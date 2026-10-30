@@ -1,0 +1,9 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQm9GO0LrRgdC10LzQsdGD0YDQsw==
+vless://7b822cbc-2bce-4381-bb1e-cdd058c89294@191.44.47.164:25565?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&security=reality&sid=43dcff52289b81e6&sni=kookas.fi&type=tcp#🇱🇺 Люксембург 1 G-Core Labs S.A.
+vless://6f2ca1b9-b8e6-4a12-bd4c-becfa8739b7a@191.44.47.164:25565?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&security=reality&sid=43dcff52289b81e6&sni=kookas.fi&type=tcp#🇱🇺 Люксембург 2 G-Core Labs S.A.
+vless://ab035da3-2bd9-4479-bbd0-fa5208116c83@191.44.47.164:25565?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&security=reality&sid=43dcff53849b81e6&sni=kookas.fi&type=tcp#🇱🇺 Люксембург 3 G-Core Labs S.A.
