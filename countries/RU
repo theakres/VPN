@@ -4,6 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNC+0YHRgdC40Y8=
-vless://5c2b47d0-38c0-4b01-b8ff-ab1c145292f0@188.130.209.222:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&security=reality&sid=11979c0c9b2da371&sni=thumbs.mycdn-io.ru&type=tcp#🇷🇺 Россия 1 Delta Ltd
-vless://0fc4b69c-398c-489b-a5a6-05487cfd5ca2@62.76.142.70:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Nez2BwVoXyQ5ok5jJA_xdGn_oWRHiD2DipmUhSPCbSU&security=reality&sid=50f02c2ae7fe34fa&sni=ru2.nodes.vpnox.pro&type=tcp#🇷🇺 Россия 2 Gilmutdinov Ildar Aydarovich
-vless://727a9178-d7f0-4142-8205-b0d19959ded0@2.26.89.52:443?encryption=none&fp=firefox&pbk=DCpi9-1rSXxBnEIAQ9U3mTqHivk7vHJRV_T2pWw5vCc&security=reality&sid=681fc2dd643bc2f3&sni=ru-1.ffpn.pro&type=xhttp#🇷🇺 Россия 3 SERV.HOST GROUP LTD
+vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@185.147.27.164:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=user-6a8d949a.noooo.win&type=tcp#🇷🇺 Россия 1 KVIKTEL LLC
+vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=user-6a917f32.noooo.win&type=tcp#🇷🇺 Россия 2 KVIKTEL LLC
+vless://0fc4b69c-398c-489b-a5a6-05487cfd5ca2@62.76.142.70:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Nez2BwVoXyQ5ok5jJA_xdGn_oWRHiD2DipmUhSPCbSU&security=reality&sid=50f02c2ae7fe34fa&sni=ru2.nodes.vpnox.pro&type=tcp#🇷🇺 Россия 3 Gilmutdinov Ildar Aydarovich
+vless://054362fb-e485-4a3f-9568-4c5b0f60e074@149.33.15.213:443?encryption=none&fp=firefox&security=tls&sni=swz.proxyplankton.ru&type=tcp#🇷🇺 Россия 4 JSC TIMEWEB
+vless://727a9178-d7f0-4142-8205-b0d19959ded0@2.26.89.52:443?encryption=none&fp=firefox&pbk=DCpi9-1rSXxBnEIAQ9U3mTqHivk7vHJRV_T2pWw5vCc&security=reality&sid=681fc2dd643bc2f3&sni=ru-1.ffpn.pro&type=xhttp#🇷🇺 Россия 5 SERV.HOST GROUP LTD
