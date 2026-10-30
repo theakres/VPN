@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkdGA0LDQt9C40LvQuNGP
+vless://f9dbae3f-973b-4e3d-88f6-c959388ac5a9@45.157.157.33:443?encryption=none&extra={"xmux":{"cMaxReuseTimes":0,"maxConnections":3,"hKeepAlivePeriod":0,"hMaxRequestTimes":"200-400","hMaxReusableSecs":"600-1200"},"headers":{},"noGRPCHeader":false,"xPaddingBytes":"100-1000","scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"scStreamUpServerSecs":"20-80"}&fp=firefox&host=www.braziltoday.net&pbk=ocueiJJAwP8O-7-M3ESMUpKEjNdUNpd2RN32PARRxnY&security=reality&sid=37a11a5dd9556116&sni=www.braziltoday.net&type=xhttp#🇧🇷 Бразилия QNAX LTDA
