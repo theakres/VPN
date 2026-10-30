@@ -6,8 +6,8 @@
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
 vless://c29fa587-b10d-445d-b7e3-eaa6d1bd1330@132.243.66.98:443?encryption=none&fp=firefox&host=media.aava.lalibobi.online&path=/live/showroom&security=tls&sni=media.aava.lalibobi.online&type=ws#🇪🇪 Эстония 1 Paul Sagov
 hysteria2://2a0fc918-9c61-451b-a9ad-e8f796e70f52@13.143.239.127:443?sni=nl1.obxodvpn.us#🇪🇪 Эстония 2 Paul Sagov
-vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@5.1.40.5:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇪🇪 Эстония 3 UXHOST LTD
-vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@5.1.40.6:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇪🇪 Эстония 4 UXHOST LTD
+vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@5.1.40.6:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇪🇪 Эстония 3 UXHOST LTD
+vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@5.1.40.5:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇪🇪 Эстония 4 UXHOST LTD
 vless://265db9a9-1a90-4d41-9375-02a9fbc41def@163.245.52.140:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=R5Q-oKGFqq8tZlp5oJ5Qv48qDq2rlkPXUaIqW1hDsH0&security=reality&sid=66826a572267d996&sni=majuas.rivohost.cc&type=tcp#🇪🇪 Эстония 5 Andris Jakovlevs
 vless://eb8af077-a580-4f67-8042-9572a39e699d@5.253.177.40:443?encryption=none&fp=firefox&pbk=JPFGvwqbUaVMgakxgnG6DSibIlVclpXmj1kC3kJJKVA&security=reality&sid=6116985f1613ff84&sni=md-82.file-rkat.online&type=tcp#🇪🇪 Эстония 6 RJ Network OU
 vless://c29fa587-b10d-445d-b7e3-eaa6d1bd1330@31.76.55.162:443?encryption=none&fp=firefox&path=/fwlink/&pbk=nNoxOT_HzUZkKbHiK34iSfF89wlXAXBdlkquGVqGUDk&security=reality&sid=f4e0550a&sni=est1.dnsfire.fun&type=xhttp#🇪🇪 Эстония 7 SERV.HOST GROUP LTD
