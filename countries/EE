@@ -6,7 +6,7 @@
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
 vless://7a0348d6-55d3-4c23-b22f-6277fcb2264c@185.225.205.53:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2XyUS3_ONl5REQ7NiwikdJphAe7oJ61-21zuqnN67y8&security=reality&sid=2e82d7ac&sni=addons.mozilla.org&type=tcp#🇪🇪 Эстония 1 Brainoza OU
 vless://7a0348d6-55d3-4c23-b22f-6277fcb2264c@31.77.68.36:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Daj7jHuHFEC_LV-Fv1fBSaTSQRM9vfgf_DtjMn9svl0&security=reality&sid=64e4efa1&sni=addons.mozilla.org&type=tcp#🇪🇪 Эстония 2 Brainoza OU
-vless://c29fa587-b10d-445d-b7e3-eaa6d1bd1330@132.243.66.98:443?encryption=none&fp=firefox&host=media.aava.lalibobi.online&path=/live/showroom&security=tls&sni=media.aava.lalibobi.online&type=ws#🇪🇪 Эстония 3 Paul Sagov
-hysteria2://2a0fc918-9c61-451b-a9ad-e8f796e70f52@13.143.239.127:443?sni=nl1.obxodvpn.us#🇪🇪 Эстония 4 Paul Sagov
-vless://c29fa587-b10d-445d-b7e3-eaa6d1bd1330@31.76.55.162:443?encryption=none&fp=firefox&path=/fwlink/&pbk=nNoxOT_HzUZkKbHiK34iSfF89wlXAXBdlkquGVqGUDk&security=reality&sid=f4e0550a&sni=est1.dnsfire.fun&type=xhttp#🇪🇪 Эстония 5 SERV.HOST GROUP LTD
-vless://454cd459-e6b3-4695-a67a-5e48c4a5b54c@150.241.74.29:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v--0dXOWcnzpJvl_6qkbWTCRLg-eWdJ6WxJsYtj9WQY&security=reality&sid=f7fdf037537b8c38&sni=cdn.izzzyvpn.space&type=tcp#🇪🇪 Эстония 6 SERV.HOST GROUP LTD
+vless://da8fab8e-4a25-4eb0-b224-88ab96c753ce@179.253.179.109:57443?encryption=none&fp=firefox&security=tls&sni=87.121.86.24&type=tcp#🇪🇪 Эстония 3 OC NETWORKS LIMITED
+vless://da8fab8e-4a25-4eb0-b224-88ab96c753ce@179.253.179.109:57043?encryption=none&fp=firefox&security=tls&sni=87.121.86.24&type=tcp#🇪🇪 Эстония 4 OC NETWORKS LIMITED
+hysteria2://2a0fc918-9c61-451b-a9ad-e8f796e70f52@13.143.239.127:443?sni=nl1.obxodvpn.us#🇪🇪 Эстония 5 Paul Sagov
+vless://c29fa587-b10d-445d-b7e3-eaa6d1bd1330@132.243.66.98:443?encryption=none&fp=firefox&host=media.aava.lalibobi.online&path=/live/showroom&security=tls&sni=media.aava.lalibobi.online&type=ws#🇪🇪 Эстония 6 Paul Sagov
