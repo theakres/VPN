@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQktC10L3Qs9GA0LjRjw==
+vless://e71f3fe4-ccfb-464a-895d-41831efe13a9@31.59.195.2:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=VMcVMSPlAAF-OTArEJzhQXxrhgMjZ6ID9VscB0O7mEs&security=reality&sid=293be8ef78830c16&sni=hu-1-r.124515.xyz&type=tcp#🇭🇺 Венгрия Ivans Lavrentjevs
