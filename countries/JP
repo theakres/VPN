@@ -4,14 +4,61 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQr9C/0L7QvdC40Y8=
-vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@156.246.88.125:26518?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk&security=reality&sid=6caead99&sni=github.com&type=tcp#🇯🇵 Япония 1 AKILE LTD
-vless://81f686e2-0700-4e7d-b3aa-2f7fc544bcc3@103.232.213.114:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Z7B8VKvjAiBH93XEkHFWCVBfK8Mu5HTLtAwfr5LuYlk&security=reality&sid=00b0389a&sni=www.amzn.com&type=tcp#🇯🇵 Япония 2 AKILE LTD
-vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:12683?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#🇯🇵 Япония 3 BrainStorm Network, Inc
-vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#🇯🇵 Япония 4 BrainStorm Network, Inc
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.170.8.95:443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония 5 Oracle Corporation
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@154.31.114.162:8443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония 6 Oracle Corporation
-vless://a6be8b6d-3033-4a99-b9bd-75e2ab12cfd0@31.76.91.238:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OnFi4-dm6Pf7o5CboFwfhbIA539vVtsd7ZYlPnWJVxo&security=reality&sid=f336420d3cd15950&sni=japan.selfsteal.com&type=tcp#🇯🇵 Япония 7 Akenai Products LTD
-vless://b4caaf57-ad77-4948-a6f5-51b3513799bf@46.250.250.149:2053?encryption=none&fp=firefox&pbk=hieuCHb3HYdDYHmTDyWw2SGqyfo36AVuA-wSiZMdU1M&security=reality&sid=9922313fffed1c63&sni=www.apple.com&type=tcp#🇯🇵 Япония 8 Contabo Asia Private Limited
-hysteria2://STYyftThFn@85.121.123.197:12765?sni=freedom.chenlan.top#🇯🇵 Япония 9 M247 Europe SRL
-vless://ef857676-6b00-4c1b-8d98-712dd355230a@43.163.208.228:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dr63-MwSmvcVljij8PHNZasukHgBv0mHk-QKa7i4yyo&security=reality&sid=bff486649d0ae69e&sni=www.apple.com&type=tcp#🇯🇵 Япония 10 Shenzhen Tencent Computer Systems Company Limited
-hysteria2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online#🇯🇵 Япония 11 The Constant Company, LLC
+vless://7b102311-43fd-4e8f-877e-8090623c101d@8.219.155.125:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 1 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@161.33.135.154:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 2 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@137.220.202.58:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 3 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@141.147.185.63:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 4 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@172.237.27.202:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 5 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@160.16.109.149:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 6 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@149.28.21.106:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 7 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@168.138.212.80:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 8 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@138.2.31.37:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 9 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@176.97.73.228:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 10 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@132.243.30.210:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 11 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@147.79.59.19:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 12 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@137.220.202.56:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 13 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@185.141.219.203:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 14 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@8.219.195.31:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 15 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@43.130.241.204:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 16 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@155.248.181.189:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 17 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@138.2.52.152:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 18 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@160.16.209.61:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 19 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@64.83.40.57:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 20 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@8.222.185.236:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 21 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@160.251.167.81:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 22 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@107.148.118.151:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 23 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@43.170.8.95:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 24 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@8.222.193.153:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 25 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@45.66.216.47:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 26 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@160.16.103.102:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 27 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@138.2.21.53:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 28 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@64.176.54.102:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 29 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@167.179.75.237:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 30 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@167.179.95.242:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 31 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@141.147.162.33:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 32 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@151.145.78.30:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 33 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@152.70.85.63:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 34 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@172.238.19.67:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 35 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@64.110.104.30:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 36 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@64.176.62.94:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 37 Cloudflare, Inc.
+vless://7b102311-43fd-4e8f-877e-8090623c101d@168.138.46.67:443?encryption=none&fp=firefox&host=vp10.pages.dev&security=tls&sni=vp10.pages.dev&type=ws#🇯🇵 Япония 38 Cloudflare, Inc.
+vless://a32f3ec6-d776-450e-9d97-9e2deb6c8421@142.91.101.39:627?encryption=none&fp=firefox&host=jr61rsc8fog5f.l6yr5b4ialxnf2ll2zcsgmlqf3u.workers.dev&path=/@Marisa_kristi&security=tls&sni=jr61rsc8fog5f.l6yr5b4ialxnf2ll2zcsgmlqf3u.workers.dev&type=ws#🇯🇵 Япония 39 Oracle Corporation
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.170.8.95:443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония 40 Oracle Corporation
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@154.31.114.162:8443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония 41 Oracle Corporation
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@152.69.200.216:443?encryption=none&fp=firefox&host=jp3.yohototo.top&path=/tyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Япония 42 Oracle Corporation
+vless://339cda3d-79a5-4d37-8ad8-eddc130c992a@128.241.25.11:30021?encryption=none&fp=firefox&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&path=/@Marisa_kristi&security=tls&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&type=ws#🇯🇵 Япония 43 Alibaba US Technology Co., Ltd.
+vless://259253f0-1c3e-42e3-a12e-2badd0a1f5bb@142.91.101.39:627?encryption=none&fp=firefox&host=3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev&path=/@Marisa_kristi&security=tls&sni=3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev&type=ws#🇯🇵 Япония 44 Alibaba US Technology Co., Ltd.
+vless://c6395e12-45a4-48db-9169-16264f6da764@142.91.101.39:627?encryption=none&fp=firefox&host=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&path=/@Marisa_kristi&security=tls&sni=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&type=ws#🇯🇵 Япония 45 Alibaba US Technology Co., Ltd.
+vless://07d3f54d-a59f-44e6-9ba7-c0440ffa799c@142.91.101.39:627?encryption=none&fp=firefox&host=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&path=/@Marisa_kristi&security=tls&sni=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&type=ws#🇯🇵 Япония 46 Akamai Technologies, Inc.
+vless://66b076d4-519d-4b05-872e-d0366d15bace@45.77.241.190:8441?encryption=none&fp=firefox&host=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&path=/@Marisa_kristi&security=tls&sni=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&type=ws#🇯🇵 Япония 47 Akamai Technologies, Inc.
+hysteria2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online#🇯🇵 Япония 48 The Constant Company, LLC
+vless://3305c285-8d55-4f52-a3b0-2a582f5ffd59@103.11.78.211:8443?encryption=none&fp=firefox&host=sdwf-amq.pages.dev&path=/?ed=2048&security=tls&sni=sdwf-amq.pages.dev&type=ws#🇯🇵 Япония 49 The Constant Company, LLC
+vless://a6be8b6d-3033-4a99-b9bd-75e2ab12cfd0@31.76.91.238:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OnFi4-dm6Pf7o5CboFwfhbIA539vVtsd7ZYlPnWJVxo&security=reality&sid=f336420d3cd15950&sni=japan.selfsteal.com&type=tcp#🇯🇵 Япония 50 Akenai Products LTD
+vless://81f686e2-0700-4e7d-b3aa-2f7fc544bcc3@103.232.213.114:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Z7B8VKvjAiBH93XEkHFWCVBfK8Mu5HTLtAwfr5LuYlk&security=reality&sid=00b0389a&sni=www.amzn.com&type=tcp#🇯🇵 Япония 51 AKILE LTD
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@45.153.130.176:27916?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ&security=reality&sid=6772eb2b7a&sni=cdn-dynmedia-1.microsoft.com&type=tcp#🇯🇵 Япония 52 BAGE CLOUD LLC
+vless://b4caaf57-ad77-4948-a6f5-51b3513799bf@46.250.250.149:2053?encryption=none&fp=firefox&pbk=hieuCHb3HYdDYHmTDyWw2SGqyfo36AVuA-wSiZMdU1M&security=reality&sid=9922313fffed1c63&sni=www.apple.com&type=tcp#🇯🇵 Япония 53 Contabo Asia Private Limited
+vless://d492bf74-6555-4b57-94f0-52b56adbc760@45.77.241.190:8441?encryption=none&fp=firefox&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&path=/@Marisa_kristi&security=tls&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&type=ws#🇯🇵 Япония 54 GMO Internet, Inc.
+hysteria2://STYyftThFn@85.121.123.197:12765?sni=freedom.chenlan.top#🇯🇵 Япония 55 M247 Europe SRL
+vless://3305c285-8d55-4f52-a3b0-2a582f5ffd59@45.90.56.67:8443?encryption=none&fp=firefox&host=sdwf-amq.pages.dev&path=/?ed=2048&security=tls&sni=sdwf-amq.pages.dev&type=ws#🇯🇵 Япония 56 Nearoute Limited
+vless://8007dda2-aed2-4514-8299-6e3edbdb015b@201.58.150.14:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&security=reality&sid=8718c58d3d51db59&sni=jp1.wolffast.net&type=tcp#🇯🇵 Япония 57 Olegs Cvetkovs
+vless://ef857676-6b00-4c1b-8d98-712dd355230a@43.163.208.228:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dr63-MwSmvcVljij8PHNZasukHgBv0mHk-QKa7i4yyo&security=reality&sid=bff486649d0ae69e&sni=www.apple.com&type=tcp#🇯🇵 Япония 58 Shenzhen Tencent Computer Systems Company Limited

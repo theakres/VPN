@@ -4,7 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
-vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@83.171.241.128:25895?encryption=none&fp=firefox&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&security=reality&sid=a73f0410d728c823&sni=www.samsung.com&type=tcp#🇪🇪 Эстония 1 Paul Sagov
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@132.243.67.132:25895?encryption=none&fp=firefox&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&security=reality&sid=a73f0410d728c823&sni=www.samsung.com&type=tcp#🇪🇪 Эстония 1 Paul Sagov
 hysteria2://2a0fc918-9c61-451b-a9ad-e8f796e70f52@13.143.239.127:443?sni=nl1.obxodvpn.us#🇪🇪 Эстония 2 Paul Sagov
 vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@185.255.115.130:25895?encryption=none&fp=firefox&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&security=reality&sid=a73f0410d728c823&sni=www.samsung.com&type=tcp#🇪🇪 Эстония 3 Paul Sagov
 vless://7a0348d6-55d3-4c23-b22f-6277fcb2264c@31.77.68.36:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Daj7jHuHFEC_LV-Fv1fBSaTSQRM9vfgf_DtjMn9svl0&security=reality&sid=64e4efa1&sni=addons.mozilla.org&type=tcp#🇪🇪 Эстония 4 Brainoza OU
@@ -14,4 +14,3 @@ vless://da8fab8e-4a25-4eb0-b224-88ab96c753ce@179.253.179.109:57043?encryption=no
 vless://b310e287-79fa-45e3-887f-9564c0e390f7@89.125.13.43:443?encryption=none&fp=firefox&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&security=reality&sni=player.vimeo.com&type=xhttp#🇪🇪 Эстония 8 Andris Jakovlevs
 vless://a52fd54b-ba4d-4d11-8e00-301e2646cd66@45.86.60.102:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1H1DiBCBB7fpALV71pH1q66ePybBFlVOcxftdlQimQ8&security=reality&sid=385cb18df0892069&sni=ee1.vpngold.ru&type=tcp#🇪🇪 Эстония 9 Edge Core FZE
 vless://e71f3fe4-ccfb-464a-895d-41831efe13a9@94.183.247.3:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qVSnKdHTBIF_RG9lBpAhISXE3T_h11danCgBitXP6Tc&security=reality&sid=c092a032a8c54f53&sni=ee-1-ll.124515.xyz&type=tcp#🇪🇪 Эстония 10 Ivans Lavrentjevs
-vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@87.232.116.20:443?encryption=none&fp=firefox&security=tls&serviceName=67h2o3erm0t9imsj&sni=fafeqdhlett2p5la6d.cdn.cachefleet.com&type=grpc#🇪🇪 Эстония 11 Raul Ghita trading as Ghita Telekom
