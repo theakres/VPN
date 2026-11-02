@@ -15,4 +15,5 @@ vless://69158986-cfae-4567-8391-0f96d9d985bd@185.186.78.170:2083?encryption=none
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&security=reality&sni=cloudflare-dns.com&type=tcp#🇸🇪 Швеция 9 Angelnet Limited
 vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@194.104.94.141:443?encryption=none&fp=firefox&security=tls&sni=se3.shtil.io&type=tcp#🇸🇪 Швеция 10 Hexabyte AB
 hysteria2://769f34f0-1500-488f-b414-03bc90666502@95.143.196.97:443?sni=se.mimowhat.online#🇸🇪 Швеция 11 Internetport Sweden AB
-hysteria2://a0052f4f-4c63-0002-a16f-ab2d5d718cd3@192.142.23.46:443?sni=diffoscope.com#🇸🇪 Швеция 12 Need, L.L.C.-FZ
+vless://6f34a071-9a87-001e-b01a-4b5a5c95e552@144.31.129.174:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&security=reality&sid=20ed7ee26095771b&sni=s3-fi-1.rucdn777.com&type=tcp#🇸🇪 Швеция 12 M247 Europe SRL
+hysteria2://a0052f4f-4c63-0002-a16f-ab2d5d718cd3@192.142.23.46:443?sni=diffoscope.com#🇸🇪 Швеция 13 Need, L.L.C.-FZ
