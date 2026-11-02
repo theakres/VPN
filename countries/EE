@@ -5,7 +5,8 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
 hysteria2://70043bfa-d6fb-4980-b27e-773e9e8b2004@141.0.187.15:443?sni=crt.onecloudstream.com#🇪🇪 Эстония 1 Alfahost LLC
-vless://3d526c7f-059c-4e2b-b09a-8569b268935b@185.225.205.53:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2XyUS3_ONl5REQ7NiwikdJphAe7oJ61-21zuqnN67y8&security=reality&sid=2e82d7ac&sni=addons.mozilla.org&type=tcp#🇪🇪 Эстония 2 Brainoza OU
-vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@132.243.66.51:25895?encryption=none&fp=firefox&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&security=reality&sid=a73f0410d728c823&sni=www.samsung.com&type=tcp#🇪🇪 Эстония 3 Paul Sagov
-vless://e7ee38d7-f8ad-4d14-a491-2d9e18011845@150.241.74.29:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v--0dXOWcnzpJvl_6qkbWTCRLg-eWdJ6WxJsYtj9WQY&security=reality&sid=f7fdf037537b8c38&sni=cdn.izzzyvpn.space&type=tcp#🇪🇪 Эстония 4 SERV.HOST GROUP LTD
-vless://0806e6e2-e01d-482c-b530-be3b57d486d4@132.243.74.100:2087?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&security=reality&sni=ee.song69.fun&type=tcp#🇪🇪 Эстония 5 STENCLOUD LLC
+vless://6cf6d70c-c444-4f49-894e-9f33429238b6@141.0.187.4:11443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GPz7dacpjZ5iHT5pbZfYap1vpyt85mNKV7BVW3R92hE&security=reality&sid=26ca0f0ba115925d&sni=141.0.187.4&type=tcp#🇪🇪 Эстония 2 Alfahost LLC
+vless://6cf6d70c-c444-4f49-894e-9f33429238b6@141.0.187.6:11443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=945vNebBQgPKkgABK0nHHRh35q3gVrmaUbShAVBRSWg&security=reality&sid=21bb339df984afbd&sni=141.0.187.6&type=tcp#🇪🇪 Эстония 3 Alfahost LLC
+vless://3d526c7f-059c-4e2b-b09a-8569b268935b@185.225.205.53:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2XyUS3_ONl5REQ7NiwikdJphAe7oJ61-21zuqnN67y8&security=reality&sid=2e82d7ac&sni=addons.mozilla.org&type=tcp#🇪🇪 Эстония 4 Brainoza OU
+vless://e7ee38d7-f8ad-4d14-a491-2d9e18011845@150.241.74.29:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v--0dXOWcnzpJvl_6qkbWTCRLg-eWdJ6WxJsYtj9WQY&security=reality&sid=f7fdf037537b8c38&sni=cdn.izzzyvpn.space&type=tcp#🇪🇪 Эстония 5 SERV.HOST GROUP LTD
+vless://0806e6e2-e01d-482c-b530-be3b57d486d4@132.243.74.100:2087?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&security=reality&sni=ee.song69.fun&type=tcp#🇪🇪 Эстония 6 STENCLOUD LLC
