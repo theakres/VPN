@@ -4,9 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQm9Cw0YLQstC40Y8=
-vless://042b12d8-bac4-4b3a-b661-79e333f08e4e@45.43.79.92:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=M4Y9h339sntl5wEpiCa7f4IKhJ_8JLzPnAz2IzKlngM&security=reality&sid=af4ca5d16438c938&sni=vikt659.isgood.host&type=tcp#🇱🇻 Латвия 1 SIA VEESP
-vless://c9c029e2-5d7a-490a-89ad-298e05182dc3@46.8.158.73:34002?encryption=none&fp=firefox&pbk=xUR0joSqOS7tmlQ9INosHOQjnZvYVnPbQoBFyRUoGE8&security=reality&serviceName=cosmos-reserve-225-2&sid=a8df3eb5f92e2302&sni=usher.ttvnw.net&type=grpc#🇱🇻 Латвия 2 SIA VEESP
-vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#🇱🇻 Латвия 3 Baykov Ilya Sergeevich
-vless://cebc5f19-18d9-48e6-9029-fb4b04caf393@45.38.143.210:30584?encryption=none&fp=firefox&pbk=2hV4TY2ygvQ7ISa5o4u_FUKXzlIhLgbsScE8M1h0m3Y&security=reality&sid=67ece882d65d0f1a&sni=m.vk.com&type=tcp#🇱🇻 Латвия 4 CGI GLOBAL LIMITED
-hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443?sni=speedtestmark.com#🇱🇻 Латвия 5 Intars Rupeiks
-vless://c9c029e2-5d7a-490a-89ad-298e05182dc3@46.8.158.52:34003?encryption=none&fp=firefox&pbk=w3UBhkRLirr_sN8HIwilC481SKpXkk6gkYwb9OtiIn8&security=reality&serviceName=cosmos-reserve-230-3&sid=5fb33704560aa56a&sni=usher.ttvnw.net&type=grpc#🇱🇻 Латвия 6 SIA GOOD
+vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#🇱🇻 Латвия 1 Baykov Ilya Sergeevich
+vless://cebc5f19-18d9-48e6-9029-fb4b04caf393@45.38.143.210:30584?encryption=none&fp=firefox&pbk=2hV4TY2ygvQ7ISa5o4u_FUKXzlIhLgbsScE8M1h0m3Y&security=reality&sid=67ece882d65d0f1a&sni=m.vk.com&type=tcp#🇱🇻 Латвия 2 CGI GLOBAL LIMITED
+hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443?sni=speedtestmark.com#🇱🇻 Латвия 3 Intars Rupeiks
+vless://c9c029e2-5d7a-490a-89ad-298e05182dc3@46.8.158.52:34003?encryption=none&fp=firefox&pbk=w3UBhkRLirr_sN8HIwilC481SKpXkk6gkYwb9OtiIn8&security=reality&serviceName=cosmos-reserve-230-3&sid=5fb33704560aa56a&sni=usher.ttvnw.net&type=grpc#🇱🇻 Латвия 4 SIA GOOD
+vless://c9c029e2-5d7a-490a-89ad-298e05182dc3@46.8.158.73:34002?encryption=none&fp=firefox&pbk=xUR0joSqOS7tmlQ9INosHOQjnZvYVnPbQoBFyRUoGE8&security=reality&serviceName=cosmos-reserve-225-2&sid=a8df3eb5f92e2302&sni=usher.ttvnw.net&type=grpc#🇱🇻 Латвия 5 SIA VEESP
