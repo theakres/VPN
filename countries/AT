@@ -1,0 +1,20 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkNCy0YHRgtGA0LjRjw==
+vless://d16f7276-b967-440d-88b7-76945654ed55@5.10.217.152:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&security=reality&sid=3f8ad1&sni=hartfordmedia.online&type=tcp#🇦🇹 Австрия 1 Evolus IT Solutions GmbH
+vless://d16f7276-b967-440d-88b7-76945654ed55@153.52.79.158:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&security=reality&sid=3f8ad1&sni=hartfordmedia.online&type=tcp#🇦🇹 Австрия 2 Evolus IT Solutions GmbH
+vless://d16f7276-b967-440d-88b7-76945654ed55@5.10.217.47:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&security=reality&sid=3f8ad1&sni=hartfordmedia.online&type=tcp#🇦🇹 Австрия 3 Evolus IT Solutions GmbH
+vless://d16f7276-b967-440d-88b7-76945654ed55@5.10.217.117:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&security=reality&sid=3f8ad1&sni=hartfordmedia.online&type=tcp#🇦🇹 Австрия 4 Evolus IT Solutions GmbH
+vless://d16f7276-b967-440d-88b7-76945654ed55@5.10.217.152:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&security=reality&sid=3f8ad1&sni=vandrel.cloud&type=tcp#🇦🇹 Австрия 5 Evolus IT Solutions GmbH
+vless://d16f7276-b967-440d-88b7-76945654ed55@5.10.217.107:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&security=reality&sid=44103f58&sni=vandrel.cloud&type=tcp#🇦🇹 Австрия 6 Evolus IT Solutions GmbH
+vless://d16f7276-b967-440d-88b7-76945654ed55@82.202.190.80:443?encryption=none&fp=firefox&host=doneby.app&path=/app/live/8ae9af9e995571de&security=tls&sni=doneby.app&type=ws#🇦🇹 Австрия 7 Evolus IT Solutions GmbH
+vless://d16f7276-b967-440d-88b7-76945654ed55@5.10.217.152:443?encryption=none&fp=firefox&path=/GunService&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&security=reality&sid=44103f58&sni=aliusfilms.ru&type=xhttp#🇦🇹 Австрия 8 Evolus IT Solutions GmbH
+vless://d16f7276-b967-440d-88b7-76945654ed55@5.10.217.117:443?encryption=none&fp=firefox&path=/GunService&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&security=reality&sid=44103f58&sni=aliusfilms.ru&type=xhttp#🇦🇹 Австрия 9 Evolus IT Solutions GmbH
+vless://d16f7276-b967-440d-88b7-76945654ed55@5.10.217.107:443?encryption=none&fp=firefox&path=/GunService&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&security=reality&sid=44103f58&sni=aliusfilms.ru&type=xhttp#🇦🇹 Австрия 10 Evolus IT Solutions GmbH
+vless://d16f7276-b967-440d-88b7-76945654ed55@153.52.79.158:443?encryption=none&fp=firefox&path=/GunService&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&security=reality&sid=44103f58&sni=aliusfilms.ru&type=xhttp#🇦🇹 Австрия 11 Evolus IT Solutions GmbH
+vless://d16f7276-b967-440d-88b7-76945654ed55@5.10.217.47:443?encryption=none&fp=firefox&path=/GunService&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&security=reality&sid=44103f58&sni=aliusfilms.ru&type=xhttp#🇦🇹 Австрия 12 Evolus IT Solutions GmbH
+vless://d16f7276-b967-440d-88b7-76945654ed55@5.10.217.107:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&security=reality&sid=3f8ad1&sni=hartfordmedia.online&type=tcp#🇦🇹 Австрия 13 Evolus IT Solutions GmbH
+vless://d16f7276-b967-440d-88b7-76945654ed55@193.58.179.199:443?encryption=none&fp=firefox&host=avtovyshka-nn.site&path=/account/refresh/5EzAIdnqp1d3&security=tls&sni=avtovyshka-nn.site&type=ws#🇦🇹 Австрия 14 Evolus IT Solutions GmbH
