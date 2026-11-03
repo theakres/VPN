@@ -4,7 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQm9Cw0YLQstC40Y8=
-vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#🇱🇻 Латвия 1 Baykov Ilya Sergeevich
-vless://cebc5f19-18d9-48e6-9029-fb4b04caf393@45.38.143.210:30584?encryption=none&fp=firefox&pbk=2hV4TY2ygvQ7ISa5o4u_FUKXzlIhLgbsScE8M1h0m3Y&security=reality&sid=67ece882d65d0f1a&sni=m.vk.com&type=tcp#🇱🇻 Латвия 2 CGI GLOBAL LIMITED
-hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443?sni=speedtestmark.com#🇱🇻 Латвия 3 Intars Rupeiks
-vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo&security=reality&sid=5c256336e3b673fa&sni=www.cloudflare.com&type=tcp#🇱🇻 Латвия 4 ROUTE 95 LLC
+vless://cebc5f19-18d9-48e6-9029-fb4b04caf393@45.38.143.210:30584?encryption=none&fp=firefox&pbk=2hV4TY2ygvQ7ISa5o4u_FUKXzlIhLgbsScE8M1h0m3Y&security=reality&sid=67ece882d65d0f1a&sni=m.vk.com&type=tcp#🇱🇻 Латвия 1 CGI GLOBAL LIMITED
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@217.60.60.243:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&security=reality&sni=lv.peregrine-sub.net&type=tcp#🇱🇻 Латвия 2 CGI GLOBAL LIMITED
+vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#🇱🇻 Латвия 3 Baykov Ilya Sergeevich
+hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443?sni=speedtestmark.com#🇱🇻 Латвия 4 Intars Rupeiks
+vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo&security=reality&sid=5c256336e3b673fa&sni=www.cloudflare.com&type=tcp#🇱🇻 Латвия 5 ROUTE 95 LLC
