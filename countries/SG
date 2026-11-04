@@ -4,25 +4,26 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQodC40L3Qs9Cw0L/Rg9GA
-hysteria2://8d0ec7cc-eefa-11ee-9b59-f23c91cfbbc9@172.236.139.236:443?sni=0259fa63-tmm5c0-tvb36r-1qwom.sg7.hyhuawei.com#🇸🇬 Сингапур 1 Akamai Technologies, Inc.
-hysteria2://61c4be90-6235-11ec-a8bf-f23c91cfbbc9@172.236.139.236:443?sni=00048af8-tmeqo0-tr9h64-1f1f1.sg7.hyhuawei.com#🇸🇬 Сингапур 2 Akamai Technologies, Inc.
-hysteria2://3fed19ea-1671-11f0-bd2e-f23c9164ca5d@172.236.139.236:443?sni=02b717f0-tmm5c0-twj07b-fm2v.sg7.hyhuawei.com#🇸🇬 Сингапур 3 Akamai Technologies, Inc.
-hysteria2://5a4c13ae-6673-11ee-a149-f23c9164ca5d@172.236.139.236:443?sni=014dd758-tmm5c0-tpda83-1lkbs.sg7.hyhuawei.com#🇸🇬 Сингапур 4 Akamai Technologies, Inc.
-hysteria2://d6e1207c-f41a-11ef-9495-f23c91cfbbc9@172.236.139.236:443?sni=04f02e2a-tmm5c0-tzzpok-1sllg.sg7.hyhuawei.com#🇸🇬 Сингапур 5 Akamai Technologies, Inc.
-hysteria2://989aa406-ea9b-11ef-97da-f23c91cfbbc9@172.236.139.236:443?sni=01bf04fd-tmm5c0-tnhx9s-1rnrp.sg7.hyhuawei.com#🇸🇬 Сингапур 6 Akamai Technologies, Inc.
-hysteria2://40fb1315-191a-11ed-b0ca-f23c91cfbbc9@172.236.139.236:443?sni=0c8a39e2-tmkao0-tqsp0c-1imi4.sg7.hyhuawei.com#🇸🇬 Сингапур 7 Akamai Technologies, Inc.
-hysteria2://f93486ce-cc84-11ed-9e98-f23c913c8d2b@172.236.139.236:443?sni=03e3b5df-tmkao0-u4zg37-1jcwu.sg7.hyhuawei.com#🇸🇬 Сингапур 8 Akamai Technologies, Inc.
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@212.119.43.76:443?encryption=none&fp=firefox&host=u.srilankangrill.online&security=tls&sni=u.srilankangrill.online&type=ws#🇸🇬 Сингапур 9 Akamai Technologies, Inc.
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.25.202.25:443?encryption=none&fp=firefox&host=u.srilankangrill.online&security=tls&sni=u.srilankangrill.online&type=ws#🇸🇬 Сингапур 10 Akamai Technologies, Inc.
+hysteria2://5a4c13ae-6673-11ee-a149-f23c9164ca5d@172.236.139.236:443?sni=014dd758-tmm5c0-tpda83-1lkbs.sg7.hyhuawei.com#🇸🇬 Сингапур 1 Akamai Technologies, Inc.
+hysteria2://d6e1207c-f41a-11ef-9495-f23c91cfbbc9@172.236.139.236:443?sni=04f02e2a-tmm5c0-tzzpok-1sllg.sg7.hyhuawei.com#🇸🇬 Сингапур 2 Akamai Technologies, Inc.
+hysteria2://8d0ec7cc-eefa-11ee-9b59-f23c91cfbbc9@172.236.139.236:443?sni=0259fa63-tmm5c0-tvb36r-1qwom.sg7.hyhuawei.com#🇸🇬 Сингапур 3 Akamai Technologies, Inc.
+hysteria2://61c4be90-6235-11ec-a8bf-f23c91cfbbc9@172.236.139.236:443?sni=00048af8-tmeqo0-tr9h64-1f1f1.sg7.hyhuawei.com#🇸🇬 Сингапур 4 Akamai Technologies, Inc.
+hysteria2://3fed19ea-1671-11f0-bd2e-f23c9164ca5d@172.236.139.236:443?sni=02b717f0-tmm5c0-twj07b-fm2v.sg7.hyhuawei.com#🇸🇬 Сингапур 5 Akamai Technologies, Inc.
+hysteria2://f93486ce-cc84-11ed-9e98-f23c913c8d2b@172.236.139.236:443?sni=03e3b5df-tmkao0-u4zg37-1jcwu.sg7.hyhuawei.com#🇸🇬 Сингапур 6 Akamai Technologies, Inc.
+hysteria2://989aa406-ea9b-11ef-97da-f23c91cfbbc9@172.236.139.236:443?sni=01bf04fd-tmm5c0-tnhx9s-1rnrp.sg7.hyhuawei.com#🇸🇬 Сингапур 7 Akamai Technologies, Inc.
+hysteria2://40fb1315-191a-11ed-b0ca-f23c91cfbbc9@172.236.139.236:443?sni=0c8a39e2-tmkao0-tqsp0c-1imi4.sg7.hyhuawei.com#🇸🇬 Сингапур 8 Akamai Technologies, Inc.
+vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.232.95.178:443?encryption=none&fp=firefox&host=u.srilankangrill.online&security=tls&sni=u.srilankangrill.online&type=ws#🇸🇬 Сингапур 9 Akamai Technologies, Inc.
+vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@185.174.137.106:443?encryption=none&fp=firefox&host=u.srilankangrill.online&security=tls&sni=u.srilankangrill.online&type=ws#🇸🇬 Сингапур 10 Akamai Technologies, Inc.
 vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.168.132.109:443?encryption=none&fp=firefox&host=u.srilankangrill.online&security=tls&sni=u.srilankangrill.online&type=ws#🇸🇬 Сингапур 11 Akamai Technologies, Inc.
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.173.179.184:443?encryption=none&fp=firefox&host=u.srilankangrill.online&security=tls&sni=u.srilankangrill.online&type=ws#🇸🇬 Сингапур 12 Akamai Technologies, Inc.
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.232.95.178:443?encryption=none&fp=firefox&host=u.srilankangrill.online&security=tls&sni=u.srilankangrill.online&type=ws#🇸🇬 Сингапур 13 Akamai Technologies, Inc.
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.76.155.179:443?encryption=none&fp=firefox&security=tls&sni=sg003.zestapp778.com&type=tcp#🇸🇬 Сингапур 14 The Constant Company, LLC
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.77.243.143:443?encryption=none&fp=firefox&security=tls&sni=sg003.zestapp778.com&type=tcp#🇸🇬 Сингапур 15 The Constant Company, LLC
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.77.40.28:443?encryption=none&fp=firefox&security=tls&sni=sg003.zestapp778.com&type=tcp#🇸🇬 Сингапур 16 The Constant Company, LLC
-vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&security=reality&sid=8debcf36f1cc69ff&sni=video.yandex.ru&type=tcp#🇸🇬 Сингапур 17 Contabo Asia Private Limited
-vless://c5f59ef3-9540-49fa-bd1e-c6c2f79df49a@134.255.211.36:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KcI3PoYu2yF7whv-e0C7JnRyUoUiUDu6tOlUBPYYbCk&security=reality&sid=2e96bf6afa823abb&sni=sg-sin.probe.geomyip.com&type=tcp#🇸🇬 Сингапур 18 M247 Europe SRL
-vless://32cf52f4-b8d2-4ed5-a37c-0d0a8e743309@206.206.76.75:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gSHylaTvEzWj19Bk-zLHXKYUINGWVmo_ybCiD2CRinE&security=reality&sid=a775360a48ef5cfb&sni=www.cloudflare.com&type=tcp#🇸🇬 Сингапур 19 Regxa Company for Information Technology Ltd
-vless://ca678d26-5435-4d13-b378-06c4c3b070ff@5.34.177.164:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cwWhNuekusD1iPZZ--7G891dU9PCacxyCYwsZxOApHA&security=reality&sid=b2efed6d157e7bb0&sni=gateway.icloud.com&type=tcp#🇸🇬 Сингапур 20 ROUTE 95 LLC
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@140.235.11.243:56984?encryption=none&fp=firefox&security=tls&sni=sg1.zestapp778.com&type=tcp#🇸🇬 Сингапур 21 SAKURA LTD.
-vless://f46182d1-e13b-47d3-97e2-fa5426a93e7c@45.132.75.213:2053?encryption=none&fp=firefox&pbk=TpWeZocgNOygOhMo0l7oJawPu7STkn9D-SOa0UppcyY&security=reality&sid=cd7e85995ae2afc9&sni=www.cloudflare.com&type=tcp#🇸🇬 Сингапур 22 SIBERFY PRIVATE LIMITED
+vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.25.202.25:443?encryption=none&fp=firefox&host=u.srilankangrill.online&security=tls&sni=u.srilankangrill.online&type=ws#🇸🇬 Сингапур 12 Akamai Technologies, Inc.
+vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.173.179.184:443?encryption=none&fp=firefox&host=u.srilankangrill.online&security=tls&sni=u.srilankangrill.online&type=ws#🇸🇬 Сингапур 13 Akamai Technologies, Inc.
+vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@212.119.43.76:443?encryption=none&fp=firefox&host=u.srilankangrill.online&security=tls&sni=u.srilankangrill.online&type=ws#🇸🇬 Сингапур 14 Akamai Technologies, Inc.
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.77.40.28:443?encryption=none&fp=firefox&security=tls&sni=sg003.zestapp778.com&type=tcp#🇸🇬 Сингапур 15 The Constant Company, LLC
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.77.243.143:443?encryption=none&fp=firefox&security=tls&sni=sg003.zestapp778.com&type=tcp#🇸🇬 Сингапур 16 The Constant Company, LLC
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.76.155.179:443?encryption=none&fp=firefox&security=tls&sni=sg003.zestapp778.com&type=tcp#🇸🇬 Сингапур 17 The Constant Company, LLC
+vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&security=reality&sid=8debcf36f1cc69ff&sni=video.yandex.ru&type=tcp#🇸🇬 Сингапур 18 Contabo Asia Private Limited
+vless://c5f59ef3-9540-49fa-bd1e-c6c2f79df49a@134.255.211.36:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KcI3PoYu2yF7whv-e0C7JnRyUoUiUDu6tOlUBPYYbCk&security=reality&sid=2e96bf6afa823abb&sni=sg-sin.probe.geomyip.com&type=tcp#🇸🇬 Сингапур 19 M247 Europe SRL
+vless://32cf52f4-b8d2-4ed5-a37c-0d0a8e743309@206.206.76.75:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gSHylaTvEzWj19Bk-zLHXKYUINGWVmo_ybCiD2CRinE&security=reality&sid=a775360a48ef5cfb&sni=www.cloudflare.com&type=tcp#🇸🇬 Сингапур 20 Regxa Company for Information Technology Ltd
+vless://ca678d26-5435-4d13-b378-06c4c3b070ff@5.34.177.164:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cwWhNuekusD1iPZZ--7G891dU9PCacxyCYwsZxOApHA&security=reality&sid=b2efed6d157e7bb0&sni=gateway.icloud.com&type=tcp#🇸🇬 Сингапур 21 ROUTE 95 LLC
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@140.235.11.243:56984?encryption=none&fp=firefox&security=tls&sni=sg1.zestapp778.com&type=tcp#🇸🇬 Сингапур 22 SAKURA LTD.
+vless://f46182d1-e13b-47d3-97e2-fa5426a93e7c@45.132.75.213:2053?encryption=none&fp=firefox&pbk=TpWeZocgNOygOhMo0l7oJawPu7STkn9D-SOa0UppcyY&security=reality&sid=cd7e85995ae2afc9&sni=www.cloudflare.com&type=tcp#🇸🇬 Сингапур 23 SIBERFY PRIVATE LIMITED
