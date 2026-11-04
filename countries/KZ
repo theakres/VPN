@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmtCw0LfQsNGF0YHRgtCw0L0=
+vless://6293d323-fe5e-45d6-ba06-dc30a42d1a18@95.57.50.69:443?encryption=none&fp=firefox&host=kz.stunnel.cyou&path=/smarttunnel-universal-v1&security=tls&sni=kz.stunnel.cyou&type=ws#🇰🇿 Казахстан JSC Kazakhtelecom
