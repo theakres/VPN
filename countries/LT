@@ -4,25 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQm9C40YLQstCw
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.215.96:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=tcp#🇱🇹 Литва 1 UAB Cherry Servers
+vless://1ee5473b-6b8c-4468-b620-1e1b386c638f@5.199.171.126:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=F5fFt0rWebsWQBjRX8sHDkYqoZF2ElQ2uFpB5MpEyXY&security=reality&sid=7b3e8a2f9c1d4e6a&sni=li.zainet.tech&type=tcp#🇱🇹 Литва 1 UAB Cherry Servers
 vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@84.32.215.96:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=tcp#🇱🇹 Литва 2 UAB Cherry Servers
-vless://1ee5473b-6b8c-4468-b620-1e1b386c638f@5.199.171.126:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=F5fFt0rWebsWQBjRX8sHDkYqoZF2ElQ2uFpB5MpEyXY&security=reality&sid=7b3e8a2f9c1d4e6a&sni=li.zainet.tech&type=tcp#🇱🇹 Литва 3 UAB Cherry Servers
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@46.166.170.101:443?encryption=none&fp=firefox&security=tls&serviceName=sync.v1.ApiService&sni=download.mamaamacr.com&type=grpc#🇱🇹 Литва 4 UAB Cherry Servers
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@46.166.170.104:443?encryption=none&fp=firefox&security=tls&serviceName=gw.v2.StreamService&sni=edge1.mamaamacr.com&type=grpc#🇱🇹 Литва 5 UAB Cherry Servers
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@46.166.170.99:443?encryption=none&fp=firefox&security=tls&serviceName=app.v1.StreamService&sni=eu.mamaamacr.com&type=grpc#🇱🇹 Литва 6 UAB Cherry Servers
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@46.166.170.101:443?encryption=none&fp=firefox&security=tls&serviceName=sync.v1.ApiService&sni=gateway.mamaamacr.com&type=grpc#🇱🇹 Литва 7 UAB Cherry Servers
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@46.166.170.99:443?encryption=none&fp=firefox&security=tls&serviceName=app.v1.StreamService&sni=api.mamaamacr.com&type=grpc#🇱🇹 Литва 8 UAB Cherry Servers
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@46.166.170.101:443?encryption=none&fp=firefox&security=tls&serviceName=sync.v1.ApiService&sni=auth.mamaamacr.com&type=grpc#🇱🇹 Литва 9 UAB Cherry Servers
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@46.166.170.103:443?encryption=none&fp=firefox&security=tls&serviceName=media.v1.RelayService&sni=mirror.mamaamacr.com&type=grpc#🇱🇹 Литва 10 UAB Cherry Servers
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@46.166.170.100:443?encryption=none&fp=firefox&security=tls&serviceName=node.v2.ApiService&sni=live.mamaamacr.com&type=grpc#🇱🇹 Литва 11 UAB Cherry Servers
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@46.166.170.104:443?encryption=none&fp=firefox&security=tls&serviceName=gw.v2.StreamService&sni=grid.mamaamacr.com&type=grpc#🇱🇹 Литва 12 UAB Cherry Servers
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@46.166.170.100:443?encryption=none&fp=firefox&security=tls&serviceName=node.v2.ApiService&sni=hub.mamaamacr.com&type=grpc#🇱🇹 Литва 13 UAB Cherry Servers
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@46.166.170.102:443?encryption=none&fp=firefox&security=tls&serviceName=app.v1.SyncService&sni=ingest.mamaamacr.com&type=grpc#🇱🇹 Литва 14 UAB Cherry Servers
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@46.166.170.99:443?encryption=none&fp=firefox&security=tls&serviceName=app.v1.StreamService&sni=cdn2.mamaamacr.com&type=grpc#🇱🇹 Литва 15 UAB Cherry Servers
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@46.166.170.104:443?encryption=none&fp=firefox&security=tls&serviceName=gw.v2.StreamService&sni=content.mamaamacr.com&type=grpc#🇱🇹 Литва 16 UAB Cherry Servers
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@46.166.170.102:443?encryption=none&fp=firefox&security=tls&serviceName=app.v1.SyncService&sni=net.mamaamacr.com&type=grpc#🇱🇹 Литва 17 UAB Cherry Servers
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@46.166.170.100:443?encryption=none&fp=firefox&security=tls&serviceName=node.v2.ApiService&sni=status.mamaamacr.com&type=grpc#🇱🇹 Литва 18 UAB Cherry Servers
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@46.166.170.102:443?encryption=none&fp=firefox&security=tls&serviceName=app.v1.SyncService&sni=tracker.mamaamacr.com&type=grpc#🇱🇹 Литва 19 UAB Cherry Servers
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@46.166.170.103:443?encryption=none&fp=firefox&security=tls&serviceName=media.v1.RelayService&sni=upload.mamaamacr.com&type=grpc#🇱🇹 Литва 20 UAB Cherry Servers
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@46.166.170.103:443?encryption=none&fp=firefox&security=tls&serviceName=media.v1.RelayService&sni=relay.mamaamacr.com&type=grpc#🇱🇹 Литва 21 UAB Cherry Servers
-vless://92b79c22-f68b-4713-8b21-52f264cb92f5@85.209.231.169:2087?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&security=reality&sni=cdndownloadlink.song69.fun&type=tcp#🇱🇹 Литва 22 UAB Baltnetos komunikacijos
+vless://92b79c22-f68b-4713-8b21-52f264cb92f5@85.209.231.169:2087?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&security=reality&sni=cdndownloadlink.song69.fun&type=tcp#🇱🇹 Литва 3 UAB Baltnetos komunikacijos
