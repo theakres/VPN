@@ -4,8 +4,10 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
-vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@31.77.236.114:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=files.porsche.com&type=tcp#🇪🇪 Эстония 1 TAKEHOST OU
-vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@31.77.236.113:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=files.porsche.com&type=tcp#🇪🇪 Эстония 2 TAKEHOST OU
-hysteria2://70043bfa-d6fb-4980-b27e-773e9e8b2004@141.0.187.15:443?sni=crt.onecloudstream.com#🇪🇪 Эстония 3 Alfahost LLC
-vless://0a3bfacf-197e-49d2-9ebd-4182fc477b72@45.86.60.191:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&security=reality&sid=86b80f1e713a33ad&sni=est.pink-service.ru&type=tcp#🇪🇪 Эстония 4 Edge Core FZE
-vless://92b79c22-f68b-4713-8b21-52f264cb92f5@132.243.74.103:2087?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&security=reality&sni=ee.song69.fun&type=tcp#🇪🇪 Эстония 5 STENCLOUD LLC
+vless://0806e6e2-e01d-482c-b530-be3b57d486d4@132.243.74.100:2087?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&security=reality&sni=ee.song69.fun&type=tcp#🇪🇪 Эстония 1 STENCLOUD LLC
+vless://92b79c22-f68b-4713-8b21-52f264cb92f5@132.243.74.103:2087?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&security=reality&sni=ee.song69.fun&type=tcp#🇪🇪 Эстония 2 STENCLOUD LLC
+vless://92b79c22-f68b-4713-8b21-52f264cb92f5@132.243.74.104:2087?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&security=reality&sni=ee.song69.fun&type=tcp#🇪🇪 Эстония 3 STENCLOUD LLC
+vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@31.77.236.114:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=files.porsche.com&type=tcp#🇪🇪 Эстония 4 TAKEHOST OU
+vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@31.77.236.113:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=files.porsche.com&type=tcp#🇪🇪 Эстония 5 TAKEHOST OU
+hysteria2://70043bfa-d6fb-4980-b27e-773e9e8b2004@141.0.187.15:443?sni=crt.onecloudstream.com#🇪🇪 Эстония 6 Alfahost LLC
+vless://3d526c7f-059c-4e2b-b09a-8569b268935b@185.225.205.53:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2XyUS3_ONl5REQ7NiwikdJphAe7oJ61-21zuqnN67y8&security=reality&sid=2e82d7ac&sni=addons.mozilla.org&type=tcp#🇪🇪 Эстония 7 Brainoza OU

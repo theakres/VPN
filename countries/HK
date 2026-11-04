@@ -9,3 +9,4 @@ vless://f3ff9bac-2904-4f38-bae1-54ab1a72891b@210.0.244.157:443?encryption=none&f
 vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&security=reality&sid=ca4aedd4&sni=www.amazon.com&type=tcp#🇭🇰 Гонконг 3 UCLOUD INFORMATION TECHNOLOGY HK LIMITED
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰 Гонконг 4 UCLOUD INFORMATION TECHNOLOGY HK LIMITED
 vless://7852e4df-db54-4f75-a35e-3b8fbe89e56d@209.33.160.122:39098?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DtOZ39u6MyQMG96tl13-M7-HeaqQzW2RLBVPk9py-Vg&security=reality&sni=dash.cloudflare.com&type=tcp#🇭🇰 Гонконг 5 BAGE CLOUD LLC
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@152.175.6.229:31884?encryption=none&fp=firefox&security=tls&sni=hk010.zestapp778.com&type=tcp#🇭🇰 Гонконг 6 ISIF OU
