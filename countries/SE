@@ -4,8 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
-vless://082ff568-e0f1-42af-ad7c-2c46adde1273@185.255.115.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&security=reality&sid=1cc8aab4a9fa9280&sni=9ed8a8t.se4.h1clayd.click&type=tcp#🇸🇪 Швеция 1 Hostup AB
-vless://082ff568-e0f1-42af-ad7c-2c46adde1273@185.255.115.6:443?encryption=none&fp=firefox&path=/444de120fb2d&pbk=LZhuBYUqlo8epvzFF3tOPMZ_vjZPN1sraOYy2CKtcz4&security=reality&sid=356cc54d885a4036&sni=0ef47cx.se4.h1clayd.click&type=xhttp#🇸🇪 Швеция 2 Hostup AB
+vless://082ff568-e0f1-42af-ad7c-2c46adde1273@185.255.115.6:443?encryption=none&fp=firefox&path=/444de120fb2d&pbk=LZhuBYUqlo8epvzFF3tOPMZ_vjZPN1sraOYy2CKtcz4&security=reality&sid=356cc54d885a4036&sni=0ef47cx.se4.h1clayd.click&type=xhttp#🇸🇪 Швеция 1 Hostup AB
+vless://082ff568-e0f1-42af-ad7c-2c46adde1273@185.255.115.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&security=reality&sid=1cc8aab4a9fa9280&sni=9ed8a8t.se4.h1clayd.click&type=tcp#🇸🇪 Швеция 2 Hostup AB
 vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.93.109:4443?encryption=none&fp=firefox&path=/api/v1/sync/&security=tls&sni=swo2.nexfile.net&type=xhttp#🇸🇪 Швеция 3 SERV.HOST GROUP LTD
 vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.93.109:4443?encryption=none&fp=firefox&host=swo2.nexfile.net&path=/api/v1/sync/&security=tls&sni=swo2.nexfile.net&type=xhttp#🇸🇪 Швеция 4 SERV.HOST GROUP LTD
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&security=reality&sni=cloudflare-dns.com&type=tcp#🇸🇪 Швеция 5 Angelnet Limited
