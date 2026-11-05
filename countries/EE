@@ -5,10 +5,10 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
 vless://53de05e9-8de3-48ae-9036-dcb203d4925c@165.231.157.123:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-6aeb73b7.adhil.uk&type=tcp#🇪🇪 Эстония 1 Orion Network Limited
-vless://53de05e9-8de3-48ae-9036-dcb203d4925c@165.231.157.147:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-6aeb73b7.adhil.uk&type=tcp#🇪🇪 Эстония 2 Orion Network Limited
-vless://53de05e9-8de3-48ae-9036-dcb203d4925c@165.231.157.139:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-6aeb73b7.adhil.uk&type=tcp#🇪🇪 Эстония 3 Orion Network Limited
-vless://53de05e9-8de3-48ae-9036-dcb203d4925c@165.231.177.106:443?encryption=none&fp=firefox&security=tls&sni=cab-6aeb73b7.ferrin.uk&type=xhttp#🇪🇪 Эстония 4 Orion Network Limited
-vless://53de05e9-8de3-48ae-9036-dcb203d4925c@165.231.191.154:443?encryption=none&fp=firefox&security=tls&sni=cab-6aeb73b7.ferrin.uk&type=xhttp#🇪🇪 Эстония 5 Orion Network Limited
+vless://53de05e9-8de3-48ae-9036-dcb203d4925c@165.231.157.139:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-6aeb73b7.adhil.uk&type=tcp#🇪🇪 Эстония 2 Orion Network Limited
+vless://53de05e9-8de3-48ae-9036-dcb203d4925c@165.231.157.147:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-6aeb73b7.adhil.uk&type=tcp#🇪🇪 Эстония 3 Orion Network Limited
+vless://53de05e9-8de3-48ae-9036-dcb203d4925c@165.231.191.154:443?encryption=none&fp=firefox&security=tls&sni=cab-6aeb73b7.ferrin.uk&type=xhttp#🇪🇪 Эстония 4 Orion Network Limited
+vless://53de05e9-8de3-48ae-9036-dcb203d4925c@165.231.177.106:443?encryption=none&fp=firefox&security=tls&sni=cab-6aeb73b7.ferrin.uk&type=xhttp#🇪🇪 Эстония 5 Orion Network Limited
 vless://92b79c22-f68b-4713-8b21-52f264cb92f5@132.243.74.105:2087?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&security=reality&sni=ee.song69.fun&type=tcp#🇪🇪 Эстония 6 STENCLOUD LLC
 vless://92b79c22-f68b-4713-8b21-52f264cb92f5@132.243.74.103:2087?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&security=reality&sni=ee.song69.fun&type=tcp#🇪🇪 Эстония 7 STENCLOUD LLC
 vless://92b79c22-f68b-4713-8b21-52f264cb92f5@132.243.74.104:2087?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&security=reality&sni=ee.song69.fun&type=tcp#🇪🇪 Эстония 8 STENCLOUD LLC
