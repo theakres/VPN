@@ -4,11 +4,12 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQktC10LvQuNC60L7QsdGA0LjRgtCw0L3QuNGP
-vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?encryption=none&fp=firefox&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&security=reality&sid=d051f678212f9d54&sni=www.apple.com&type=tcp#🇬🇧 Великобритания 1 OVH SAS
-vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@51.38.71.147:8443?encryption=none&fp=firefox&security=tls&sni=node-uk.connectsuite.org&type=tcp#🇬🇧 Великобритания 2 OVH SAS
+vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@51.38.71.147:8443?encryption=none&fp=firefox&security=tls&sni=node-uk.connectsuite.org&type=tcp#🇬🇧 Великобритания 1 OVH SAS
+vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?encryption=none&fp=firefox&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&security=reality&sid=d051f678212f9d54&sni=www.apple.com&type=tcp#🇬🇧 Великобритания 2 OVH SAS
 vless://fda89998-7e9a-4494-857a-cd0d00661b58@51.38.71.147:443?encryption=none&fp=firefox&path=/cdn-cgi/ws&security=tls&sni=uk1.connectsuite.org&type=ws#🇬🇧 Великобритания 3 OVH SAS
 vless://fda89998-7e9a-4494-857a-cd0d00661b58@51.38.71.147:443?encryption=none&fp=firefox&host=uk1.connectsuite.org&path=/cdn-cgi/ws&security=tls&sni=uk1.connectsuite.org&type=ws#🇬🇧 Великобритания 4 OVH SAS
 vless://04cbe9ea-9791-4195-827f-5d4cabbdba10@95.163.153.141:8443?encryption=none&fp=firefox&pbk=bRtDyXYrSK7YP6zKZGTUIVfNlpilQViJ4ih_43oSWnU&security=reality&sid=c9ea2355ddeab39b&sni=www.cloudflare.com&type=xhttp#🇬🇧 Великобритания 5 AEZA GROUP LLC
-vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&security=reality&sid=8debcf36f1cc69ff&sni=ads.x5.ru&type=tcp#🇬🇧 Великобритания 6 Baykov Ilya Sergeevich
+vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@45.159.144.110:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kqFDKE3z7o9a2KoFM4IEHzoaeU-vYCAU5-jspLY1cH4&security=reality&sid=37f7ef1f627f1c29&sni=at-85-10.cdn-lab.online&type=tcp#🇬🇧 Великобритания 6 AEZA GROUP LLC
 vless://43a26f1a-99b7-4b17-98c7-b836fb466999@178.83.122.128:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=gb-v.global-cdn.org&type=tcp#🇬🇧 Великобритания 7 CloudBlast LLC
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@157.228.64.24:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QFYzek1TNFeZxhHP3gH-42RUYDGw0ZiigeDcUOFL2Vs&security=reality&sid=bd44ae7c721b8252&sni=gb1.japancase.site&type=tcp#🇬🇧 Великобритания 8 Edge Core FZE
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@132.243.207.154:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tVx2o1LD0BI7CCoXfFSv-Rr_etGde9XpQ-iNA9P3338&security=reality&sid=59d2296aa6320c76&sni=get-37.topp-con.xyz&type=tcp#🇬🇧 Великобритания 9 HOSTKEY B.V.
