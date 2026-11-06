@@ -4,12 +4,13 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://ce29a04d-c95a-4451-9518-bae0c074e0d7@31.59.192.136:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=crt.onecloudstream.com&type=ws#🇩🇪 Германия 1 OC NETWORKS LIMITED
-vless://f9688dcf-60d0-4a8d-8f2a-f3bdb401c198@45.88.12.191:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=crt.molniya.sbs&type=ws#🇩🇪 Германия 2 UXHOST LTD
-vless://fbda2834-b1e7-4148-afb9-deda31036a30@15.236.109.186:2053?encryption=none&fp=firefox&security=tls&sni=w.geogame.ir&type=tcp#🇫🇷 Франция 1 Amazon.com, Inc.
-vless://1a77be72-ca85-48d8-b6d5-a33674edda00@212.183.88.53:443?encryption=none&fp=firefox&host=19.baklajann.ru&security=tls&sni=19.baklajann.ru&type=ws#🇫🇷 Франция 2 OVH SAS
+vless://a039c6ac-5e2f-4f7e-a79b-27582a8d61e0@153.52.255.92:443?encryption=none&fp=firefox&host=siderail-production-fbfe.up.railway.app&path=/api/0nauYY&security=tls&sni=siderail-production-fbfe.up.railway.app&type=ws#🇳🇱 Нидерланды 1 Railway
+vless://a039c6ac-5e2f-4f7e-a79b-27582a8d61e0@153.52.255.92:443?encryption=none&fp=firefox&path=/api/3wgnAd&security=tls&sni=siderail-production-fbfe.up.railway.app&type=httpupgrade#🇳🇱 Нидерланды 2 Railway
+vless://f219ffe2-bc36-495f-a83d-8f9ac4af05fd@178.253.45.107:443?encryption=none&fp=firefox&host=edge.cdn-space.org&path=/assets/api/v3/connect/&security=tls&sni=edge.cdn-space.org&type=xhttp#🇳🇱 Нидерланды 3 Hizakura B.V.
+vless://f9688dcf-60d0-4a8d-8f2a-f3bdb401c198@45.88.12.191:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=crt.molniya.sbs&type=ws#🇩🇪 Германия 1 UXHOST LTD
+vless://f9688dcf-60d0-4a8d-8f2a-f3bdb401c198@95.182.120.114:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=crt.molniya.sbs&type=ws#🇩🇪 Германия 2 UXHOST LTD
 vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@82.148.251.245:8444?encryption=none&fp=firefox&host=at-86-10.cdn-lab.online&path=/xh&security=tls&sni=at-86-10.cdn-lab.online&type=xhttp#🇬🇧 Великобритания AEZA GROUP LLC
-vless://ce29a04d-c95a-4451-9518-bae0c074e0d7@31.58.243.105:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=crt.onecloudstream.com&type=ws#🇮🇩 Индонезия OC NETWORKS LIMITED
 vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@83.141.75.193:8444?encryption=none&fp=firefox&host=fi-94-10.cdn-lab.online&path=/xh&security=tls&sni=fi-94-10.cdn-lab.online&type=xhttp#🇮🇪 Ирландия NetCrafters OU
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@108.61.119.63:18580?encryption=none&fp=firefox&security=tls&sni=us007.zestapp778.com&type=tcp#🇺🇸 США The Constant Company, LLC
+vless://1a77be72-ca85-48d8-b6d5-a33674edda00@212.183.88.53:443?encryption=none&fp=firefox&host=19.baklajann.ru&security=tls&sni=19.baklajann.ru&type=ws#🇫🇷 Франция OVH SAS
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@158.247.220.26:37095?encryption=none&fp=firefox&security=tls&sni=kr002.zestapp778.com&type=tcp#🇰🇷 Южная Корея The Constant Company, LLC

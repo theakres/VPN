@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNC+0YHRgdC40Y8=
+vless://c5f59ef3-9540-49fa-bd1e-c6c2f79df49a@92.243.66.79:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=siD4oj2gdtLLEphV6fUXb8ueIc2WHVn7msOUhNGPf2o&security=reality&sid=8d03c10b6a874a9c&sni=ru-mow.probe.geomyip.com&type=tcp#🇷🇺 Россия EDIS GmbH
