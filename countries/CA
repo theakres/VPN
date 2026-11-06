@@ -4,8 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmtCw0L3QsNC00LA=
-vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?encryption=none&fp=firefox&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&security=reality&sid=83f8317a948bb769&sni=www.cloudflare.com&type=tcp#🇨🇦 Канада 1 OVH SAS
-vless://8dddc313-e588-478b-9175-8702da3235bf@213.165.57.171:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oCGz8dRt0p4WY1zbcvfc2uT9orV7UC8DnQVoDVBCC3o&security=reality&sid=56580a8098339f54&sni=can.globalhost.pro&type=tcp#🇨🇦 Канада 2 OVH SAS
+vless://8dddc313-e588-478b-9175-8702da3235bf@213.165.57.171:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oCGz8dRt0p4WY1zbcvfc2uT9orV7UC8DnQVoDVBCC3o&security=reality&sid=56580a8098339f54&sni=can.globalhost.pro&type=tcp#🇨🇦 Канада 1 OVH SAS
+vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?encryption=none&fp=firefox&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&security=reality&sid=83f8317a948bb769&sni=www.cloudflare.com&type=tcp#🇨🇦 Канада 2 OVH SAS
 vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&security=reality&sid=f98843107912e782&sni=www.cloudflare.com&type=tcp#🇨🇦 Канада 3 Regxa Company for Information Technology Ltd
 vless://f333ac5d-1e0b-4947-a123-7bb605803ad8@209.200.246.203:2066?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kLCwYNBhCg68BQah9El1lNg6GQ7-7Y7xfTtIs6MiTEg&security=reality&sid=d18f4e&sni=tiktok.com&type=tcp#🇨🇦 Канада 4 Regxa Company for Information Technology Ltd
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@81.19.140.181:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zN5buqMK95hn0mv3vKlfoOAi99ehuvP73cUuyNbZNWc&security=reality&sid=dbd6b473c7038dd5&sni=ca1.japancase.site&type=tcp#🇨🇦 Канада 5 GLOBAL CONNECTIVITY SOLUTIONS LLP
