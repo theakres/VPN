@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmNGB0L/QsNC90LjRjw==
+vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@122.8.47.4:8443?encryption=none&fp=firefox&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#🇪🇸 Испания Alex Largman

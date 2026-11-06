@@ -4,8 +4,5 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
-vless://255a8044-3337-473e-af26-46a37208adcc@205.237.105.35:443?encryption=none&extra={"headers":{},"mode":"stream-one","noGRPCHeader":true,"noSSEHeader":true,"xPaddingBytes":"100-1500","xmux":{"cMaxReuseTimes":"64-128","hKeepAlivePeriod":25,"hMaxRequestTimes":"128-256","hMaxReusableSecs":"600-900","maxConnections":"2-3"}}&fp=firefox&host=fr.tokiandrift.space&path=/cdn/v3/media/segments&pbk=SLXgW1YQhsCoLjKzDjXwT4QA8T75b63olU9LV7U9uCk&security=reality&sid=bbbef851c00caeb6&sni=fr.tokiandrift.space&type=xhttp#🇫🇷 Франция 1 ESTOXY OU
-vless://255a8044-3337-473e-af26-46a37208adcc@205.237.105.35:443?encryption=none&fp=firefox&host=fr.tokiandrift.space&path=/cdn/v3/media/segments&pbk=SLXgW1YQhsCoLjKzDjXwT4QA8T75b63olU9LV7U9uCk&security=reality&sid=bbbef851c00caeb6&sni=fr.tokiandrift.space&type=xhttp#🇫🇷 Франция 2 ESTOXY OU
-vless://fbda2834-b1e7-4148-afb9-deda31036a30@15.236.109.186:2053?encryption=none&fp=firefox&security=tls&sni=w.geogame.ir&type=tcp#🇫🇷 Франция 3 Amazon.com, Inc.
-vless://ffaa2141-759b-424f-f28c-23dbeae00f10@122.8.47.4:8443?encryption=none&fp=firefox&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&security=reality&serviceName=TunService&sni=www.philips.com&type=grpc#🇫🇷 Франция 4 Fast Servers Pty Ltd
-vless://54c13857-f1e1-4f7b-8e7c-793d87def80e@89.19.222.65:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&security=reality&sid=7c76&sni=s.rbk.ru&type=tcp#🇫🇷 Франция 5 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://fbda2834-b1e7-4148-afb9-deda31036a30@15.236.109.186:2053?encryption=none&fp=firefox&security=tls&sni=w.geogame.ir&type=tcp#🇫🇷 Франция 1 Amazon.com, Inc.
+vless://54c13857-f1e1-4f7b-8e7c-793d87def80e@89.19.222.65:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&security=reality&sid=7c76&sni=s.rbk.ru&type=tcp#🇫🇷 Франция 2 GLOBAL CONNECTIVITY SOLUTIONS LLP
