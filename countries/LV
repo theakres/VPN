@@ -4,12 +4,13 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQm9Cw0YLQstC40Y8=
-vless://caedb3a1-6395-40b9-a9a8-4b9694eb224a@31.76.62.158:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q97mUwRiZeygHgoRa6PJHDamhGS5lrMMB0zh6qFY6gk&security=reality&sni=www.maxima.lv&type=tcp#🇱🇻 Латвия 1 SERV.HOST GROUP LTD
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@31.76.62.148:4444?sni=lv2.nexfile.net#🇱🇻 Латвия 2 SERV.HOST GROUP LTD
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@31.76.62.148:4444?sni=lv2.nexfile.net#🇱🇻 Латвия 1 SERV.HOST GROUP LTD
+vless://caedb3a1-6395-40b9-a9a8-4b9694eb224a@31.76.62.158:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q97mUwRiZeygHgoRa6PJHDamhGS5lrMMB0zh6qFY6gk&security=reality&sni=www.maxima.lv&type=tcp#🇱🇻 Латвия 2 SERV.HOST GROUP LTD
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.27.210.6:4444?sni=lv2.nexfile.net#🇱🇻 Латвия 3 SERV.HOST GROUP LTD
-vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#🇱🇻 Латвия 4 Baykov Ilya Sergeevich
+vless://cebc5f19-18d9-48e6-9029-fb4b04caf393@45.38.143.210:30584?encryption=none&fp=firefox&pbk=2hV4TY2ygvQ7ISa5o4u_FUKXzlIhLgbsScE8M1h0m3Y&security=reality&sid=67ece882d65d0f1a&sni=m.vk.com&type=tcp#🇱🇻 Латвия 4 CGI GLOBAL LIMITED
 vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@217.60.60.243:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&security=reality&sni=lv.peregrine-sub.net&type=tcp#🇱🇻 Латвия 5 CGI GLOBAL LIMITED
-hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443?sni=speedtestmark.com#🇱🇻 Латвия 6 Intars Rupeiks
-vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo&security=reality&sid=5c256336e3b673fa&sni=www.cloudflare.com&type=tcp#🇱🇻 Латвия 7 ROUTE 95 LLC
-vless://042b12d8-bac4-4b3a-b661-79e333f08e4e@45.43.79.92:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=M4Y9h339sntl5wEpiCa7f4IKhJ_8JLzPnAz2IzKlngM&security=reality&sid=af4ca5d16438c938&sni=vikt659.isgood.host&type=tcp#🇱🇻 Латвия 8 SIA VEESP
-vless://255a8044-3337-473e-af26-46a37208adcc@193.68.67.46:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PZwky05a2NPTC1x7YolaKV7IGDuJDJD47fUEk8nVqFw&security=reality&sid=1995a38bfed15b2a&sni=live.flicker.work&type=tcp#🇱🇻 Латвия 9 Versija SIA
+vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#🇱🇻 Латвия 6 Baykov Ilya Sergeevich
+hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443?sni=speedtestmark.com#🇱🇻 Латвия 7 Intars Rupeiks
+vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo&security=reality&sid=5c256336e3b673fa&sni=www.cloudflare.com&type=tcp#🇱🇻 Латвия 8 ROUTE 95 LLC
+vless://042b12d8-bac4-4b3a-b661-79e333f08e4e@45.43.79.92:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=M4Y9h339sntl5wEpiCa7f4IKhJ_8JLzPnAz2IzKlngM&security=reality&sid=af4ca5d16438c938&sni=vikt659.isgood.host&type=tcp#🇱🇻 Латвия 9 SIA VEESP
+vless://255a8044-3337-473e-af26-46a37208adcc@193.68.67.46:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PZwky05a2NPTC1x7YolaKV7IGDuJDJD47fUEk8nVqFw&security=reality&sid=1995a38bfed15b2a&sni=live.flicker.work&type=tcp#🇱🇻 Латвия 10 Versija SIA

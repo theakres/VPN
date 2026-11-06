@@ -4,6 +4,5 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmNGA0LvQsNC90LTQuNGP
-vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@83.141.75.193:8444?encryption=none&fp=firefox&host=fi-94-10.cdn-lab.online&path=/xh&security=tls&sni=fi-94-10.cdn-lab.online&type=xhttp#🇮🇪 Ирландия 1 NetCrafters OU
-vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@83.141.75.193:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=d1aZn0vbZdj0VrkfiXE7D10TRmdf91oa1LwCxQEAcBg&security=reality&sid=a74baa611fbfb118&sni=fi-94-10.cdn-lab.online&type=tcp#🇮🇪 Ирландия 2 NetCrafters OU
-vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@86.54.83.33:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=ie1.fox-lisa.ru&type=tcp#🇮🇪 Ирландия 3 BrainStorm Network, Inc
+vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@86.54.83.33:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=ie1.fox-lisa.ru&type=tcp#🇮🇪 Ирландия 1 BrainStorm Network, Inc
+vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@83.141.75.193:8444?encryption=none&fp=firefox&host=fi-94-10.cdn-lab.online&path=/xh&security=tls&sni=fi-94-10.cdn-lab.online&type=xhttp#🇮🇪 Ирландия 2 NetCrafters OU
