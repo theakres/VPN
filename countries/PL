@@ -4,10 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQn9C+0LvRjNGI0LA=
-vless://55458d10-24ab-4ea6-a522-13741b546f2a@185.255.115.87:443?encryption=none&fp=firefox&pbk=ixnCbdlT5sAVd-ilp2nG11CvnNsBCf9xPD56TlXxlR4&security=reality&sid=a91531ad58c8611c&sni=d58daft.plp1.h1cloud.net&type=tcp#🇵🇱 Польша 1 Paul Sagov
-vless://55458d10-24ab-4ea6-a522-13741b546f2a@185.255.115.87:443?encryption=none&fp=firefox&pbk=cWC6AGVZ9ke_eCTWXEB-eLdf670CuoP9zP-1k8DrPxo&security=reality&serviceName=d5d6142b8b66&sid=8ae9cc8c9447c95a&sni=13e1cfg.plp1.h1cloud.net&type=grpc#🇵🇱 Польша 2 Paul Sagov
-vless://13e6bdfd-d51b-4e57-a40e-b88784cba8bd@185.255.115.87:443?encryption=none&fp=firefox&pbk=ixnCbdlT5sAVd-ilp2nG11CvnNsBCf9xPD56TlXxlR4&security=reality&sid=a91531ad58c8611c&sni=d58daft.plp1.h1cloud.net&type=tcp#🇵🇱 Польша 3 Paul Sagov
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&host=nl2-edge.gacvpn.site&path=/static/js/vendor.8a967130.js?ed=2048&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 4 LLC HOSTOFF CSL
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&host=nl2-edge.gacvpn.site&path=/static/js/vendor.8a967130.js&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 5 LLC HOSTOFF CSL
-vless://92b79c22-f68b-4713-8b21-52f264cb92f5@177.3.252.83:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&security=reality&sid=0c774b50&sni=pl1.song69.fun&type=tcp#🇵🇱 Польша 6 Kochedykov Egor Aleksandrovich
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@13.143.167.154:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&security=reality&sni=pl-balancer.peregrine-sub.net&type=tcp#🇵🇱 Польша 7 VPSPay Networks LTD
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&path=/static/js/vendor.8a967130.js&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 1 LLC HOSTOFF CSL
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&path=/static/js/vendor.8a967130.js?ed=2048&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 2 LLC HOSTOFF CSL
+vless://13e6bdfd-d51b-4e57-a40e-b88784cba8bd@185.255.115.87:443?encryption=none&fp=firefox&pbk=cWC6AGVZ9ke_eCTWXEB-eLdf670CuoP9zP-1k8DrPxo&security=reality&serviceName=d5d6142b8b66&sid=8ae9cc8c9447c95a&sni=13e1cfg.plp1.h1cloud.net&type=grpc#🇵🇱 Польша 3 Paul Sagov
