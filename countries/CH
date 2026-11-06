@@ -4,8 +4,4 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXQudGG0LDRgNC40Y8=
-vless://89564b16-7ced-465d-a8f3-61389547e96e@176.65.144.221:8445?encryption=none&fp=firefox&pbk=KcFNW-Yq9YucHEGiEe2ZEnIbxEuCmyO3S6yTglZR7ws&security=reality&serviceName=grpc-reality&sid=7ea8737c31629437&sni=sw.cloudvienta.com&type=grpc#🇨🇭 Швейцария 1 DEDIK SERVICES LIMITED
-vless://89564b16-7ced-465d-a8f3-61389547e96e@176.65.144.221:443?encryption=none&fp=firefox&path=/vless-xhttp&pbk=KcFNW-Yq9YucHEGiEe2ZEnIbxEuCmyO3S6yTglZR7ws&security=reality&sid=7ea8737c31629437&sni=sw.cloudvienta.com&type=xhttp#🇨🇭 Швейцария 2 DEDIK SERVICES LIMITED
-vless://89564b16-7ced-465d-a8f3-61389547e96e@176.65.144.221:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KcFNW-Yq9YucHEGiEe2ZEnIbxEuCmyO3S6yTglZR7ws&security=reality&sid=7ea8737c31629437&sni=sw.cloudvienta.com&type=tcp#🇨🇭 Швейцария 3 DEDIK SERVICES LIMITED
-vless://3d78373f-bdbd-428a-9b83-aea64264bf4e@185.255.115.183:443?encryption=none&fp=firefox&pbk=JvyJRs2Clylj2tYcxXnMYz89xcW9WlK4ohA6lSrbFnw&security=reality&serviceName=fae222557467&sid=8c2072fc256df42a&sni=c5a508g.ch1.h1clayd.click&type=grpc#🇨🇭 Швейцария 4 Private Layer INC
-vless://02e7f01e-c9cf-4f96-816d-3b7cb97b289b@193.151.108.255:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dyFChktSfbZT29JZ3hetyOa4k53U6g6opd9suKsG4hw&security=reality&sid=740732f996dc1213&sni=schweic.worldfly.io&type=tcp#🇨🇭 Швейцария 5 SERV.HOST GROUP LTD
+vless://89564b16-7ced-465d-a8f3-61389547e96e@176.65.144.221:443?encryption=none&fp=firefox&path=/vless-xhttp&pbk=KcFNW-Yq9YucHEGiEe2ZEnIbxEuCmyO3S6yTglZR7ws&security=reality&sid=7ea8737c31629437&sni=sw.cloudvienta.com&type=xhttp#🇨🇭 Швейцария DEDIK SERVICES LIMITED

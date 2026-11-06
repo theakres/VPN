@@ -4,5 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
-vless://fbda2834-b1e7-4148-afb9-deda31036a30@15.236.109.186:2053?encryption=none&fp=firefox&security=tls&sni=w.geogame.ir&type=tcp#🇫🇷 Франция 1 Amazon.com, Inc.
-vless://54c13857-f1e1-4f7b-8e7c-793d87def80e@89.19.222.65:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&security=reality&sid=7c76&sni=s.rbk.ru&type=tcp#🇫🇷 Франция 2 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://54c13857-f1e1-4f7b-8e7c-793d87def80e@89.19.222.65:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&security=reality&sid=7c76&sni=s.rbk.ru&type=tcp#🇫🇷 Франция 1 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://54c13857-f1e1-4f7b-8e7c-793d87def80e@89.19.222.65:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&security=reality&sni=s.rbk.ru&type=tcp#🇫🇷 Франция 2 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://fbda2834-b1e7-4148-afb9-deda31036a30@15.236.109.186:2053?encryption=none&fp=firefox&security=tls&sni=w.geogame.ir&type=tcp#🇫🇷 Франция 3 Amazon.com, Inc.
+vless://1a77be72-ca85-48d8-b6d5-a33674edda00@212.183.88.53:443?encryption=none&fp=firefox&host=19.baklajann.ru&security=tls&sni=19.baklajann.ru&type=ws#🇫🇷 Франция 4 OVH SAS
