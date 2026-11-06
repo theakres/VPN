@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNC+0YHRgdC40Y8=
+vless://747db87a-0cf6-4ea7-ae6b-3293afe2cef6@45.91.55.140:443?encryption=none&fp=firefox&pbk=0R5QIf2DFXNgISIYDQdoWIdbNoImaJHrwOkc2tzRPyQ&security=reality&serviceName=93013a569b78&sid=cc07501e28b18687&sni=9e72bbg.msk2.h1clayd.click&type=grpc#🇷🇺 Россия 1 Delta Ltd
+vless://1d690248-024b-4923-aab2-0abebe0688d3@185.147.27.92:443?encryption=none&fp=firefox&pbk=dMy6EEwckj-LDysvKx0HflY60Z3YiuGD7D7UeJjItDA&security=reality&sni=fotaku.xyz&type=tcp#🇷🇺 Россия 2 KVIKTEL LLC

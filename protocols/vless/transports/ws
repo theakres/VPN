@@ -4,6 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&path=/static/js/vendor.8a967130.js&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 1 LLC HOSTOFF CSL
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&path=/static/js/vendor.8a967130.js?ed=2048&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 2 LLC HOSTOFF CSL
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&host=nl2-edge.gacvpn.site&path=/static/js/vendor.8a967130.js?ed=2048&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 1 LLC HOSTOFF CSL
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&host=nl2-edge.gacvpn.site&path=/static/js/vendor.8a967130.js&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 2 LLC HOSTOFF CSL
 vless://86c7af80-c9cf-4265-ab77-da12b0bf8bb6@212.183.88.53:443?encryption=none&fp=firefox&host=19.baklajann.ru&security=tls&sni=19.baklajann.ru&type=ws#🇫🇷 Франция OVH SAS
