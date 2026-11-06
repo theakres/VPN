@@ -4,9 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQktC10LvQuNC60L7QsdGA0LjRgtCw0L3QuNGP
-vless://0fdb1df7-b3b6-4d29-9fd6-2b92fc80b852@82.148.225.244:443?encryption=none&fp=firefox&path=/vless-xhttp&pbk=ndIKnA3ySMv5vBJ-OfP8IhFWVu7mtK0nzhgSil1NaVg&security=reality&sid=00f7359d92c884cc&sni=sw2.cloudvienta.com&type=xhttp#🇬🇧 Великобритания 1 NETNORTH-RT
-vless://0fdb1df7-b3b6-4d29-9fd6-2b92fc80b852@82.148.225.244:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ndIKnA3ySMv5vBJ-OfP8IhFWVu7mtK0nzhgSil1NaVg&security=reality&sid=00f7359d92c884cc&sni=sw2.cloudvienta.com&type=tcp#🇬🇧 Великобритания 2 NETNORTH-RT
+vless://0fdb1df7-b3b6-4d29-9fd6-2b92fc80b852@82.148.225.244:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ndIKnA3ySMv5vBJ-OfP8IhFWVu7mtK0nzhgSil1NaVg&security=reality&sid=00f7359d92c884cc&sni=sw2.cloudvienta.com&type=tcp#🇬🇧 Великобритания 1 NETNORTH-RT
+vless://0fdb1df7-b3b6-4d29-9fd6-2b92fc80b852@82.148.225.244:443?encryption=none&fp=firefox&path=/vless-xhttp&pbk=ndIKnA3ySMv5vBJ-OfP8IhFWVu7mtK0nzhgSil1NaVg&security=reality&sid=00f7359d92c884cc&sni=sw2.cloudvienta.com&type=xhttp#🇬🇧 Великобритания 2 NETNORTH-RT
 vless://0fdb1df7-b3b6-4d29-9fd6-2b92fc80b852@82.148.225.244:8445?encryption=none&fp=firefox&pbk=ndIKnA3ySMv5vBJ-OfP8IhFWVu7mtK0nzhgSil1NaVg&security=reality&serviceName=grpc-reality&sid=00f7359d92c884cc&sni=sw2.cloudvienta.com&type=grpc#🇬🇧 Великобритания 3 NETNORTH-RT
 vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@82.148.255.83:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=fr1.fox-lisa.ru&type=tcp#🇬🇧 Великобритания 4 NetCrafters OU
 vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@82.148.252.219:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=at1.fox-lisa.ru&type=tcp#🇬🇧 Великобритания 5 NetCrafters OU
-vless://17efb0fc-2cb7-4cde-9715-9ecd18ad4caa@13.42.204.138:1410?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bNpg56GtTArrVyrnonNlMA-3JyYIAFATdgsH_wn0gmc&security=reality&sid=4ea6a183&sni=www.ing.nl&type=tcp#🇬🇧 Великобритания 6 Amazon.com, Inc.
