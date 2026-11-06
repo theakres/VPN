@@ -4,8 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@91.192.157.154:8444?encryption=none&fp=firefox&host=fi-92-10.cdn-lab.online&path=/xh&security=tls&sni=fi-92-10.cdn-lab.online&type=xhttp#🇬🇧 Великобритания 1 AEZA GROUP LLC
-vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@82.148.253.27:8444?encryption=none&fp=firefox&host=at-87-10.cdn-lab.online&path=/xh&security=tls&sni=at-87-10.cdn-lab.online&type=xhttp#🇬🇧 Великобритания 2 AEZA GROUP LLC
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&host=nl2-edge.gacvpn.site&path=/static/js/vendor.8a967130.js&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 1 LLC HOSTOFF CSL
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&host=nl2-edge.gacvpn.site&path=/static/js/vendor.8a967130.js?ed=2048&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 2 LLC HOSTOFF CSL
-vless://9b3b2e0e-76e0-4550-9c25-51ff6e3f4c68@153.52.255.97:443?encryption=none&fp=firefox&host=victoryy-production.up.railway.app&path=/api/CDADPg&security=tls&sni=victoryy-production.up.railway.app&type=ws#🇳🇱 Нидерланды Railway
+vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@82.148.253.27:8444?encryption=none&fp=firefox&host=at-87-10.cdn-lab.online&path=/xh&security=tls&sni=at-87-10.cdn-lab.online&type=xhttp#🇬🇧 Великобритания 1 AEZA GROUP LLC
+vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@91.192.157.154:8444?encryption=none&fp=firefox&host=fi-92-10.cdn-lab.online&path=/xh&security=tls&sni=fi-92-10.cdn-lab.online&type=xhttp#🇬🇧 Великобритания 2 AEZA GROUP LLC
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&host=nl2-edge.gacvpn.site&path=/static/js/vendor.8a967130.js?ed=2048&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 1 LLC HOSTOFF CSL
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&host=nl2-edge.gacvpn.site&path=/static/js/vendor.8a967130.js&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 2 LLC HOSTOFF CSL
+vless://f219ffe2-bc36-495f-a83d-8f9ac4af05fd@185.173.179.218:443?encryption=none&fp=firefox&host=ru1.cdn-space.org&path=/assets/api/v3/connect/&security=tls&sni=ru1.cdn-space.org&type=xhttp#🇳🇱 Нидерланды Hizakura B.V.
