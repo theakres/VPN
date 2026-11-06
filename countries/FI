@@ -4,6 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNC40L3Qu9GP0L3QtNC40Y8=
-vless://252ced77-524f-4b04-a80a-ed2c2081881b@177.1.183.115:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Hdbh_QHmyYaQjhD4mD5NWdir_qW2FFhJ3t3QFkU7bjc&security=reality&sni=ru-fl1.fluxnode777.ru&type=tcp#🇫🇮 Финляндия 1 DpkgSoft International Limited
-vless://252ced77-524f-4b04-a80a-ed2c2081881b@177.1.183.143:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=37ZFWtNTZ_slVsJp0_5siKSeqz-sZSuLdYurC_cBrxw&security=reality&sni=ru-fl2.fluxnode777.ru&type=tcp#🇫🇮 Финляндия 2 DpkgSoft International Limited
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@31.76.103.92:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&security=reality&sni=fi.peregrine-sub.net&type=tcp#🇫🇮 Финляндия 3 VPSPay Networks LTD
+vless://252ced77-524f-4b04-a80a-ed2c2081881b@177.1.183.143:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=37ZFWtNTZ_slVsJp0_5siKSeqz-sZSuLdYurC_cBrxw&security=reality&sni=ru-fl2.fluxnode777.ru&type=tcp#🇫🇮 Финляндия 1 DpkgSoft International Limited
+vless://252ced77-524f-4b04-a80a-ed2c2081881b@177.1.183.115:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Hdbh_QHmyYaQjhD4mD5NWdir_qW2FFhJ3t3QFkU7bjc&security=reality&sni=ru-fl1.fluxnode777.ru&type=tcp#🇫🇮 Финляндия 2 DpkgSoft International Limited
+hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19455?sni=mshvpn.online#🇫🇮 Финляндия 3 Inios Oy
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@31.76.103.92:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&security=reality&sni=fi.peregrine-sub.net&type=tcp#🇫🇮 Финляндия 4 VPSPay Networks LTD
