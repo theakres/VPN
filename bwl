@@ -4,9 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQntCx0YXQvtC0INCR0KE=
-vless://531d5494-3025-4496-bde1-a08a685f9d0d@176.108.254.94:443?encryption=none&fp=firefox&pbk=2jg-S6kzKQ_5RBjn7hx5mhm1Prp5HtPHAOThzEKusCk&security=reality&serviceName=ShrimpFiles-AR&sid=4e8b62d1c9f735a0&sni=atlas.friedshrimp.xyz&type=grpc#🇺🇸 США 1 Datacamp Limited
-hysteria2://1794082870:063fff3c-d6dd-43e3-b2fb-124785f13029:1AFR2jdtV3O5h9P33KpcvgfkSiFIqiXSuFxXwBcY3FY@212.41.8.76:36116?sni=us2.lumacache.com#🇺🇸 США 2 HYEHOST LLC
-vless://3837e7a5-d40e-4b85-8700-5f9725a5a2cb@45.143.94.91:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3Kgy_0tHtOzEn9_mEylNsBVlAHNngT6S4AuYy5wEOSU&security=reality&sid=0c37b64d1935ebc1&sni=us1.cloudvienta.com&type=tcp#🇺🇸 США 3 NetCrafters OU
 vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?encryption=none&fp=firefox&security=tls&serviceName=sync.v1&sni=jagamsrxd6.j.cloudfront.hls.vodcdn-edge.net&type=grpc#🇦🇿 Азербайджан 1 G-Core Labs S.A.
 vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?encryption=none&fp=firefox&security=tls&serviceName=sync.v1&sni=jagamsrxd6.j.cloudfront.hls.vodcdn-edge.net&type=grpc#🇦🇿 Азербайджан 2 G-Core Labs S.A.
 hysteria2://1794082870:063fff3c-d6dd-43e3-b2fb-124785f13029:CTIsdSVtro0BDR9MTUEuiYpjN3F5BN169ytiJfmMR6c@212.41.8.76:36104?sni=gb2.lumacache.com#🇬🇧 Великобритания 1 HYEHOST LLC
@@ -15,10 +12,12 @@ vless://e9b117e4-8be9-4105-9354-a5e0663294f0@91.215.43.80:443?encryption=none&fp
 vless://c97c95c8-41c8-4dc7-be21-c745c9dbd6c1@31.129.42.252:30055?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Dj93DPhAYHy9WEFC6UwxgGGPGF0Hrdhv3_kkoTcy0SM&security=reality&sid=7b9d0309&sni=de2.frnet.space&type=tcp#🇩🇪 Германия 2 Sculk Ltd.
 vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?encryption=none&fp=firefox&security=tls&serviceName=sync.v1&sni=k5s6n5ql4d.j.cloudfront.hls.hlsnode.net&type=grpc#🇱🇺 Люксембург 1 G-Core Labs S.A.
 vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?encryption=none&fp=firefox&security=tls&serviceName=sync.v1&sni=k5s6n5ql4d.j.cloudfront.hls.hlsnode.net&type=grpc#🇱🇺 Люксембург 2 G-Core Labs S.A.
+vless://043b6cd2-fad5-461c-ae58-31d40ea7073f@185.178.208.167:443?encryption=none&fp=firefox&host=stechnostore.life&path=/client/report/04c88cca7509/&security=tls&sni=stechnostore.life&type=ws#🇳🇱 Нидерланды 1 HOST TELECOM LTD
+vless://02e7f01e-c9cf-4f96-816d-3b7cb97b289b@87.242.94.134:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pNj1rPSs9XjNpf30e8DjGbNBU1fp58CzFrxP36_D42U&security=reality&sid=b470934eb6924098&sni=vk.ru&type=tcp#🇳🇱 Нидерланды 2 Timeweb, LLP
 vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?encryption=none&fp=firefox&security=tls&serviceName=sync.v1&sni=ekkgkmfqm9.j.cloudfront.hls.edgehls.net&type=grpc#🇵🇹 Португалия 1 Northern Data AG
 vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?encryption=none&fp=firefox&security=tls&serviceName=sync.v1&sni=ekkgkmfqm9.j.cloudfront.hls.edgehls.net&type=grpc#🇵🇹 Португалия 2 Northern Data AG
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@83.147.246.12:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=tcp#🇷🇺 Россия 1 JSC TIMEWEB
-vless://e267bd26-3816-002e-990f-8d6ec83bd25b@136.234.9.92:443?encryption=none&fp=firefox&path=/repository&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&security=reality&sid=3b5b38669a1a51c0&sni=git.medrocket.ru&type=xhttp#🇷🇺 Россия 2 Melbikomas UAB
+hysteria2://1794082870:063fff3c-d6dd-43e3-b2fb-124785f13029:1AFR2jdtV3O5h9P33KpcvgfkSiFIqiXSuFxXwBcY3FY@212.41.8.76:36116?sni=us2.lumacache.com#🇺🇸 США 1 HYEHOST LLC
+vless://3837e7a5-d40e-4b85-8700-5f9725a5a2cb@45.143.94.91:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3Kgy_0tHtOzEn9_mEylNsBVlAHNngT6S4AuYy5wEOSU&security=reality&sid=0c37b64d1935ebc1&sni=us1.cloudvienta.com&type=tcp#🇺🇸 США 2 NetCrafters OU
 vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@87.242.94.134:8445?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&security=reality&sni=passport.yandex.ru&type=tcp#🇪🇪 Эстония 1 Eduard Alekseevich Ilin
 vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@185.86.147.191:8445?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&security=reality&sni=passport.yandex.ru&type=tcp#🇪🇪 Эстония 2 Eduard Alekseevich Ilin
 vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?encryption=none&fp=firefox&security=tls&serviceName=sync.v1&sni=g5j6r0l5i9.j.cloudfront.hls.vodcdn-edge.net&type=grpc#🇿🇦 ЮАР 1 G-Core Labs S.A.
@@ -31,10 +30,8 @@ vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?encryption=none&
 vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?encryption=none&fp=firefox&security=tls&serviceName=sync.v1&sni=ce3fp598gr.j.cloudfront.hls.edgehls.net&type=grpc#🇮🇳 Индия G-Core Labs S.A.
 vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?encryption=none&fp=firefox&security=tls&serviceName=sync.v1&sni=tz5gtjwlki.j.cloudfront.hls.hlsnode.net&type=grpc#🇰🇿 Казахстан G-Core Labs S.A.
 vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?encryption=none&fp=firefox&security=tls&serviceName=sync.v1&sni=h9t9rvxazl.j.cloudfront.hls.hlsnode.net&type=grpc#🇦🇪 ОАЭ G-Core Labs S.A.
-vless://0a370611-e27e-4338-a88f-89deb2fa9075@45.132.176.176:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&security=reality&sid=a9dc98a7dc87a7dc&sni=sisipisi.yandex-api.com&type=tcp#🇷🇴 Румыния Interkvm Host SRL
 vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?encryption=none&fp=firefox&security=tls&serviceName=sync.v1&sni=a20uq2ozhd.j.cloudfront.hls.edgehls.net&type=grpc#🇸🇬 Сингапур G-Core Labs S.A.
 vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?encryption=none&fp=firefox&security=tls&serviceName=sync.v1&sni=ar5v3uc2o9.j.cloudfront.hls.hlsnode.net&type=grpc#🇺🇿 Узбекистан G-Core Labs S.A.
-vless://531d5494-3025-4496-bde1-a08a685f9d0d@82.202.157.79:443?encryption=none&fp=firefox&path=/shrimpissuperdelicious&pbk=4XPyp0n2wXkZZ_igXv-tgwa9hdbNQKScTflzsqV92zo&security=reality&sid=84f31c2a09b78e4d&sni=ru.nextdump.friedshrimp.xyz&type=xhttp#🇫🇮 Финляндия H2NEXUS CLOUD SERVICES - FZCO
 vless://4575f71d-d32f-4d73-aae6-6b464bd230da@95.163.250.241:8445?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V8tWqRolt7hnShpwxj_JMGtkeYcHzbIS2dxF4VStoD4&security=reality&sid=dcd3a19a9bfd8046&sni=eh.vk.com&type=tcp#🇫🇷 Франция ESTOXY OU
 vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?encryption=none&fp=firefox&security=tls&serviceName=sync.v1&sni=oeal42h1p4.j.cloudfront.hls.vodcdn-edge.net&type=grpc#🇰🇷 Южная Корея G-Core Labs S.A.
 vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?encryption=none&fp=firefox&security=tls&serviceName=sync.v1&sni=xa69h5ofn2.j.cloudfront.hls.edgehls.net&type=grpc#🇯🇵 Япония G-Core Labs S.A.

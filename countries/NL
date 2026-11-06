@@ -4,12 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQndC40LTQtdGA0LvQsNC90LTRiw==
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.102.238:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&security=reality&sid=ef5d4ad5&sni=app.betust.net&type=tcp#🇳🇱 Нидерланды 1 UAB Cherry Servers
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@84.32.102.238:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&security=reality&sid=ef5d4ad5&sni=app.betust.net&type=tcp#🇳🇱 Нидерланды 2 UAB Cherry Servers
-vless://c1fdf1e6-6370-4bad-a866-f80f27f5e785@213.108.21.173:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oSbyJBoI2JTEva2ks51kmUCA7z-iFUcoGYCk-ciEaDU&security=reality&sni=nl1.kids-games.ru&type=tcp#🇳🇱 Нидерланды 3 AEZA GROUP LLC
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@185.231.204.244:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&security=reality&sni=nl-balancer.peregrine-sub.net&type=tcp#🇳🇱 Нидерланды 4 Digital Hosting Provider LLC
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@50.7.193.132:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&security=reality&sid=77a8c8c8&sni=prime.jarbook.net&type=tcp#🇳🇱 Нидерланды 5 FDCservers.net
-vless://f219ffe2-bc36-495f-a83d-8f9ac4af05fd@185.173.179.218:443?encryption=none&fp=firefox&host=ru1.cdn-space.org&path=/assets/api/v3/connect/&security=tls&sni=ru1.cdn-space.org&type=xhttp#🇳🇱 Нидерланды 6 Hizakura B.V.
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@9.247.54.188:443?sni=nl1.obxodvpn.us#🇳🇱 Нидерланды 7 Paul Sagov
-vless://e8f7bbc6-3f5b-42b1-9903-45d3ba608e30@192.109.200.108:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8Y0fk2zTfaBY3VEJF6ySLe6ZrK4liXxQdxKxAunwTlg&security=reality&sid=3e129765d7ce5606&sni=ads.x5.ru&type=tcp#🇳🇱 Нидерланды 8 TechTies Inc.
-hysteria2://kKd2watTl7WACOoIAjkzt4MW6ak6I3c1Un8c4-oNMtU@84.252.100.138:5443?sni=nl.vip-get.ru#🇳🇱 Нидерланды 9 The Infrastructure Group B.V.
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@185.231.204.244:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&security=reality&sni=nl-balancer.peregrine-sub.net&type=tcp#🇳🇱 Нидерланды 1 Digital Hosting Provider LLC
+vless://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170:443?encryption=none&fp=firefox&host=orbylume.my.to&path=/tvpn-tor/is&security=tls&sni=orbylume.my.to&type=ws#🇳🇱 Нидерланды 2 FlokiNET ehf
+vless://f219ffe2-bc36-495f-a83d-8f9ac4af05fd@185.173.179.218:443?encryption=none&fp=firefox&host=ru1.cdn-space.org&path=/assets/api/v3/connect/&security=tls&sni=ru1.cdn-space.org&type=xhttp#🇳🇱 Нидерланды 3 Hizakura B.V.
+vless://72a93bfe-bea8-4731-b484-37c3ff49df4b@153.52.255.52:443?encryption=none&fp=firefox&host=vwscscac-production.up.railway.app&path=/api/mMzCEF&security=tls&sni=vwscscac-production.up.railway.app&type=ws#🇳🇱 Нидерланды 4 Railway
+hysteria2://kKd2watTl7WACOoIAjkzt4MW6ak6I3c1Un8c4-oNMtU@84.252.100.138:5443?sni=nl.vip-get.ru#🇳🇱 Нидерланды 5 The Infrastructure Group B.V.

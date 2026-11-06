@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQr9C/0L7QvdC40Y8=
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@74.113.233.192:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vR15JQvAL78o2FzRCftXVm1LTz-xdU31wBB2ohHFD0g&security=reality&sid=47b225059e19aa39&sni=jp1.japancase.site&type=tcp#🇯🇵 Япония 1 Kamatera, Inc.
-vless://226279dd-28b2-4b61-96be-a2a0b1afd522@64.110.100.50:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Uj6mzD2Qjr9PN0nfBCR2-4KyWm-8vddROou39LN6BXM&security=reality&sid=d7953572&sni=www.developer.nvidia.com&type=tcp#🇯🇵 Япония 2 Oracle Corporation
