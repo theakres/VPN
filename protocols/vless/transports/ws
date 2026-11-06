@@ -4,5 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&host=nl2-edge.gacvpn.site&path=/static/js/vendor.8a967130.js&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша LLC HOSTOFF CSL
-vless://ddb14cad-cc0c-44b8-9888-b1a0f6c3d913@212.183.88.53:443?encryption=none&fp=firefox&host=19.baklajann.ru&security=tls&sni=19.baklajann.ru&type=ws#🇫🇷 Франция OVH SAS
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&host=nl2-edge.gacvpn.site&path=/static/js/vendor.8a967130.js&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 1 LLC HOSTOFF CSL
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&host=nl2-edge.gacvpn.site&path=/static/js/vendor.8a967130.js?ed=2048&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 2 LLC HOSTOFF CSL
+vless://9b3b2e0e-76e0-4550-9c25-51ff6e3f4c68@153.52.255.97:443?encryption=none&fp=firefox&host=victoryy-production.up.railway.app&path=/api/CDADPg&security=tls&sni=victoryy-production.up.railway.app&type=ws#🇳🇱 Нидерланды Railway
