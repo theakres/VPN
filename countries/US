@@ -6,6 +6,6 @@
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQodCo0JA=
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@9.247.54.223:443?encryption=none&fp=firefox&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us9.h1clayd.click&type=tcp#🇺🇸 США 1 Interserver, INC
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@9.247.54.223:443?encryption=none&fp=firefox&path=/1812842934d4&pbk=LsaTohbE6CqCH9UbYKwIybVXG3E5Wgz_X9czqas2LAI&security=reality&sid=9acff4d98e2fbcc6&sni=35295cx.us9.h1clayd.click&type=xhttp#🇺🇸 США 2 Interserver, INC
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@177.202.75.56:443?sni=fi1.obxodvpn.us#🇺🇸 США 3 Ace Data Centers II, L.L.C.
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@9.247.54.223:443?encryption=none&fp=firefox&pbk=cO3wYHISTeorXcM8ffaDCDdqZ-olBQL-GyZqb-W7rTk&security=reality&serviceName=99f2107b03f8&sid=bd8f712209a9c283&sni=0592efg.us9.h1clayd.click&type=grpc#🇺🇸 США 3 Interserver, INC
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@72.56.40.137:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FFsBozg2vRN-wNNsv6Y97sbr4EF5aIHiYF7-xHa_9Fk&security=reality&sni=usatimewebnew.space&type=tcp#🇺🇸 США 4 Timeweb, LLP
 vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@88.216.254.143:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZZihyRejv8lHTwTnNCGF0IB6U9kS-L34L3v0ch6k_30&security=reality&sid=4f339f5f&sni=subscribe.goonars.com&type=tcp#🇺🇸 США 5 UAB Cherry Servers
