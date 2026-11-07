@@ -4,9 +4,10 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQntCx0YXQvtC0INCR0KE=
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@201.51.0.7:993?encryption=none&fp=firefox&host=msk5.gacvpn.site&path=/static/js/runtime.d9e71138.js?ed=2048&security=tls&sni=msk5.gacvpn.site&type=ws#🇩🇪 Германия 1 WAIcore Ltd
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@201.51.0.7:993?encryption=none&fp=firefox&host=msk5.gacvpn.site&path=/static/js/runtime.d9e71138.js&security=tls&sni=msk5.gacvpn.site&type=ws#🇩🇪 Германия 2 WAIcore Ltd
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@201.51.0.7:993?encryption=none&fp=firefox&host=msk5.gacvpn.site&path=/static/js/runtime.d9e71138.js&security=tls&sni=msk5.gacvpn.site&type=ws#🇩🇪 Германия 1 WAIcore Ltd
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@201.51.0.7:993?encryption=none&fp=firefox&host=msk5.gacvpn.site&path=/static/js/runtime.d9e71138.js?ed=2048&security=tls&sni=msk5.gacvpn.site&type=ws#🇩🇪 Германия 2 WAIcore Ltd
 vless://e9b117e4-8be9-4105-9354-a5e0663294f0@91.215.43.80:443?encryption=none&fp=firefox&path=/gateway/v1/ws/a901ed17102fc3090ca1ab052c672f47&security=tls&sni=metrics.api.downloader-pet.xyz&type=ws#🇩🇪 Германия 3 Evolus IT Solutions GmbH
+vless://27653b37-603c-4c90-b1f5-25c4d23f8932@147.45.153.134:443?encryption=none&fp=firefox&security=tls&serviceName=VideoRenderer&sni=renderer-bridge-2-133.mirra.now&type=grpc#🇩🇪 Германия 4 Leaseweb Deutschland GmbH
 vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?encryption=none&fp=firefox&host=bhjolq0d0l.flowersgood.top&path=/service/telemetry/045d381f1166/&security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws#🇵🇱 Польша Vladislav Doniy
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@217.25.93.165:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=tcp#🇷🇺 Россия JSC TIMEWEB
 vless://3837e7a5-d40e-4b85-8700-5f9725a5a2cb@45.143.94.91:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3Kgy_0tHtOzEn9_mEylNsBVlAHNngT6S4AuYy5wEOSU&security=reality&sid=0c37b64d1935ebc1&sni=us1.cloudvienta.com&type=tcp#🇺🇸 США NetCrafters OU

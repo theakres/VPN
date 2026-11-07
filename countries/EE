@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
+vless://3125236e-ea1b-4f88-b7a8-f7e1ee02d659@217.60.182.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HFgpbxzk696TYGPx93VcFNGLnCdu01xaMG_xFxVV8hM&security=reality&sid=983b54fb2cfc68ac&sni=ultra-vector-y3jwzsth.expresshost.cloud&type=tcp#🇪🇪 Эстония 1 ExpressHost Ltd
+vless://92b79c22-f68b-4713-8b21-52f264cb92f5@132.243.74.134:2087?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&security=reality&sni=ee.song69.fun&type=tcp#🇪🇪 Эстония 2 STENCLOUD LLC

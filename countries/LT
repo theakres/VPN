@@ -4,7 +4,5 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQm9C40YLQstCw
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@5.199.174.25:443?encryption=none&extra={"mode":"stream-one","xmux":{"cMaxReuseTimes":"64-128","maxConnections":"2-3","hKeepAlivePeriod":25,"hMaxRequestTimes":"64-128","hMaxReusableSecs":"120-300"},"noSSEHeader":true,"noGRPCHeader":true,"xPaddingBytes":"100-1000"}&fp=firefox&host=aiartstudios.best&pbk=DFR6MJcTN1bhukm7KS3IQSBDGPhTiPBwhZ3_brvwSlM&security=reality&sid=db724eb12631c05f&sni=aiartstudios.best&type=xhttp#🇱🇹 Литва 1 UAB Cherry Servers
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.151.159:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=tcp#🇱🇹 Литва 2 UAB Cherry Servers
-vless://9f9c913b-0b78-4d14-a4db-560794cbc90f@84.32.209.132:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&security=reality&sid=7c8e3d4a9b1f26d3&sni=litauto.plus-hit.ru&type=tcp#🇱🇹 Литва 3 UAB Cherry Servers
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@5.199.174.25:443?encryption=none&fp=firefox&pbk=DFR6MJcTN1bhukm7KS3IQSBDGPhTiPBwhZ3_brvwSlM&security=reality&sid=db724eb12631c05f&sni=aiartstudios.best&type=xhttp#🇱🇹 Литва 4 UAB Cherry Servers
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.151.159:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&security=reality&sid=d44d6d46&sni=app26.betust.net&type=tcp#🇱🇹 Литва 1 UAB Cherry Servers
+vless://acc50200-7f21-4f90-9cca-0057efcbf042@5.199.174.25:443?encryption=none&fp=firefox&pbk=DFR6MJcTN1bhukm7KS3IQSBDGPhTiPBwhZ3_brvwSlM&security=reality&sid=db724eb12631c05f&sni=aiartstudios.best&type=xhttp#🇱🇹 Литва 2 UAB Cherry Servers
