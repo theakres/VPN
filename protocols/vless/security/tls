@@ -4,6 +4,9 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
+vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@87.248.149.50:443?encryption=none&fp=firefox&security=tls&sni=base.hosamobenl.co.uk&type=tcp#🇩🇪 Германия 1 PIO-Hosting GmbH
+vless://a4ef4fa2-3080-4d2d-a4bf-571c7adf6a0b@2.26.48.13:447?encryption=none&fp=firefox&host=cdn.vash-uzel.cyou&path=/api/v1/telemetry/sync&security=tls&sni=cdn.vash-uzel.cyou&type=xhttp#🇩🇪 Германия 2 PLAY2GO INTERNATIONAL LIMITED
 vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@192.200.160.122:443?encryption=none&fp=firefox&host=51.baklajann.ru&security=tls&sni=51.baklajann.ru&type=ws#🇵🇱 Польша 1 OVH SAS
 vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@194.156.26.125:443?encryption=none&fp=firefox&host=186.baklajann.ru&security=tls&sni=186.baklajann.ru&type=ws#🇵🇱 Польша 2 OVH SAS
-vless://a4ef4fa2-3080-4d2d-a4bf-571c7adf6a0b@2.26.48.13:447?encryption=none&fp=firefox&host=cdn.vash-uzel.cyou&path=/api/v1/telemetry/sync&security=tls&sni=cdn.vash-uzel.cyou&type=xhttp#🇩🇪 Германия PLAY2GO INTERNATIONAL LIMITED
+vless://380fc46b-28cb-41a8-9879-38a898ab05d0@157.22.240.124:443?encryption=none&fp=firefox&security=tls&sni=call.meettech.org&type=xhttp#🇦🇱 Албания GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://16ef0b0d-4921-4d76-a5d7-95b2e33d44a7@153.52.255.48:443?encryption=none&fp=firefox&host=uiuxertste-production.up.railway.app&path=/api/jeAXb8&security=tls&sni=uiuxertste-production.up.railway.app&type=httpupgrade#🇳🇱 Нидерланды Railway
