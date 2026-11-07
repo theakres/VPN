@@ -4,11 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@31.77.138.193:443?encryption=none&fp=firefox&host=msk2.gacvpn.site&path=/static/js/app.5b8e2c41.js&security=tls&sni=msk2.gacvpn.site&type=ws#🇫🇮 Финляндия 1 Andris Jakovlevs
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@31.77.138.193:443?encryption=none&fp=firefox&path=/static/js/app.5b8e2c41.js&security=tls&sni=msk2.gacvpn.site&type=ws#🇫🇮 Финляндия 2 Andris Jakovlevs
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@31.77.138.193:443?encryption=none&fp=firefox&host=msk2.gacvpn.site&path=/static/js/app.5b8e2c41.js?ed=2048&security=tls&sni=msk2.gacvpn.site&type=ws#🇫🇮 Финляндия 3 Andris Jakovlevs
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@31.77.138.193:443?encryption=none&fp=firefox&path=/static/js/app.5b8e2c41.js?ed=2048&security=tls&sni=msk2.gacvpn.site&type=ws#🇫🇮 Финляндия 4 Andris Jakovlevs
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@192.240.96.12:993?encryption=none&fp=firefox&host=us2-ws.gacvpn.site&path=/static/js/vendor.2e12e7f4.js&security=tls&sni=us2-ws.gacvpn.site&type=ws#🇺🇸 США 1 FDCservers.net
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@192.240.96.12:993?encryption=none&fp=firefox&host=us2-ws.gacvpn.site&path=/static/js/vendor.2e12e7f4.js?ed=2048&security=tls&sni=us2-ws.gacvpn.site&type=ws#🇺🇸 США 2 FDCservers.net
 vless://380fc46b-28cb-41a8-9879-38a898ab05d0@157.22.240.124:443?encryption=none&fp=firefox&security=tls&sni=call.meettech.org&type=xhttp#🇦🇱 Албания GLOBAL CONNECTIVITY SOLUTIONS LLP
 vless://a4ef4fa2-3080-4d2d-a4bf-571c7adf6a0b@2.26.48.13:447?encryption=none&fp=firefox&host=cdn.vash-uzel.cyou&path=/api/v1/telemetry/sync&security=tls&sni=cdn.vash-uzel.cyou&type=xhttp#🇩🇪 Германия PLAY2GO INTERNATIONAL LIMITED
+vless://afd1e357-8fc7-42cb-961d-66d357a0a7c9@153.52.255.36:443?encryption=none&fp=firefox&host=web-production-fbcf9.up.railway.app&path=/ws/afd1e357-8fc7-42cb-961d-66d357a0a7c9&security=tls&sni=web-production-fbcf9.up.railway.app&type=ws#🇳🇱 Нидерланды Railway
+vless://983bcac3-19b0-4111-92c3-d80ea33663f3@94.183.216.80:2053?encryption=none&fp=firefox&host=usa.melqaz.ir&security=tls&sni=usa.melqaz.ir&type=ws#🇺🇸 США Hetzner Online GmbH
