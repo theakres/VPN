@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
+vless://483079ae-79ba-48aa-9071-340b79117a22@31.77.76.107:41763?encryption=none&fp=firefox&host=sub.airvpn.su&path=/ws&security=tls&sni=sub.airvpn.su&type=ws#🇳🇱 Нидерланды 1 Anton Levin
+vless://644ef1dd-6fa5-678a-f92e-b749ede69529@153.52.255.71:443?encryption=none&fp=firefox&host=multipanel-production-f5dd.up.railway.app&path=/ws/644ef1dd-6fa5-678a-f92e-b749ede69529&security=tls&sni=multipanel-production-f5dd.up.railway.app&type=ws#🇳🇱 Нидерланды 2 Railway

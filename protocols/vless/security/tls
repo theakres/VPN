@@ -4,5 +4,9 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
+vless://5c0814cb-09aa-452f-87a9-49000394b459@94.184.22.220:2050?encryption=none&fp=firefox&security=tls&sni=tun2.plasmoon.ir&type=tcp#🇩🇪 Германия 1 Hetzner Online GmbH
+vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@87.248.149.50:443?encryption=none&fp=firefox&security=tls&sni=base.hosamobenl.co.uk&type=tcp#🇩🇪 Германия 2 PIO-Hosting GmbH
+vless://a4ef4fa2-3080-4d2d-a4bf-571c7adf6a0b@2.26.48.13:447?encryption=none&fp=firefox&host=cdn.vash-uzel.cyou&path=/api/v1/telemetry/sync&security=tls&sni=cdn.vash-uzel.cyou&type=xhttp#🇩🇪 Германия 3 PLAY2GO INTERNATIONAL LIMITED
+vless://483079ae-79ba-48aa-9071-340b79117a22@31.77.76.107:41763?encryption=none&fp=firefox&host=sub.airvpn.su&path=/ws&security=tls&sni=sub.airvpn.su&type=ws#🇳🇱 Нидерланды 1 Anton Levin
+vless://644ef1dd-6fa5-678a-f92e-b749ede69529@153.52.255.71:443?encryption=none&fp=firefox&host=multipanel-production-f5dd.up.railway.app&path=/ws/644ef1dd-6fa5-678a-f92e-b749ede69529&security=tls&sni=multipanel-production-f5dd.up.railway.app&type=ws#🇳🇱 Нидерланды 2 Railway
 vless://380fc46b-28cb-41a8-9879-38a898ab05d0@157.22.240.124:443?encryption=none&fp=firefox&security=tls&sni=call.meettech.org&type=xhttp#🇦🇱 Албания GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@87.248.149.50:443?encryption=none&fp=firefox&security=tls&sni=base.hosamobenl.co.uk&type=tcp#🇩🇪 Германия PIO-Hosting GmbH
