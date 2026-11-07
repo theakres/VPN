@@ -1,0 +1,11 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNC+0YHRgdC40Y8=
+vless://747db87a-0cf6-4ea7-ae6b-3293afe2cef6@45.91.55.140:443?encryption=none&fp=firefox&path=/ee321f6e0f15&pbk=yMB1YpMhoF4j800rMjlWy97QAwvNwHwjuH1qKNSGfCA&security=reality&sid=0b10c773673c6438&sni=9900edx.msk2.h1clayd.click&type=xhttp#🇷🇺 Россия 1 Delta Ltd
+vless://13e6bdfd-d51b-4e57-a40e-b88784cba8bd@45.91.55.140:443?encryption=none&fp=firefox&pbk=0R5QIf2DFXNgISIYDQdoWIdbNoImaJHrwOkc2tzRPyQ&security=reality&serviceName=93013a569b78&sid=cc07501e28b18687&sni=9e72bbg.msk2.h1clayd.click&type=grpc#🇷🇺 Россия 2 Delta Ltd
+vless://747db87a-0cf6-4ea7-ae6b-3293afe2cef6@45.91.55.140:443?encryption=none&fp=firefox&host=9900edx.msk2.h1clayd.click&path=/ee321f6e0f15&pbk=yMB1YpMhoF4j800rMjlWy97QAwvNwHwjuH1qKNSGfCA&security=reality&sid=0b10c773673c6438&sni=9900edx.msk2.h1clayd.click&type=xhttp#🇷🇺 Россия 3 Delta Ltd
+vless://747db87a-0cf6-4ea7-ae6b-3293afe2cef6@45.91.55.140:443?encryption=none&fp=firefox&pbk=0R5QIf2DFXNgISIYDQdoWIdbNoImaJHrwOkc2tzRPyQ&security=reality&serviceName=93013a569b78&sid=cc07501e28b18687&sni=9e72bbg.msk2.h1clayd.click&type=grpc#🇷🇺 Россия 4 Delta Ltd
+vless://13e6bdfd-d51b-4e57-a40e-b88784cba8bd@45.91.55.140:443?encryption=none&fp=firefox&path=/ee321f6e0f15&pbk=yMB1YpMhoF4j800rMjlWy97QAwvNwHwjuH1qKNSGfCA&security=reality&sid=0b10c773673c6438&sni=9900edx.msk2.h1clayd.click&type=xhttp#🇷🇺 Россия 5 Delta Ltd

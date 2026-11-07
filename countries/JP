@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQr9C/0L7QvdC40Y8=
+vless://96c3a413-f0d0-4bee-a718-2b4e1561193e@35.78.82.229:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FrLhPuCVfzdM5rppzxHXQ5BZSGf1YHrXgo-cCtecGSo&security=reality&sid=f3b38af2&sni=cdn-dynmedia-1.microsoft.com&type=tcp#🇯🇵 Япония 1 Amazon.com, Inc.
+vless://96c3a413-f0d0-4bee-a718-2b4e1561193e@43.206.142.225:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FrLhPuCVfzdM5rppzxHXQ5BZSGf1YHrXgo-cCtecGSo&security=reality&sid=f3b38af2&sni=cdn-dynmedia-1.microsoft.com&type=tcp#🇯🇵 Япония 2 Amazon.com, Inc.
