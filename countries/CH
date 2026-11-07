@@ -4,7 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXQudGG0LDRgNC40Y8=
-vless://90157e25-cee1-4217-921e-91f300bc1a24@46.19.138.214:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=perevodchiki.su&type=tcp#🇨🇭 Швейцария 1 Private Layer INC
-vless://90157e25-cee1-4217-921e-91f300bc1a24@179.43.166.190:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=perevodchiki.su&type=tcp#🇨🇭 Швейцария 2 Private Layer INC
-vless://02e7f01e-c9cf-4f96-816d-3b7cb97b289b@193.151.108.166:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dyFChktSfbZT29JZ3hetyOa4k53U6g6opd9suKsG4hw&security=reality&sid=740732f996dc1213&sni=schweic.worldfly.io&type=tcp#🇨🇭 Швейцария 3 SERV.HOST GROUP LTD
-vless://7ee8000e-209e-4d88-8a0f-e963edfe45b2@193.151.108.240:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aDPUHTNsFayZUVXWHtlXjbRuiZmWsMFbOTKZoBBRQRw&security=reality&sid=cedd9e53fc8e7777&sni=bananapococoho.izzzyvpn.space&type=tcp#🇨🇭 Швейцария 4 SERV.HOST GROUP LTD
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@143.246.202.86:993?encryption=none&fp=firefox&host=ch-ws.gacvpn.site&path=/static/js/vendor.4fd8db0d.js?ed=2048&security=tls&sni=ch-ws.gacvpn.site&type=ws#🇨🇭 Швейцария 1 ALEXHOST S.R.L.
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@143.246.202.86:993?encryption=none&fp=firefox&host=ch-ws.gacvpn.site&path=/static/js/vendor.4fd8db0d.js&security=tls&sni=ch-ws.gacvpn.site&type=ws#🇨🇭 Швейцария 2 ALEXHOST S.R.L.
+vless://90157e25-cee1-4217-921e-91f300bc1a24@179.43.166.190:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=perevodchiki.su&type=tcp#🇨🇭 Швейцария 3 Private Layer INC
+vless://90157e25-cee1-4217-921e-91f300bc1a24@46.19.138.214:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=perevodchiki.su&type=tcp#🇨🇭 Швейцария 4 Private Layer INC
+vless://7ee8000e-209e-4d88-8a0f-e963edfe45b2@193.151.108.240:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aDPUHTNsFayZUVXWHtlXjbRuiZmWsMFbOTKZoBBRQRw&security=reality&sid=cedd9e53fc8e7777&sni=bananapococoho.izzzyvpn.space&type=tcp#🇨🇭 Швейцария 5 SERV.HOST GROUP LTD

@@ -5,9 +5,16 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
 vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&path=/static/js/vendor.8a967130.js?ed=2048&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 1 LLC HOSTOFF CSL
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&path=/static/js/vendor.8a967130.js&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 2 LLC HOSTOFF CSL
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&host=nl2-edge.gacvpn.site&path=/static/js/vendor.8a967130.js&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 3 LLC HOSTOFF CSL
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&host=nl2-edge.gacvpn.site&path=/static/js/vendor.8a967130.js?ed=2048&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 4 LLC HOSTOFF CSL
-vless://86c7af80-c9cf-4265-ab77-da12b0bf8bb6@194.156.26.125:443?encryption=none&fp=firefox&host=186.baklajann.ru&security=tls&sni=186.baklajann.ru&type=ws#🇵🇱 Польша 5 OVH SAS
-vless://86c7af80-c9cf-4265-ab77-da12b0bf8bb6@192.200.160.122:443?encryption=none&fp=firefox&host=51.baklajann.ru&security=tls&sni=51.baklajann.ru&type=ws#🇵🇱 Польша 6 OVH SAS
-vless://86c7af80-c9cf-4265-ab77-da12b0bf8bb6@212.183.88.53:443?encryption=none&fp=firefox&host=19.baklajann.ru&security=tls&sni=19.baklajann.ru&type=ws#🇫🇷 Франция OVH SAS
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&host=nl2-edge.gacvpn.site&path=/static/js/vendor.8a967130.js?ed=2048&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 2 LLC HOSTOFF CSL
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&path=/static/js/vendor.8a967130.js&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 3 LLC HOSTOFF CSL
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@144.31.248.71:443?encryption=none&fp=firefox&host=nl2-edge.gacvpn.site&path=/static/js/vendor.8a967130.js&security=tls&sni=nl2-edge.gacvpn.site&type=ws#🇵🇱 Польша 4 LLC HOSTOFF CSL
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@217.60.25.114:993?encryption=none&fp=firefox&host=msk6.gacvpn.site&path=/static/js/vendor.32acab26.js?ed=2048&security=tls&sni=msk6.gacvpn.site&type=ws#🇵🇱 Польша 5 Intezio Worldwide Limited
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@50.7.178.184:993?encryption=none&fp=firefox&host=fr2-ws.gacvpn.site&path=/static/js/vendor.61db254e.js?ed=2048&security=tls&sni=fr2-ws.gacvpn.site&type=ws#🇳🇱 Нидерланды 1 FDCservers.net
+vless://471137d4-112c-4402-a05e-1a4d14b6f82f@193.233.127.209:443?encryption=none&fp=firefox&host=trendslate.nem-osh-rkp.net&path=/media/ws/&security=tls&sni=trendslate.nem-osh-rkp.net&type=ws#🇳🇱 Нидерланды 2 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@107.174.34.25:7443?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇺🇸 США 1 Cloudflare, Inc.
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@192.240.96.12:993?encryption=none&fp=firefox&host=us2-ws.gacvpn.site&path=/static/js/vendor.2e12e7f4.js?ed=2048&security=tls&sni=us2-ws.gacvpn.site&type=ws#🇺🇸 США 2 FDCservers.net
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@143.246.202.86:993?encryption=none&fp=firefox&host=ch-ws.gacvpn.site&path=/static/js/vendor.4fd8db0d.js?ed=2048&security=tls&sni=ch-ws.gacvpn.site&type=ws#🇨🇭 Швейцария 1 ALEXHOST S.R.L.
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@143.246.202.86:993?encryption=none&fp=firefox&host=ch-ws.gacvpn.site&path=/static/js/vendor.4fd8db0d.js&security=tls&sni=ch-ws.gacvpn.site&type=ws#🇨🇭 Швейцария 2 ALEXHOST S.R.L.
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@178.17.50.19:993?encryption=none&fp=firefox&host=msk5.gacvpn.site&path=/static/js/runtime.d9e71138.js&security=tls&sni=msk5.gacvpn.site&type=ws#🇩🇪 Германия WAIcore Ltd
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@31.77.138.193:443?encryption=none&fp=firefox&host=msk2.gacvpn.site&path=/static/js/app.5b8e2c41.js&security=tls&sni=msk2.gacvpn.site&type=ws#🇫🇮 Финляндия Andris Jakovlevs
+vless://471137d4-112c-4402-a05e-1a4d14b6f82f@193.23.200.50:443?encryption=none&fp=firefox&host=thumborigin.comparecarprices.org&path=/media/ws/&security=tls&sni=thumborigin.comparecarprices.org&type=ws#🇸🇪 Швеция SERV.HOST GROUP LTD

@@ -5,4 +5,5 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQotGD0YDRhtC40Y8=
 vless://02fe4e97-8aac-4117-bcd8-3575f73dd26a@62.60.233.156:2087?encryption=none&fp=firefox&path=/xhttp&pbk=iLIqDocanm2WQJ5fdyCLI1qdprEKaI2bTLArVPHgXlE&security=reality&sni=connect-real-tr.trueweb.app&type=xhttp#🇹🇷 Турция 1 GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://02e7f01e-c9cf-4f96-816d-3b7cb97b289b@179.254.133.25:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DpWKCVbF-CmSc3s-Xr3EP_aLATZNF016s1Q_I-yz2V0&security=reality&sid=3c571713d5b8ec62&sni=turk.worldfly.io&type=tcp#🇹🇷 Турция 2 SERV.HOST GROUP LTD
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@147.45.66.62:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=B5Rbu23-J_PmzD6d-5ra_pxKaXd1MeRf6IT4jT_6PEM&security=reality&sid=071c3bd86b0c3c73&sni=tr3.japancase.site&type=tcp#🇹🇷 Турция 2 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@198.105.123.233:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&security=reality&sid=41ae8e266bc3346f&sni=tr1.japancase.site&type=tcp#🇹🇷 Турция 3 YottaSrc
