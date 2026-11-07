@@ -5,5 +5,4 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNC40L3Qu9GP0L3QtNC40Y8=
 vless://6eaf5e8f-e4fe-4dc7-a1cd-f24343536abe@87.121.82.22:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=R2lqloKpuEp-vN4pVTqBlD7GFu30uHfuQJ0_id2MqSk&security=reality&sid=a1b2c3d4e5f60701&sni=fr1.kittieslabs.tech&type=tcp#🇫🇮 Финляндия 1 PLAY2GO INTERNATIONAL LIMITED
-vless://a11ed716-4956-4886-82bb-0f67ea41a3c3@2.26.104.45:10444?encryption=none&fp=firefox&pbk=MLEWKkDASaVoQmP10uSiqDLPOQSsc69sY-VbDMlYHGo&security=reality&serviceName=google.pubsub.v1.Subscriber&sid=a3f1b2c4d5e6f708&sni=ru-b.awx.info&type=grpc#🇫🇮 Финляндия 2 UpCloud Ltd
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@31.76.103.92:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&security=reality&sni=fi.peregrine-sub.net&type=tcp#🇫🇮 Финляндия 3 VPSPay Networks LTD
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@31.76.103.92:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&security=reality&sni=fi.peregrine-sub.net&type=tcp#🇫🇮 Финляндия 2 VPSPay Networks LTD

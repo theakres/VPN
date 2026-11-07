@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQlNCw0L3QuNGP
+vless://6eaf5e8f-e4fe-4dc7-a1cd-f24343536abe@45.86.67.114:8443?encryption=none&fp=firefox&pbk=vzxQR7aijDhEEV2Dq6P6eFJckkgOLTq86bySpqVGsQo&security=reality&serviceName=us-tor&sid=de9061cbed448be3&sni=us1.kittieslabs.tech&type=grpc#🇩🇰 Дания Forening for DotSrc
