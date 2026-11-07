@@ -6,5 +6,6 @@
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
 vless://e83f3d1a-f71d-4c48-a354-8657cca4ac97@31.57.157.123:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 1 Hetzner Online GmbH
 vless://f60879c7-ce0b-47be-b208-d889558bc7bb@62.60.135.5:2092?encryption=none&fp=firefox&host=tun2.appii.ir&security=tls&sni=cert.pcapps.ir&type=ws#🇩🇪 Германия 2 Hetzner Online GmbH
+vless://e83f3d1a-f71d-4c48-a354-8657cca4ac97@31.57.29.218:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 3 Hetzner Online GmbH
 vless://483079ae-79ba-48aa-9071-340b79117a22@31.77.76.107:41763?encryption=none&fp=firefox&host=sub.airvpn.su&path=/ws&security=tls&sni=sub.airvpn.su&type=ws#🇳🇱 Нидерланды Anton Levin
 vless://f60879c7-ce0b-47be-b208-d889558bc7bb@94.184.35.87:2092?encryption=none&fp=firefox&host=tun4.videobazi.com&security=tls&sni=cert.pcapps.ir&type=ws#🇹🇷 Турция YottaSrc
