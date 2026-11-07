@@ -4,4 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
-vless://b4c190fb-e77e-4aff-8545-6067ba70e54d@64.188.81.15:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6lag46bHG1VvyeHdlGgkwRPfyFryJSrPmmSCw7YCMns&security=reality&sid=6aa2d2e950441a9a&sni=trees.bober.ac&type=tcp#🇸🇪 Швеция OC NETWORKS LIMITED
+vless://1aa2cc4f-e2c6-4e9b-89d2-97e2c608b796@89.22.232.197:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=LE02HoXSEqja6Xor492CiDsIJ_CeyLj_JY_XTZlT2zY&security=reality&sid=c8437f7f4eeae046&sni=nodevalora.ru&type=tcp#🇸🇪 Швеция 1 AEZA GROUP LLC
+vless://1aa2cc4f-e2c6-4e9b-89d2-97e2c608b796@89.22.232.197:8443?encryption=none&fp=firefox&path=/vless-xhttp&pbk=LE02HoXSEqja6Xor492CiDsIJ_CeyLj_JY_XTZlT2zY&security=reality&sid=c8437f7f4eeae046&sni=nodevalora.ru&type=xhttp#🇸🇪 Швеция 2 AEZA GROUP LLC
+vless://1aa2cc4f-e2c6-4e9b-89d2-97e2c608b796@89.22.232.197:8444?encryption=none&fp=firefox&pbk=LE02HoXSEqja6Xor492CiDsIJ_CeyLj_JY_XTZlT2zY&security=reality&serviceName=grpc-reality&sid=c8437f7f4eeae046&sni=nodevalora.ru&type=grpc#🇸🇪 Швеция 3 AEZA GROUP LLC
+vless://1aa2cc4f-e2c6-4e9b-89d2-97e2c608b796@89.22.232.197:8443?encryption=none&fp=firefox&host=nodevalora.ru&path=/vless-xhttp&pbk=LE02HoXSEqja6Xor492CiDsIJ_CeyLj_JY_XTZlT2zY&security=reality&sid=c8437f7f4eeae046&sni=nodevalora.ru&type=xhttp#🇸🇪 Швеция 4 AEZA GROUP LLC
+vless://b4c190fb-e77e-4aff-8545-6067ba70e54d@64.188.81.15:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6lag46bHG1VvyeHdlGgkwRPfyFryJSrPmmSCw7YCMns&security=reality&sid=6aa2d2e950441a9a&sni=trees.bober.ac&type=tcp#🇸🇪 Швеция 5 OC NETWORKS LIMITED
