@@ -5,7 +5,8 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQk9C+0L3QutC+0L3Qsw==
 vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@193.108.56.9:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v8ylEcRtrr0hMD8qNracioolJRJRybbHopscQQfaAjM&security=reality&sid=b7a8897a00f0ea77&sni=hk1.hat.onl&type=tcp#🇭🇰 Гонконг 1 WEDEPLOY SAS
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@185.147.27.23:2096?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v8ylEcRtrr0hMD8qNracioolJRJRybbHopscQQfaAjM&security=reality&sid=b7a8897a00f0ea77&sni=hk1.hat.onl&type=tcp#🇭🇰 Гонконг 2 WEDEPLOY SAS
-vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@185.147.27.23:2096?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v8ylEcRtrr0hMD8qNracioolJRJRybbHopscQQfaAjM&security=reality&sid=b7a8897a00f0ea77&sni=hk1.hat.onl&type=tcp#🇭🇰 Гонконг 3 WEDEPLOY SAS
+vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@185.147.27.23:2096?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v8ylEcRtrr0hMD8qNracioolJRJRybbHopscQQfaAjM&security=reality&sid=b7a8897a00f0ea77&sni=hk1.hat.onl&type=tcp#🇭🇰 Гонконг 2 WEDEPLOY SAS
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@185.147.27.23:2096?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v8ylEcRtrr0hMD8qNracioolJRJRybbHopscQQfaAjM&security=reality&sid=b7a8897a00f0ea77&sni=hk1.hat.onl&type=tcp#🇭🇰 Гонконг 3 WEDEPLOY SAS
 vless://7592ca5c-b352-4562-8856-a9c936a3331b@193.108.56.9:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v8ylEcRtrr0hMD8qNracioolJRJRybbHopscQQfaAjM&security=reality&sid=b7a8897a00f0ea77&sni=hk1.hat.onl&type=tcp#🇭🇰 Гонконг 4 WEDEPLOY SAS
-hysteria2://65ec84f5-0dd4-4582-8b4f-592e50b22116@23.156.153.18:38080?sni=hk-mm2.473221.xyz&obfs=salamander&obfs-password=qzOK2ChVkFhEdqn1#🇭🇰 Гонконг 5 ZYC Network LLC
+vless://6eb642a2-f8ee-47cc-9c13-fabb0a50350d@45.133.73.234:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=loudarch.net&type=tcp#🇭🇰 Гонконг 5 Julian Achter
+hysteria2://65ec84f5-0dd4-4582-8b4f-592e50b22116@23.156.153.18:38080?sni=hk-mm2.473221.xyz&obfs=salamander&obfs-password=qzOK2ChVkFhEdqn1#🇭🇰 Гонконг 6 ZYC Network LLC
