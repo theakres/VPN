@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkNCy0YHRgtGA0LjRjw==
+vless://90157e25-cee1-4217-921e-91f300bc1a24@66.90.106.28:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=banket-restoran.su&type=tcp#🇦🇹 Австрия FDCservers.net
