@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrtC20L3QsNGPINCa0L7RgNC10Y8=
+vless://e15db5c2-2dca-49fc-857b-aa37a7ba1c79@43.108.85.54:443?encryption=none&fp=firefox&pbk=v5HjgwMvPEsrpqwtgEytMQ3xs-1Cdv2gOCiGMZ2vimc&security=reality&sid=68307e&sni=cloudflare.com&type=tcp#🇰🇷 Южная Корея Alibaba US Technology Co., Ltd.
