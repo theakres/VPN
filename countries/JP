@@ -1,9 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQr9C/0L7QvdC40Y8=
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@45.32.250.130:443?encryption=none&fp=firefox&host=vp4.1145678.xyz&path=/wenku/comics&security=tls&sni=vp4.1145678.xyz&type=ws#🇯🇵 Япония 1 Cloudflare, Inc.
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@126.217.78.118:443?encryption=none&fp=firefox&host=vp4.1145678.xyz&path=/wenku/comics&security=tls&sni=vp4.1145678.xyz&type=ws#🇯🇵 Япония 2 Cloudflare, Inc.
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@168.93.214.71:443?encryption=none&fp=firefox&host=vp4.1145678.xyz&path=/wenku/comics&security=tls&sni=vp4.1145678.xyz&type=ws#🇯🇵 Япония 3 Cloudflare, Inc.
