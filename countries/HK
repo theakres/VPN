@@ -1,9 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQk9C+0L3QutC+0L3Qsw==
-vless://0894db40-59c1-41b7-baa5-173c16f5c70d@139.28.169.201:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DuKUpFN1nYgFK1e1jU2CjHI4eGN0g5ilLa8uWj5UzXQ&security=reality&sid=7fe95e327ac40d9d&sni=hk-ufo.maxleshax.icu&type=tcp#🇭🇰 Гонконг 1 Adcdata.com
-vless://0894db40-59c1-41b7-baa5-173c16f5c70d@139.28.170.43:8443?encryption=none&fp=firefox&pbk=LsS2m90VT4Qcxx4gdjBbW06PLk9MFCzd01fgOH6-Tws&security=reality&serviceName=platina&sid=6a9b866d547a6c02&sni=hk-ufo.maxleshax.icu&type=grpc#🇭🇰 Гонконг 2 Adcdata.com
-vless://0894db40-59c1-41b7-baa5-173c16f5c70d@96.62.103.158:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=i1IeWOHJjxR_JnJ0WmhSMNrAywwMV-Cq01Oaalm5n2k&security=reality&sid=f1da2d72715df584&sni=fi87.maxleshax.icu&type=tcp#🇭🇰 Гонконг 3 DEDIK SERVICES LIMITED

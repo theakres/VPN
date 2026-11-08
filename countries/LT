@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQm9C40YLQstCw
-vless://5adf559d-252c-489b-baf5-bec895a16aca@45.81.252.143:2053?encryption=none&fp=firefox&security=tls&sni=germany3.banovano.space&type=grpc#🇱🇹 Литва 1 MB Redfox Cloud
-vless://53555197-bf0a-49e6-bea1-211fcfc1d962@45.81.252.143:2053?encryption=none&fp=firefox&security=tls&sni=germany3.banovano.space&type=grpc#🇱🇹 Литва 2 MB Redfox Cloud
