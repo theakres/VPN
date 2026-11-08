@@ -1,0 +1,12 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@87.76.211.237:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=LSatvkYtdgq5oND_moM9NRW-ZDbdlTvyX9gzeF9r3W8&security=reality&sid=1cfdb63f3b860379&sni=frb1.hat.onl&type=tcp#🇫🇷 Франция 1 WEDEPLOY SAS
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@31.185.105.24:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=LSatvkYtdgq5oND_moM9NRW-ZDbdlTvyX9gzeF9r3W8&security=reality&sid=1cfdb63f3b860379&sni=frb1.hat.onl&type=tcp#🇫🇷 Франция 2 WEDEPLOY SAS
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@185.147.27.23:2053?encryption=none&fp=firefox&security=tls&serviceName=media.jj2aupzyq.v2.PlaybackRelay&sni=ueq0g3oo8z.hat.onl&type=grpc#🇫🇷 Франция 3 WEDEPLOY SAS
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@87.76.211.238:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=LSatvkYtdgq5oND_moM9NRW-ZDbdlTvyX9gzeF9r3W8&security=reality&sid=1cfdb63f3b860379&sni=frb1.hat.onl&type=tcp#🇫🇷 Франция 4 WEDEPLOY SAS
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@87.76.211.218:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=LSatvkYtdgq5oND_moM9NRW-ZDbdlTvyX9gzeF9r3W8&security=reality&sid=1cfdb63f3b860379&sni=frb1.hat.onl&type=tcp#🇫🇷 Франция 5 WEDEPLOY SAS
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@185.147.27.23:2083?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=LSatvkYtdgq5oND_moM9NRW-ZDbdlTvyX9gzeF9r3W8&security=reality&sid=1cfdb63f3b860379&sni=frb1.hat.onl&type=tcp#🇫🇷 Франция 6 WEDEPLOY SAS
