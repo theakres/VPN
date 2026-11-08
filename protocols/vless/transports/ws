@@ -1,0 +1,23 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
+vless://f1f7b063-621c-48fb-9091-81ad5f3a2213@104.16.151.178:443?encryption=none&fp=firefox&host=jp-osa.862400.xyz&path=/announcement?ed=2048&security=tls&sni=jp-osa.862400.xyz&type=ws#🇯🇵 Япония 1 Akamai Technologies, Inc.
+vless://f1f7b063-621c-48fb-9091-81ad5f3a2213@104.17.150.69:443?encryption=none&fp=firefox&host=jp-osa.862400.xyz&path=/announcement?ed=2048&security=tls&sni=jp-osa.862400.xyz&type=ws#🇯🇵 Япония 2 Akamai Technologies, Inc.
+vless://f1f7b063-621c-48fb-9091-81ad5f3a2213@104.17.144.96:443?encryption=none&fp=firefox&host=jp-osa.862400.xyz&path=/announcement?ed=2048&security=tls&sni=jp-osa.862400.xyz&type=ws#🇯🇵 Япония 3 Akamai Technologies, Inc.
+vless://f1f7b063-621c-48fb-9091-81ad5f3a2213@104.17.173.254:443?encryption=none&fp=firefox&host=jp-osa.862400.xyz&path=/announcement?ed=2048&security=tls&sni=jp-osa.862400.xyz&type=ws#🇯🇵 Япония 4 Akamai Technologies, Inc.
+vless://f1f7b063-621c-48fb-9091-81ad5f3a2213@104.18.33.227:443?encryption=none&fp=firefox&host=jp-osa.862400.xyz&path=/announcement?ed=2048&security=tls&sni=jp-osa.862400.xyz&type=ws#🇯🇵 Япония 5 Akamai Technologies, Inc.
+vless://f1f7b063-621c-48fb-9091-81ad5f3a2213@162.159.160.44:443?encryption=none&fp=firefox&host=jp-osa.862400.xyz&path=/announcement?ed=2048&security=tls&sni=jp-osa.862400.xyz&type=ws#🇯🇵 Япония 6 Akamai Technologies, Inc.
+vless://f1f7b063-621c-48fb-9091-81ad5f3a2213@104.18.40.242:443?encryption=none&fp=firefox&host=jp-osa.862400.xyz&path=/announcement?ed=2048&security=tls&sni=jp-osa.862400.xyz&type=ws#🇯🇵 Япония 7 Akamai Technologies, Inc.
+vless://f1f7b063-621c-48fb-9091-81ad5f3a2213@104.17.145.155:443?encryption=none&fp=firefox&host=jp-osa.862400.xyz&path=/announcement?ed=2048&security=tls&sni=jp-osa.862400.xyz&type=ws#🇯🇵 Япония 8 Akamai Technologies, Inc.
+vless://a8d9c86f-cddb-4fa5-96f7-f68eb48b3cb3@172.64.229.88:2096?encryption=none&fp=firefox&host=jp01.cdn00.top&path=/shanhai/jp01&security=tls&sni=jp01.cdn00.top&type=ws#🇯🇵 Япония 9 Leaseweb Japan K.K.
+vless://f9cb35cd-e905-4b8a-8188-44873be88c2f@31.57.28.49:443?encryption=none&fp=firefox&host=static.zovip2.ir&path=/api/v3/pulse&security=tls&sni=static.zovip2.ir&type=ws#🇩🇪 Германия 1 Hetzner Online GmbH
+vless://1beed393-7c4d-4432-beee-f1026b72d0cf@104.17.70.206:8443?encryption=none&fp=firefox&host=free.sahanwickramasinghe.com&security=tls&sni=free.sahanwickramasinghe.com&type=ws#🇩🇪 Германия 2 OVH SAS
+vless://18b99163-5196-4ddc-85f8-8fdf5efdcd53@185.178.208.167:443?encryption=none&fp=firefox&host=stechnostore.life&path=/player/collect/9c8514f9552d/&security=tls&sni=stechnostore.life&type=ws#🇳🇱 Нидерланды 1 Vladislav Doniy
+vless://8a4fe9f3-4da3-4004-b721-cae64ff0d018@185.178.208.167:443?encryption=none&fp=firefox&host=stechnostore.life&path=/player/collect/9c8514f9552d/&security=tls&sni=stechnostore.life&type=ws#🇳🇱 Нидерланды 2 Vladislav Doniy
+vless://408c814e-f70a-4d16-b3b3-8182bb70211d@34.39.80.57:50818?encryption=none&fp=firefox&path=/GunService&security=tls&sni=yingguo.rymaker.cn&type=ws#🇬🇧 Великобритания Google LLC
+vless://bc4a4b66-c3fc-4f91-938e-4d93698c0d43@94.177.231.152:443?encryption=none&fp=firefox&host=soli-gghosin4-cell.dormhost.app&path=/jx-ge7wex6ki2ixyk&security=tls&sni=soli-gghosin4-cell.dormhost.app&type=ws#🇮🇳 Индия Oracle Corporation
+vless://f1f7b063-621c-48fb-9091-81ad5f3a2213@185.14.97.242:8443?encryption=none&fp=firefox&host=it-mil.862400.xyz&path=/announcement&security=tls&sni=it-mil.862400.xyz&type=ws#🇮🇹 Италия Akamai Technologies, Inc.
+vless://a8d9c86f-cddb-4fa5-96f7-f68eb48b3cb3@172.64.229.88:8443?encryption=none&fp=firefox&host=sg01.cdn00.top&path=/shanhai/sg01&security=tls&sni=sg01.cdn00.top&type=ws#🇸🇬 Сингапур LEASEWEB SINGAPORE PTE. LTD.

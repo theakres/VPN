@@ -4,5 +4,5 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmtCw0L3QsNC00LA=
-vless://39826f32-f5ca-42a5-ab33-188f7d199478@216.152.147.212:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=44fzyYwGGWdD3_r13cYpi49LrafDttxeEuJVIfr9KVQ&security=reality&sid=ab492c1edb990092&sni=www.apple.com&type=tcp#🇨🇦 Канада 1 GLOBALTELEHOST Corp.
-vless://7051be15-386d-4bb2-a35a-fd6085befc43@179.255.184.95:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&sid=5b2e7a14c0d9f832&sni=ca.api.bzzzq.fun&type=tcp#🇨🇦 Канада 2 HOST TELECOM LTD
+vless://7051be15-386d-4bb2-a35a-fd6085befc43@179.255.184.95:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&sid=5b2e7a14c0d9f832&sni=ca.api.bzzzq.fun&type=tcp#🇨🇦 Канада 1 HOST TELECOM LTD
+vless://7051be15-386d-4bb2-a35a-fd6085befc43@179.255.184.95:8443?encryption=none&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&serviceName=grpc&sid=5b2e7a14c0d9f832&sni=ca.api.bzzzq.fun&type=grpc#🇨🇦 Канада 2 HOST TELECOM LTD
