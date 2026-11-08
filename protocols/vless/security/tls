@@ -4,7 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://52bf4a3c-829e-4a4f-abf8-df3c00da8617@153.52.255.13:443?encryption=none&fp=firefox&host=whitepanel-ui-production-e884.up.railway.app&path=/ws/52bf4a3c-829e-4a4f-abf8-df3c00da8617&security=tls&sni=whitepanel-ui-production-e884.up.railway.app&type=ws#🇳🇱 Нидерланды 1 Railway
-vless://34450e9c-1bcc-4b26-af46-96be7a821ca7@153.52.255.15:443?encryption=none&fp=firefox&host=geotypeyu-production.up.railway.app&path=/api/VCLXM5&security=tls&sni=geotypeyu-production.up.railway.app&type=ws#🇳🇱 Нидерланды 2 Railway
 vless://ae23e87e-0764-4152-901c-1427b00c81b7@5.75.197.39:2088?encryption=none&fp=firefox&security=tls&sni=seo.nexun.ir&type=grpc#🇩🇪 Германия Hetzner Online GmbH
-vless://b2ee4a4e-eb20-4bb4-956c-dc0f5187633e@5.21.83.146:2020?encryption=mlkem768x25519plus.native.0rtt.-WBAy1ri6hx6_9hHfN0XQY-ZG7T5ReXz0YEY0bHfzlU&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=vpn.noxtem.cc&type=tcp#🇴🇲 Оман Omani Qatari Telecommunication Company SAOC
+vless://34450e9c-1bcc-4b26-af46-96be7a821ca7@153.52.255.15:443?encryption=none&fp=firefox&host=geotypeyu-production.up.railway.app&path=/api/VCLXM5&security=tls&sni=geotypeyu-production.up.railway.app&type=ws#🇳🇱 Нидерланды Railway
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@203.88.121.26:443?encryption=none&fp=firefox&host=vp19.1145678.xyz&path=/images/classify/dh&security=tls&sni=vp19.1145678.xyz&type=ws#🇺🇸 США Cloudflare, Inc.
