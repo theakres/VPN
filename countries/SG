@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQodC40L3Qs9Cw0L/Rg9GA
-vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@18.142.142.223:43113?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EK3prcfF8VKm3CoTXWQguRj67LxGbkPIpKmEUKsMKGs&security=reality&sid=ff2c978a0b&sni=v1-dy.ixigua.com&type=tcp#🇸🇬 Сингапур 1 LEASEWEB SINGAPORE PTE. LTD.
-vless://c5f59ef3-9540-49fa-bd1e-c6c2f79df49a@134.255.211.36:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KcI3PoYu2yF7whv-e0C7JnRyUoUiUDu6tOlUBPYYbCk&security=reality&sid=2e96bf6afa823abb&sni=sg-sin.probe.geomyip.com&type=tcp#🇸🇬 Сингапур 2 M247 Europe SRL
