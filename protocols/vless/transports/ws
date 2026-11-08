@@ -5,4 +5,4 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
 vless://52bf4a3c-829e-4a4f-abf8-df3c00da8617@153.52.255.13:443?encryption=none&fp=firefox&host=whitepanel-ui-production-e884.up.railway.app&path=/ws/52bf4a3c-829e-4a4f-abf8-df3c00da8617&security=tls&sni=whitepanel-ui-production-e884.up.railway.app&type=ws#🇳🇱 Нидерланды 1 Railway
-vless://ab930631-6ad9-427b-bd45-fb8367975b9e@153.52.255.67:443?encryption=none&fp=firefox&host=freef35panel-ui-pro-2649.up.railway.app&path=/ws/ab930631-6ad9-427b-bd45-fb8367975b9e&security=tls&sni=freef35panel-ui-pro-2649.up.railway.app&type=ws#🇳🇱 Нидерланды 2 Railway
+vless://34450e9c-1bcc-4b26-af46-96be7a821ca7@153.52.255.15:443?encryption=none&fp=firefox&host=geotypeyu-production.up.railway.app&path=/api/VCLXM5&security=tls&sni=geotypeyu-production.up.railway.app&type=ws#🇳🇱 Нидерланды 2 Railway
