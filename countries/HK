@@ -4,11 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQk9C+0L3QutC+0L3Qsw==
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@185.147.27.23:2096?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v8ylEcRtrr0hMD8qNracioolJRJRybbHopscQQfaAjM&security=reality&sid=b7a8897a00f0ea77&sni=hk1.hat.onl&type=tcp#🇭🇰 Гонконг 1 WEDEPLOY SAS
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@193.108.56.9:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v8ylEcRtrr0hMD8qNracioolJRJRybbHopscQQfaAjM&security=reality&sid=b7a8897a00f0ea77&sni=hk1.hat.onl&type=tcp#🇭🇰 Гонконг 2 WEDEPLOY SAS
+vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@193.108.56.9:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v8ylEcRtrr0hMD8qNracioolJRJRybbHopscQQfaAjM&security=reality&sid=b7a8897a00f0ea77&sni=hk1.hat.onl&type=tcp#🇭🇰 Гонконг 1 WEDEPLOY SAS
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@185.147.27.23:2096?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v8ylEcRtrr0hMD8qNracioolJRJRybbHopscQQfaAjM&security=reality&sid=b7a8897a00f0ea77&sni=hk1.hat.onl&type=tcp#🇭🇰 Гонконг 2 WEDEPLOY SAS
 vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@185.147.27.23:2096?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v8ylEcRtrr0hMD8qNracioolJRJRybbHopscQQfaAjM&security=reality&sid=b7a8897a00f0ea77&sni=hk1.hat.onl&type=tcp#🇭🇰 Гонконг 3 WEDEPLOY SAS
-vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@193.108.56.9:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v8ylEcRtrr0hMD8qNracioolJRJRybbHopscQQfaAjM&security=reality&sid=b7a8897a00f0ea77&sni=hk1.hat.onl&type=tcp#🇭🇰 Гонконг 4 WEDEPLOY SAS
-vless://a375b5b2-5d7b-4925-849d-ae4f9d4d2010@139.28.170.43:8443?encryption=none&fp=firefox&pbk=LsS2m90VT4Qcxx4gdjBbW06PLk9MFCzd01fgOH6-Tws&security=reality&serviceName=platina&sid=6a9b866d547a6c02&sni=hk-ufo.maxleshax.icu&type=grpc#🇭🇰 Гонконг 5 Adcdata.com
-vless://a375b5b2-5d7b-4925-849d-ae4f9d4d2010@139.28.169.201:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DuKUpFN1nYgFK1e1jU2CjHI4eGN0g5ilLa8uWj5UzXQ&security=reality&sid=7fe95e327ac40d9d&sni=hk-ufo.maxleshax.icu&type=tcp#🇭🇰 Гонконг 6 Adcdata.com
-vless://a375b5b2-5d7b-4925-849d-ae4f9d4d2010@96.62.103.158:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=i1IeWOHJjxR_JnJ0WmhSMNrAywwMV-Cq01Oaalm5n2k&security=reality&sid=f1da2d72715df584&sni=fi87.maxleshax.icu&type=tcp#🇭🇰 Гонконг 7 DEDIK SERVICES LIMITED
-hysteria2://65ec84f5-0dd4-4582-8b4f-592e50b22116@23.156.153.18:38080?sni=hk-mm2.473221.xyz&obfs=salamander&obfs-password=qzOK2ChVkFhEdqn1#🇭🇰 Гонконг 8 ZYC Network LLC
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@193.108.56.9:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v8ylEcRtrr0hMD8qNracioolJRJRybbHopscQQfaAjM&security=reality&sid=b7a8897a00f0ea77&sni=hk1.hat.onl&type=tcp#🇭🇰 Гонконг 4 WEDEPLOY SAS
+hysteria2://65ec84f5-0dd4-4582-8b4f-592e50b22116@23.156.153.18:38080?sni=hk-mm2.473221.xyz&obfs=salamander&obfs-password=qzOK2ChVkFhEdqn1#🇭🇰 Гонконг 5 ZYC Network LLC
