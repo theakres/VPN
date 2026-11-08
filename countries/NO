@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQndC+0YDQstC10LPQuNGP
+vless://528c9248-7b50-45fb-9188-e46d889dafe6@185.186.143.76:443?encryption=none&fp=firefox&pbk=6vDdlh4aAipoRQ-IXDjzTUtKpZS09xtNXIisCa__2CM&security=reality&serviceName=grpc&sid=f74c6a18133e2e72&sni=ru-kitchen.ru&type=grpc#🇳🇴 Норвегия Gigahost AS

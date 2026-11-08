@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQk9C+0L3QutC+0L3Qsw==
-vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@56.10.121.236:13212?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4VguZbm-S2NkLpi7gLDsQMv2eDXP2LucxsvTiEt98yY&security=reality&sid=961f7127a015ba&sni=v1-dy.ixigua.com&type=tcp#🇭🇰 Гонконг 1 Hytron Network Services Limited
-vless://7f6ee01e-c243-4c84-9cf2-7d8ecc0da202@119.237.10.85:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rV6kc94WuI-e8k94iQ8l8SHTvTynTjtd8io7LDByEnc&security=reality&sid=e5b9c61d&sni=tva1.sinaimg.cn&type=tcp#🇭🇰 Гонконг 2 PCCW IMS Limited
