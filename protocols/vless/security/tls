@@ -4,9 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://cd9680e1-f115-4e16-91b9-ea59576c212d@94.156.181.35:443?encryption=none&fp=firefox&security=tls&sni=moscow1.banovano.space&type=grpc#🇨🇦 Канада 1 SERV.HOST GROUP LTD
-vless://32386d71-0d5e-4118-aa8d-8c0ca4ade7b9@94.156.181.35:443?encryption=none&fp=firefox&security=tls&sni=moscow1.banovano.space&type=grpc#🇨🇦 Канада 2 SERV.HOST GROUP LTD
 vless://5adf559d-252c-489b-baf5-bec895a16aca@45.81.252.143:2053?encryption=none&fp=firefox&security=tls&sni=germany3.banovano.space&type=grpc#🇱🇹 Литва 1 MB Redfox Cloud
 vless://53555197-bf0a-49e6-bea1-211fcfc1d962@45.81.252.143:2053?encryption=none&fp=firefox&security=tls&sni=germany3.banovano.space&type=grpc#🇱🇹 Литва 2 MB Redfox Cloud
-vless://f9cb35cd-e905-4b8a-8188-44873be88c2f@46.8.237.231:443?encryption=none&fp=firefox&host=static.zovip2.ir&path=/api/v3/pulse&security=tls&sni=static.zovip2.ir&type=ws#🇩🇪 Германия Hetzner Online GmbH
-vless://b05c5bfc-0f53-474a-8a43-8d30af8bccd2@153.52.255.67:443?encryption=none&fp=firefox&host=whitepanel-ui-production-84c0.up.railway.app&path=/ws/b05c5bfc-0f53-474a-8a43-8d30af8bccd2&security=tls&sni=whitepanel-ui-production-84c0.up.railway.app&type=ws#🇺🇸 США Railway
+vless://f9cb35cd-e905-4b8a-8188-44873be88c2f@31.56.113.4:443?encryption=none&fp=firefox&host=static.zovip2.ir&path=/api/v3/pulse&security=tls&sni=static.zovip2.ir&type=ws#🇩🇪 Германия Hetzner Online GmbH
+vless://32386d71-0d5e-4118-aa8d-8c0ca4ade7b9@94.156.181.35:443?encryption=none&fp=firefox&security=tls&sni=moscow1.banovano.space&type=grpc#🇨🇦 Канада SERV.HOST GROUP LTD
+vless://8986720a-80bb-4c7e-a3af-ff5374e198a9@179.253.82.24:443?encryption=none&fp=firefox&security=tls&sni=finland2.banovano.space&type=grpc#🇫🇮 Финляндия SERV.HOST GROUP LTD
