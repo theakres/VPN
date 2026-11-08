@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQntC80LDQvQ==
+vless://b2ee4a4e-eb20-4bb4-956c-dc0f5187633e@5.21.83.146:2020?encryption=mlkem768x25519plus.native.0rtt.-WBAy1ri6hx6_9hHfN0XQY-ZG7T5ReXz0YEY0bHfzlU&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=vpn.noxtem.cc&type=tcp#🇴🇲 Оман Omani Qatari Telecommunication Company SAOC
