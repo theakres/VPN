@@ -1,0 +1,10 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
+vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@195.206.235.19:443?encryption=none&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc#🇸🇪 Швеция 1 Hostup AB
+vless://07df3711-07a1-4649-9a61-3f16cb931d02@195.206.235.118:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XQWaIMBPo0mpWs3MooxxkjWNSgxnkIESd_2PnR8_2HA&security=reality&sid=1061f1b1cdaad3ad&sni=3fb2b6t.se2.h1clayd.click&type=tcp#🇸🇪 Швеция 2 Hostup AB
+vless://17923e69-98e0-4952-a599-9c848c1b8ffe@185.147.27.23:30120?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0q-auqEPBR3lETnoHLdm7OVbM0DWZQq74z_JV7WznUk&security=reality&sid=ff25c7e7c95baabf&sni=se1.hat.onl&type=tcp#🇸🇪 Швеция 3 Paul Sagov
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&security=reality&sid=c6f97313&sni=get.jarbook.net&type=tcp#🇸🇪 Швеция 4 UAB Cherry Servers

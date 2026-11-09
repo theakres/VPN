@@ -4,9 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQntCx0YXQvtC0INCR0KE=
-vless://87ce659c-6e04-49c4-b70e-d5d6752111d4@185.86.145.164:32944?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Te3ZcFFTilb6_j4hdotSvXaRYBzGuNiRxuBh8n1NezU&security=reality&sid=91d2d3db690f4b59&sni=passport.yandex.ru&type=tcp#🇩🇪 Германия 1 UAB Cherry Servers
-vless://87ce659c-6e04-49c4-b70e-d5d6752111d4@185.86.147.143:7443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0w339GBhpDiYwa9Wgqu3z3epu8dHAzeYUFXPtvzK8To&security=reality&sid=190c27ae5f2e4d2c&sni=passport.yandex.ru&type=tcp#🇩🇪 Германия 2 UAB Cherry Servers
-vless://87ce659c-6e04-49c4-b70e-d5d6752111d4@185.86.145.174:10452?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L1Ug_ELbeZ_5q9QRzO5Lg_ZMkus9n72aiUfvFirN9Vo&security=reality&sid=c8a79c7b64adca2a&sni=passport.yandex.ru&type=tcp#🇩🇪 Германия 3 UAB Cherry Servers
-vless://87ce659c-6e04-49c4-b70e-d5d6752111d4@87.242.127.51:7452?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0w339GBhpDiYwa9Wgqu3z3epu8dHAzeYUFXPtvzK8To&security=reality&sid=190c27ae5f2e4d2c&sni=passport.yandex.ru&type=tcp#🇩🇪 Германия 4 UAB Cherry Servers
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?encryption=none&fp=firefox&host=bhjolq0d0l.flowersgood.top&path=/service/telemetry/045d381f1166/&security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws#🇵🇱 Польша 1 Vladislav Doniy
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?encryption=none&fp=firefox&path=/service/telemetry/045d381f1166/&security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws#🇵🇱 Польша 2 Vladislav Doniy
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@129.101.105.132:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cuONLHT6sUKpRRNna55H_1ofXRSfA_XVOfr9ACE6vHY&security=reality&sni=pl2-edge.gacvpn.site&type=tcp#🇵🇱 Польша 3 Intezio Worldwide Limited
 vless://90559189-7899-4f25-a6ba-1f9057f9e901@161.104.57.75:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Gv-aCaMZXqSEXem-G1IW9PICBw9rNcqqwydTSkDJzxE&security=reality&sid=1720aadae757548b&sni=mw-nl4.star1905.org&type=tcp#🇳🇱 Нидерланды Spacecore Solution LTD
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?encryption=none&fp=firefox&path=/service/telemetry/045d381f1166/&security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws#🇵🇱 Польша Vladislav Doniy
