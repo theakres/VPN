@@ -4,17 +4,15 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQodCo0JA=
-vless://901c1ed2-be44-4c97-843e-7bcdcce28e04@172.86.112.136:2053?encryption=none&fp=firefox&host=usa.amosh.sbs&security=tls&sni=usa.amosh.sbs&type=xhttp#🇺🇸 США 1 RouterHosting LLC
-vless://461a5e99-c932-449c-9516-853fd0fade7a@45.61.144.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=uuuss2.qiksme.com&type=tcp#🇺🇸 США 2 RouterHosting LLC
-vless://a6f5d58f-a04f-45dd-bf17-555d3a1e2069@45.61.144.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=uuuss2.qiksme.com&type=tcp#🇺🇸 США 3 RouterHosting LLC
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@48.102.164.0:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&security=reality&sni=gemsubbgem.world&type=tcp#🇺🇸 США 4 Ace Data Centers II, L.L.C.
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@48.102.167.37:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&security=reality&sni=hollandlanzerotte.xyz&type=tcp#🇺🇸 США 5 Ace Data Centers II, L.L.C.
-vless://342675b7-e036-43f0-bf1a-fa341c91202c@162.216.231.214:443?encryption=none&fp=firefox&host=worldoftanks.eu&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&security=reality&sni=worldoftanks.eu&type=xhttp#🇺🇸 США 6 Unredacted Inc
-vless://342675b7-e036-43f0-bf1a-fa341c91202c@87.120.106.95:443?encryption=none&fp=firefox&host=melious.ai&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&security=reality&sni=melious.ai&type=xhttp#🇺🇸 США 7 Unredacted Inc
-vless://b2a6fb02-d9fa-43d6-b220-10dcacc36512@95.182.93.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nCiIB8BmrCGzwms7sf0CBcz6VTzhXemuChdO5V_SnD4&security=reality&sid=1901f7857cb99487&sni=docs.google.com&type=tcp#🇺🇸 США 8 Cloud Software - FZCO
-vless://a3940ddb-ba50-5109-a0fd-4a06990f1ded@179.253.248.21:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ABZFDD3Ne57Q0i7skCnEpyUVTKTdMhm3aqJ9mwLZ7lw&security=reality&sid=62169cb853fb7503&sni=learn.microsoft.com&type=tcp#🇺🇸 США 9 DMIT Cloud Services
-vless://fdd162f9-1393-4229-a31c-ec5263b918ad@34.3.109.200:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=x1ql3ShHUiyfMiA9_49FPY7ZV5Oqw2LcZPI9CUIlQQg&security=reality&sni=dl.google.com&type=tcp#🇺🇸 США 10 Google Ireland Limited
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@201.8.64.7:443?sni=nlll.obxodvpn.us#🇺🇸 США 11 Paul Sagov
-vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@179.253.87.31:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UTkg40vyNnuavVNfJN0owayruc3nX306ZCeesO55WCM&security=reality&sid=9e7171a722d2545c&sni=rs1.hat.onl&type=tcp#🇺🇸 США 12 SERV.HOST GROUP LTD
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@186.246.16.103:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FFsBozg2vRN-wNNsv6Y97sbr4EF5aIHiYF7-xHa_9Fk&security=reality&sni=usatimewebnew.space&type=tcp#🇺🇸 США 13 Timeweb, LLP
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@88.216.254.23:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZZihyRejv8lHTwTnNCGF0IB6U9kS-L34L3v0ch6k_30&security=reality&sid=4f339f5f&sni=subscribe.goonars.com&type=tcp#🇺🇸 США 14 UAB Cherry Servers
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@48.102.167.37:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&security=reality&sni=hollandlanzerotte.xyz&type=tcp#🇺🇸 США 1 Ace Data Centers II, L.L.C.
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@48.102.164.0:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&security=reality&sni=gemsubbgem.world&type=tcp#🇺🇸 США 2 Ace Data Centers II, L.L.C.
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@48.102.161.221:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY&security=reality&sni=swedenafteraventura.space&type=tcp#🇺🇸 США 3 Ace Data Centers II, L.L.C.
+vless://a6f5d58f-a04f-45dd-bf17-555d3a1e2069@45.61.144.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=uuuss2.qiksme.com&type=tcp#🇺🇸 США 4 RouterHosting LLC
+vless://461a5e99-c932-449c-9516-853fd0fade7a@45.61.144.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=uuuss2.qiksme.com&type=tcp#🇺🇸 США 5 RouterHosting LLC
+vless://b2a6fb02-d9fa-43d6-b220-10dcacc36512@95.182.93.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nCiIB8BmrCGzwms7sf0CBcz6VTzhXemuChdO5V_SnD4&security=reality&sid=1901f7857cb99487&sni=docs.google.com&type=tcp#🇺🇸 США 6 Cloud Software - FZCO
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@5.253.38.69:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇺🇸 США 7 Cloudflare, Inc.
+vless://a3940ddb-ba50-5109-a0fd-4a06990f1ded@179.253.248.21:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ABZFDD3Ne57Q0i7skCnEpyUVTKTdMhm3aqJ9mwLZ7lw&security=reality&sid=62169cb853fb7503&sni=learn.microsoft.com&type=tcp#🇺🇸 США 8 DMIT Cloud Services
+vless://fdd162f9-1393-4229-a31c-ec5263b918ad@34.3.109.200:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=x1ql3ShHUiyfMiA9_49FPY7ZV5Oqw2LcZPI9CUIlQQg&security=reality&sni=dl.google.com&type=tcp#🇺🇸 США 9 Google Ireland Limited
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@201.8.64.7:443?sni=nlll.obxodvpn.us#🇺🇸 США 10 Paul Sagov
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@186.246.16.103:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FFsBozg2vRN-wNNsv6Y97sbr4EF5aIHiYF7-xHa_9Fk&security=reality&sni=usatimewebnew.space&type=tcp#🇺🇸 США 11 Timeweb, LLP
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@88.216.254.23:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZZihyRejv8lHTwTnNCGF0IB6U9kS-L34L3v0ch6k_30&security=reality&sid=4f339f5f&sni=subscribe.goonars.com&type=tcp#🇺🇸 США 12 UAB Cherry Servers

@@ -5,6 +5,7 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
 vless://07df3711-07a1-4649-9a61-3f16cb931d02@136.148.213.229:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XQWaIMBPo0mpWs3MooxxkjWNSgxnkIESd_2PnR8_2HA&security=reality&sid=1061f1b1cdaad3ad&sni=3fb2b6t.se2.h1clayd.click&type=tcp#🇸🇪 Швеция 1 Hostup AB
-vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@195.206.235.19:443?encryption=none&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc#🇸🇪 Швеция 2 Hostup AB
-vless://07df3711-07a1-4649-9a61-3f16cb931d02@136.148.213.229:443?encryption=none&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se2.h1clayd.click&type=grpc#🇸🇪 Швеция 3 Hostup AB
-vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&security=reality&sid=c6f97313&sni=get.jarbook.net&type=tcp#🇸🇪 Швеция 4 UAB Cherry Servers
+vless://07df3711-07a1-4649-9a61-3f16cb931d02@136.148.213.229:443?encryption=none&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se2.h1clayd.click&type=grpc#🇸🇪 Швеция 2 Hostup AB
+vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@195.206.235.19:443?encryption=none&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc#🇸🇪 Швеция 3 Hostup AB
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@201.8.87.150:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0q-auqEPBR3lETnoHLdm7OVbM0DWZQq74z_JV7WznUk&security=reality&sid=ff25c7e7c95baabf&sni=se1.hat.onl&type=tcp#🇸🇪 Швеция 4 Paul Sagov
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&security=reality&sid=c6f97313&sni=get.jarbook.net&type=tcp#🇸🇪 Швеция 5 UAB Cherry Servers

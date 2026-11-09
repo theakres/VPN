@@ -4,7 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNC40L3Qu9GP0L3QtNC40Y8=
-vless://1cdafc9c-ae44-44d6-a048-8454c5d26733@83.141.75.138:2066?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=y0r0Li8Pf9Nmr7u8zoT5_oeZL31jpZEmt9R2A-JwXns&security=reality&sid=d18f4e&sni=node-f9e67aae.g-magnum.icu&type=tcp#🇫🇮 Финляндия 1 AEZA GROUP LLC
-vless://1cdafc9c-ae44-44d6-a048-8454c5d26733@45.129.124.16:2066?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cJI_cc-h4mGAzDf46UX_eYstthcmXFUVIO3mT3M9zG0&security=reality&sid=d18f4e&sni=node-44c495a4.g-magnum.icu&type=tcp#🇫🇮 Финляндия 2 AEZA GROUP LLC
-vless://44285ef8-77e0-4d48-a1fc-e5cf58898f87@157.180.81.207:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=TcpTlsDigikaLa.SavfaSf.iR&type=tcp#🇫🇮 Финляндия 3 Hetzner Online GmbH
-vless://44285ef8-77e0-4d48-a1fc-e5cf58898f87@157.180.81.207:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=tcptlsdigikala.savfasf.ir.&type=tcp#🇫🇮 Финляндия 4 Hetzner Online GmbH
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.49.108:8443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇫🇮 Финляндия 1 Cloudflare, Inc.
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@109.120.134.181:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇫🇮 Финляндия 2 Cloudflare, Inc.
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.124.157:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇫🇮 Финляндия 3 Cloudflare, Inc.
+vless://1cdafc9c-ae44-44d6-a048-8454c5d26733@83.141.75.138:2066?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=y0r0Li8Pf9Nmr7u8zoT5_oeZL31jpZEmt9R2A-JwXns&security=reality&sid=d18f4e&sni=node-f9e67aae.g-magnum.icu&type=tcp#🇫🇮 Финляндия 4 AEZA GROUP LLC
+vless://1cdafc9c-ae44-44d6-a048-8454c5d26733@45.129.124.16:2066?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cJI_cc-h4mGAzDf46UX_eYstthcmXFUVIO3mT3M9zG0&security=reality&sid=d18f4e&sni=node-44c495a4.g-magnum.icu&type=tcp#🇫🇮 Финляндия 5 AEZA GROUP LLC
