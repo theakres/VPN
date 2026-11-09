@@ -4,6 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
-vless://07df3711-07a1-4649-9a61-3f16cb931d02@195.206.235.118:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XQWaIMBPo0mpWs3MooxxkjWNSgxnkIESd_2PnR8_2HA&security=reality&sid=1061f1b1cdaad3ad&sni=3fb2b6t.se2.h1clayd.click&type=tcp#🇸🇪 Швеция 1 Hostup AB
-vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@195.206.235.19:443?encryption=none&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc#🇸🇪 Швеция 2 Hostup AB
-vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&security=reality&sid=c6f97313&sni=get.jarbook.net&type=tcp#🇸🇪 Швеция 3 UAB Cherry Servers
+vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@195.206.235.19:443?encryption=none&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc#🇸🇪 Швеция 1 Hostup AB
+vless://50ed9601-ebd4-4ba7-a234-ffe642d351cd@95.85.241.135:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=eX0Jyx00657eiq6MA_zNfcFJBY7IcJ88sAMOP5pKzXA&security=reality&sid=be122b3aae01586d&sni=media.freepeople2025.cc&type=tcp#🇸🇪 Швеция 2 OC NETWORKS LIMITED
+vless://155fd9d4-e1f9-44b3-99b6-6d2c389ade88@201.8.87.150:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0q-auqEPBR3lETnoHLdm7OVbM0DWZQq74z_JV7WznUk&security=reality&sid=ff25c7e7c95baabf&sni=se1.hat.onl&type=tcp#🇸🇪 Швеция 3 Paul Sagov
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&security=reality&sid=c6f97313&sni=get.jarbook.net&type=tcp#🇸🇪 Швеция 4 UAB Cherry Servers

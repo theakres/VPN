@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpdC+0YDQstCw0YLQuNGP
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@94.183.195.122:20033?encryption=none&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=eu64.cdn77.icu&type=tcp#🇭🇷 Хорватия 1 Akton d.o.o.
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:50131?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=D-7bbtY-0R7n8bX_n-tMlnNPkgy1-y7zaxQvmHrcAHQ&security=reality&sid=edcd88f8279bfd9b&sni=api.adidas.com&type=tcp#🇭🇷 Хорватия 2 GLOBAL CONNECTIVITY SOLUTIONS LLP

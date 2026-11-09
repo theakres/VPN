@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkNCy0YHRgtGA0LjRjw==
+vless://b3e8320f-dbf6-423f-8f86-c3c5d663467f@159.195.245.91:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4vN6lpdXLv0wGwYmcrC58O0updFdEBGtrsat0XVRSiY&security=reality&sid=7330f22a41fb280a&sni=vena.xvanta.online&type=tcp#🇦🇹 Австрия 1 netcup GmbH
+vless://3f25b15b-1777-4c08-9ade-60336ac92a82@81.177.215.81:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&security=reality&sid=7c8e3d4a9b1f26d3&sni=misha2.plus-hit.ru&type=tcp#🇦🇹 Австрия 2 netcup GmbH
