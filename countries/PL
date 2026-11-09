@@ -4,14 +4,4 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQn9C+0LvRjNGI0LA=
-vless://55458d10-24ab-4ea6-a522-13741b546f2a@201.58.139.68:443?encryption=none&fp=firefox&pbk=ixnCbdlT5sAVd-ilp2nG11CvnNsBCf9xPD56TlXxlR4&security=reality&sid=a91531ad58c8611c&sni=d58daft.plp1.h1cloud.net&type=tcp#🇵🇱 Польша 1 Paul Sagov
-vless://74610801-c200-4b13-a10b-7076f879e293@201.58.139.66:443?encryption=none&fp=firefox&path=/9cfea7f52977&pbk=U5FM42DTg-iIthYBIw3W4lKxse_PmSVPBR8PDuYVNiw&security=reality&sid=a9ce2c1de6684f6e&sni=aed6c4x.pl7.h1clayd.click&type=xhttp#🇵🇱 Польша 2 Paul Sagov
-vless://74610801-c200-4b13-a10b-7076f879e293@201.58.139.66:443?encryption=none&fp=firefox&pbk=9gFDg7JnLoWPWy5_53PA8Mr3OgemFuCGWer5rnctRQQ&security=reality&sid=157df8dd7130ad40&sni=93594at.pl7.h1clayd.click&type=tcp#🇵🇱 Польша 3 Paul Sagov
-vless://55458d10-24ab-4ea6-a522-13741b546f2a@201.58.139.68:443?encryption=none&fp=firefox&pbk=cWC6AGVZ9ke_eCTWXEB-eLdf670CuoP9zP-1k8DrPxo&security=reality&serviceName=d5d6142b8b66&sid=8ae9cc8c9447c95a&sni=13e1cfg.plp1.h1cloud.net&type=grpc#🇵🇱 Польша 4 Paul Sagov
-vless://74610801-c200-4b13-a10b-7076f879e293@201.58.139.66:443?encryption=none&fp=firefox&host=aed6c4x.pl7.h1clayd.click&path=/9cfea7f52977&pbk=U5FM42DTg-iIthYBIw3W4lKxse_PmSVPBR8PDuYVNiw&security=reality&sid=a9ce2c1de6684f6e&sni=aed6c4x.pl7.h1clayd.click&type=xhttp#🇵🇱 Польша 5 Paul Sagov
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@217.60.33.101:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YElt1bioVqHB6VIEFCqqiKFm9eLd2W8R8aqZAkkvUHg&security=reality&sid=3b306f15c6057d55&sni=cz-b1.pythonmakemigreat.wiki&type=tcp#🇵🇱 Польша 6 ExpressHost Ltd
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@217.60.33.101:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YElt1bioVqHB6VIEFCqqiKFm9eLd2W8R8aqZAkkvUHg&security=reality&sid=2171ecf33df62f7e&sni=cz-b1.pythonmakemigreat.wiki&type=tcp#🇵🇱 Польша 7 ExpressHost Ltd
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@217.60.33.101:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YElt1bioVqHB6VIEFCqqiKFm9eLd2W8R8aqZAkkvUHg&security=reality&sid=6addc3f2d5de1eca&sni=cz-b1.pythonmakemigreat.wiki&type=tcp#🇵🇱 Польша 8 ExpressHost Ltd
-vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:58749?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cG3XTVTPSxNTGwnQqzkwwTCkf1Bb4znRU13_En3hOls&security=reality&sid=d2e6c6c5&sni=api.adidas.com&type=tcp#🇵🇱 Польша 9 Cloudflare, Inc.
-vless://d7ddade6-b7a0-4cab-a910-d5d5c378d98a@201.58.189.105:2083?encryption=none&fp=firefox&pbk=B7x5bYp-YhtLeH31zYcilpKFCkGTMe3jtSECSw-bMC4&security=reality&serviceName=google.storage.v2.Storage&sid=8bd80253&sni=dl.google.com&type=grpc#🇵🇱 Польша 10 PLAY2GO - FZCO
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.102:4444?sni=pl1.nexfile.net#🇵🇱 Польша 11 SERV.HOST GROUP LTD
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.102:4444?sni=pl1.nexfile.net#🇵🇱 Польша SERV.HOST GROUP LTD
