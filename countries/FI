@@ -4,5 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNC40L3Qu9GP0L3QtNC40Y8=
-vless://8af1ac56-283b-4fc5-bb33-6892498a0592@83.171.241.244:25310?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TTRwt0Zvu8OWBLFTI3VQv7m8w01VAmRxtghhLIKuXXc&security=reality&sid=69ca1a9ff751056f&sni=cabinet.evotor.ru&type=tcp#🇫🇮 Финляндия 1 Hetzner Online GmbH
-vless://12eb1c39-4903-4a4f-84a2-2aff7045a770@65.109.209.81:2095?encryption=none&fp=firefox&headerType=http&security=tls&sni=fxvip.finuxmaster.shop&type=tcp#🇫🇮 Финляндия 2 Hetzner Online GmbH
+vless://12eb1c39-4903-4a4f-84a2-2aff7045a770@65.109.209.81:2095?encryption=none&fp=firefox&headerType=http&security=tls&sni=fxvip.finuxmaster.shop&type=tcp#🇫🇮 Финляндия 1 Hetzner Online GmbH
+vless://8af1ac56-283b-4fc5-bb33-6892498a0592@83.171.241.244:25310?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TTRwt0Zvu8OWBLFTI3VQv7m8w01VAmRxtghhLIKuXXc&security=reality&sid=69ca1a9ff751056f&sni=cabinet.evotor.ru&type=tcp#🇫🇮 Финляндия 2 Hetzner Online GmbH
+vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@177.202.65.172:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=roCi4kn1u86MOKkcvNKl-F-lMTUjBo7-Innd1W5slGE&security=reality&sni=cap.streamclubz.com&type=tcp#🇫🇮 Финляндия 3 PLAY2GO - FZCO
+vless://8986720a-80bb-4c7e-a3af-ff5374e198a9@179.253.82.24:443?encryption=none&fp=firefox&security=tls&sni=finland2.banovano.space&type=grpc#🇫🇮 Финляндия 4 SERV.HOST GROUP LTD
