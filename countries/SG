@@ -4,8 +4,9 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQodC40L3Qs9Cw0L/Rg9GA
-vless://1ab92b9c-9a46-4a06-9a12-1c118fd138f6@188.166.182.158:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8aRRz5a2rhOHIRjE3o3qckxmQNWh-IVGTv16Snyze2M&security=reality&sid=c44f5e04e67b2c74&sni=www.bing.com&type=tcp#🇸🇬 Сингапур 1 DigitalOcean, LLC
-vless://ec88e991-7f74-4615-a488-c3a91cc6f362@188.166.182.158:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PQ8fVzaFrD3ANIzDmgE67H6FhCkQUbNymBkqe35fPjw&security=reality&sid=6f903d8e630fc0aa&sni=www.bing.com&type=tcp#🇸🇬 Сингапур 2 DigitalOcean, LLC
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@172.104.60.54:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇸🇬 Сингапур 3 Cloudflare, Inc.
-vless://c5f59ef3-9540-49fa-bd1e-c6c2f79df49a@134.255.211.36:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KcI3PoYu2yF7whv-e0C7JnRyUoUiUDu6tOlUBPYYbCk&security=reality&sid=2e96bf6afa823abb&sni=sg-sin.probe.geomyip.com&type=tcp#🇸🇬 Сингапур 4 M247 Europe SRL
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@2.26.201.194:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇸🇬 Сингапур 5 Oracle Corporation
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@172.104.60.54:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇸🇬 Сингапур 1 Cloudflare, Inc.
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@157.230.248.19:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇸🇬 Сингапур 2 Cloudflare, Inc.
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@143.42.66.91:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇸🇬 Сингапур 3 Cloudflare, Inc.
+vless://1ab92b9c-9a46-4a06-9a12-1c118fd138f6@188.166.182.158:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8aRRz5a2rhOHIRjE3o3qckxmQNWh-IVGTv16Snyze2M&security=reality&sid=c44f5e04e67b2c74&sni=www.bing.com&type=tcp#🇸🇬 Сингапур 4 DigitalOcean, LLC
+vless://ec88e991-7f74-4615-a488-c3a91cc6f362@188.166.182.158:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PQ8fVzaFrD3ANIzDmgE67H6FhCkQUbNymBkqe35fPjw&security=reality&sid=6f903d8e630fc0aa&sni=www.bing.com&type=tcp#🇸🇬 Сингапур 5 DigitalOcean, LLC
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@2.26.201.194:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇸🇬 Сингапур 6 Shenzhen Tencent Computer Systems Company Limited
