@@ -4,5 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQm9Cw0YLQstC40Y8=
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@217.60.60.243:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&security=reality&sni=lv.peregrine-sub.net&type=tcp#🇱🇻 Латвия 1 CGI GLOBAL LIMITED
-vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@195.123.209.32:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=lv1.hat.onl&type=tcp#🇱🇻 Латвия 2 ROUTE 95 LLC
+vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@195.123.209.32:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=lv1.hat.onl&type=tcp#🇱🇻 Латвия 1 ROUTE 95 LLC
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@195.123.209.32:443?encryption=none&fp=firefox&host=p0pde6ftm1o.hat.onl&path=/media/v2/stream/rnhi74549x87&security=tls&sni=p0pde6ftm1o.hat.onl&type=xhttp#🇱🇻 Латвия 2 ROUTE 95 LLC
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@217.60.60.243:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&security=reality&sni=lv.peregrine-sub.net&type=tcp#🇱🇻 Латвия 3 CGI GLOBAL LIMITED
