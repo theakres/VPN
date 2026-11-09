@@ -4,7 +4,4 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNC40L3Qu9GP0L3QtNC40Y8=
-vless://44285ef8-77e0-4d48-a1fc-e5cf58898f87@157.180.81.207:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=TcpTlsDigikaLa.SavfaSf.iR&type=tcp#🇫🇮 Финляндия 1 Hetzner Online GmbH
-vless://12eb1c39-4903-4a4f-84a2-2aff7045a770@65.109.209.81:2095?encryption=none&fp=firefox&headerType=http&security=tls&sni=fxvip.finuxmaster.shop&type=tcp#🇫🇮 Финляндия 2 Hetzner Online GmbH
-vless://8af1ac56-283b-4fc5-bb33-6892498a0592@83.171.241.244:25310?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TTRwt0Zvu8OWBLFTI3VQv7m8w01VAmRxtghhLIKuXXc&security=reality&sid=69ca1a9ff751056f&sni=cabinet.evotor.ru&type=tcp#🇫🇮 Финляндия 3 Hetzner Online GmbH
-vless://8986720a-80bb-4c7e-a3af-ff5374e198a9@179.253.82.24:443?encryption=none&fp=firefox&security=tls&sni=finland2.banovano.space&type=grpc#🇫🇮 Финляндия 4 SERV.HOST GROUP LTD
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@2.27.175.225:8443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇫🇮 Финляндия Cloudflare, Inc.

@@ -4,8 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQotGD0YDRhtC40Y8=
-vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@185.147.27.23:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=tr1.hat.onl&type=tcp#🇹🇷 Турция 1 WEDEPLOY SAS
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@185.147.27.23:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=tr1.hat.onl&type=tcp#🇹🇷 Турция 2 WEDEPLOY SAS
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@91.232.103.51:443?encryption=none&fp=firefox&security=tls&serviceName=hls-vod.n5dihxdwzg6.segment-20-v1-a1.ts&sni=s2wxzsqb.hat.onl&type=grpc#🇹🇷 Турция 3 WEDEPLOY SAS
-vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@91.232.103.51:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=tr1.hat.onl&type=tcp#🇹🇷 Турция 4 WEDEPLOY SAS
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@132.243.173.113:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=58OdCgSElaaOVj6XfrFwYqZoP4soDzY7MvRaaR5pCXk&security=reality&sid=ab7cbe5f&sni=tr-edge.gacvpn.site&type=tcp#🇹🇷 Турция 5 Edge Core FZE
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@185.147.27.23:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=tr1.hat.onl&type=tcp#🇹🇷 Турция 1 WEDEPLOY SAS
+vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@185.147.27.23:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=tr1.hat.onl&type=tcp#🇹🇷 Турция 2 WEDEPLOY SAS
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@132.243.173.113:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=58OdCgSElaaOVj6XfrFwYqZoP4soDzY7MvRaaR5pCXk&security=reality&sid=ab7cbe5f&sni=tr-edge.gacvpn.site&type=tcp#🇹🇷 Турция 3 Edge Core FZE
