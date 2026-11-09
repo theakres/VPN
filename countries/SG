@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQodC40L3Qs9Cw0L/Rg9GA
+vless://1ab92b9c-9a46-4a06-9a12-1c118fd138f6@188.166.182.158:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8aRRz5a2rhOHIRjE3o3qckxmQNWh-IVGTv16Snyze2M&security=reality&sid=c44f5e04e67b2c74&sni=www.bing.com&type=tcp#🇸🇬 Сингапур 1 DigitalOcean, LLC
+vless://ec88e991-7f74-4615-a488-c3a91cc6f362@188.166.182.158:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PQ8fVzaFrD3ANIzDmgE67H6FhCkQUbNymBkqe35fPjw&security=reality&sid=6f903d8e630fc0aa&sni=www.bing.com&type=tcp#🇸🇬 Сингапур 2 DigitalOcean, LLC

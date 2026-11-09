@@ -6,4 +6,5 @@
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNC40L3Qu9GP0L3QtNC40Y8=
 vless://1cdafc9c-ae44-44d6-a048-8454c5d26733@83.141.75.138:2066?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=y0r0Li8Pf9Nmr7u8zoT5_oeZL31jpZEmt9R2A-JwXns&security=reality&sid=d18f4e&sni=node-f9e67aae.g-magnum.icu&type=tcp#🇫🇮 Финляндия 1 AEZA GROUP LLC
 vless://1cdafc9c-ae44-44d6-a048-8454c5d26733@45.129.124.16:2066?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cJI_cc-h4mGAzDf46UX_eYstthcmXFUVIO3mT3M9zG0&security=reality&sid=d18f4e&sni=node-44c495a4.g-magnum.icu&type=tcp#🇫🇮 Финляндия 2 AEZA GROUP LLC
-vless://44285ef8-77e0-4d48-a1fc-e5cf58898f87@157.180.81.207:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=tcptlsdigikala.savfasf.ir&type=tcp#🇫🇮 Финляндия 3 Hetzner Online GmbH
+vless://44285ef8-77e0-4d48-a1fc-e5cf58898f87@157.180.81.207:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=TcpTlsDigikaLa.SavfaSf.iR&type=tcp#🇫🇮 Финляндия 3 Hetzner Online GmbH
+vless://44285ef8-77e0-4d48-a1fc-e5cf58898f87@157.180.81.207:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=tcptlsdigikala.savfasf.ir.&type=tcp#🇫🇮 Финляндия 4 Hetzner Online GmbH
