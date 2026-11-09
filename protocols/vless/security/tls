@@ -4,40 +4,33 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=assets.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 1 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&security=tls&serviceName=gw.v2.PushService&sni=api.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 2 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=hub.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 3 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.150:443?encryption=none&fp=firefox&security=tls&serviceName=stats.v2.StreamService&sni=images.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 4 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=edge.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 5 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.150:443?encryption=none&fp=firefox&security=tls&serviceName=stats.v2.StreamService&sni=app.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 6 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.152:443?encryption=none&fp=firefox&security=tls&serviceName=api.v1.FeedService&sni=rpc.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 7 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.150:443?encryption=none&fp=firefox&security=tls&serviceName=stats.v2.StreamService&sni=cdn.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 8 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.149:443?encryption=none&fp=firefox&security=tls&serviceName=home.v2.MetricsService&sni=img.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 9 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.150:443?encryption=none&fp=firefox&security=tls&serviceName=stats.v2.StreamService&sni=images.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 1 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.152:443?encryption=none&fp=firefox&security=tls&serviceName=api.v1.FeedService&sni=relay.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 2 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&security=tls&serviceName=gw.v2.PushService&sni=api.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 3 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.149:443?encryption=none&fp=firefox&security=tls&serviceName=home.v2.MetricsService&sni=img.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 4 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&security=tls&serviceName=gw.v2.PushService&sni=get.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 5 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.150:443?encryption=none&fp=firefox&security=tls&serviceName=stats.v2.StreamService&sni=cdn.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 6 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=hub.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 7 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=assets.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 8 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.152:443?encryption=none&fp=firefox&security=tls&serviceName=api.v1.FeedService&sni=fetch.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 9 NovoServe B.V.
 vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&security=tls&serviceName=gw.v2.PushService&sni=stats.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 10 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.152:443?encryption=none&fp=firefox&security=tls&serviceName=api.v1.FeedService&sni=relay.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 11 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.152:443?encryption=none&fp=firefox&security=tls&serviceName=api.v1.FeedService&sni=fetch.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 12 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&security=tls&serviceName=gw.v2.PushService&sni=get.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 13 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.152:443?encryption=none&fp=firefox&security=tls&serviceName=api.v1.FeedService&sni=rpc.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 11 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.150:443?encryption=none&fp=firefox&security=tls&serviceName=stats.v2.StreamService&sni=app.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 12 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=edge.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 13 NovoServe B.V.
 vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.149:443?encryption=none&fp=firefox&security=tls&serviceName=home.v2.MetricsService&sni=net.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 14 NovoServe B.V.
-vless://17923e69-98e0-4952-a599-9c848c1b8ffe@94.183.164.92:39443?encryption=none&fp=firefox&security=tls&serviceName=hls.5nd8-y0dx.lfm6tQMz2FNwh-fo0ugHo6dYDCvUyg.m3u8&sni=x0c8j8znhp8ou.hat.onl&type=grpc#🇳🇱 Нидерланды 15 Vladislav Doniy
-vless://17923e69-98e0-4952-a599-9c848c1b8ffe@94.183.164.92:8443?encryption=none&fp=firefox&security=tls&serviceName=hls.5nd8-y0dx.lfm6tQMz2FNwh-fo0ugHo6dYDCvUyg.m3u8&sni=x0c8j8znhp8ou.hat.onl&type=grpc#🇳🇱 Нидерланды 16 Vladislav Doniy
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.119.229:8443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇩🇪 Германия 1 Cloudflare, Inc.
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@178.128.199.136:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇩🇪 Германия 2 Cloudflare, Inc.
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇩🇪 Германия 3 Cloudflare, Inc.
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.192.27.171:2053?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇩🇪 Германия 4 Cloudflare, Inc.
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@188.137.178.174:8443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇩🇪 Германия 5 Cloudflare, Inc.
-vless://cbd6c099-5d4f-467e-86d2-92cb292892fb@87.120.126.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=gr.connect-qik.uk&type=tcp#🇩🇪 Германия 6 H2NEXUS CLOUD SERVICES - FZCO
-vless://bc6c3e9a-592c-46b9-ad48-87c052c64486@87.120.126.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=gr.connect-qik.uk&type=tcp#🇩🇪 Германия 7 H2NEXUS CLOUD SERVICES - FZCO
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@172.104.60.54:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇸🇬 Сингапур 1 Cloudflare, Inc.
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@157.230.248.19:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇸🇬 Сингапур 2 Cloudflare, Inc.
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@143.42.66.91:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇸🇬 Сингапур 3 Cloudflare, Inc.
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@2.26.201.194:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇸🇬 Сингапур 4 FDCservers.net
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.49.108:8443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇫🇮 Финляндия 1 Cloudflare, Inc.
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.124.157:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇫🇮 Финляндия 2 Cloudflare, Inc.
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@109.120.134.181:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇫🇮 Финляндия 3 Cloudflare, Inc.
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.254.187:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇯🇵 Япония 1 Cloudflare, Inc.
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.248.210:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇯🇵 Япония 2 Cloudflare, Inc.
-vless://aee81653-1fec-469f-98b2-a8d476b96f51@83.141.71.157:443?encryption=none&fp=firefox&security=tls&serviceName=assets&sni=fras.qiksme.com&type=grpc#🇮🇪 Ирландия NetCrafters OU
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.149:443?encryption=none&fp=firefox&security=tls&serviceName=home.v2.MetricsService&sni=data.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 15 NovoServe B.V.
+vless://17923e69-98e0-4952-a599-9c848c1b8ffe@94.183.164.92:39443?encryption=none&fp=firefox&security=tls&serviceName=hls.5nd8-y0dx.lfm6tQMz2FNwh-fo0ugHo6dYDCvUyg.m3u8&sni=x0c8j8znhp8ou.hat.onl&type=grpc#🇳🇱 Нидерланды 16 Vladislav Doniy
+vless://17923e69-98e0-4952-a599-9c848c1b8ffe@94.183.164.92:8443?encryption=none&fp=firefox&security=tls&serviceName=hls.5nd8-y0dx.lfm6tQMz2FNwh-fo0ugHo6dYDCvUyg.m3u8&sni=x0c8j8znhp8ou.hat.onl&type=grpc#🇳🇱 Нидерланды 17 Vladislav Doniy
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@178.128.199.136:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇩🇪 Германия 1 Cloudflare, Inc.
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@188.137.178.174:8443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇩🇪 Германия 2 Cloudflare, Inc.
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.192.27.171:2053?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇩🇪 Германия 3 Cloudflare, Inc.
+vless://cbd6c099-5d4f-467e-86d2-92cb292892fb@87.120.126.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=gr.connect-qik.uk&type=tcp#🇩🇪 Германия 4 H2NEXUS CLOUD SERVICES - FZCO
+vless://bc6c3e9a-592c-46b9-ad48-87c052c64486@87.120.126.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=gr.connect-qik.uk&type=tcp#🇩🇪 Германия 5 H2NEXUS CLOUD SERVICES - FZCO
+vless://63b27e94-9aae-47f4-b92d-a5b0c736d9f3@45.88.12.105:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=va.stream-room.com&type=ws#🇩🇪 Германия 6 UXHOST LTD
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.124.157:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇫🇮 Финляндия 1 Cloudflare, Inc.
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@109.120.134.181:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇫🇮 Финляндия 2 Cloudflare, Inc.
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.49.108:8443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇫🇮 Финляндия 3 Cloudflare, Inc.
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@185.14.97.242:8443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇳🇴 Норвегия Cloudflare, Inc.
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@151.245.112.193:8443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇵🇱 Польша Cloudflare, Inc.
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@5.253.38.69:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇺🇸 США Cloudflare, Inc.
-vless://d5748db0-0031-4b9e-b43c-6c3986a9b5ed@46.8.64.24:443?encryption=none&fp=firefox&host=riga.zovip2.ir&path=/api/v3/pulse&security=tls&sni=riga.zovip2.ir&type=ws#🇹🇷 Турция Netlen Internet Hizmetleri Ltd. Sti.
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@157.230.248.19:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇸🇬 Сингапур Cloudflare, Inc.
+vless://2c302804-1716-4a59-a282-15b0a528ed60@153.52.255.32:443?encryption=none&fp=firefox&host=web-production-de397.up.railway.app&path=/ws/2c302804-1716-4a59-a282-15b0a528ed60&security=tls&sni=web-production-de397.up.railway.app&type=ws#🇺🇸 США Google LLC
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.248.210:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇯🇵 Япония Cloudflare, Inc.

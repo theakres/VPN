@@ -4,4 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQm9Cw0YLQstC40Y8=
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@217.60.60.243:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&security=reality&sni=lv.peregrine-sub.net&type=tcp#🇱🇻 Латвия CGI GLOBAL LIMITED
+vless://636ed4bc-a7d8-4ce4-84a2-319b547daa12@104.165.205.10:11443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v7mTeSeI2Wn2fz55BIikwcXvasry1oq_BC_bsf6OSSw&security=reality&sid=76a8cdb9262db20a&sni=104.165.205.10&type=tcp#🇱🇻 Латвия 1 Intars Rupeiks
+vless://636ed4bc-a7d8-4ce4-84a2-319b547daa12@104.165.205.11:11443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=t4nUImI52AuYuVYx0Wv-VHxX--IA9ROdnS2GRURKTXE&security=reality&sid=670701520d072fba&sni=104.165.205.11&type=tcp#🇱🇻 Латвия 2 Intars Rupeiks
+vless://636ed4bc-a7d8-4ce4-84a2-319b547daa12@104.165.205.16:11443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=LO0uXoSfKt_Aac1id60D9IvEx7g4oCSj714qUSyvj0I&security=reality&sid=1191b77700247bd1&sni=104.165.205.16&type=tcp#🇱🇻 Латвия 3 Intars Rupeiks
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@217.60.60.243:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&security=reality&sni=lv.peregrine-sub.net&type=tcp#🇱🇻 Латвия 4 CGI GLOBAL LIMITED

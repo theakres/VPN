@@ -1,0 +1,10 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrtC20L3QsNGPINCa0L7RgNC10Y8=
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:2096?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=71OwuN_2X-et_42RLIteY2parqX2cARuv-718eg_VD4&security=reality&sid=b88b4ed92599c16a&sni=api.amazonalexa.com&type=tcp#🇰🇷 Южная Корея 1 Korea Telecom
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:50135?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ugirklnmY9hUeY9BQ9rdeVbu29iGblEM8N2_HHA8Rk4&security=reality&sid=8cd0eddfb0&sni=api.adidas.com&type=tcp#🇰🇷 Южная Корея 2 LG DACOM Corporation
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:8883?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vDVvkf5fv8QywL2zrBWYLhkBdrQCDW7dq8fh-YeBnBY&security=reality&sid=ebdd94f3e17a4620&sni=calculator.aws&type=tcp#🇰🇷 Южная Корея 3 MOACK.Co.LTD
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:5455?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=57RM7KBz_R-RMNj9BbOXK8yYz0e8Mjv7iA8FvKGbnXU&security=reality&sid=bb32911d6c&sni=api.adidas.com&type=tcp#🇰🇷 Южная Корея 4 SK Broadband Co Ltd
