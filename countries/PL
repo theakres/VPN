@@ -4,5 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQn9C+0LvRjNGI0LA=
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@201.58.139.66:443?encryption=none&fp=firefox&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&security=reality&sid=6c5c7900406a1ae7&sni=57aac2t.pl7.h1clayd.click&type=tcp#🇵🇱 Польша 1 Paul Sagov
-vless://a4e5f910-23f4-470f-82a7-ed9d7be71dec@5.59.204.224:8455?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=d6qmF8ibk_PxtDJPzSa7LKw9VUI_mZ59DrTvmW3RaFc&security=reality&sid=10983e6c816181c2&sni=notes.ncknms.com&type=tcp#🇵🇱 Польша 2 VPSPay Networks LTD
+vless://4d30ffc2-c917-407b-b71f-6a7ca09e939f@213.21.232.4:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=N3MUCErqyQmpQEwMzDPwz2mZERG0Q2dopPNX-3PpE2M&security=reality&sid=455152c2797fea2b&sni=mytubeproxy10.duckdns.org&type=tcp#🇵🇱 Польша 1 OC NETWORKS LIMITED
+hysteria2://4b13c29ebe735e47@213.21.232.4:443?sni=mytubeproxy10.duckdns.org#🇵🇱 Польша 2 OC NETWORKS LIMITED
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@138.124.242.46:8443?encryption=none&fp=firefox&security=tls&serviceName=connect-pl&sni=pl2-edge.gacvpn.site&type=grpc#🇵🇱 Польша 3 Intezio Worldwide Limited
+vless://a4e5f910-23f4-470f-82a7-ed9d7be71dec@5.59.204.224:8455?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=d6qmF8ibk_PxtDJPzSa7LKw9VUI_mZ59DrTvmW3RaFc&security=reality&sid=10983e6c816181c2&sni=notes.ncknms.com&type=tcp#🇵🇱 Польша 4 VPSPay Networks LTD
