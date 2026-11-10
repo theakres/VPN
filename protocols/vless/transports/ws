@@ -4,8 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
-vless://79468a8e-5328-43ee-88c8-1fc0508c4932@85.133.230.238:443?encryption=none&fp=firefox&host=skyroom.online.ljude22.mafule.top&security=tls&sni=skyroom.online.ljude22.mafule.top&type=ws#🇩🇪 Германия 1 Hetzner Online GmbH
-vless://63b27e94-9aae-47f4-b92d-a5b0c736d9f3@45.88.12.105:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=va.stream-room.com&type=ws#🇩🇪 Германия 2 UXHOST LTD
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@163.47.43.52:8443?encryption=none&fp=firefox&host=vp4.1145678.xyz&security=tls&sni=vp4.1145678.xyz&type=ws#🇺🇸 США 1 Cloudflare, Inc.
-vless://bd3ef146-430a-4df1-9dc2-84412d003bf4@153.52.255.17:443?encryption=none&fp=firefox&host=mohsen13-production.up.railway.app&path=/ws/bd3ef146-430a-4df1-9dc2-84412d003bf4&security=tls&sni=mohsen13-production.up.railway.app&type=ws#🇺🇸 США 2 Railway
+vless://63b27e94-9aae-47f4-b92d-a5b0c736d9f3@45.88.12.105:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=va.stream-room.com&type=ws#🇩🇪 Германия UXHOST LTD
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@163.47.43.52:8443?encryption=none&fp=firefox&host=vp4.1145678.xyz&security=tls&sni=vp4.1145678.xyz&type=ws#🇺🇸 США Cloudflare, Inc.
 vless://50414e45-4c5f-5a45-5553-e759cf52c6be@176.118.214.216:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/e759cf52c6be&security=tls&sni=9lz3z5efu8os.gamewizardbac1k.workers.Dev&type=ws#🇫🇷 Франция Cloudflare, Inc.
+vless://9a4c3e4a-c79e-4f4f-8421-18287c62f23b@132.243.66.71:443?encryption=none&fp=firefox&host=ems341.qorvexedges.com&path=/media/ws/&security=tls&sni=ems341.qorvexedges.com&type=ws#🇪🇪 Эстония Paul Sagov
