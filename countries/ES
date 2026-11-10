@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmNGB0L/QsNC90LjRjw==
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@83.171.241.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&security=reality&sid=42426c882c5fcd41&sni=7aa271t.es1.h1clayd.click&type=tcp#🇪🇸 Испания 1 AP INTERACTIVE SOLUTIONS SL
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@179.236.130.66:20026?encryption=none&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu64.cdn77.icu&type=tcp#🇪🇸 Испания 2 servinga GmbH
