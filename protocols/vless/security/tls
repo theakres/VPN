@@ -4,29 +4,22 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&security=tls&serviceName=gw.v2.PushService&sni=stats.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 1 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=edge.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 2 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=hub.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 3 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&security=tls&serviceName=gw.v2.PushService&sni=get.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 4 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&security=tls&serviceName=gw.v2.PushService&sni=get.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 1 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=assets.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 2 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=edge.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 3 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=hub.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 4 NovoServe B.V.
 vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&security=tls&serviceName=gw.v2.PushService&sni=api.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 5 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=assets.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 6 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&security=tls&serviceName=gw.v2.PushService&sni=stats.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 6 NovoServe B.V.
 vless://17923e69-98e0-4952-a599-9c848c1b8ffe@94.183.164.92:39443?encryption=none&fp=firefox&security=tls&serviceName=hls.5nd8-y0dx.lfm6tQMz2FNwh-fo0ugHo6dYDCvUyg.m3u8&sni=x0c8j8znhp8ou.hat.onl&type=grpc#🇳🇱 Нидерланды 7 Vladislav Doniy
 vless://17923e69-98e0-4952-a599-9c848c1b8ffe@94.183.164.92:8443?encryption=none&fp=firefox&security=tls&serviceName=hls.5nd8-y0dx.lfm6tQMz2FNwh-fo0ugHo6dYDCvUyg.m3u8&sni=x0c8j8znhp8ou.hat.onl&type=grpc#🇳🇱 Нидерланды 8 Vladislav Doniy
-vless://8ba39240-1a6f-4081-95fd-7fc1e0690ae1@130.78.30.152:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=newip.appbmk.org&type=tcp#🇳🇱 Нидерланды 9 ExpressHost Ltd
-vless://2d62008e-800c-4483-aa9a-f3772a2ce773@153.52.255.107:443?encryption=none&fp=firefox&host=mouyhninn-production.up.railway.app&path=/api/xHb3zW&security=tls&sni=mouyhninn-production.up.railway.app&type=xhttp#🇳🇱 Нидерланды 10 Railway
-vless://d6fdf70c-2a7d-4551-8648-d3df2882cd6d@151.123.187.48:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=mebel.dombyt.uk&type=tcp#🇦🇱 Албания 1 Albanian Hosting SH.P.K.
-vless://692f2864-c930-420f-bf47-bd715d154ffa@157.22.240.224:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=allba.connect-qik.uk&type=tcp#🇦🇱 Албания 2 GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://cbd6c099-5d4f-467e-86d2-92cb292892fb@87.120.126.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=gr.connect-qik.uk&type=tcp#🇩🇪 Германия 1 H2NEXUS CLOUD SERVICES - FZCO
-vless://bc6c3e9a-592c-46b9-ad48-87c052c64486@87.120.126.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=gr.connect-qik.uk&type=tcp#🇩🇪 Германия 2 H2NEXUS CLOUD SERVICES - FZCO
-vless://c1208c5a-2350-4506-affd-fc41b4319286@138.124.63.65:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=freshoutlet.cleanfoodshop.org&type=ws#🇱🇻 Латвия 1 GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.88.240:4443?encryption=none&fp=firefox&path=/api/v1/sync/&security=tls&sni=lv3.nexfile.net&type=xhttp#🇱🇻 Латвия 2 SERV.HOST GROUP LTD
-vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@185.221.213.223:443?encryption=none&fp=firefox&host=fr.file-obmen.top&path=/assets/sync-6d2f4a&security=tls&sni=fr.file-obmen.top&type=ws#🇫🇷 Франция 1 OVH SAS
-vless://a2ebfe31-07c2-49a5-9b35-fee3400739c6@83.243.86.72:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=kiki.applepie-recipe.ru&type=tcp#🇫🇷 Франция 2 TAKEHOST OU
-vless://48bbb40c-99b2-45fc-9572-215ea2f233fb@13.143.182.117:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ee.point.cookie-line.cc&type=tcp#🇪🇪 Эстония 1 SERV.HOST GROUP LTD
-vless://92e93429-fd27-43b6-a3af-393e923b564e@13.143.182.117:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ee.point.cookie-line.cc&type=tcp#🇪🇪 Эстония 2 SERV.HOST GROUP LTD
-vless://c1208c5a-2350-4506-affd-fc41b4319286@85.209.158.239:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=segmentpallet.nemoi-self.co.uk&type=ws#🇮🇱 Израиль CLOUD LEASE Ltd
-vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇮🇳 Индия RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED
-vless://48bbb40c-99b2-45fc-9572-215ea2f233fb@31.76.83.104:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=lt-part.cookie-line.cc&type=tcp#🇱🇹 Литва SERV.HOST GROUP LTD
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.88.240:4443?encryption=none&fp=firefox&path=/api/v1/sync/&security=tls&sni=lv3.nexfile.net&type=xhttp#🇱🇻 Латвия 1 SERV.HOST GROUP LTD
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.88.140:4443?encryption=none&fp=firefox&path=/api/v1/sync/&security=tls&sni=lv3.nexfile.net&type=xhttp#🇱🇻 Латвия 2 SERV.HOST GROUP LTD
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.88.140:4443?encryption=none&fp=firefox&host=lv3.nexfile.net&path=/api/v1/sync/&security=tls&sni=lv3.nexfile.net&type=xhttp#🇱🇻 Латвия 3 SERV.HOST GROUP LTD
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@185.221.213.223:443?encryption=none&fp=firefox&path=/assets/sync-6d2f4a&security=tls&sni=fr.file-obmen.top&type=ws#🇫🇷 Франция 1 OVH SAS
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@185.221.213.223:443?encryption=none&fp=firefox&host=fr.file-obmen.top&path=/assets/sync-6d2f4a&security=tls&sni=fr.file-obmen.top&type=ws#🇫🇷 Франция 2 OVH SAS
+vless://50414e45-4c5f-5a45-5553-38441c0ef0f0@159.255.32.80:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/38441c0ef0f0&security=tls&sni=lizufueiu7hs.gameworgame2.workers.Dev&type=ws#🇫🇷 Франция 3 Cloudflare, Inc.
+vless://bc6c3e9a-592c-46b9-ad48-87c052c64486@87.120.126.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=gr.connect-qik.uk&type=tcp#🇩🇪 Германия 1 H2NEXUS CLOUD SERVICES - FZCO
+vless://cbd6c099-5d4f-467e-86d2-92cb292892fb@87.120.126.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=gr.connect-qik.uk&type=tcp#🇩🇪 Германия 2 H2NEXUS CLOUD SERVICES - FZCO
+vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&host=decdn-28.nome-rkp.net&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇮🇳 Индия RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED
 vless://3f25b15b-1777-4c08-9ade-60336ac92a82@81.177.215.81:443?encryption=none&fp=firefox&path=/ws&security=tls&sni=edge-stream.lindenpixel.com&type=ws#🇹🇷 Турция GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://a2ebfe31-07c2-49a5-9b35-fee3400739c6@144.31.150.95:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=kiki.applepie-recipe.ru&type=tcp#🇫🇮 Финляндия Raul Ghita trading as Ghita Telekom
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@64.176.35.228:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=u695098uf08a6307s2544.xxti.top&type=tcp#🇯🇵 Япония The Constant Company, LLC
