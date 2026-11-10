@@ -4,8 +4,10 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQntCx0YXQvtC0INCR0KE=
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?encryption=none&fp=firefox&host=bhjolq0d0l.flowersgood.top&path=/service/telemetry/045d381f1166/&security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws#🇵🇱 Польша 1 Vladislav Doniy
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?encryption=none&fp=firefox&path=/service/telemetry/045d381f1166/&security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws#🇵🇱 Польша 2 Vladislav Doniy
-vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@95.163.232.240:443?encryption=none&fp=firefox&host=files.neurixai.app&path=/api/generate&security=tls&sni=files.neurixai.app&type=ws#🇬🇧 Великобритания 12651980 CANADA INC.
-vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@91.215.40.106:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_BEKGm4aogfkeqroLplieJ58hk4IlNHFP5cWd0oiO0M&security=reality&sid=066ca0781110293d&sni=q.krevetkabs111.net&type=tcp#🇷🇴 Румыния Interkvm Host SRL
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@95.163.232.240:443?encryption=none&fp=firefox&host=files.neurixai.app&path=/api/generate&security=tls&sni=files.neurixai.app&type=ws#🇬🇧 Великобритания 1 12651980 CANADA INC.
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@95.163.232.240:443?encryption=none&fp=firefox&path=/api/generate&security=tls&sni=files.neurixai.app&type=ws#🇬🇧 Великобритания 2 12651980 CANADA INC.
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?encryption=none&fp=firefox&path=/service/telemetry/045d381f1166/&security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws#🇵🇱 Польша 1 Vladislav Doniy
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?encryption=none&fp=firefox&host=bhjolq0d0l.flowersgood.top&path=/service/telemetry/045d381f1166/&security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws#🇵🇱 Польша 2 Vladislav Doniy
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@95.163.209.247:443?encryption=none&fp=firefox&host=fst.krevetkabs111.net&path=/api/generate&security=tls&sni=fst.krevetkabs111.net&type=ws#🇳🇱 Нидерланды Layer7 Technologies Inc
+vless://4ad9f982-b56a-444a-9684-35ce51307a36@109.172.114.57:2058?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&security=reality&sid=937255313d6ce673&sni=www.cloudflare.com&type=tcp#🇨🇭 Швейцария ROUTE 95 LLC
 vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@78.159.245.40:8445?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&security=reality&sni=passport.yandex.ru&type=tcp#🇪🇪 Эстония Paul Sagov
