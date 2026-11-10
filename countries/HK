@@ -1,9 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQk9C+0L3QutC+0L3Qsw==
-vless://2f094d48-7186-47ca-9e57-e977bbac3b08@94.183.195.128:20032?encryption=none&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=eu64.cdn77.icu&type=tcp#🇭🇰 Гонконг 1 M247 Europe SRL
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.133:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=eqplCderOGIAU5oAI4rh401o0eYtuFnlpzGuFGfj_Rk&security=reality&sid=c2cc7aa86d59&sni=psstatic.cdn.bcebos.com&type=tcp#🇭🇰 Гонконг 2 NetLab Global
-hysteria2://65ec84f5-0dd4-4582-8b4f-592e50b22116@23.156.153.18:38080?sni=hk-mm2.473221.xyz&obfs=salamander&obfs-password=qzOK2ChVkFhEdqn1#🇭🇰 Гонконг 3 ZYC Network LLC

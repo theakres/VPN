@@ -4,22 +4,27 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&security=tls&serviceName=gw.v2.PushService&sni=get.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 1 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=assets.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 2 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=edge.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 3 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=hub.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 4 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&security=tls&serviceName=gw.v2.PushService&sni=api.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 5 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&security=tls&serviceName=gw.v2.PushService&sni=stats.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 6 NovoServe B.V.
-vless://17923e69-98e0-4952-a599-9c848c1b8ffe@94.183.164.92:39443?encryption=none&fp=firefox&security=tls&serviceName=hls.5nd8-y0dx.lfm6tQMz2FNwh-fo0ugHo6dYDCvUyg.m3u8&sni=x0c8j8znhp8ou.hat.onl&type=grpc#🇳🇱 Нидерланды 7 Vladislav Doniy
-vless://17923e69-98e0-4952-a599-9c848c1b8ffe@94.183.164.92:8443?encryption=none&fp=firefox&security=tls&serviceName=hls.5nd8-y0dx.lfm6tQMz2FNwh-fo0ugHo6dYDCvUyg.m3u8&sni=x0c8j8znhp8ou.hat.onl&type=grpc#🇳🇱 Нидерланды 8 Vladislav Doniy
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.88.240:4443?encryption=none&fp=firefox&path=/api/v1/sync/&security=tls&sni=lv3.nexfile.net&type=xhttp#🇱🇻 Латвия 1 SERV.HOST GROUP LTD
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.88.140:4443?encryption=none&fp=firefox&path=/api/v1/sync/&security=tls&sni=lv3.nexfile.net&type=xhttp#🇱🇻 Латвия 2 SERV.HOST GROUP LTD
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.88.140:4443?encryption=none&fp=firefox&host=lv3.nexfile.net&path=/api/v1/sync/&security=tls&sni=lv3.nexfile.net&type=xhttp#🇱🇻 Латвия 3 SERV.HOST GROUP LTD
-vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@185.221.213.223:443?encryption=none&fp=firefox&path=/assets/sync-6d2f4a&security=tls&sni=fr.file-obmen.top&type=ws#🇫🇷 Франция 1 OVH SAS
-vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@185.221.213.223:443?encryption=none&fp=firefox&host=fr.file-obmen.top&path=/assets/sync-6d2f4a&security=tls&sni=fr.file-obmen.top&type=ws#🇫🇷 Франция 2 OVH SAS
-vless://50414e45-4c5f-5a45-5553-38441c0ef0f0@159.255.32.80:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/38441c0ef0f0&security=tls&sni=lizufueiu7hs.gameworgame2.workers.Dev&type=ws#🇫🇷 Франция 3 Cloudflare, Inc.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=edge.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 1 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&security=tls&serviceName=gw.v2.PushService&sni=stats.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 2 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&security=tls&serviceName=gw.v2.PushService&sni=get.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 3 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=assets.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 4 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=hub.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 5 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&security=tls&serviceName=gw.v2.PushService&sni=api.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 6 NovoServe B.V.
+vless://692f2864-c930-420f-bf47-bd715d154ffa@193.233.127.149:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=neshka2.kpt99.uk&type=tcp#🇳🇱 Нидерланды 7 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://38de3363-7945-402e-9a9b-6f2f9015a44e@193.233.127.149:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=neshka2.kpt99.uk&type=tcp#🇳🇱 Нидерланды 8 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://17923e69-98e0-4952-a599-9c848c1b8ffe@94.183.164.92:8443?encryption=none&fp=firefox&security=tls&serviceName=hls.5nd8-y0dx.lfm6tQMz2FNwh-fo0ugHo6dYDCvUyg.m3u8&sni=x0c8j8znhp8ou.hat.onl&type=grpc#🇳🇱 Нидерланды 9 Vladislav Doniy
+vless://17923e69-98e0-4952-a599-9c848c1b8ffe@94.183.164.92:39443?encryption=none&fp=firefox&security=tls&serviceName=hls.5nd8-y0dx.lfm6tQMz2FNwh-fo0ugHo6dYDCvUyg.m3u8&sni=x0c8j8znhp8ou.hat.onl&type=grpc#🇳🇱 Нидерланды 10 Vladislav Doniy
+vless://8ba39240-1a6f-4081-95fd-7fc1e0690ae1@130.78.30.152:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=newip.appbmk.org&type=tcp#🇳🇱 Нидерланды 11 ExpressHost Ltd
+vless://38de3363-7945-402e-9a9b-6f2f9015a44e@157.22.240.224:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=allba.connect-qik.uk&type=tcp#🇦🇱 Албания 1 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://692f2864-c930-420f-bf47-bd715d154ffa@157.22.240.224:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=allba.connect-qik.uk&type=tcp#🇦🇱 Албания 2 GLOBAL CONNECTIVITY SOLUTIONS LLP
 vless://bc6c3e9a-592c-46b9-ad48-87c052c64486@87.120.126.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=gr.connect-qik.uk&type=tcp#🇩🇪 Германия 1 H2NEXUS CLOUD SERVICES - FZCO
 vless://cbd6c099-5d4f-467e-86d2-92cb292892fb@87.120.126.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=gr.connect-qik.uk&type=tcp#🇩🇪 Германия 2 H2NEXUS CLOUD SERVICES - FZCO
-vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&host=decdn-28.nome-rkp.net&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇮🇳 Индия RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED
+vless://48bbb40c-99b2-45fc-9572-215ea2f233fb@13.143.182.117:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ee.point.cookie-line.cc&type=tcp#🇪🇪 Эстония 1 SERV.HOST GROUP LTD
+vless://92e93429-fd27-43b6-a3af-393e923b564e@13.143.182.117:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ee.point.cookie-line.cc&type=tcp#🇪🇪 Эстония 2 SERV.HOST GROUP LTD
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.88.240:4443?encryption=none&fp=firefox&path=/api/v1/sync/&security=tls&sni=lv3.nexfile.net&type=xhttp#🇱🇻 Латвия SERV.HOST GROUP LTD
+vless://48bbb40c-99b2-45fc-9572-215ea2f233fb@31.76.83.104:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=lt-part.cookie-line.cc&type=tcp#🇱🇹 Литва SERV.HOST GROUP LTD
+vless://38de3363-7945-402e-9a9b-6f2f9015a44e@185.76.241.84:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=rus2.qik-server.uk&type=tcp#🇷🇺 Россия GLOBAL INTERNET SOLUTIONS LLC
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.76.230.220:18580?encryption=none&fp=firefox&security=tls&sni=us007.zestapp778.com&type=tcp#🇺🇸 США The Constant Company, LLC
 vless://3f25b15b-1777-4c08-9ade-60336ac92a82@81.177.215.81:443?encryption=none&fp=firefox&path=/ws&security=tls&sni=edge-stream.lindenpixel.com&type=ws#🇹🇷 Турция GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://50414e45-4c5f-5a45-5553-38441c0ef0f0@159.255.32.80:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/38441c0ef0f0&security=tls&sni=lizufueiu7hs.gameworgame2.workers.Dev&type=ws#🇫🇷 Франция Cloudflare, Inc.
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@64.176.35.228:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=u695098uf08a6307s2544.xxti.top&type=tcp#🇯🇵 Япония The Constant Company, LLC
