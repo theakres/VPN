@@ -4,5 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkNC70LHQsNC90LjRjw==
-vless://38de3363-7945-402e-9a9b-6f2f9015a44e@157.22.240.224:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=allba.connect-qik.uk&type=tcp#🇦🇱 Албания 1 GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://5d9d19ec-582a-4c3b-9c1e-68c0e752c2af@89.208.113.126:8552?encryption=none&fp=firefox&pbk=ZLP3MK062yecyTyqNlo_W88k3vFbDInzkNYHqQnY4hk&security=reality&serviceName=api/v1/sync/&sid=7d&sni=it.nvidia.com&type=grpc#🇦🇱 Албания 2 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://5d9d19ec-582a-4c3b-9c1e-68c0e752c2af@89.208.113.126:8552?encryption=none&fp=firefox&pbk=ZLP3MK062yecyTyqNlo_W88k3vFbDInzkNYHqQnY4hk&security=reality&serviceName=api/v1/sync/&sid=7d&sni=it.nvidia.com&type=grpc#🇦🇱 Албания 1 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://38de3363-7945-402e-9a9b-6f2f9015a44e@157.22.240.224:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=allba.connect-qik.uk&type=tcp#🇦🇱 Албания 2 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://2daa4463-8c12-4345-a516-2e98862d8c63@89.208.113.126:8552?encryption=none&fp=firefox&pbk=ZLP3MK062yecyTyqNlo_W88k3vFbDInzkNYHqQnY4hk&security=reality&serviceName=api/v1/sync/&sid=7d&sni=it.nvidia.com&type=grpc#🇦🇱 Албания 3 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://692f2864-c930-420f-bf47-bd715d154ffa@157.22.240.224:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=allba.connect-qik.uk&type=tcp#🇦🇱 Албания 4 GLOBAL CONNECTIVITY SOLUTIONS LLP
