@@ -4,7 +4,9 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
-vless://63b27e94-9aae-47f4-b92d-a5b0c736d9f3@45.88.12.105:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=va.stream-room.com&type=ws#🇩🇪 Германия UXHOST LTD
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@163.47.43.52:8443?encryption=none&fp=firefox&host=vp4.1145678.xyz&security=tls&sni=vp4.1145678.xyz&type=ws#🇺🇸 США Cloudflare, Inc.
-vless://50414e45-4c5f-5a45-5553-e759cf52c6be@176.118.214.216:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/e759cf52c6be&security=tls&sni=9lz3z5efu8os.gamewizardbac1k.workers.Dev&type=ws#🇫🇷 Франция Cloudflare, Inc.
-vless://9a4c3e4a-c79e-4f4f-8421-18287c62f23b@132.243.66.71:443?encryption=none&fp=firefox&host=ems341.qorvexedges.com&path=/media/ws/&security=tls&sni=ems341.qorvexedges.com&type=ws#🇪🇪 Эстония Paul Sagov
+vless://50414e45-4c5f-5a45-5553-e759cf52c6be@176.118.214.216:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/e759cf52c6be&security=tls&sni=9lz3z5efu8os.gamewizardbac1k.workers.Dev&type=ws#🇫🇷 Франция 1 Cloudflare, Inc.
+vless://50414e45-4c5f-5a45-5553-38441c0ef0f0@159.255.32.80:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/38441c0ef0f0&security=tls&sni=lizufueiu7hs.gameworgame2.workers.Dev&type=ws#🇫🇷 Франция 2 Cloudflare, Inc.
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@185.221.213.223:443?encryption=none&fp=firefox&host=fr.file-obmen.top&path=/assets/sync-6d2f4a&security=tls&sni=fr.file-obmen.top&type=ws#🇫🇷 Франция 3 OVH SAS
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@185.221.213.223:443?encryption=none&fp=firefox&path=/assets/sync-6d2f4a&security=tls&sni=fr.file-obmen.top&type=ws#🇫🇷 Франция 4 OVH SAS
+vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&host=decdn-28.nome-rkp.net&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇮🇳 Индия RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED
+vless://3f25b15b-1777-4c08-9ade-60336ac92a82@81.177.215.81:443?encryption=none&fp=firefox&path=/ws&security=tls&sni=edge-stream.lindenpixel.com&type=ws#🇹🇷 Турция GLOBAL CONNECTIVITY SOLUTIONS LLP
