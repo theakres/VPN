@@ -4,10 +4,9 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
-vless://bcd3798c-a56f-6bfc-b738-a17c43bd4a50@13.140.253.35:443?encryption=none&fp=firefox&host=xray-m0642ki4-silver-nebula-10.cloady.io&path=/362b2b2c7197d648&security=tls&sni=xray-m0642ki4-silver-nebula-10.cloady.io&type=ws#🇮🇳 Индия 1 Contabo Asia Private Limited
-vless://f1a7e2c8-b140-50d1-8acf-e62090f96599@13.140.253.35:443?encryption=none&fp=firefox&host=xray-bprkdwje-clever-comet-4.cloady.io&path=/27dbf143acdd7bca&security=tls&sni=xray-bprkdwje-clever-comet-4.cloady.io&type=ws#🇮🇳 Индия 2 Contabo Asia Private Limited
-vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&host=decdn-28.nome-rkp.net&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇮🇳 Индия 3 RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED
-vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇮🇳 Индия 4 RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED
+vless://f1a7e2c8-b140-50d1-8acf-e62090f96599@13.140.253.35:443?encryption=none&fp=firefox&host=xray-bprkdwje-clever-comet-4.cloady.io&path=/27dbf143acdd7bca&security=tls&sni=xray-bprkdwje-clever-comet-4.cloady.io&type=ws#🇮🇳 Индия 1 Contabo Asia Private Limited
+vless://bcd3798c-a56f-6bfc-b738-a17c43bd4a50@13.140.253.35:443?encryption=none&fp=firefox&host=xray-m0642ki4-silver-nebula-10.cloady.io&path=/362b2b2c7197d648&security=tls&sni=xray-m0642ki4-silver-nebula-10.cloady.io&type=ws#🇮🇳 Индия 2 Contabo Asia Private Limited
+vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇮🇳 Индия 3 RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 1 Vladislav Doniy
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js?ed=2048&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 2 Vladislav Doniy
 vless://961913fb-dc88-446f-8356-3fde5b51d7f7@46.8.230.28:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇱🇻 Латвия CGI GLOBAL LIMITED
