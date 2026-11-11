@@ -5,15 +5,11 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
 vless://f1a7e2c8-b140-50d1-8acf-e62090f96599@13.140.253.35:443?encryption=none&fp=firefox&host=xray-bprkdwje-clever-comet-4.cloady.io&path=/27dbf143acdd7bca&security=tls&sni=xray-bprkdwje-clever-comet-4.cloady.io&type=ws#🇮🇳 Индия 1 Contabo Asia Private Limited
-vless://bcd3798c-a56f-6bfc-b738-a17c43bd4a50@13.140.253.35:443?encryption=none&fp=firefox&path=/362b2b2c7197d648&security=tls&sni=xray-m0642ki4-silver-nebula-10.cloady.io&type=ws#🇮🇳 Индия 2 Contabo Asia Private Limited
-vless://bcd3798c-a56f-6bfc-b738-a17c43bd4a50@13.140.253.35:443?encryption=none&fp=firefox&host=xray-m0642ki4-silver-nebula-10.cloady.io&path=/362b2b2c7197d648&security=tls&sni=xray-m0642ki4-silver-nebula-10.cloady.io&type=ws#🇮🇳 Индия 3 Contabo Asia Private Limited
+vless://bcd3798c-a56f-6bfc-b738-a17c43bd4a50@13.140.253.35:443?encryption=none&fp=firefox&host=xray-m0642ki4-silver-nebula-10.cloady.io&path=/362b2b2c7197d648&security=tls&sni=xray-m0642ki4-silver-nebula-10.cloady.io&type=ws#🇮🇳 Индия 2 Contabo Asia Private Limited
+vless://bcd3798c-a56f-6bfc-b738-a17c43bd4a50@13.140.253.35:443?encryption=none&fp=firefox&path=/362b2b2c7197d648&security=tls&sni=xray-m0642ki4-silver-nebula-10.cloady.io&type=ws#🇮🇳 Индия 3 Contabo Asia Private Limited
 vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇮🇳 Индия 4 RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED
 vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&host=decdn-28.nome-rkp.net&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇮🇳 Индия 5 RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js?ed=2048&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 1 Vladislav Doniy
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 2 Vladislav Doniy
-vless://a0139cc4-835a-492d-9552-715f3e46d9fa@153.52.255.56:443?encryption=none&fp=firefox&host=ugfdrtyi-production.up.railway.app&path=/api/tafHeC&security=tls&sni=ugfdrtyi-production.up.railway.app&type=ws#🇳🇱 Нидерланды 3 Railway
-vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@82.152.132.74:443?encryption=none&fp=firefox&path=/assets/sync-8f3a71&security=tls&sni=82.152.132.74&type=ws#🇷🇴 Румыния 1 Interkvm Host SRL
-vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@82.152.132.74:443?encryption=none&fp=firefox&host=82.152.132.74&path=/assets/sync-8f3a71&security=tls&sni=82.152.132.74&type=ws#🇷🇴 Румыния 2 Interkvm Host SRL
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 1 Vladislav Doniy
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js?ed=2048&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 2 Vladislav Doniy
 vless://05407379-7826-bd41-317b-7717c126c035@153.52.255.17:443?encryption=none&fp=firefox&host=mohsen13-production.up.railway.app&path=/ws/05407379-7826-bd41-317b-7717c126c035&security=tls&sni=mohsen13-production.up.railway.app&type=ws#🇺🇸 США Railway
 vless://3f25b15b-1777-4c08-9ade-60336ac92a82@81.177.215.81:443?encryption=none&fp=firefox&path=/ws&security=tls&sni=edge-stream.lindenpixel.com&type=ws#🇹🇷 Турция GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://50414e45-4c5f-5a45-5553-e759cf52c6be@176.118.214.216:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/e759cf52c6be&security=tls&sni=9lz3z5efu8os.gamewizardbac1k.workers.Dev&type=ws#🇫🇷 Франция Cloudflare, Inc.

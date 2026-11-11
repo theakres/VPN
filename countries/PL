@@ -4,8 +4,10 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQn9C+0LvRjNGI0LA=
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@177.202.68.217:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DsTVLCehsKvfFGtNZU5leKOLTlEp28qeifHYtRKOFwg&security=reality&sid=acccaaaa9f72147d&sni=pl-b1.golangwikito.cfd&type=tcp#🇵🇱 Польша 1 PLAY2GO - FZCO
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@177.202.68.217:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DsTVLCehsKvfFGtNZU5leKOLTlEp28qeifHYtRKOFwg&security=reality&sid=986ede37bf6925ae&sni=pl-b1.golangwikito.cfd&type=tcp#🇵🇱 Польша 2 PLAY2GO - FZCO
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@177.202.68.217:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DsTVLCehsKvfFGtNZU5leKOLTlEp28qeifHYtRKOFwg&security=reality&sid=986ede37bf6925ae&sni=pl-b1.golangwikito.cfd&type=tcp#🇵🇱 Польша 1 PLAY2GO - FZCO
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@177.202.68.217:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DsTVLCehsKvfFGtNZU5leKOLTlEp28qeifHYtRKOFwg&security=reality&sid=acccaaaa9f72147d&sni=pl-b1.golangwikito.cfd&type=tcp#🇵🇱 Польша 2 PLAY2GO - FZCO
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@177.202.68.217:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DsTVLCehsKvfFGtNZU5leKOLTlEp28qeifHYtRKOFwg&security=reality&sid=f8b695e5c59d028c&sni=pl-b1.golangwikito.cfd&type=tcp#🇵🇱 Польша 3 PLAY2GO - FZCO
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@138.124.242.46:8443?encryption=none&fp=firefox&security=tls&serviceName=connect-pl&sni=pl2-edge.gacvpn.site&type=grpc#🇵🇱 Польша 4 Intezio Worldwide Limited
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@201.58.139.66:443?encryption=none&fp=firefox&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&security=reality&sid=6c5c7900406a1ae7&sni=57aac2t.pl7.h1clayd.click&type=tcp#🇵🇱 Польша 5 MEVSPACE sp. z o.o.
+hysteria2://4b13c29ebe735e47@213.21.232.4:443?sni=mytubeproxy10.duckdns.org#🇵🇱 Польша 4 OC NETWORKS LIMITED
+vless://4d30ffc2-c917-407b-b71f-6a7ca09e939f@213.21.232.4:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=N3MUCErqyQmpQEwMzDPwz2mZERG0Q2dopPNX-3PpE2M&security=reality&sid=455152c2797fea2b&sni=mytubeproxy10.duckdns.org&type=tcp#🇵🇱 Польша 5 OC NETWORKS LIMITED
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@138.124.242.46:8443?encryption=none&fp=firefox&security=tls&serviceName=connect-pl&sni=pl2-edge.gacvpn.site&type=grpc#🇵🇱 Польша 6 Intezio Worldwide Limited
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@201.58.139.66:443?encryption=none&fp=firefox&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&security=reality&sid=6c5c7900406a1ae7&sni=57aac2t.pl7.h1clayd.click&type=tcp#🇵🇱 Польша 7 MEVSPACE sp. z o.o.

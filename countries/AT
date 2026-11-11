@@ -6,4 +6,5 @@
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkNCy0YHRgtGA0LjRjw==
 vless://cf1b08a7-55b7-4241-b80a-c59116272b43@50.7.115.245:443?encryption=none&fp=firefox&pbk=Mwczt2QjgQo3q8N10PVx8bWNubwiNhgka5GvxUy-GHQ&security=reality&sid=c4f0253a&sni=beck.mossgill.top&type=xhttp#🇦🇹 Австрия 1 FDCservers.net
 vless://cf1b08a7-55b7-4241-b80a-c59116272b43@50.7.115.242:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Mwczt2QjgQo3q8N10PVx8bWNubwiNhgka5GvxUy-GHQ&security=reality&sid=7d1c7473&sni=tarn.hazelmoor.top&type=tcp#🇦🇹 Австрия 2 FDCservers.net
-vless://3f25b15b-1777-4c08-9ade-60336ac92a82@81.177.215.81:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&security=reality&sid=7c8e3d4a9b1f26d3&sni=misha2.plus-hit.ru&type=tcp#🇦🇹 Австрия 3 netcup GmbH
+vless://cf1b08a7-55b7-4241-b80a-c59116272b43@50.7.115.245:443?encryption=none&fp=firefox&host=beck.mossgill.top&pbk=Mwczt2QjgQo3q8N10PVx8bWNubwiNhgka5GvxUy-GHQ&security=reality&sid=c4f0253a&sni=beck.mossgill.top&type=xhttp#🇦🇹 Австрия 3 FDCservers.net
+vless://3f25b15b-1777-4c08-9ade-60336ac92a82@81.177.215.81:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&security=reality&sid=7c8e3d4a9b1f26d3&sni=misha2.plus-hit.ru&type=tcp#🇦🇹 Австрия 4 netcup GmbH
