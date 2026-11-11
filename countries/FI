@@ -4,6 +4,11 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNC40L3Qu9GP0L3QtNC40Y8=
-vless://378b9a06-4725-426b-87ff-ac08278318d7@2.29.125.167:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=static.159.132.31.2.clients.your-server.de&type=tcp#🇫🇮 Финляндия 1 Hetzner Online GmbH
-vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.182.11:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PTIRbxzUvuwon8uDA2LjTtIJc9nItRvnGqQxS4K9pgg&security=reality&sni=2veos3wvwtx8.cdn.cachefleet.com&type=tcp#🇫🇮 Финляндия 2 Raul Ghita trading as Ghita Telekom
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?sni=lakes.blog-forme.ru#🇫🇮 Финляндия 3 WAIcore Ltd
+vless://8bbde034-a0de-4e8c-8be3-b16a99689380@199.246.125.219:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&sid=5b2e7a14c0d9f832&sni=print.bzzzq.fun&type=tcp#🇫🇮 Финляндия 1 Anton Levin
+vless://8bbde034-a0de-4e8c-8be3-b16a99689380@199.246.125.219:8443?encryption=none&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&serviceName=grpc&sid=5b2e7a14c0d9f832&sni=print.bzzzq.fun&type=grpc#🇫🇮 Финляндия 2 Anton Levin
+vless://378b9a06-4725-426b-87ff-ac08278318d7@2.29.125.167:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=static.159.132.31.2.clients.your-server.de&type=tcp#🇫🇮 Финляндия 3 Hetzner Online GmbH
+vless://9beb7deb-9063-4244-9a54-03fd2504023b@65.109.242.205:8080?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tIQQp41fRrliguh9hOjPdKHkR5P_tFHqfhpHU_SKazc&security=reality&sid=eb11f7630faaaf60&sni=tgju.org&type=tcp#🇫🇮 Финляндия 4 Hetzner Online GmbH
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@177.3.220.53:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&security=reality&sid=bdf5852d1423e694&sni=fi-b2.golangwikito.cfd&type=tcp#🇫🇮 Финляндия 5 PLAY2GO INTERNATIONAL LIMITED
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@177.3.220.53:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&security=reality&sid=78f97d82e16aaad6&sni=fi-b2.golangwikito.cfd&type=tcp#🇫🇮 Финляндия 6 PLAY2GO INTERNATIONAL LIMITED
+vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.182.11:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PTIRbxzUvuwon8uDA2LjTtIJc9nItRvnGqQxS4K9pgg&security=reality&sni=2veos3wvwtx8.cdn.cachefleet.com&type=tcp#🇫🇮 Финляндия 7 Raul Ghita trading as Ghita Telekom
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?sni=lakes.blog-forme.ru#🇫🇮 Финляндия 8 WAIcore Ltd
