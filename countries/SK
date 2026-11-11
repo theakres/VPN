@@ -1,9 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQodC70L7QstCw0LrQuNGP
-vless://a11ef8a5-eda6-497e-b45d-f215f6aca966@13.143.190.112:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fBZ-I0hvKDC3Bi9Dpz_6ET1srl08XSlmIJxQdSscQkA&security=reality&sid=c961d6f1e33db85c&sni=l4v4o00ghs86.hat.onl&type=tcp#🇸🇰 Словакия 1 SERV.HOST GROUP LTD
-vless://a11ef8a5-eda6-497e-b45d-f215f6aca966@13.143.190.112:443?encryption=none&fp=firefox&host=ejgmzqnyxau.hat.onl&path=/vod/5kmk2hgnga/chunks&security=tls&sni=ejgmzqnyxau.hat.onl&type=xhttp#🇸🇰 Словакия 2 SERV.HOST GROUP LTD
-vless://a11ef8a5-eda6-497e-b45d-f215f6aca966@13.143.190.112:443?encryption=none&fp=firefox&security=tls&serviceName=v1.segment.wJWTXbDf0lsJomRK.ts&sni=n64qol61b.hat.onl&type=grpc#🇸🇰 Словакия 3 SERV.HOST GROUP LTD

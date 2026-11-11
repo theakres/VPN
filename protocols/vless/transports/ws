@@ -4,54 +4,20 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@193.42.11.197:2087?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇩🇪 Германия 1 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@8.209.108.3:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇩🇪 Германия 2 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@206.189.61.33:2087?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇩🇪 Германия 3 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@139.59.151.190:2096?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇩🇪 Германия 4 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@213.239.156.175:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇩🇪 Германия 5 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@8.211.19.24:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇩🇪 Германия 6 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@8.209.104.124:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇩🇪 Германия 7 Cloudflare, Inc.
-vless://aa8d7bf2-26e2-46bb-ac3b-33a932d26cb3@45.88.12.105:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=va.stream-room.com&type=ws#🇩🇪 Германия 8 UXHOST LTD
-vless://aa8d7bf2-26e2-46bb-ac3b-33a932d26cb3@45.88.12.186:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=va.stream-room.com&type=ws#🇩🇪 Германия 9 UXHOST LTD
-vless://aa8d7bf2-26e2-46bb-ac3b-33a932d26cb3@45.88.12.166:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=va.stream-room.com&type=ws#🇩🇪 Германия 10 UXHOST LTD
-vless://aa8d7bf2-26e2-46bb-ac3b-33a932d26cb3@95.182.121.9:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=va.stream-room.com&type=ws#🇩🇪 Германия 11 UXHOST LTD
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.88.106.126:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 1 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.253.251.184:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 2 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.77.185.194:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 3 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@217.177.35.182:2053?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 4 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.77.210.148:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 5 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.251.106.84:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 6 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.250.52.71:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 7 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.57.181.17:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 8 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.84.7.207:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 9 Cloudflare, Inc.
-vless://2afe043f-7ab2-465c-b3b1-f1060ff77a7f@153.52.255.104:443?encryption=none&fp=firefox&host=web-production-416e4892.up.railway.app&path=/ws/2afe043f-7ab2-465c-b3b1-f1060ff77a7f&security=tls&sni=web-production-416e4892.up.railway.app&type=ws#🇺🇸 США 10 Amazon.com, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@5.253.191.114:8443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇳🇱 Нидерланды 1 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@134.209.82.151:2096?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇳🇱 Нидерланды 2 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@5.253.191.114:8443?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇳🇱 Нидерланды 3 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@165.232.89.58:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇳🇱 Нидерланды 4 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@188.166.73.154:2096?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇳🇱 Нидерланды 5 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@144.31.224.58:8443?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇳🇱 Нидерланды 6 Cloudflare, Inc.
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js?ed=2048&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 7 Vladislav Doniy
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 8 Vladislav Doniy
-vless://07688902-2c39-4f0b-8a04-e70b84fa6e37@153.52.255.57:443?encryption=none&fp=firefox&host=rust8982-production.up.railway.app&path=/ws&security=tls&sni=rust8982-production.up.railway.app&type=ws#🇳🇱 Нидерланды 9 Railway
+vless://aa8d7bf2-26e2-46bb-ac3b-33a932d26cb3@95.182.121.9:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=va.stream-room.com&type=ws#🇩🇪 Германия 1 UXHOST LTD
+vless://aa8d7bf2-26e2-46bb-ac3b-33a932d26cb3@45.88.12.105:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=va.stream-room.com&type=ws#🇩🇪 Германия 2 UXHOST LTD
+vless://aa8d7bf2-26e2-46bb-ac3b-33a932d26cb3@45.88.12.186:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=va.stream-room.com&type=ws#🇩🇪 Германия 3 UXHOST LTD
+vless://aa8d7bf2-26e2-46bb-ac3b-33a932d26cb3@45.88.12.166:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=va.stream-room.com&type=ws#🇩🇪 Германия 4 UXHOST LTD
+vless://aa8d7bf2-26e2-46bb-ac3b-33a932d26cb3@45.88.12.167:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=va.stream-room.com&type=ws#🇩🇪 Германия 5 UXHOST LTD
 vless://bcd3798c-a56f-6bfc-b738-a17c43bd4a50@13.140.253.35:443?encryption=none&fp=firefox&host=xray-m0642ki4-silver-nebula-10.cloady.io&path=/362b2b2c7197d648&security=tls&sni=xray-m0642ki4-silver-nebula-10.cloady.io&type=ws#🇮🇳 Индия 1 Contabo Asia Private Limited
 vless://f1a7e2c8-b140-50d1-8acf-e62090f96599@13.140.253.35:443?encryption=none&fp=firefox&host=xray-bprkdwje-clever-comet-4.cloady.io&path=/27dbf143acdd7bca&security=tls&sni=xray-bprkdwje-clever-comet-4.cloady.io&type=ws#🇮🇳 Индия 2 Contabo Asia Private Limited
 vless://bcd3798c-a56f-6bfc-b738-a17c43bd4a50@13.140.253.35:443?encryption=none&fp=firefox&path=/362b2b2c7197d648&security=tls&sni=xray-m0642ki4-silver-nebula-10.cloady.io&type=ws#🇮🇳 Индия 3 Contabo Asia Private Limited
 vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇮🇳 Индия 4 RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED
 vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&host=decdn-28.nome-rkp.net&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇮🇳 Индия 5 RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED
-vless://50414e45-4c5f-5a45-5553-38441c0ef0f0@159.255.32.80:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/38441c0ef0f0&security=tls&sni=lizufueiu7hs.gameworgame2.workers.Dev&type=ws#🇫🇷 Франция 1 Cloudflare, Inc.
-vless://50414e45-4c5f-5a45-5553-e759cf52c6be@176.118.214.216:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/e759cf52c6be&security=tls&sni=9lz3z5efu8os.gamewizardbac1k.workers.Dev&type=ws#🇫🇷 Франция 2 Cloudflare, Inc.
-vless://69fd8f7d-bb80-1be5-3219-23acb78f4a63@13.140.208.59:443?encryption=none&fp=firefox&path=/810122fee58cdd26&security=tls&sni=xray-laofru8r-lunar-pixel-8.cloady.io&type=ws#🇫🇷 Франция 3 Contabo GmbH
-vless://69fd8f7d-bb80-1be5-3219-23acb78f4a63@13.140.208.59:443?encryption=none&fp=firefox&host=xray-laofru8r-lunar-pixel-8.cloady.io&path=/810122fee58cdd26&security=tls&sni=xray-laofru8r-lunar-pixel-8.cloady.io&type=ws#🇫🇷 Франция 4 Contabo GmbH
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@194.37.82.144:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇬🇧 Великобритания 1 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@144.126.226.76:2087?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇬🇧 Великобритания 2 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@188.166.169.50:2083?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇬🇧 Великобритания 3 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.82.151.14:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇸🇬 Сингапур 1 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.84.59.83:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇸🇬 Сингапур 2 Cloudflare, Inc.
-vless://3f68b079-6087-42d9-9a5d-010722f41392@216.236.45.248:1891?encryption=none&fp=firefox&host=tele-eb6.pages.dev&security=tls&sni=tele-eb6.pages.dev&type=ws#🇸🇬 Сингапур 3 Zenlayer Inc
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 1 Vladislav Doniy
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js?ed=2048&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 2 Vladislav Doniy
 vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@82.152.132.74:443?encryption=none&fp=firefox&host=82.152.132.74&path=/assets/sync-8f3a71&security=tls&sni=82.152.132.74&type=ws#🇷🇴 Румыния 1 Interkvm Host SRL
 vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@82.152.132.74:443?encryption=none&fp=firefox&path=/assets/sync-8f3a71&security=tls&sni=82.152.132.74&type=ws#🇷🇴 Румыния 2 Interkvm Host SRL
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@185.47.131.138:8443?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇪🇸 Испания Cloudflare, Inc.
+vless://50414e45-4c5f-5a45-5553-e759cf52c6be@176.118.214.216:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/e759cf52c6be&security=tls&sni=9lz3z5efu8os.gamewizardbac1k.workers.Dev&type=ws#🇫🇷 Франция 1 Cloudflare, Inc.
+vless://50414e45-4c5f-5a45-5553-38441c0ef0f0@159.255.32.80:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/38441c0ef0f0&security=tls&sni=lizufueiu7hs.gameworgame2.workers.Dev&type=ws#🇫🇷 Франция 2 Cloudflare, Inc.
 vless://3f25b15b-1777-4c08-9ade-60336ac92a82@81.177.215.81:443?encryption=none&fp=firefox&path=/ws&security=tls&sni=edge-stream.lindenpixel.com&type=ws#🇹🇷 Турция GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@2.27.175.225:8443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇫🇮 Финляндия Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@5.178.96.122:2053?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇸🇪 Швеция Cloudflare, Inc.

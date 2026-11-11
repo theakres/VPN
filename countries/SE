@@ -6,5 +6,3 @@
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
 vless://6b5af4eb-fc4b-447a-bc4b-56c218e069ca@177.202.76.126:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V-cWjK_GZ0PTJ3wnUHgwey_dNWI6_QNXsC9CdmA0mVI&security=reality&sid=408c85938839e89f&sni=po2.hys.braidx.tech&type=tcp#🇸🇪 Швеция 1 PLAY2GO - FZCO
 vless://222a50a0-e881-401c-a8de-756f348bfaea@201.58.187.244:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=U4eg2bwFbsthGPg-9Q6beiK25kGpUA6WgmDXTO3D7S8&security=reality&sid=6fbe10cb38739aab&sni=cloudflare.com&type=tcp#🇸🇪 Швеция 2 PLAY2GO - FZCO
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@5.178.96.122:2053?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇸🇪 Швеция 3 Cloudflare, Inc.
-vless://4b7ee962-188a-40a7-9d39-695c7d4769cc@88.216.129.131:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=88.216.129.131&type=tcp#🇸🇪 Швеция 4 UAB Cherry Servers

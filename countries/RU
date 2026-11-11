@@ -4,7 +4,5 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNC+0YHRgdC40Y8=
-vless://a11ef8a5-eda6-497e-b45d-f215f6aca966@45.139.27.125:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=obFanw7jqCcrXOlFqJhdOUsduntz_7jte8A11f3MSmQ&security=reality&sid=6d0092600a52a7c9&sni=ru1.hat.onl&type=tcp#🇷🇺 Россия 1 KVIKTEL LLC
-vless://a11ef8a5-eda6-497e-b45d-f215f6aca966@45.139.27.125:443?encryption=none&fp=firefox&host=rjynmkx8v52c.hat.onl&path=/vod/cmzmf68h2m/chunks&security=tls&sni=rjynmkx8v52c.hat.onl&type=xhttp#🇷🇺 Россия 2 KVIKTEL LLC
-vless://a11ef8a5-eda6-497e-b45d-f215f6aca966@45.139.27.125:443?encryption=none&fp=firefox&security=tls&serviceName=vod.Qvhnu9V5WVuVduqzDkRv.frag.278.mp4&sni=u6uchb205e.hat.onl&type=grpc#🇷🇺 Россия 3 KVIKTEL LLC
-vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&security=reality&sid=11979c0c9b2da371&sni=thumbs.mycdn-io.ru&type=tcp#🇷🇺 Россия 4 Delta Ltd
+vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&security=reality&sid=11979c0c9b2da371&sni=thumbs.mycdn-io.ru&type=tcp#🇷🇺 Россия 1 Delta Ltd
+vless://f807208f-27ed-465a-8736-b63732ea88c6@31.76.34.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Zobd5crq6DzOZQjWiR0nGzyX0QU5zLNqL4VtSqwiyUo&security=reality&sid=b0d8f964b7ac8ac0&sni=30916121.client.sushihost.su&type=tcp#🇷🇺 Россия 2 Denis Aleksandrovich Iakovlev
