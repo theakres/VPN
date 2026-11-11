@@ -4,10 +4,11 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQr9C/0L7QvdC40Y8=
-vless://ebfb3f7c-6d5f-42fb-9be2-4fb7a3537c25@35.79.222.112:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=scnmyqQqGfHXAG9Ihe-bzs1xvqwQlMhCc87zJdIzPTs&security=reality&sid=2edcfbb7&sni=updates.cdn-apple.com&type=tcp#🇯🇵 Япония 1 Amazon.com, Inc.
+vless://ebfb3f7c-6d5f-42fb-9be2-4fb7a3537c25@54.199.9.250:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zMagqZuHMMpbYO2aciR2tBAjzBVLeXe0N205r4YCY14&security=reality&sid=1a92a625&sni=cdn-dynmedia-1.microsoft.com&type=tcp#🇯🇵 Япония 1 Amazon.com, Inc.
 vless://ebfb3f7c-6d5f-42fb-9be2-4fb7a3537c25@13.193.129.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zMagqZuHMMpbYO2aciR2tBAjzBVLeXe0N205r4YCY14&security=reality&sid=1a92a625&sni=cdn-dynmedia-1.microsoft.com&type=tcp#🇯🇵 Япония 2 Amazon.com, Inc.
-vless://ebfb3f7c-6d5f-42fb-9be2-4fb7a3537c25@54.199.9.250:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zMagqZuHMMpbYO2aciR2tBAjzBVLeXe0N205r4YCY14&security=reality&sid=1a92a625&sni=cdn-dynmedia-1.microsoft.com&type=tcp#🇯🇵 Япония 3 Amazon.com, Inc.
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@167.179.106.177:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=u695098udfec02ees2532.xxti.top&type=tcp#🇯🇵 Япония 4 The Constant Company, LLC
+vless://ebfb3f7c-6d5f-42fb-9be2-4fb7a3537c25@35.79.222.112:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=scnmyqQqGfHXAG9Ihe-bzs1xvqwQlMhCc87zJdIzPTs&security=reality&sid=2edcfbb7&sni=updates.cdn-apple.com&type=tcp#🇯🇵 Япония 3 Amazon.com, Inc.
+vless://ebfb3f7c-6d5f-42fb-9be2-4fb7a3537c25@13.158.20.104:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Zzn7SxtTRMANwRwOvn87ZpNQ8zjjzcKOznE_sG_7UQU&security=reality&sid=6b584a0d&sni=updates.cdn-apple.com&type=tcp#🇯🇵 Япония 4 Amazon.com, Inc.
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@167.179.87.224:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=u695098u093da7d1s2502.xxti.top&type=tcp#🇯🇵 Япония 5 The Constant Company, LLC
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@64.176.35.228:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=u695098uf08a6307s2544.xxti.top&type=tcp#🇯🇵 Япония 6 The Constant Company, LLC
-hysteria2://1794466637:db57c865-2318-4fd2-8aea-e8ba58ec696d:Sjcl0gc4tJZu1HqNgL502Y4uLCJSzLg9X3R0zYjQ6MQ@31.76.91.168:8443?sni=jp.lumacache.com#🇯🇵 Япония 7 Akenai Products LTD
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@167.179.106.177:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=u695098udfec02ees2532.xxti.top&type=tcp#🇯🇵 Япония 6 The Constant Company, LLC
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@64.176.35.228:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=u695098uf08a6307s2544.xxti.top&type=tcp#🇯🇵 Япония 7 The Constant Company, LLC
+hysteria2://1794466637:db57c865-2318-4fd2-8aea-e8ba58ec696d:Sjcl0gc4tJZu1HqNgL502Y4uLCJSzLg9X3R0zYjQ6MQ@31.76.91.168:8443?sni=jp.lumacache.com#🇯🇵 Япония 8 Akenai Products LTD
