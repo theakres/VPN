@@ -4,10 +4,13 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 1 Vladislav Doniy
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&host=nl4.gacvpn.site&path=/static/js/vendor.cc1645b6.js?ed=2048&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 2 Vladislav Doniy
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js?ed=2048&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 3 Vladislav Doniy
-vless://578c17fe-435c-404c-b3eb-7a1e49f567a6@153.52.255.120:443?encryption=none&fp=firefox&host=rex.sahebkarami.ir&path=/cdn/310a7084-9cc1-423a-9876-0a7635b64794&security=tls&sni=rex.sahebkarami.ir&type=ws#🇺🇸 США 1 Railway
-vless://578c17fe-435c-404c-b3eb-7a1e49f567a6@153.52.255.56:443?encryption=none&fp=firefox&host=sabirex-production-7e9227d9.up.railway.app&path=/cdn/310a7084-9cc1-423a-9876-0a7635b64794&security=tls&sni=sabirex-production-7e9227d9.up.railway.app&type=ws#🇺🇸 США 2 Railway
-vless://ade238d6-637e-4f6c-b1fc-268579b262f5@49.13.34.140:443?encryption=none&fp=firefox&host=vless1.greewebservices.ir&path=/timer/&security=tls&sni=vless1.greewebservices.ir&type=ws#🇩🇪 Германия Hetzner Online GmbH
+vless://fb54f31a-5b81-43a5-a838-169d924c9fac@45.88.12.105:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=va.stream-room.com&type=ws#🇩🇪 Германия 1 UXHOST LTD
+vless://fb54f31a-5b81-43a5-a838-169d924c9fac@95.182.121.9:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=va.stream-room.com&type=ws#🇩🇪 Германия 2 UXHOST LTD
+vless://ade238d6-637e-4f6c-b1fc-268579b262f5@49.13.34.140:443?encryption=none&fp=firefox&host=vless1.greewebservices.ir&path=/timer/&security=tls&sni=vless1.greewebservices.ir&type=ws#🇩🇪 Германия 3 Hetzner Online GmbH
+vless://f1a7e2c8-b140-50d1-8acf-e62090f96599@13.140.253.35:443?encryption=none&fp=firefox&host=xray-bprkdwje-clever-comet-4.cloady.io&path=/27dbf143acdd7bca&security=tls&sni=xray-bprkdwje-clever-comet-4.cloady.io&type=ws#🇮🇳 Индия 1 Contabo Asia Private Limited
+vless://f1d3c8af-71c4-ef75-625f-cf446aa2c15b@13.140.253.35:443?encryption=none&fp=firefox&host=xray-h0urp9tx-rapid-summit-2.cloady.io&path=/050334203cc522a3&security=tls&sni=xray-h0urp9tx-rapid-summit-2.cloady.io&type=ws#🇮🇳 Индия 2 Contabo Asia Private Limited
+vless://bcd3798c-a56f-6bfc-b738-a17c43bd4a50@13.140.253.35:443?encryption=none&fp=firefox&host=xray-m0642ki4-silver-nebula-10.cloady.io&path=/362b2b2c7197d648&security=tls&sni=xray-m0642ki4-silver-nebula-10.cloady.io&type=ws#🇮🇳 Индия 3 Contabo Asia Private Limited
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js?ed=2048&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 1 Vladislav Doniy
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 2 Vladislav Doniy
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&host=nl4.gacvpn.site&path=/static/js/vendor.cc1645b6.js?ed=2048&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 3 Vladislav Doniy
 vless://3f25b15b-1777-4c08-9ade-60336ac92a82@81.177.215.81:443?encryption=none&fp=firefox&path=/ws&security=tls&sni=edge-stream.lindenpixel.com&type=ws#🇹🇷 Турция GLOBAL CONNECTIVITY SOLUTIONS LLP
