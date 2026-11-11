@@ -4,5 +4,9 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
-vless://6b5af4eb-fc4b-447a-bc4b-56c218e069ca@177.202.76.126:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V-cWjK_GZ0PTJ3wnUHgwey_dNWI6_QNXsC9CdmA0mVI&security=reality&sid=408c85938839e89f&sni=po2.hys.braidx.tech&type=tcp#🇸🇪 Швеция 1 PLAY2GO - FZCO
-vless://222a50a0-e881-401c-a8de-756f348bfaea@201.58.187.244:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=U4eg2bwFbsthGPg-9Q6beiK25kGpUA6WgmDXTO3D7S8&security=reality&sid=6fbe10cb38739aab&sni=cloudflare.com&type=tcp#🇸🇪 Швеция 2 PLAY2GO - FZCO
+hysteria2://6df9fb93-9fae-4400-828c-de2be27006c2@185.189.44.202:4443?sni=static.vkimages.io#🇸🇪 Швеция 1 UAB Cherry Servers
+vless://6df9fb93-9fae-4400-828c-de2be27006c2@185.189.44.202:8443?encryption=none&fp=firefox&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&security=reality&serviceName=grpc-yandex&sid=e67fb918ed6b9ffb&sni=dev.vkimages.io&type=grpc#🇸🇪 Швеция 2 UAB Cherry Servers
+vless://6df9fb93-9fae-4400-828c-de2be27006c2@185.189.44.202:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&security=reality&sid=2f49bccf11150ef2&sni=dev.vkimages.io&type=tcp#🇸🇪 Швеция 3 UAB Cherry Servers
+vless://6df9fb93-9fae-4400-828c-de2be27006c2@185.189.44.202:6443?encryption=none&fp=firefox&host=se.riotvpn.eu&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&security=reality&sid=e67fb918ed6b9ffb&sni=dev.vkimages.io&type=xhttp#🇸🇪 Швеция 4 UAB Cherry Servers
+vless://6b5af4eb-fc4b-447a-bc4b-56c218e069ca@177.202.76.126:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V-cWjK_GZ0PTJ3wnUHgwey_dNWI6_QNXsC9CdmA0mVI&security=reality&sid=408c85938839e89f&sni=po2.hys.braidx.tech&type=tcp#🇸🇪 Швеция 5 PLAY2GO - FZCO
+vless://222a50a0-e881-401c-a8de-756f348bfaea@201.58.187.244:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=U4eg2bwFbsthGPg-9Q6beiK25kGpUA6WgmDXTO3D7S8&security=reality&sid=6fbe10cb38739aab&sni=cloudflare.com&type=tcp#🇸🇪 Швеция 6 PLAY2GO - FZCO
