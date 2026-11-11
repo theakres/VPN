@@ -4,6 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXQudGG0LDRgNC40Y8=
-vless://8bbde034-a0de-4e8c-8be3-b16a99689380@179.255.191.135:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&sid=5b2e7a14c0d9f832&sni=ch.135.zzuq.fun&type=tcp#🇨🇭 Швейцария 1 HOST TELECOM LTD
+vless://8bbde034-a0de-4e8c-8be3-b16a99689380@179.255.191.135:2096?encryption=none&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&sid=5b2e7a14c0d9f832&sni=ch.135.zzuq.fun&type=xhttp#🇨🇭 Швейцария 1 HOST TELECOM LTD
 vless://8bbde034-a0de-4e8c-8be3-b16a99689380@179.255.191.135:8443?encryption=none&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&serviceName=grpc&sid=5b2e7a14c0d9f832&sni=ch.135.zzuq.fun&type=grpc#🇨🇭 Швейцария 2 HOST TELECOM LTD
-vless://8bbde034-a0de-4e8c-8be3-b16a99689380@179.255.191.135:2096?encryption=none&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&sid=5b2e7a14c0d9f832&sni=ch.135.zzuq.fun&type=xhttp#🇨🇭 Швейцария 3 HOST TELECOM LTD
+vless://8bbde034-a0de-4e8c-8be3-b16a99689380@179.255.191.135:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&sid=5b2e7a14c0d9f832&sni=ch.135.zzuq.fun&type=tcp#🇨🇭 Швейцария 3 HOST TELECOM LTD
+vless://7163913b-0d6c-4a5a-933b-b6f61c1807da@179.254.183.17:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=K6gjLMpQGTgIcRyUyixXVFkLvHscKVmpyZFNkBy1rBY&security=reality&sid=47483658f59442b6&sni=ch2.docuflow.pw&type=tcp#🇨🇭 Швейцария 4 SERV.HOST GROUP LTD
