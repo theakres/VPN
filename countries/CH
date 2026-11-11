@@ -1,0 +1,15 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXQudGG0LDRgNC40Y8=
+vless://4b7ee962-188a-40a7-9d39-695c7d4769cc@179.43.138.175:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=F1PK2sVe8uRS5rS1Hd6HeFA1F3Mik2AGyuWDjghwPx0&security=reality&sid=b2268a593f9f471c&sni=chat.deepseek.com&type=tcp#🇨🇭 Швейцария 1 Private Layer INC
+vless://4b7ee962-188a-40a7-9d39-695c7d4769cc@179.43.138.145:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XCMX9oAa48Aa_WN5CfLrQ7QJ_4DJUQsS7Pmusk-v9Xk&security=reality&sid=3b6461fc255a2281&sni=claude.ai&type=tcp#🇨🇭 Швейцария 2 Private Layer INC
+vless://4b7ee962-188a-40a7-9d39-695c7d4769cc@179.43.138.172:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pAN_Zw4HpNTxrDzfqhLbPrKiGx_ziUeSqh7E-_dFyR4&security=reality&sid=ec1b835c14053e2e&sni=claude.ai&type=tcp#🇨🇭 Швейцария 3 Private Layer INC
+vless://4b7ee962-188a-40a7-9d39-695c7d4769cc@179.43.187.18:443?encryption=none&fp=firefox&pbk=659Fu5_n4Vq58ZBdLCGbZqFRjhznGRonhTqN-ctC9i0&security=reality&serviceName=s9d8c0a4b24dfc7d63774&sid=7f34211a1db26412&sni=api.openai.com&type=grpc#🇨🇭 Швейцария 4 Private Layer INC
+vless://4b7ee962-188a-40a7-9d39-695c7d4769cc@179.43.138.169:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RIP5X88OETSwXSjJbfsV9nh7RtqZzxg9qjh59d5NY3g&security=reality&sid=72cb1a63a9ded1fb&sni=www.google.com&type=tcp#🇨🇭 Швейцария 5 Private Layer INC
+vless://4b7ee962-188a-40a7-9d39-695c7d4769cc@179.43.138.147:443?encryption=none&fp=firefox&pbk=k_R-Vs8S-kBNpZmutqC7OVSO9p2ZuLB4AKPi8z5Xqjc&security=reality&serviceName=s764bdc2f3a313a1806ce&sid=8eaf2e317d86a0a6&sni=claude.ai&type=grpc#🇨🇭 Швейцария 6 Private Layer INC
+vless://4b7ee962-188a-40a7-9d39-695c7d4769cc@179.43.187.17:443?encryption=none&fp=firefox&pbk=xsNWxje0_1edRJQrX74RdIuxgeFIW2bh9CsbGjihexE&security=reality&serviceName=s3df015a48a64b37019c5&sid=46cd0658d9dc70ba&sni=chat.deepseek.com&type=grpc#🇨🇭 Швейцария 7 Private Layer INC
+vless://4b7ee962-188a-40a7-9d39-695c7d4769cc@179.43.187.16:443?encryption=none&fp=firefox&pbk=-xRQ097EP_10oRhOU6tuwRwRBBiDqRsPjB0IHIW0xhI&security=reality&serviceName=s3b8c5f214f5cf1ba482e&sid=1aea40c56a2b92b2&sni=chat.deepseek.com&type=grpc#🇨🇭 Швейцария 8 Private Layer INC
+vless://4b7ee962-188a-40a7-9d39-695c7d4769cc@179.43.138.146:443?encryption=none&fp=firefox&pbk=NHkASezjpfX7xOQ1hBJzrziILeW8Tbi7Y49072LPunw&security=reality&serviceName=s6c67504ac5acd8919e0c&sid=d897d06cd65ef494&sni=chat.deepseek.com&type=grpc#🇨🇭 Швейцария 9 Private Layer INC

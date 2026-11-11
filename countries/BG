@@ -1,0 +1,9 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkdC+0LvQs9Cw0YDQuNGP
+vless://a11ef8a5-eda6-497e-b45d-f215f6aca966@13.143.198.100:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=bg1.hat.onl&type=tcp#🇧🇬 Болгария 1 SERV.HOST GROUP LTD
+vless://a11ef8a5-eda6-497e-b45d-f215f6aca966@13.143.198.100:443?encryption=none&fp=firefox&security=tls&serviceName=hls-vod.ohql91f.segment-26-v1-a1.ts&sni=zbfkmgdg8.hat.onl&type=grpc#🇧🇬 Болгария 2 SERV.HOST GROUP LTD
+vless://a11ef8a5-eda6-497e-b45d-f215f6aca966@13.143.198.100:443?encryption=none&fp=firefox&host=vkli3ehaugk.hat.onl&path=/hls/6ln8euq1/seg&security=tls&sni=vkli3ehaugk.hat.onl&type=xhttp#🇧🇬 Болгария 3 SERV.HOST GROUP LTD
