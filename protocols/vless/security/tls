@@ -4,21 +4,18 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&host=nl4.gacvpn.site&path=/static/js/vendor.cc1645b6.js?ed=2048&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 1 Vladislav Doniy
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js?ed=2048&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 2 Vladislav Doniy
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 3 Vladislav Doniy
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&host=nl4.gacvpn.site&path=/static/js/vendor.cc1645b6.js&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 4 Vladislav Doniy
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js?ed&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 5 Vladislav Doniy
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=hub.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 6 NovoServe B.V.
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js?ed=2048&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 1 Vladislav Doniy
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 2 Vladislav Doniy
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&host=nl4.gacvpn.site&path=/static/js/vendor.cc1645b6.js&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 3 Vladislav Doniy
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js?ed&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 4 Vladislav Doniy
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&host=nl4.gacvpn.site&path=/static/js/vendor.cc1645b6.js?ed=2048&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 5 Vladislav Doniy
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=assets.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 6 NovoServe B.V.
 vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=edge.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 7 NovoServe B.V.
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=assets.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 8 NovoServe B.V.
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=hub.mediacorphub.org&type=grpc#🇳🇱 Нидерланды 8 NovoServe B.V.
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@50.7.178.197:8443?encryption=none&fp=firefox&security=tls&serviceName=connect-fr&sni=fr2.gacvpn.site&type=grpc#🇳🇱 Нидерланды 9 FDCservers.net
-vless://8733d1e5-6f6e-49bc-8c04-079ec4a8da64@178.105.192.66:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=tcptlsdigikala.savfasf.ir&type=tcp#🇩🇪 Германия 1 Hetzner Online GmbH
-vless://8733d1e5-6f6e-49bc-8c04-079ec4a8da64@178.105.192.66:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=TcpTlsDigikaLa.SavfaSf.iR.&type=tcp#🇩🇪 Германия 2 Hetzner Online GmbH
-vless://88c0b07e-e7ba-40df-8242-994d6a30339f@43.174.246.63:443?encryption=mlkem768x25519plus.native.0rtt.DebrCmTx4DpHnUG0dlT9HAP2TXCpEkIOia_hTSwao08&fp=firefox&host=ded2http.samcdn.shop&path=/up&security=tls&sni=www.thevicinityapp.cn&type=httpupgrade#🇩🇪 Германия 3 Hetzner Online GmbH
-vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@212.113.116.181:443?encryption=none&fp=firefox&security=tls&serviceName=grpc&sni=de.oncloudvpn.com&type=grpc#🇩🇪 Германия 4 AEZA GROUP LLC
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.88.240:4443?encryption=none&fp=firefox&host=lv3.nexfile.net&path=/api/v1/sync/&security=tls&sni=lv3.nexfile.net&type=xhttp#🇱🇻 Латвия 1 SERV.HOST GROUP LTD
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.88.240:4443?encryption=none&fp=firefox&path=/api/v1/sync/&security=tls&sni=lv3.nexfile.net&type=xhttp#🇱🇻 Латвия 2 SERV.HOST GROUP LTD
-vless://e5be613e-0b23-4c08-88fb-6b4a82055365@95.182.98.40:443?encryption=none&fp=firefox&host=oslo.zovip2.ir&path=/api/v3/pulse&security=tls&sni=oslo.zovip2.ir&type=ws#🇱🇻 Латвия 3 CGI GLOBAL LIMITED
-vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@88.80.150.15:443?encryption=none&fp=firefox&security=tls&serviceName=grpc&sni=bg2.oncloudvpn.com&type=grpc#🇧🇬 Болгария Belcloud LTD
+vless://8733d1e5-6f6e-49bc-8c04-079ec4a8da64@178.105.192.66:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=TcpTlsDigikaLa.SavfaSf.iR.&type=tcp#🇩🇪 Германия 1 Hetzner Online GmbH
+vless://454cfa4d-96dc-4d22-bc55-cd827016c017@91.99.209.29:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=static.197.56.233.167.clients.your-server.de&type=tcp#🇩🇪 Германия 2 Hetzner Online GmbH
+vless://ade238d6-637e-4f6c-b1fc-268579b262f5@49.13.34.140:443?encryption=none&fp=firefox&host=vless1.greewebservices.ir&path=/timer/&security=tls&sni=vless1.greewebservices.ir&type=ws#🇩🇪 Германия 3 Hetzner Online GmbH
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.88.240:4443?encryption=none&fp=firefox&host=lv3.nexfile.net&path=/api/v1/sync/&security=tls&sni=lv3.nexfile.net&type=xhttp#🇱🇻 Латвия SERV.HOST GROUP LTD
 vless://b0a76856-69a7-456f-8ffe-c903e2893b7c@13.140.90.29:2087?encryption=mlkem768x25519plus.native.0rtt.Fy1WuRvH1VNIEda4AC61jAhcBFLzuYHcwbUO7mNjxwY&fp=firefox&host=www.hyby.ir&security=tls&sni=www.hyby.ir&type=xhttp#🇫🇮 Финляндия Cloud Software - FZCO
+vless://f1c3915d-7be6-4449-976e-bd48742eeec1@213.176.73.220:8443?encryption=none&fp=firefox&path=/api/download&security=tls&sni=fr.vip-get.ru&type=ws#🇫🇷 Франция SERV.HOST GROUP LTD
