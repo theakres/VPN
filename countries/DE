@@ -4,8 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQk9C10YDQvNCw0L3QuNGP
-vless://ade238d6-637e-4f6c-b1fc-268579b262f5@49.13.34.140:443?encryption=none&fp=firefox&host=vless1.greewebservices.ir&path=/timer/&security=tls&sni=vless1.greewebservices.ir&type=ws#🇩🇪 Германия 1 Hetzner Online GmbH
-vless://9b6e5818-4e11-4282-ba64-deec7b00e7ca@65.109.255.137:8080?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tIQQp41fRrliguh9hOjPdKHkR5P_tFHqfhpHU_SKazc&security=reality&sid=eb11f7630faaaf60&sni=tgju.org&type=tcp#🇩🇪 Германия 2 Hetzner Online GmbH
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@84.46.251.105:443?encryption=none&fp=firefox&host=fs.qicai99.com&security=tls&sni=fs.qicai99.com&type=ws#🇩🇪 Германия 3 Cloudflare, Inc.
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@31.58.213.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yX-l9ntNogG7DJZjqbsQGfvfsvjAQVFqFLY-Zcc_qG0&security=reality&sid=8de61902&sni=starter.jarbook.net&type=tcp#🇩🇪 Германия 4 HOSTES LTD
-vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@217.60.27.93:443?encryption=none&fp=firefox&path=/v2/notes/85cf046cfe9c&pbk=2VsrxDroL0paeyBtGkQ5zfhMOXqwti5kDZPkvh1xJgs&security=reality&sid=8424ce89ccd55f65&sni=tgde.blog-forme.ru&type=xhttp#🇩🇪 Германия 5 Vladislav Doniy
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@217.60.27.93:443?encryption=none&fp=firefox&path=/v2/notes/85cf046cfe9c&pbk=2VsrxDroL0paeyBtGkQ5zfhMOXqwti5kDZPkvh1xJgs&security=reality&sid=8424ce89ccd55f65&sni=tgde.blog-forme.ru&type=xhttp#🇩🇪 Германия 1 Vladislav Doniy
+vless://12776e55-6230-48b9-b069-1bb8a04b4237@217.60.27.117:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=music.3apes.online&type=tcp#🇩🇪 Германия 2 Vladislav Doniy
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@31.58.213.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yX-l9ntNogG7DJZjqbsQGfvfsvjAQVFqFLY-Zcc_qG0&security=reality&sid=8de61902&sni=starter.jarbook.net&type=tcp#🇩🇪 Германия 3 HOSTES LTD
