@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQp9C10YXQuNGP
+vless://fb7eb79a-e746-4fb4-acdb-fa54e73e3258@189.74.118.9:443?encryption=none&fp=firefox&security=tls&serviceName=r7Kp4mN9tQ2v&sni=api.mediapolden.cc&type=grpc#🇨🇿 Чехия FDCservers.net

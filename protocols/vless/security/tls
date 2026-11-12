@@ -4,7 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.88.240:4443?encryption=none&fp=firefox&host=lv3.nexfile.net&path=/api/v1/sync/&security=tls&sni=lv3.nexfile.net&type=xhttp#🇱🇻 Латвия SERV.HOST GROUP LTD
-vless://805f671c-8a55-b567-7719-669a9b840f2d@153.52.255.59:443?encryption=none&fp=firefox&host=whitepanel-ui-production-7ce942b9.up.railway.app&path=/ws/805f671c-8a55-b567-7719-669a9b840f2d&security=tls&sni=whitepanel-ui-production-7ce942b9.up.railway.app&type=ws#🇳🇱 Нидерланды Railway
+vless://ade238d6-637e-4f6c-b1fc-268579b262f5@49.13.34.140:443?encryption=none&fp=firefox&host=vless1.greewebservices.ir&path=/timer/&security=tls&sni=vless1.greewebservices.ir&type=ws#🇩🇪 Германия Hetzner Online GmbH
 vless://b0a76856-69a7-456f-8ffe-c903e2893b7c@13.140.90.29:2087?encryption=mlkem768x25519plus.native.0rtt.Fy1WuRvH1VNIEda4AC61jAhcBFLzuYHcwbUO7mNjxwY&fp=firefox&host=www.hyby.ir&security=tls&sni=www.hyby.ir&type=xhttp#🇫🇮 Финляндия Cloud Software - FZCO
 vless://f1c3915d-7be6-4449-976e-bd48742eeec1@213.176.73.220:8443?encryption=none&fp=firefox&path=/api/download&security=tls&sni=fr.vip-get.ru&type=ws#🇫🇷 Франция SERV.HOST GROUP LTD
+vless://fb7eb79a-e746-4fb4-acdb-fa54e73e3258@189.74.118.9:443?encryption=none&fp=firefox&security=tls&serviceName=r7Kp4mN9tQ2v&sni=api.mediapolden.cc&type=grpc#🇨🇿 Чехия FDCservers.net
+vless://875802fc-7b02-4ef7-8815-53dac0966f6a@81.27.107.3:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=permuimserversw.wizardxray.net&type=tcp#🇸🇪 Швеция UpCloud Ltd
