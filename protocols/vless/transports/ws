@@ -4,23 +4,23 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@107.174.34.25:7443?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇺🇸 США 1 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@66.135.15.166:34237?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇺🇸 США 2 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.253.251.184:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 3 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@217.177.35.182:2053?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 4 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.88.106.126:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 5 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.77.185.194:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 6 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.57.181.17:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 7 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.251.106.84:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 8 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.77.210.148:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 9 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.84.7.207:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 10 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@139.59.151.190:2096?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇩🇪 Германия 1 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@206.189.61.33:2087?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇩🇪 Германия 2 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@8.209.104.124:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇩🇪 Германия 3 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@193.42.11.197:2087?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇩🇪 Германия 4 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@213.239.156.175:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇩🇪 Германия 5 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@8.209.108.3:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇩🇪 Германия 6 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@8.211.19.24:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇩🇪 Германия 7 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@66.135.15.166:34237?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇺🇸 США 1 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.253.251.184:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 2 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@217.177.35.182:2053?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 3 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.88.106.126:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 4 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.77.185.194:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 5 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.251.106.84:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 6 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.77.210.148:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 7 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.84.7.207:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 8 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.57.181.17:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 9 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.250.52.71:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇺🇸 США 10 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@206.189.61.33:2087?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇩🇪 Германия 1 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@139.59.151.190:2096?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇩🇪 Германия 2 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@213.239.156.175:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇩🇪 Германия 3 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@8.209.104.124:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇩🇪 Германия 4 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@8.209.108.3:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇩🇪 Германия 5 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@8.211.19.24:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇩🇪 Германия 6 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@193.42.11.197:2087?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇩🇪 Германия 7 Cloudflare, Inc.
 vless://d048cd04-604a-4615-bc6b-0c268bf94db5@153.56.229.80:2087?encryption=mlkem768x25519plus.native.0rtt.dA_X5biQn8wVMxfTOgzLNowmt72H5GgFHthiJ7lJo0M&fp=firefox&host=subpannelgood.subpannelfast.site&security=tls&sni=subpannelgood.subpannelfast.site&type=ws#🇩🇪 Германия 8 dataforest GmbH
 vless://ccf353ca-fa34-43fc-8ed9-520fb9d74bf6@45.88.12.180:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=va.stream-room.com&type=ws#🇩🇪 Германия 9 UXHOST LTD
 vless://f1d3c8af71c4ef75625fcf446aa2c15b@13.140.253.35:443?encryption=none&fp=firefox&host=xray-h0urp9tx-rapid-summit-2.cloady.io&path=/050334203cc522a3&security=tls&sni=xray-h0urp9tx-rapid-summit-2.cloady.io&type=ws#🇮🇳 Индия 1 Contabo Asia Private Limited
@@ -35,11 +35,11 @@ vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@144.31.224.58:8443?encryption=none&
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js?ed=2048&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 4 Vladislav Doniy
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 5 Vladislav Doniy
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&host=nl4.gacvpn.site&path=/static/js/vendor.cc1645b6.js?ed=2048&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды 6 Vladislav Doniy
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@144.126.226.76:2087?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇬🇧 Великобритания 1 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@194.37.82.144:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇬🇧 Великобритания 2 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@194.37.82.144:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇬🇧 Великобритания 1 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@144.126.226.76:2087?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇬🇧 Великобритания 2 Cloudflare, Inc.
 vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@188.166.169.50:2083?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇬🇧 Великобритания 3 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.84.59.83:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇸🇬 Сингапур 1 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.82.151.14:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇸🇬 Сингапур 2 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.82.151.14:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇸🇬 Сингапур 1 Cloudflare, Inc.
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.84.59.83:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇸🇬 Сингапур 2 Cloudflare, Inc.
 vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@47.86.176.143:443?encryption=none&fp=firefox&host=dnsss.kdns.fr&security=tls&sni=dnsss.kdns.fr&type=ws#🇸🇬 Сингапур 3 Zenlayer Inc
 vless://50414e45-4c5f-5a45-5553-49055dd7a227@188.253.27.192:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/49055dd7a227&security=tls&sni=70zia4elut7s.tersg587ga2min.workers.Dev&type=ws#🇫🇷 Франция 1 Cloudflare, Inc.
 vless://50414e45-4c5f-5a45-5553-e759cf52c6be@176.118.214.216:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/e759cf52c6be&security=tls&sni=9lz3z5efu8os.gamewizardbac1k.workers.Dev&type=ws#🇫🇷 Франция 2 Cloudflare, Inc.
