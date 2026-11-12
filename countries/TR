@@ -4,7 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQotGD0YDRhtC40Y8=
-vless://ecc0e60a-f2cc-4266-8353-b228df89730a@45.92.219.47:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GBO_paFyK9FihgPMH8r_vHa4IKMkSGfvAQ2fhPK_1H4&security=reality&sni=ty.galactichub.online&type=tcp#🇹🇷 Турция 1 YottaSrc
-vless://9a64e207-8255-443b-8982-94d584882f16@37.202.247.184:8023?encryption=none&fp=firefox&pbk=3VKs9HG9EgsB69ppfvFEJcXiO5MDOvvQOByDD2HceXQ&security=reality&sid=b7e45d3a65bfc319&sni=bitpin.ir&type=tcp#🇹🇷 Турция 2 YottaSrc
-vless://664f65f4-33b3-03ef-b9e5-68192d1d428e@200.102.183.160:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=N8QooY7tm45gPX-9AQVg8ZYCCYqqfaiX8NGM96IvTBI&security=reality&sni=68r2nrw6avta71yq.cdn.cachefleet.com&type=tcp#🇹🇷 Турция 3 G-Core Labs S.A.
-vless://3f25b15b-1777-4c08-9ade-60336ac92a82@81.177.215.81:443?encryption=none&fp=firefox&path=/ws&security=tls&sni=edge-stream.lindenpixel.com&type=ws#🇹🇷 Турция 4 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://664f65f4-33b3-03ef-b9e5-68192d1d428e@200.102.183.160:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=N8QooY7tm45gPX-9AQVg8ZYCCYqqfaiX8NGM96IvTBI&security=reality&sni=68r2nrw6avta71yq.cdn.cachefleet.com&type=tcp#🇹🇷 Турция 1 G-Core Labs S.A.
+vless://3f25b15b-1777-4c08-9ade-60336ac92a82@81.177.215.81:443?encryption=none&fp=firefox&path=/ws&security=tls&sni=edge-stream.lindenpixel.com&type=ws#🇹🇷 Турция 2 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://a5b2e7c2-3b91-4fc7-a9b7-58c2c065b99a@5.59.204.221:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=tr1.hat.onl&type=tcp#🇹🇷 Турция 3 WEDEPLOY SAS
+vless://ecc0e60a-f2cc-4266-8353-b228df89730a@45.92.219.47:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GBO_paFyK9FihgPMH8r_vHa4IKMkSGfvAQ2fhPK_1H4&security=reality&sni=ty.galactichub.online&type=tcp#🇹🇷 Турция 4 YottaSrc
