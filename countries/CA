@@ -4,6 +4,5 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmtCw0L3QsNC00LA=
-vless://8bbde034-a0de-4e8c-8be3-b16a99689380@179.255.184.95:8443?encryption=none&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&serviceName=grpc&sid=5b2e7a14c0d9f832&sni=ca.api.bzzzq.fun&type=grpc#🇨🇦 Канада 1 HOST TELECOM LTD
-vless://8bbde034-a0de-4e8c-8be3-b16a99689380@179.255.184.95:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&sid=5b2e7a14c0d9f832&sni=ca.api.bzzzq.fun&type=tcp#🇨🇦 Канада 2 HOST TELECOM LTD
-vless://8415d003-15be-4f6d-b452-b5b5bdc187e6@78.138.17.65:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3ifh7TZGRkfJMxFeUug-YXR4EB5BFLJQ8DEfayvmWBE&security=reality&sid=168b19fa874b9934&sni=ca-3.earlyoak.sbs&type=tcp#🇨🇦 Канада 3 Kamatera, Inc.
+vless://8bbde034-a0de-4e8c-8be3-b16a99689380@179.255.184.95:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&sid=5b2e7a14c0d9f832&sni=ca.api.bzzzq.fun&type=tcp#🇨🇦 Канада 1 HOST TELECOM LTD
+vless://8bbde034-a0de-4e8c-8be3-b16a99689380@179.255.184.95:8443?encryption=none&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&serviceName=grpc&sid=5b2e7a14c0d9f832&sni=ca.api.bzzzq.fun&type=grpc#🇨🇦 Канада 2 HOST TELECOM LTD
