@@ -4,9 +4,14 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
-vless://e193931a-bc40-41e3-abc4-467fef7fe957@46.226.166.17:13363?encryption=none&fp=firefox&pbk=WKRNa0TE5486P9wI_sVaw1GhGFPTbNLTGtf6DfZ4bCU&security=reality&sid=93297486&sni=it.nvidia.com&type=grpc#🇫🇷 Франция 1 AEZA GROUP LLC
-vless://8f9c04c9-5c94-495e-9452-ab8b7a8af1bc@31.59.105.137:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=B97Gg7DpnBdFsHiCdOIQ6CGx17hcZYj2gEGNxnJ730c&security=reality&sni=paris.freegate.win&type=tcp#🇫🇷 Франция 2 CGI GLOBAL LIMITED
-vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@147.90.13.146:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=fr1.fox-lisa.ru&type=tcp#🇫🇷 Франция 3 HOSTKEY B.V.
-vless://8f9c04c9-5c94-495e-9452-ab8b7a8af1bc@153.80.179.111:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=B97Gg7DpnBdFsHiCdOIQ6CGx17hcZYj2gEGNxnJ730c&security=reality&sni=france.freegate.win&type=tcp#🇫🇷 Франция 4 LIVI HOSTING LTD
-vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.226:80?encryption=none&fp=firefox&security=tls&serviceName=qi8ws15c7jv5q2fa&sni=68r2nrw6avta71yq.cdn.cachefleet.com&type=grpc#🇫🇷 Франция 5 Raul Ghita trading as Ghita Telekom
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@31.76.68.86:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CMTA5uuaIVIeqHslZMT3CbFwP8F5ysMLii72ybsTlyY&security=reality&sid=e2a4c6b8&sni=lyon.lalibobi.online&type=tcp#🇫🇷 Франция 6 SERV.HOST GROUP LTD
+vless://f5a049c3-2c0a-4056-a780-8ef2327cb6c2@178.214.118.176:8443?encryption=none&fp=firefox&security=tls&serviceName=fr4grpc&sni=fr4.cyphervpn.pro&type=grpc#🇫🇷 Франция 1 ESTOXY OU
+vless://f5a049c3-2c0a-4056-a780-8ef2327cb6c2@178.214.118.219:18443?encryption=none&fp=firefox&security=tls&serviceName=maingrpc&sni=main.vimeostream.online&type=grpc#🇫🇷 Франция 2 ESTOXY OU
+vless://f5a049c3-2c0a-4056-a780-8ef2327cb6c2@185.42.24.231:443?encryption=none&fp=firefox&security=tls&serviceName=fr4grpc&sni=fr4.cyphervpn.pro&type=grpc#🇫🇷 Франция 3 ESTOXY OU
+vless://e193931a-bc40-41e3-abc4-467fef7fe957@46.226.166.17:13363?encryption=none&fp=firefox&pbk=WKRNa0TE5486P9wI_sVaw1GhGFPTbNLTGtf6DfZ4bCU&security=reality&sid=93297486&sni=it.nvidia.com&type=grpc#🇫🇷 Франция 4 AEZA GROUP LLC
+vless://32a3ca35-8426-439e-85fd-0446ce5b4a7b@83.141.88.195:443?encryption=none&fp=firefox&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc&security=reality&sni=hannover.gosgenarchive.com&type=xhttp#🇫🇷 Франция 5 AEZA GROUP LLC
+vless://8f9c04c9-5c94-495e-9452-ab8b7a8af1bc@31.59.105.137:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=B97Gg7DpnBdFsHiCdOIQ6CGx17hcZYj2gEGNxnJ730c&security=reality&sni=paris.freegate.win&type=tcp#🇫🇷 Франция 6 CGI GLOBAL LIMITED
+vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@147.90.13.146:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=fr1.fox-lisa.ru&type=tcp#🇫🇷 Франция 7 HOSTKEY B.V.
+vless://8f9c04c9-5c94-495e-9452-ab8b7a8af1bc@153.80.179.111:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=B97Gg7DpnBdFsHiCdOIQ6CGx17hcZYj2gEGNxnJ730c&security=reality&sni=france.freegate.win&type=tcp#🇫🇷 Франция 8 LIVI HOSTING LTD
+vless://c57268f0-1afc-4830-9687-3497e1ee8363@85.9.104.115:443?encryption=none&fp=firefox&host=string00.bot2.ir&security=tls&sni=string00.bot2.ir&type=ws#🇫🇷 Франция 9 OVH SAS
+vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.226:80?encryption=none&fp=firefox&security=tls&serviceName=qi8ws15c7jv5q2fa&sni=68r2nrw6avta71yq.cdn.cachefleet.com&type=grpc#🇫🇷 Франция 10 Raul Ghita trading as Ghita Telekom
+vless://7d718630-7a1a-4af8-9332-aa0610634e8a@31.76.68.86:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CMTA5uuaIVIeqHslZMT3CbFwP8F5ysMLii72ybsTlyY&security=reality&sid=e2a4c6b8&sni=lyon.lalibobi.online&type=tcp#🇫🇷 Франция 11 SERV.HOST GROUP LTD
