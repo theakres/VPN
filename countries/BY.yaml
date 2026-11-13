@@ -1,0 +1,11 @@
+proxy-groups:
+- name: PROXY
+  type: select
+  use:
+    - Akres
+proxy-providers:
+  Akres:
+    type: http
+    url: "https://github.com/theakres/VPN/raw/main/countries/BY"
+    path: ./proxy_providers/sub.yml
+    interval: 3600

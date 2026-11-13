@@ -4,22 +4,24 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@178.83.45.116:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 1 OVH SAS
-vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@143.14.59.36:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 2 OVH SAS
-vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@169.40.32.227:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 3 OVH SAS
+vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@169.40.32.227:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 1 OVH SAS
+vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@212.100.171.104:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 2 OVH SAS
+vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@143.14.59.36:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 3 OVH SAS
 vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@143.14.59.36:443?encryption=none&fp=firefox&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 4 OVH SAS
-vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@178.83.45.116:443?encryption=none&fp=firefox&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 5 OVH SAS
-vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@169.40.32.227:443?encryption=none&fp=firefox&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 6 OVH SAS
-vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&host=decdn-28.nome-rkp.net&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇩🇪 Германия 7 GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇩🇪 Германия 8 GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://c224a3cc-e575-4212-9e4f-d85ec9f2085d@193.36.92.6:40289?encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ask.w-ert.org&type=tcp#🇩🇪 Германия 9 Hetzner Online GmbH
-vless://ccf353ca-fa34-43fc-8ed9-520fb9d74bf6@31.59.192.254:8080?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=va.stream-room.com&type=ws#🇩🇪 Германия 10 OC NETWORKS LIMITED
+vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@169.40.32.227:443?encryption=none&fp=firefox&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 5 OVH SAS
+vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@212.100.171.104:443?encryption=none&fp=firefox&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 6 OVH SAS
+vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇩🇪 Германия 7 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://c224a3cc-e575-4212-9e4f-d85ec9f2085d@193.36.92.6:40289?encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ask.w-ert.org&type=tcp#🇩🇪 Германия 8 Hetzner Online GmbH
+vless://ccf353ca-fa34-43fc-8ed9-520fb9d74bf6@31.59.192.254:8080?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=va.stream-room.com&type=ws#🇩🇪 Германия 9 OC NETWORKS LIMITED
 vless://9517e5e2-c4e9-425d-9355-0a8a9cfbf330@193.36.92.6:40287?encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ask.w-ert.org&type=tcp#🇳🇱 Нидерланды 1 Finn Hess trading as Ryzehosting
 vless://c224a3cc-e575-4212-9e4f-d85ec9f2085d@193.36.92.6:40287?encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ask.w-ert.org&type=tcp#🇳🇱 Нидерланды 2 Finn Hess trading as Ryzehosting
 vless://ef8ec155-ea61-4ee5-a122-2cf613f13e37@194.135.22.186:443?encryption=none&fp=firefox&security=tls&serviceName=videohosting.Stream&sni=videohosting.cliphub.forum&type=grpc#🇳🇱 Нидерланды 3 RoyaleHosting BV
 vless://ef8ec155-ea61-4ee5-a122-2cf613f13e37@194.59.40.192:443?encryption=none&fp=firefox&security=tls&serviceName=videohosting.Stream&sni=videohosting.cliphub.forum&type=grpc#🇳🇱 Нидерланды 4 RoyaleHosting BV
-vless://c224a3cc-e575-4212-9e4f-d85ec9f2085d@193.36.92.6:15100?encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ask.w-ert.org&type=tcp#🇵🇱 Польша 1 OVH SAS
-vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.168.218.6:443?encryption=none&fp=firefox&host=d2ex4nxd2e01ub.cloudfront.net&security=tls&sni=d2ex4nxd2e01ub.cloudfront.net&type=ws#🇵🇱 Польша 2 OVH SAS
-vless://c224a3cc-e575-4212-9e4f-d85ec9f2085d@193.36.92.6:22280?encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ask.w-ert.org&type=tcp#🇮🇪 Ирландия M247 Europe SRL
+vless://c224a3cc-e575-4212-9e4f-d85ec9f2085d@193.36.92.6:22280?encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ask.w-ert.org&type=tcp#🇮🇪 Ирландия 1 M247 Europe SRL
+vless://9517e5e2-c4e9-425d-9355-0a8a9cfbf330@193.36.92.6:22280?encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ask.w-ert.org&type=tcp#🇮🇪 Ирландия 2 M247 Europe SRL
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@149.28.8.10:443?encryption=none&fp=firefox&host=v1n3.11676767.xyz&path=/go.php/productsfp=chrome&security=tls&sni=v1n3.11676767.xyz&type=ws#🇺🇸 США 1 Cloudflare, Inc.
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@149.28.8.10:443?encryption=none&fp=firefox&host=v1n3.11676767.xyz&path=/go.php/products&security=tls&sni=v1n3.11676767.xyz&type=ws#🇺🇸 США 2 Cloudflare, Inc.
+vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@91.92.137.165:443?encryption=none&fp=firefox&security=tls&serviceName=grpc&sni=bg.oncloudvpn.com&type=grpc#🇧🇬 Болгария Belcloud LTD
+vless://c224a3cc-e575-4212-9e4f-d85ec9f2085d@193.36.92.6:15100?encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ask.w-ert.org&type=tcp#🇵🇱 Польша OVH SAS
 vless://facb802c-de2e-11f1-9a22-a3404e852f3b@185.39.204.117:10002?encryption=none&fp=firefox&path=/vpnjantit&security=tls&sni=tr2.vpnjantit.com&type=ws#🇹🇷 Турция GLOBAL CONNECTIVITY SOLUTIONS LLP
 vless://4f82d72b-9644-c39a-ac6b-abbf15a862aa@13.140.248.125:443?encryption=none&fp=firefox&host=xray-p1vi234h-lunar-forest-6.cloady.io&path=/e3e2aa65089989f0&security=tls&sni=xray-p1vi234h-lunar-forest-6.cloady.io&type=ws#🇯🇵 Япония Contabo Asia Private Limited
