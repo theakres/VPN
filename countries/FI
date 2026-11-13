@@ -4,11 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNC40L3Qu9GP0L3QtNC40Y8=
-vless://9de40432-8f2d-48ed-a140-2ca7d35ccdba@132.243.163.16:443?encryption=none&fp=firefox&pbk=Z5Q3FIJZqur9up4x5cQlwlSBiSRgharb3ZqXZiiB3Ec&security=reality&serviceName=f2567f97960c&sid=48ee73a5f3a6e67a&sni=0a4ba9g.fi17.h1clayd.shop&type=grpc#🇫🇮 Финляндия 1 Edge Core FZE
-vless://9de40432-8f2d-48ed-a140-2ca7d35ccdba@132.243.163.16:443?encryption=none&fp=firefox&pbk=v_654dOT0vLCFBaGdtI8NsPV0dBhRsEj9Lkof1rVtUQ&security=reality&sid=acb4c666c66fdf44&sni=820c5et.fi17.h1clayd.shop&type=tcp#🇫🇮 Финляндия 2 Edge Core FZE
-vless://9de40432-8f2d-48ed-a140-2ca7d35ccdba@132.243.163.16:443?encryption=none&fp=firefox&path=/56ade343c6b0&pbk=dy2bwBarXmh7W5LLaj7gRmEAXEVvlXhQusypJKDrPGM&security=reality&sid=f93f15f06702258c&sni=4b37f1x.fi17.h1clayd.shop&type=xhttp#🇫🇮 Финляндия 3 Edge Core FZE
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@177.3.220.53:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&security=reality&sid=78f97d82e16aaad6&sni=fi-b2.golangwikito.cfd&type=tcp#🇫🇮 Финляндия 4 PLAY2GO INTERNATIONAL LIMITED
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@177.3.220.53:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&security=reality&sid=bdf5852d1423e694&sni=fi-b2.golangwikito.cfd&type=tcp#🇫🇮 Финляндия 5 PLAY2GO INTERNATIONAL LIMITED
-vless://e460e79d-5dd9-451d-8d1a-a84c8b70c9a7@177.1.183.143:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=37ZFWtNTZ_slVsJp0_5siKSeqz-sZSuLdYurC_cBrxw&security=reality&sni=ru-fl2.fluxnode777.ru&type=tcp#🇫🇮 Финляндия 6 DpkgSoft International Limited
-vless://5bf3f594-8a5d-47e4-8911-911952b2443f@81.177.140.23:53898?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aV_BHCeZ30y4-5rpUIHaWHMYAgogLsw4AE06Rw2X4WE&security=reality&sid=e202a94ad1711af2&sni=c3b4ce4b957a.vps.myjino.ru&type=tcp#🇫🇮 Финляндия 7 NetCrafters OU
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.167:4444?sni=fl5.edgeport.cloud#🇫🇮 Финляндия 8 SERV.HOST GROUP LTD
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@177.3.220.53:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&security=reality&sid=78f97d82e16aaad6&sni=fi-b2.golangwikito.cfd&type=tcp#🇫🇮 Финляндия 1 PLAY2GO INTERNATIONAL LIMITED
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@177.3.220.53:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&security=reality&sid=bdf5852d1423e694&sni=fi-b2.golangwikito.cfd&type=tcp#🇫🇮 Финляндия 2 PLAY2GO INTERNATIONAL LIMITED
+vless://e460e79d-5dd9-451d-8d1a-a84c8b70c9a7@79.182.70.237:25749?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nmjOhfpVZtk9W-3GZk5JY0B-OvCFkjP2RvTVBNZO7lE&security=reality&sid=f6b3841eabafff9a&sni=80aa2br.fi4.h1clayd.click&type=tcp#🇫🇮 Финляндия 3 Hetzner Online GmbH
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.167:4444?sni=fl5.edgeport.cloud#🇫🇮 Финляндия 4 SERV.HOST GROUP LTD

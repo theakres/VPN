@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkdC+0LvQs9Cw0YDQuNGP
-vless://7d4a5c8f-0cdb-41b9-8898-807a1b7335e4@45.137.201.66:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=c8IEc_c_QBmI5YAwILoVH0xw2xC4AJgJDKEYKcmKogo&security=reality&sid=7f2e9c4b1a8d6e55&sni=wwe.fantoff.online&type=tcp#🇧🇬 Болгария 1 Julian Achter
-vless://7d4a5c8f-0cdb-41b9-8898-807a1b7335e4@45.137.201.66:8443?encryption=none&fp=firefox&pbk=2VDvK_MUMJQou2QHniofZOKRHcslWrJ6wtblKf2AilY&security=reality&serviceName=wwe_grpc&sid=7f2e9c4b1a8d6e55&sni=wwe.fantoff.online&type=grpc#🇧🇬 Болгария 2 Julian Achter
