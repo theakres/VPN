@@ -1,0 +1,13 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmNGC0LDQu9C40Y8=
+vless://ada5e5c0-317c-48e1-8152-10ff38fc6d26@103.241.66.51:8443?encryption=none&fp=firefox&pbk=1aRX6e5pkQgmGaGCvCCdk6sdKCatb-fPMtVBlqj3tjw&security=reality&serviceName=grpc-it&sid=ec1126df90f69ecd&sni=video.ds-cdn.online&type=grpc#🇮🇹 Италия 1 Kamatera, Inc.
+vless://ada5e5c0-317c-48e1-8152-10ff38fc6d26@103.241.66.51:2053?encryption=none&extra={"xmux":{"cMaxReuseTimes":0,"maxConcurrency":"16-32","maxConnections":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"}}&fp=firefox&path=/internal/tunnel&pbk=1aRX6e5pkQgmGaGCvCCdk6sdKCatb-fPMtVBlqj3tjw&security=reality&sid=ec1126df90f69ecd&sni=video.ds-cdn.online&type=xhttp#🇮🇹 Италия 2 Kamatera, Inc.
+vless://ada5e5c0-317c-48e1-8152-10ff38fc6d26@103.241.66.51:2053?encryption=none&fp=firefox&path=/internal/tunnel&pbk=1aRX6e5pkQgmGaGCvCCdk6sdKCatb-fPMtVBlqj3tjw&security=reality&sid=ec1126df90f69ecd&sni=video.ds-cdn.online&type=xhttp#🇮🇹 Италия 3 Kamatera, Inc.
+vless://ada5e5c0-317c-48e1-8152-10ff38fc6d26@103.241.66.51:2053?encryption=none&extra={"xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"16-32","maxConnections":0}}&fp=firefox&path=/internal/tunnel&pbk=1aRX6e5pkQgmGaGCvCCdk6sdKCatb-fPMtVBlqj3tjw&security=reality&sid=ec1126df90f69ecd&sni=video.ds-cdn.online&type=xhttp#🇮🇹 Италия 4 Kamatera, Inc.
+vless://ada5e5c0-317c-48e1-8152-10ff38fc6d26@103.241.66.51:2053?encryption=none&extra={"xmux":{"cMaxReuseTimes":0,"maxConcurrency":"16-32","maxConnections":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"}}&fp=firefox&host=video.ds-cdn.online&path=/internal/tunnel&pbk=1aRX6e5pkQgmGaGCvCCdk6sdKCatb-fPMtVBlqj3tjw&security=reality&sid=ec1126df90f69ecd&sni=video.ds-cdn.online&type=xhttp#🇮🇹 Италия 5 Kamatera, Inc.
+vless://fa081e9f-7574-0002-8928-31aa5ac923c7@203.23.179.123:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=de1-b.sbcweb.net&type=tcp#🇮🇹 Италия 6 Aruba S.p.A.
+vless://fa081e9f-7574-0001-8928-31aa5ac923c7@203.23.179.123:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=de1-b.sbcweb.net&type=tcp#🇮🇹 Италия 7 Aruba S.p.A.
