@@ -4,10 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
-vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@140.233.177.3:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 1 OVH SAS
-vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@178.83.45.207:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 2 OVH SAS
-vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@194.77.220.101:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 3 OVH SAS
-vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@140.233.177.3:443?encryption=none&fp=firefox&host=riga.zovip2.ir&path=/api/v3/pulse&security=tls&sni=riga.zovip2.ir&type=ws#🇩🇪 Германия 4 OVH SAS
-vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@194.77.220.101:443?encryption=none&fp=firefox&host=riga.zovip2.ir&path=/api/v3/pulse&security=tls&sni=riga.zovip2.ir&type=ws#🇩🇪 Германия 5 OVH SAS
-vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@178.83.45.207:443?encryption=none&fp=firefox&host=riga.zovip2.ir&path=/api/v3/pulse&security=tls&sni=riga.zovip2.ir&type=ws#🇩🇪 Германия 6 OVH SAS
+vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@194.77.220.101:443?encryption=none&fp=firefox&host=riga.zovip2.ir&path=/api/v3/pulse&security=tls&sni=riga.zovip2.ir&type=ws#🇩🇪 Германия 1 OVH SAS
+vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@194.77.220.101:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 2 OVH SAS
 vless://0ec49b97-d745-490c-b990-f3527cd39f1f@153.52.255.29:443?encryption=none&fp=firefox&host=oputrwesssu-production.up.railway.app&path=/api/vaDf8M&security=tls&sni=oputrwesssu-production.up.railway.app&type=ws#🇳🇱 Нидерланды Railway
+vless://7d718630-7a1a-4af8-9332-aa0610634e8a@191.217.252.31:443?encryption=none&fp=firefox&path=/live/showroom&security=tls&sni=media.saari.lalibobi.online&type=ws#🇫🇮 Финляндия OC NETWORKS LIMITED
+vless://7d718630-7a1a-4af8-9332-aa0610634e8a@132.243.67.197:443?encryption=none&fp=firefox&path=/live/showroom&security=tls&sni=media.aava.lalibobi.online&type=ws#🇪🇪 Эстония Paul Sagov

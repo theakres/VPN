@@ -4,9 +4,9 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@95.85.243.40:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Oc8iFCgfl2hRU3yCf2aaZOxiuK5GLwxct3lYy6sw7nk&security=reality&sni=saar-est3.lalibobi.online&type=tcp#🇪🇪 Эстония 1 OC NETWORKS LIMITED
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@64.188.78.32:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UUAeEJC-AryOno_jBPGDry1QzQlZ1wlm5S4uS0_D7hA&security=reality&sid=0099b700c0152888&sni=parnu.lalibobi.online&type=tcp#🇪🇪 Эстония 2 OC NETWORKS LIMITED
+vless://7d718630-7a1a-4af8-9332-aa0610634e8a@64.188.78.32:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UUAeEJC-AryOno_jBPGDry1QzQlZ1wlm5S4uS0_D7hA&security=reality&sid=0099b700c0152888&sni=parnu.lalibobi.online&type=tcp#🇪🇪 Эстония 1 OC NETWORKS LIMITED
+vless://7d718630-7a1a-4af8-9332-aa0610634e8a@95.85.243.40:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Oc8iFCgfl2hRU3yCf2aaZOxiuK5GLwxct3lYy6sw7nk&security=reality&sni=saar-est3.lalibobi.online&type=tcp#🇪🇪 Эстония 2 OC NETWORKS LIMITED
 vless://7d718630-7a1a-4af8-9332-aa0610634e8a@64.188.78.32:443?encryption=none&fp=firefox&pbk=UUAeEJC-AryOno_jBPGDry1QzQlZ1wlm5S4uS0_D7hA&security=reality&serviceName=shop.v1.Catalog&sid=0099b700c0152888&sni=api.parnu.lalibobi.online&type=grpc#🇪🇪 Эстония 3 OC NETWORKS LIMITED
 hysteria2://7d718630-7a1a-4af8-9332-aa0610634e8a@64.188.78.32:443?sni=static.parnu.lalibobi.online#🇪🇪 Эстония 4 OC NETWORKS LIMITED
-vless://c61d087d-f025-40d2-bfd7-b7302f9e05b9@31.56.187.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XmvhirU6V5lOl__xGziMlYSTmYef6cY52xNM8_N-Dns&security=reality&sid=b9d8c8addd2e5f70&sni=estonia.izzzyvpn.space&type=tcp#🇪🇪 Эстония 5 ExpressHost Ltd
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@132.243.67.197:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zBkBjgJwJc5jTXF-ChCv5wgIRK5vigPkw2H_O_tuxEc&security=reality&sid=1435dbe94a6bbc0f&sni=aava.lalibobi.online&type=tcp#🇪🇪 Эстония 6 Paul Sagov
+vless://7d718630-7a1a-4af8-9332-aa0610634e8a@132.243.67.197:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zBkBjgJwJc5jTXF-ChCv5wgIRK5vigPkw2H_O_tuxEc&security=reality&sid=1435dbe94a6bbc0f&sni=aava.lalibobi.online&type=tcp#🇪🇪 Эстония 5 Paul Sagov
+vless://7d718630-7a1a-4af8-9332-aa0610634e8a@132.243.67.197:443?encryption=none&fp=firefox&path=/live/showroom&security=tls&sni=media.aava.lalibobi.online&type=ws#🇪🇪 Эстония 6 Paul Sagov
