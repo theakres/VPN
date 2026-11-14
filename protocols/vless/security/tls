@@ -4,11 +4,23 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://510e8bc2-020c-412a-9caa-b036031268e8@80.47.229.187:443?encryption=none&fp=firefox&host=5674-4.seenode.app&path=/api/v1/live&security=tls&sni=5674-4.seenode.app&type=ws#🇩🇪 Германия 1 UpCloud Ltd
-vless://510e8bc2-020c-412a-9caa-b036031268e8@80.47.228.99:443?encryption=none&fp=firefox&host=5674-4.seenode.app&path=/api/v1/live&security=tls&sni=5674-4.seenode.app&type=ws#🇩🇪 Германия 2 UpCloud Ltd
-vless://393f7488-378f-4c3c-98af-702db5f869e3@45.157.116.132:443?encryption=mlkem768x25519plus.native.0rtt.kzOKk1jcguvjxCUVKWtIw-hhlmWmeKdGjj3Qhdzb8BE&fp=firefox&host=30u3854t5hkr7cu34jyxd3duf8tp518.test-fox-102.ir&security=tls&sni=30u3854t5hkr7cu34jyxd3duf8tp518.test-fox-102.ir&type=ws#🇩🇪 Германия 3 VIRTUA SYSTEMS SAS
+vless://7102f0c3-1964-47f1-936b-26b8caee9aba@166.0.22.244:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp8.netease.uz&type=tcp#🇯🇵 Япония 1 Dromatics Systems Pte Ltd
+vless://9dc3aaa8-4330-4e0d-9363-b19cf6d9fc62@166.0.22.246:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp4.netease.uz&type=tcp#🇯🇵 Япония 2 Dromatics Systems Pte Ltd
+vless://d7067561-10b3-4aba-8834-6baedd2adfb5@166.0.22.237:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp6.netease.uz&type=tcp#🇯🇵 Япония 3 Dromatics Systems Pte Ltd
+vless://9f862257-b1fa-4fb9-9558-bcd6b03ff309@166.0.22.236:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp5.netease.uz&type=tcp#🇯🇵 Япония 4 Dromatics Systems Pte Ltd
+vless://20e53e28-2094-436c-a5ed-917ee60bb042@166.0.22.242:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp2.netease.uz&type=tcp#🇯🇵 Япония 5 Dromatics Systems Pte Ltd
+vless://9b2be2d3-96cd-4ffc-aac2-649c74f92402@166.0.22.238:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp1.netease.uz&type=tcp#🇯🇵 Япония 6 Dromatics Systems Pte Ltd
+vless://5a90143c-dc79-491d-a4e0-0e9ec6345d1d@166.0.22.245:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp9.netease.uz&type=tcp#🇯🇵 Япония 7 Dromatics Systems Pte Ltd
+vless://9f7c3142-9a06-46ff-be0d-448f5a2f41d2@166.0.22.241:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp7.netease.uz&type=tcp#🇯🇵 Япония 8 Dromatics Systems Pte Ltd
+vless://ad65ebef-654b-4b5f-afa7-200f12b2ef40@166.0.22.243:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp3.netease.uz&type=tcp#🇯🇵 Япония 9 Dromatics Systems Pte Ltd
+vless://510e8bc2-020c-412a-9caa-b036031268e8@80.47.228.99:443?encryption=none&fp=firefox&host=5674-4.seenode.app&path=/api/v1/live&security=tls&sni=5674-4.seenode.app&type=ws#🇩🇪 Германия 1 UpCloud Ltd
+vless://510e8bc2-020c-412a-9caa-b036031268e8@80.47.229.187:443?encryption=none&fp=firefox&host=5674-4.seenode.app&path=/api/v1/live&security=tls&sni=5674-4.seenode.app&type=ws#🇩🇪 Германия 2 UpCloud Ltd
+vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&host=decdn-28.nome-rkp.net&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇩🇪 Германия 3 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://393f7488-378f-4c3c-98af-702db5f869e3@45.157.116.132:443?encryption=mlkem768x25519plus.native.0rtt.kzOKk1jcguvjxCUVKWtIw-hhlmWmeKdGjj3Qhdzb8BE&fp=firefox&host=30u3854t5hkr7cu34jyxd3duf8tp518.test-fox-102.ir&security=tls&sni=30u3854t5hkr7cu34jyxd3duf8tp518.test-fox-102.ir&type=ws#🇩🇪 Германия 4 VIRTUA SYSTEMS SAS
 vless://60311488-d51e-faea-7829-66c56c3dfd1e@13.140.240.174:443?encryption=none&fp=firefox&host=xray-nqx8fzfk-chen-nantong.cloady.io&path=/08819a9a5db4c1e0&security=tls&sni=xray-nqx8fzfk-chen-nantong.cloady.io&type=ws#🇺🇸 США 1 Contabo Inc.
 vless://d006ef4a-d235-4691-bf05-abbe0d14055c@64.186.233.233:443?encryption=none&fp=firefox&host=clash.ddm4.cn&path=/vless&security=tls&sni=clash.ddm4.cn&type=ws#🇺🇸 США 2 DMIT Cloud Services
-vless://4859c235-2530-4062-9a0b-ea859cbbf861@5.157.30.28:8443?encryption=none&fp=firefox&host=1.proxy2.us.ci.&path=/?ed=2560&security=tls&sni=1.proxy2.us.ci.&type=ws#🇺🇸 США 3 HostPapa
+vless://901c1ed2-be44-4c97-843e-7bcdcce28e04@172.86.112.136:2053?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=firefox&host=usa.amosh.sbs&security=tls&sni=usa.amosh.sbs&type=xhttp#🇺🇸 США 3 RouterHosting LLC
+vless://f2905db1-4c91-48fc-a101-705d1620e279@94.183.164.190:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js&security=tls&sni=nl4.gacvpn.site&type=ws#🇳🇱 Нидерланды Vladislav Doniy
+vless://f2905db1-4c91-48fc-a101-705d1620e279@95.85.254.14:8443?encryption=none&fp=firefox&security=tls&serviceName=connect-pl&sni=pl2-edge.gacvpn.site&type=grpc#🇵🇱 Польша Intezio Worldwide Limited
 vless://50414e45-4c5f-5a45-5553-e759cf52c6be@176.118.214.216:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/e759cf52c6be&security=tls&sni=9lz3z5efu8os.gamewizardbac1k.workers.Dev&type=ws#🇫🇷 Франция Cloudflare, Inc.
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@132.243.67.197:443?encryption=none&fp=firefox&path=/live/showroom&security=tls&sni=media.aava.lalibobi.online&type=ws#🇪🇪 Эстония Paul Sagov
+vless://f2905db1-4c91-48fc-a101-705d1620e279@143.246.205.2:8443?encryption=none&fp=firefox&security=tls&serviceName=connect-ch&sni=ch.gacvpn.site&type=grpc#🇨🇭 Швейцария ALEXHOST S.R.L.
