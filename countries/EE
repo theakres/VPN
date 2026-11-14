@@ -4,5 +4,9 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
-vless://8458e1a5-cf44-46d5-9b6b-41888e55d19e@31.56.187.145:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4KolZT8ceL7zivti6ZKAucKjGo_QF_C16E5rAjTC914&security=reality&sid=b6f0baf4126ada5f&sni=api-les.tihoe-mesto.xyz&type=tcp#🇪🇪 Эстония 1 ExpressHost Ltd
-vless://5c09e56b-f97f-4360-8f01-eb4d39202095@185.155.55.2:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&security=reality&sid=661766b2bcef440a&sni=ee-nf.reddotcorp.org&type=tcp#🇪🇪 Эстония 2 RJ Network OU
+vless://6570dab9-b4e3-4841-8a8c-58faac070128@141.0.187.220:11443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GPz7dacpjZ5iHT5pbZfYap1vpyt85mNKV7BVW3R92hE&security=reality&sid=26ca0f0ba115925d&sni=141.0.187.220&type=tcp#🇪🇪 Эстония 1 Alfahost LLC
+vless://6570dab9-b4e3-4841-8a8c-58faac070128@141.0.187.220:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇪🇪 Эстония 2 Alfahost LLC
+vless://6570dab9-b4e3-4841-8a8c-58faac070128@141.0.187.228:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇪🇪 Эстония 3 Alfahost LLC
+vless://6570dab9-b4e3-4841-8a8c-58faac070128@141.0.187.196:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇪🇪 Эстония 4 Alfahost LLC
+vless://5f1c2e83-d4aa-4f10-81e9-e0ccc018974c@79.98.37.146:443?encryption=none&fp=firefox&pbk=CEPjmMZbtepvPjcZmM8sBeyw8-IoCF71lBR2msK_2zY&security=reality&serviceName=cdn.v2.AssetSync&sid=6705f73a5a1e0aca&sni=79.98.37.146&type=grpc#🇪🇪 Эстония 5 Datagio Systems Ltd.
+vless://5f1c2e83-d4aa-4f10-81e9-e0ccc018974c@94.183.239.64:443?encryption=none&fp=firefox&pbk=CEPjmMZbtepvPjcZmM8sBeyw8-IoCF71lBR2msK_2zY&security=reality&serviceName=cdn.v2.AssetSync&sid=6705f73a5a1e0aca&sni=94.183.239.64&type=grpc#🇪🇪 Эстония 6 ETERNITY NETWORKS LLC

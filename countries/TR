@@ -4,5 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQotGD0YDRhtC40Y8=
-vless://86b62284-75fd-4653-ab37-2d2ccf73a695@213.156.152.63:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XzPy2vjzBXPB5eC1cHEn37MRCCq47zYE-apfA1XUbhY&security=reality&sid=51852ca8c115946e&sni=delivery.mp.microsoft.com&type=tcp#🇹🇷 Турция 1 G-Core Labs S.A.
-vless://01e61db7-9e0b-4431-a995-a5288a01b951@147.45.66.208:43000?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DbL9RJFvJrnxBu6fFhWkHF8nsD6cK_DKMuMV00RmlWg&security=reality&sid=4d3d8e15&sni=147.45.66.208&type=tcp#🇹🇷 Турция 2 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://8f00c345-fd3d-4b23-af44-84a7982f6499@206.1.103.172:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=firefox&pbk=oY8jXWvAdp2XD9z1E5mltFa89nv4bU8NK8hjgtvIQRE&security=reality&sid=af6c24&sni=www.compliance.sony.de&type=xhttp#🇹🇷 Турция 1 Netlen Internet Hizmetleri Ltd. Sti.
+vless://231aa65c-8e9b-443f-a5e9-5bdfe6ab64d8@206.1.103.172:443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=firefox&pbk=aeU3EvAzoFe-gIVVVS9LddQz3okdihECESDRNaqb7AA&security=reality&sid=c647f3&sni=www.sony.com.pa&type=xhttp#🇹🇷 Турция 2 Netlen Internet Hizmetleri Ltd. Sti.
+vless://97fd7807-7e2b-49da-8a0e-e40197088f97@50.7.87.251:443?encryption=none&fp=firefox&host=api.ferrin.uk&path=/tr&security=tls&sni=97fd7807.ferrin.uk&type=xhttp#🇹🇷 Турция 3 Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi

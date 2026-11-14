@@ -1,9 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkdC10LvQsNGA0YPRgdGM
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4443?encryption=none&fp=firefox&path=/api/v1/sync/&security=tls&sni=bl1.nexfile.net&type=xhttp#🇧🇾 Беларусь 1 SERV.HOST GROUP LTD
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4444?sni=bl1.nexfile.net#🇧🇾 Беларусь 2 SERV.HOST GROUP LTD
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4443?encryption=none&fp=firefox&host=bl1.nexfile.net&path=/api/v1/sync/&security=tls&sni=bl1.nexfile.net&type=xhttp#🇧🇾 Беларусь 3 SERV.HOST GROUP LTD

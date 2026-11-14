@@ -4,20 +4,26 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@168.222.43.155:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 1 OVH SAS
-vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@169.40.32.11:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 2 OVH SAS
-vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@169.40.32.83:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 3 OVH SAS
-vless://6c022fe4-9838-42fd-a702-1938c5d2ca33@2.31.132.159:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=static.167.125.29.2.clients.your-server.de&type=tcp#🇩🇪 Германия 4 Hetzner Online GmbH
-vless://6c022fe4-9838-42fd-a702-1938c5d2ca33@167.233.217.107:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=static.80.222.99.91.clients.your-server.de&type=tcp#🇩🇪 Германия 5 Hetzner Online GmbH
-vless://75656990-9fe9-4421-a643-53f63e5b1b8f@189.74.114.99:443?encryption=none&fp=firefox&security=tls&serviceName=3e99d50d5740985d&sni=nl-next.mediastvor.cc&type=grpc#🇳🇱 Нидерланды 1 FDCservers.net
-vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@194.60.228.97:443?encryption=none&fp=firefox&security=tls&sni=base.hosamobenl.co.uk&type=tcp#🇳🇱 Нидерланды 2 PIO-Hosting GmbH
-vless://f162d612-2a0b-4ef1-84bd-97738eaea546@153.52.255.46:443?encryption=none&fp=firefox&host=mot78h-production.up.railway.app&path=/api/HpokLW&security=tls&sni=mot78h-production.up.railway.app&type=ws#🇳🇱 Нидерланды 3 Railway
-vless://20e53e28-2094-436c-a5ed-917ee60bb042@166.0.22.242:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp2.netease.uz&type=tcp#🇯🇵 Япония 1 Dromatics Systems Pte Ltd
-vless://9f7c3142-9a06-46ff-be0d-448f5a2f41d2@166.0.22.241:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp7.netease.uz&type=tcp#🇯🇵 Япония 2 Dromatics Systems Pte Ltd
-vless://ad65ebef-654b-4b5f-afa7-200f12b2ef40@166.0.22.243:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp3.netease.uz&type=tcp#🇯🇵 Япония 3 Dromatics Systems Pte Ltd
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4443?encryption=none&fp=firefox&path=/api/v1/sync/&security=tls&sni=bl1.nexfile.net&type=xhttp#🇧🇾 Беларусь 1 SERV.HOST GROUP LTD
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4443?encryption=none&fp=firefox&host=bl1.nexfile.net&path=/api/v1/sync/&security=tls&sni=bl1.nexfile.net&type=xhttp#🇧🇾 Беларусь 2 SERV.HOST GROUP LTD
-vless://ae46b75d-233b-42e4-a248-f29e605b0a50@167.17.186.36:443?encryption=none&fp=firefox&path=/assets/relay/&security=tls&sni=ua1.15min.club&type=xhttp#🇺🇦 Украина 1 Baxet Group Inc.
-vless://ae46b75d-233b-42e4-a248-f29e605b0a50@167.17.186.36:443?encryption=none&fp=firefox&host=ua1.15min.club&path=/assets/relay/&security=tls&sni=ua1.15min.club&type=xhttp#🇺🇦 Украина 2 Baxet Group Inc.
-vless://50414e45-4c5f-5a45-5553-3a16f3365f2c@157.245.182.9:2053?encryption=none&fp=firefox&host=exzomne9uess.ssegfsgvfetgsvbherbsderhsbehwh.workers.dev&path=/stream/PANEL_ZEUS/3a16f3365f2c&security=tls&sni=exzomne9uess.ssegfsgvfetgsvbherbsderhsbehwh.workers.dev&type=ws#🇫🇷 Франция Cloudflare, Inc.
-vless://75656990-9fe9-4421-a643-53f63e5b1b8f@189.74.118.3:443?encryption=none&fp=firefox&security=tls&serviceName=r7Kp4mN9tQ2v&sni=cz-next.mediastvor.cc&type=grpc#🇨🇿 Чехия FDCservers.net
+vless://0281a320-21e8-434f-86b7-a7c0db58c0db@156.226.175.115:443?encryption=none&fp=firefox&host=je8r21hqax.dev.onappjet.com&path=/ws/0281a320-21e8-434f-86b7-a7c0db58c0db&security=tls&sni=je8r21hqax.dev.onappjet.com&type=ws#🇺🇸 США 1 GTHost
+vless://0281a320-21e8-434f-86b7-a7c0db58c0db@177.1.187.155:443?encryption=none&fp=firefox&host=je8r21hqax.dev.onappjet.com&path=/ws/0281a320-21e8-434f-86b7-a7c0db58c0db&security=tls&sni=je8r21hqax.dev.onappjet.com&type=ws#🇺🇸 США 2 GTHost
+vless://0281a320-21e8-434f-86b7-a7c0db58c0db@150.241.123.99:443?encryption=none&fp=firefox&host=je8r21hqax.dev.onappjet.com&path=/ws/0281a320-21e8-434f-86b7-a7c0db58c0db&security=tls&sni=je8r21hqax.dev.onappjet.com&type=ws#🇺🇸 США 3 GTHost
+vless://0281a320-21e8-434f-86b7-a7c0db58c0db@87.120.126.127:443?encryption=none&fp=firefox&host=je8r21hqax.dev.onappjet.com&path=/ws/0281a320-21e8-434f-86b7-a7c0db58c0db&security=tls&sni=je8r21hqax.dev.onappjet.com&type=ws#🇺🇸 США 4 GTHost
+vless://0281a320-21e8-434f-86b7-a7c0db58c0db@43.170.58.62:443?encryption=none&fp=firefox&host=je8r21hqax.dev.onappjet.com&path=/ws/0281a320-21e8-434f-86b7-a7c0db58c0db&security=tls&sni=je8r21hqax.dev.onappjet.com&type=ws#🇺🇸 США 5 GTHost
+vless://0281a320-21e8-434f-86b7-a7c0db58c0db@84.200.77.75:443?encryption=none&fp=firefox&host=je8r21hqax.dev.onappjet.com&path=/ws/0281a320-21e8-434f-86b7-a7c0db58c0db&security=tls&sni=je8r21hqax.dev.onappjet.com&type=ws#🇺🇸 США 6 GTHost
+vless://0281a320-21e8-434f-86b7-a7c0db58c0db@8.209.83.19:443?encryption=none&fp=firefox&host=je8r21hqax.dev.onappjet.com&path=/ws/0281a320-21e8-434f-86b7-a7c0db58c0db&security=tls&sni=je8r21hqax.dev.onappjet.com&type=ws#🇺🇸 США 7 GTHost
+vless://0281a320-21e8-434f-86b7-a7c0db58c0db@185.100.159.129:443?encryption=none&fp=firefox&host=je8r21hqax.dev.onappjet.com&path=/ws/0281a320-21e8-434f-86b7-a7c0db58c0db&security=tls&sni=je8r21hqax.dev.onappjet.com&type=ws#🇺🇸 США 8 GTHost
+vless://313b84fa-b922-500f-9b65-acb67c040cc0@185.197.193.137:443?encryption=none&fp=firefox&host=us2.v2less.site&path=/vless&security=tls&sni=us2.v2less.site&type=ws#🇺🇸 США 9 Ilia Baikov
+vless://313b84fa-b922-500f-9b65-acb67c040cc0@185.197.193.187:443?encryption=none&fp=firefox&host=us2.v2less.site&path=/vless&security=tls&sni=us2.v2less.site&type=ws#🇺🇸 США 10 Ilia Baikov
+vless://ed239863-b8fe-4ac7-aba1-8aaf503e9c11@153.52.255.22:443?encryption=none&fp=firefox&host=plkgderurtl-production.up.railway.app&path=/api/M9BKit&security=tls&sni=plkgderurtl-production.up.railway.app&type=ws#🇳🇱 Нидерланды 1 Railway
+vless://8f326bdd-8456-2cde-930d-8d90df11c886@153.52.255.73:443?encryption=none&fp=firefox&host=whitepanel-ui-production-c594e7d1.up.railway.app&path=/ws/8f326bdd-8456-2cde-930d-8d90df11c886&security=tls&sni=whitepanel-ui-production-c594e7d1.up.railway.app&type=ws#🇳🇱 Нидерланды 2 Railway
+vless://97fd7807-7e2b-49da-8a0e-e40197088f97@196.240.125.10:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-v1-6af86a96.vmagnum.win&type=tcp#🇳🇱 Нидерланды 3 Orion Network Limited
+vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@135.181.187.44:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=sizipe.hagrid-connected.com&type=tcp#🇫🇮 Финляндия 1 Hetzner Online GmbH
+vless://97fd7807-7e2b-49da-8a0e-e40197088f97@107.150.93.18:443?encryption=none&fp=firefox&host=fi.alpheratzz.org&security=tls&sni=97fd7807.ferrin.uk&type=xhttp#🇫🇮 Финляндия 2 Orion Network Limited
+vless://6570dab9-b4e3-4841-8a8c-58faac070128@92.242.165.141:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇫🇮 Финляндия 3 UXHOST LTD
+vless://6570dab9-b4e3-4841-8a8c-58faac070128@141.0.187.220:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇪🇪 Эстония 1 Alfahost LLC
+vless://6570dab9-b4e3-4841-8a8c-58faac070128@141.0.187.228:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇪🇪 Эстония 2 Alfahost LLC
+vless://6570dab9-b4e3-4841-8a8c-58faac070128@141.0.187.196:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇪🇪 Эстония 3 Alfahost LLC
+vless://97fd7807-7e2b-49da-8a0e-e40197088f97@50.7.28.212:443?encryption=none&extra={"xmux":{"maxConnections":1,"maxReuseTimes":0}}&fp=firefox&host=de.vmagnum.win&security=tls&sni=api-v3-97fd7807.vmagnum.win&type=xhttp#🇩🇪 Германия 1 FDCservers.net
+vless://97fd7807-7e2b-49da-8a0e-e40197088f97@50.7.28.212:443?encryption=none&fp=firefox&security=tls&sni=api-v3-97fd7807.vmagnum.win&type=xhttp#🇩🇪 Германия 2 FDCservers.net
+vless://97fd7807-7e2b-49da-8a0e-e40197088f97@50.7.87.251:443?encryption=none&fp=firefox&host=api.ferrin.uk&path=/tr&security=tls&sni=97fd7807.ferrin.uk&type=xhttp#🇹🇷 Турция Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi
+vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@136.148.213.96:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=lodizu.hagrid-connected.com&type=tcp#🇸🇪 Швеция Hostup AB
