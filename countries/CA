@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmtCw0L3QsNC00LA=
-vless://43f863f9-d9a6-1380-b584-a02b1737a174@62.173.149.165:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_bXTdS7SEP3arribAnbsdiC3VXRhKRVCsYI533sjsCM&security=reality&sid=542a83882d6461d5&sni=ya.ru&type=tcp#🇨🇦 Канада 1 GLOBALTELEHOST Corp.
-vless://8415d003-15be-4f6d-b452-b5b5bdc187e6@103.98.215.228:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3ifh7TZGRkfJMxFeUug-YXR4EB5BFLJQ8DEfayvmWBE&security=reality&sid=168b19fa874b9934&sni=ca-3.earlyoak.sbs&type=tcp#🇨🇦 Канада 2 Kamatera, Inc.

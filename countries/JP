@@ -4,20 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQr9C/0L7QvdC40Y8=
-vless://7102f0c3-1964-47f1-936b-26b8caee9aba@166.0.22.244:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp8.netease.uz&type=tcp#🇯🇵 Япония 1 Dromatics Systems Pte Ltd
-vless://9f862257-b1fa-4fb9-9558-bcd6b03ff309@166.0.22.236:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp5.netease.uz&type=tcp#🇯🇵 Япония 2 Dromatics Systems Pte Ltd
-vless://9dc3aaa8-4330-4e0d-9363-b19cf6d9fc62@166.0.22.246:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp4.netease.uz&type=tcp#🇯🇵 Япония 3 Dromatics Systems Pte Ltd
-vless://9b2be2d3-96cd-4ffc-aac2-649c74f92402@166.0.22.238:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp1.netease.uz&type=tcp#🇯🇵 Япония 4 Dromatics Systems Pte Ltd
-vless://d7067561-10b3-4aba-8834-6baedd2adfb5@166.0.22.237:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp6.netease.uz&type=tcp#🇯🇵 Япония 5 Dromatics Systems Pte Ltd
-vless://5a90143c-dc79-491d-a4e0-0e9ec6345d1d@166.0.22.245:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp9.netease.uz&type=tcp#🇯🇵 Япония 6 Dromatics Systems Pte Ltd
-vless://9f7c3142-9a06-46ff-be0d-448f5a2f41d2@166.0.22.241:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp7.netease.uz&type=tcp#🇯🇵 Япония 7 Dromatics Systems Pte Ltd
-vless://ad65ebef-654b-4b5f-afa7-200f12b2ef40@166.0.22.243:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp3.netease.uz&type=tcp#🇯🇵 Япония 8 Dromatics Systems Pte Ltd
-vless://20e53e28-2094-436c-a5ed-917ee60bb042@166.0.22.242:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp2.netease.uz&type=tcp#🇯🇵 Япония 9 Dromatics Systems Pte Ltd
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@31.77.29.50:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=of5IGFLdYn5BrWcKnwW3ucJfrQCt7ofPkySZWen3EzI&security=reality&sid=3e9f3d0780415792&sni=hinoki.lalibobi.online&type=tcp#🇯🇵 Япония 10 Akenai Products LTD
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@31.77.29.50:443?encryption=none&fp=firefox&pbk=of5IGFLdYn5BrWcKnwW3ucJfrQCt7ofPkySZWen3EzI&security=reality&serviceName=shop.v1.Catalog&sid=3e9f3d0780415792&sni=api.hinoki.lalibobi.online&type=grpc#🇯🇵 Япония 11 Akenai Products LTD
-vless://e7f0d68b-69d2-4638-9f51-a4cf53628568@31.76.91.57:443?encryption=none&fp=firefox&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc&security=reality&sni=spb.gosgenarchive.com&type=xhttp#🇯🇵 Япония 12 Akenai Products LTD
-vless://e7f0d68b-69d2-4638-9f51-a4cf53628568@31.76.91.161:443?encryption=none&fp=firefox&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc&security=reality&sni=kirov.gosgenarchive.com&type=xhttp#🇯🇵 Япония 13 Akenai Products LTD
-vless://57143a6c-fabb-4a46-9b94-7d698aaa7877@31.76.91.161:443?encryption=none&fp=firefox&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc&security=reality&sni=kirov.gosgenarchive.com&type=xhttp#🇯🇵 Япония 14 Akenai Products LTD
-vless://57143a6c-fabb-4a46-9b94-7d698aaa7877@31.76.91.57:443?encryption=none&fp=firefox&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc&security=reality&sni=spb.gosgenarchive.com&type=xhttp#🇯🇵 Япония 15 Akenai Products LTD
-vless://a2d4ddd8-4d3f-49f5-b78b-bdb3eebab9a6@43.130.234.128:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DLYP4CSy4Ey15aYSzcYdwfW4XIuiw3_DuKunNLEDgS4&security=reality&sni=www.microsoft.com&type=tcp#🇯🇵 Япония 16 Shenzhen Tencent Computer Systems Company Limited
-hysteria2://Yuike2026cat@43.130.234.128:8443?sni=43-130-234-128.sslip.io#🇯🇵 Япония 17 Shenzhen Tencent Computer Systems Company Limited
+vless://20e53e28-2094-436c-a5ed-917ee60bb042@166.0.22.242:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp2.netease.uz&type=tcp#🇯🇵 Япония 1 Dromatics Systems Pte Ltd
+vless://9f7c3142-9a06-46ff-be0d-448f5a2f41d2@166.0.22.241:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp7.netease.uz&type=tcp#🇯🇵 Япония 2 Dromatics Systems Pte Ltd
+vless://ad65ebef-654b-4b5f-afa7-200f12b2ef40@166.0.22.243:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp3.netease.uz&type=tcp#🇯🇵 Япония 3 Dromatics Systems Pte Ltd
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@54.95.32.66:43149?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE&security=reality&sid=15aa0ad4&sni=psstatic.cdn.bcebos.com&type=tcp#🇯🇵 Япония 4 Eons Data Communications Limited
