@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXQudGG0LDRgNC40Y8=
-vless://a8650e41-e13e-4993-b22a-3fb5f134cbf9@185.103.164.156:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dmfLj2W1tvwhQdnss-BJkjtPX7HOLcLVPPfKRK8wLmI&security=reality&sid=d5d68096926329ea&sni=185.103.164.156&type=tcp#🇨🇭 Швейцария 1 ALEXHOST S.R.L.
-vless://a8650e41-e13e-4993-b22a-3fb5f134cbf9@132.243.174.128:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nR-NstIy4LLdPIppEeRg6bfmRiKkWZPEpq2SwkpHoDo&security=reality&sid=f95dc5db701621f2&sni=132.243.174.128&type=tcp#🇨🇭 Швейцария 2 ALEXHOST S.R.L.
