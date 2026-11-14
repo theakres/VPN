@@ -5,5 +5,8 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
 vless://8f9c04c9-5c94-495e-9452-ab8b7a8af1bc@91.196.35.252:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=z1Z2yIWBdFlCT3ofwGNntS63c9VYZLrqTVTeURq7r2U&security=reality&sni=msk-02.freegate.win&type=tcp#🇸🇪 Швеция 1 AEZA GROUP LLC
-vless://64432174-b71d-4cda-8b08-2459d2407be5@83.141.69.239:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vluPN5krskStuIe1YYoOopN766N8qK_uMsSsZGJdwCI&security=reality&sid=db71028aeb67289c&sni=83.141.69.239.sslip.io&type=tcp#🇸🇪 Швеция 2 SERV.HOST GROUP LTD
-vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@84.32.154.73:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&security=reality&sid=c6f97313&sni=get.jarbook.net&type=tcp#🇸🇪 Швеция 3 UAB Cherry Servers
+vless://e7f0d68b-69d2-4638-9f51-a4cf53628568@45.137.81.240:443?encryption=none&fp=firefox&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc&security=reality&sni=bochum.gosgenarchive.com&type=xhttp#🇸🇪 Швеция 2 AEZA GROUP LLC
+vless://57143a6c-fabb-4a46-9b94-7d698aaa7877@45.137.81.240:443?encryption=none&fp=firefox&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc&security=reality&sni=bochum.gosgenarchive.com&type=xhttp#🇸🇪 Швеция 3 AEZA GROUP LLC
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@84.32.154.73:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&security=reality&sid=c6f97313&sni=get.jarbook.net&type=tcp#🇸🇪 Швеция 4 UAB Cherry Servers
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.154.73:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&security=reality&sid=c6f97313&sni=get.jarbook.net&type=tcp#🇸🇪 Швеция 5 UAB Cherry Servers
+vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@179.254.127.50:25191?encryption=none&fp=firefox&path=/astral-edge-h1&pbk=_Cb2FzFDVi9blwCb_5V0NZue6wt-U6GL0N_-OX8NGGA&security=reality&sid=55328e423218ee9b&sni=a8687er.se2.h1clayd.click&type=xhttp#🇸🇪 Швеция 6 Hostup AB

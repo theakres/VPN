@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmtCw0LfQsNGF0YHRgtCw0L0=
+vless://bbb918c0-a510-45f9-ac94-4d449aef6498@194.58.60.217:443?encryption=none&fp=firefox&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&security=reality&serviceName=livestreamcontent&sid=7e47d44f1b532321&sni=node43.lmdscdn.ru&type=grpc#🇰🇿 Казахстан 1 Fedinyak Sergey Vyacheslavovich
+vless://92783040-4bfb-4f1c-ba21-c06458d8df4c@5.180.20.133:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0RvqC4mdt_dzWm5hzpbn2tOjCmw0lmTFn40kpayZAQ8&security=reality&sni=kaz1.angelsleep9.com&type=tcp#🇰🇿 Казахстан 2 NLS Kazakhstan LLC

@@ -4,5 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQktC10LvQuNC60L7QsdGA0LjRgtCw0L3QuNGP
-vless://89975d90-b31a-4219-8f07-6e4f1c14b211@50.7.154.76:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediasvyaz.cc&type=tcp#🇬🇧 Великобритания 1 FDCservers.net
-vless://b771804e-a62c-429f-a56c-9f0a452d8f6e@185.122.167.103:59130?encryption=mlkem768x25519plus.native.0rtt.8oUBloz7dC7Dj2HwtrH_gsqKLAfv3sw1me3xB5yBQjA&flow=xtls-rprx-vision&fp=firefox&pbk=6Lh48ni3w8oe9QW3xVzNMIE5LU-p5VPHPMCUtVMOmgo&security=reality&sid=14&sni=nvplm.stg.nvidia.com&type=tcp#🇬🇧 Великобритания 2 MASSIVEGRID LTD
+vless://e7f0d68b-69d2-4638-9f51-a4cf53628568@31.76.39.35:443?encryption=none&fp=firefox&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc&security=reality&sni=lipetsk.gosgenarchive.com&type=xhttp#🇬🇧 Великобритания 1 Akenai Products LTD
+vless://57143a6c-fabb-4a46-9b94-7d698aaa7877@31.76.39.35:443?encryption=none&fp=firefox&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc&security=reality&sni=lipetsk.gosgenarchive.com&type=xhttp#🇬🇧 Великобритания 2 Akenai Products LTD
+vless://b771804e-a62c-429f-a56c-9f0a452d8f6e@185.122.167.103:59130?encryption=mlkem768x25519plus.native.0rtt.8oUBloz7dC7Dj2HwtrH_gsqKLAfv3sw1me3xB5yBQjA&flow=xtls-rprx-vision&fp=firefox&pbk=6Lh48ni3w8oe9QW3xVzNMIE5LU-p5VPHPMCUtVMOmgo&security=reality&sid=14&sni=nvplm.stg.nvidia.com&type=tcp#🇬🇧 Великобритания 3 MASSIVEGRID LTD
