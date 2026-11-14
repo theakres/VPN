@@ -10,11 +10,5 @@ vless://393f7488-378f-4c3c-98af-702db5f869e3@45.157.116.132:443?encryption=mlkem
 vless://60311488-d51e-faea-7829-66c56c3dfd1e@13.140.240.174:443?encryption=none&fp=firefox&host=xray-nqx8fzfk-chen-nantong.cloady.io&path=/08819a9a5db4c1e0&security=tls&sni=xray-nqx8fzfk-chen-nantong.cloady.io&type=ws#🇺🇸 США 1 Contabo Inc.
 vless://d006ef4a-d235-4691-bf05-abbe0d14055c@64.186.233.233:443?encryption=none&fp=firefox&host=clash.ddm4.cn&path=/vless&security=tls&sni=clash.ddm4.cn&type=ws#🇺🇸 США 2 DMIT Cloud Services
 vless://4859c235-2530-4062-9a0b-ea859cbbf861@5.157.30.28:8443?encryption=none&fp=firefox&host=1.proxy2.us.ci.&path=/?ed=2560&security=tls&sni=1.proxy2.us.ci.&type=ws#🇺🇸 США 3 HostPapa
-vless://f5a049c3-2c0a-4056-a780-8ef2327cb6c2@178.214.118.176:8443?encryption=none&fp=firefox&security=tls&serviceName=fr4grpc&sni=fr4.cyphervpn.pro&type=grpc#🇫🇷 Франция 1 ESTOXY OU
-vless://f5a049c3-2c0a-4056-a780-8ef2327cb6c2@178.214.118.219:18443?encryption=none&fp=firefox&security=tls&serviceName=maingrpc&sni=main.vimeostream.online&type=grpc#🇫🇷 Франция 2 ESTOXY OU
-vless://50414e45-4c5f-5a45-5553-e759cf52c6be@176.118.214.216:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/e759cf52c6be&security=tls&sni=9lz3z5efu8os.gamewizardbac1k.workers.Dev&type=ws#🇫🇷 Франция 3 Cloudflare, Inc.
-vless://9c36e2b4-db6d-400f-9755-3046b981698b@189.74.114.68:443?encryption=none&fp=firefox&security=tls&serviceName=3e99d50d5740985d&sni=nl-next.mediastvor.cc&type=grpc#🇳🇱 Нидерланды 1 FDCservers.net
-vless://9c36e2b4-db6d-400f-9755-3046b981698b@189.74.114.99:443?encryption=none&fp=firefox&security=tls&serviceName=3e99d50d5740985d&sni=nl-next.mediastvor.cc&type=grpc#🇳🇱 Нидерланды 2 FDCservers.net
-vless://f5a049c3-2c0a-4056-a780-8ef2327cb6c2@80.47.13.240:8443?encryption=none&fp=firefox&security=tls&serviceName=pl1grpc&sni=calls.vimeostream.online&type=grpc#🇵🇱 Польша MEVSPACE sp. z o.o.
-vless://9c36e2b4-db6d-400f-9755-3046b981698b@189.74.118.3:443?encryption=none&fp=firefox&security=tls&serviceName=r7Kp4mN9tQ2v&sni=cz-next.mediastvor.cc&type=grpc#🇨🇿 Чехия FDCservers.net
+vless://50414e45-4c5f-5a45-5553-e759cf52c6be@176.118.214.216:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/e759cf52c6be&security=tls&sni=9lz3z5efu8os.gamewizardbac1k.workers.Dev&type=ws#🇫🇷 Франция Cloudflare, Inc.
 vless://7d718630-7a1a-4af8-9332-aa0610634e8a@132.243.67.197:443?encryption=none&fp=firefox&path=/live/showroom&security=tls&sni=media.aava.lalibobi.online&type=ws#🇪🇪 Эстония Paul Sagov
