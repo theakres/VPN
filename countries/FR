@@ -5,4 +5,6 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
 vless://cdf4bc13-31e6-4bff-962c-05fe9151c593@82.25.63.232:445?encryption=none&fp=firefox&pbk=Ea_4PyvTCyHIAzIbHJN02Z5HVyTwMq3ku79kBCuBPB0&security=reality&serviceName=fr1.vrsvpn.com&sid=ce5f5e47a251473d&sni=fr1.vrsvpn.com&type=grpc#🇫🇷 Франция 1 DEDIK SERVICES LIMITED
-vless://0e622b03-cdb9-4e7d-a463-2e981609e984@2.56.127.109:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CNMh9FFr4tfJc7hCtBqwYlLcBxk2Okz2fDPebYGJEww&security=reality&sid=5e72e96b1a9ce2b4&sni=64ec2c66edb9.j.cloudfront.hls.ttvnw.net&type=tcp#🇫🇷 Франция 2 NetCrafters OU
+vless://c2d06713-d602-4a41-9a45-8e34c2504fe2@189.74.117.3:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videodolina.cc&type=tcp#🇫🇷 Франция 2 FDCservers.net
+vless://8f9c04c9-5c94-495e-9452-ab8b7a8af1bc@153.80.179.111:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=B97Gg7DpnBdFsHiCdOIQ6CGx17hcZYj2gEGNxnJ730c&security=reality&sni=france.freegate.win&type=tcp#🇫🇷 Франция 3 LIVI HOSTING LTD
+vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@83.141.92.190:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=files.porsche.com&type=tcp#🇫🇷 Франция 4 Melbikomas UAB
