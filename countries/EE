@@ -4,9 +4,9 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
-vless://6570dab9-b4e3-4841-8a8c-58faac070128@141.0.187.220:11443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GPz7dacpjZ5iHT5pbZfYap1vpyt85mNKV7BVW3R92hE&security=reality&sid=26ca0f0ba115925d&sni=141.0.187.220&type=tcp#🇪🇪 Эстония 1 Alfahost LLC
-vless://6570dab9-b4e3-4841-8a8c-58faac070128@141.0.187.220:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇪🇪 Эстония 2 Alfahost LLC
-vless://6570dab9-b4e3-4841-8a8c-58faac070128@141.0.187.228:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇪🇪 Эстония 3 Alfahost LLC
-vless://6570dab9-b4e3-4841-8a8c-58faac070128@141.0.187.196:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇪🇪 Эстония 4 Alfahost LLC
-vless://5f1c2e83-d4aa-4f10-81e9-e0ccc018974c@79.98.37.146:443?encryption=none&fp=firefox&pbk=CEPjmMZbtepvPjcZmM8sBeyw8-IoCF71lBR2msK_2zY&security=reality&serviceName=cdn.v2.AssetSync&sid=6705f73a5a1e0aca&sni=79.98.37.146&type=grpc#🇪🇪 Эстония 5 Datagio Systems Ltd.
-vless://5f1c2e83-d4aa-4f10-81e9-e0ccc018974c@94.183.239.64:443?encryption=none&fp=firefox&pbk=CEPjmMZbtepvPjcZmM8sBeyw8-IoCF71lBR2msK_2zY&security=reality&serviceName=cdn.v2.AssetSync&sid=6705f73a5a1e0aca&sni=94.183.239.64&type=grpc#🇪🇪 Эстония 6 ETERNITY NETWORKS LLC
+vless://2462c208-e2e8-4071-95a7-afaae3ab9f0d@141.0.187.239:11443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4Zzm9Ac34AEy-3PcT_T6UWvRJLnZvmEnvwmRLRc0328&security=reality&sid=e5d7a4874e7e74d4&sni=141.0.187.22&type=tcp#🇪🇪 Эстония 1 Alfahost LLC
+vless://2462c208-e2e8-4071-95a7-afaae3ab9f0d@141.0.187.237:11443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hEf0Dx035SZMYkAAst1XKk-a2qNeCx78HKoKHvvEiHE&security=reality&sid=fac7f49ce084bb51&sni=141.0.187.20&type=tcp#🇪🇪 Эстония 2 Alfahost LLC
+vless://568e8786-99b5-4a26-b3af-a90e86ee0223@141.0.187.237:11443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hEf0Dx035SZMYkAAst1XKk-a2qNeCx78HKoKHvvEiHE&security=reality&sid=fac7f49ce084bb51&sni=141.0.187.20&type=tcp#🇪🇪 Эстония 3 Alfahost LLC
+vless://568e8786-99b5-4a26-b3af-a90e86ee0223@141.0.187.239:11443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4Zzm9Ac34AEy-3PcT_T6UWvRJLnZvmEnvwmRLRc0328&security=reality&sid=e5d7a4874e7e74d4&sni=141.0.187.22&type=tcp#🇪🇪 Эстония 4 Alfahost LLC
+vless://568e8786-99b5-4a26-b3af-a90e86ee0223@141.0.187.238:11443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=eBBNC4t8ADucjz55knBasAldY6k3R8TVo2rKM6ADyWA&security=reality&sid=7564a95d066eab7e&sni=141.0.187.21&type=tcp#🇪🇪 Эстония 5 Alfahost LLC
+vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@13.143.176.250:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=images.porsche.com&type=tcp#🇪🇪 Эстония 6 TAKEHOST OU
