@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmtCw0LfQsNGF0YHRgtCw0L0=
+vless://20d56ff9-359e-4983-9b04-6402e9ebce08@213.155.23.228:443?encryption=none&extra={"xmux":{"cMaxReuseTimes":0,"maxConcurrency":"16-32","maxConnections":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"},"noGRPCHeader":false,"xPaddingBytes":"100-1000","scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"scStreamUpServerSecs":"20-80"}&fp=firefox&host=static.savesafe.kz&pbk=tHojxb7q7TpXTh2YebrSpAZ2a1_N8GUh1L-pWnSR_RE&security=reality&sid=f3ae2acc13964946&sni=static.savesafe.kz&type=xhttp#🇰🇿 Казахстан 1 PS Internet Company LLP
+vless://20d56ff9-359e-4983-9b04-6402e9ebce08@213.155.23.228:443?encryption=none&fp=firefox&host=static.savesafe.kz&pbk=tHojxb7q7TpXTh2YebrSpAZ2a1_N8GUh1L-pWnSR_RE&security=reality&sid=f3ae2acc13964946&sni=static.savesafe.kz&type=xhttp#🇰🇿 Казахстан 2 PS Internet Company LLP
