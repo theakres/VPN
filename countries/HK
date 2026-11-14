@@ -4,6 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQk9C+0L3QutC+0L3Qsw==
-vless://8b17beac-b143-447d-aa68-14cbb121a602@8.217.1.203:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=74P0QFvaK6B13rHsxR_t0lqRlg4YLuORD4VaHr5Jd38&security=reality&sid=0bf55f64&sni=www.apple.com&type=tcp#🇭🇰 Гонконг 1 Alibaba US Technology Co., Ltd.
-vless://8f9c04c9-5c94-495e-9452-ab8b7a8af1bc@46.8.226.4:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=23_VHT4FYqho1mngpot4LnR0zlkvLO7gOZZTZ1aY5Wc&security=reality&sni=hongkong.freegate.win&type=tcp#🇭🇰 Гонконг 2 CGI GLOBAL LIMITED
-vless://dee59b19-a32f-4d35-b1ee-3708e7d06efc@61.92.10.166:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EtyX9RyMycYtdqTpNs2VGTFw9swTDn_ey0qRb5XZR08&security=reality&sid=f3099404cd2d&sni=fastcdn.hoyoverse.com&type=tcp#🇭🇰 Гонконг 3 Hong Kong Broadband Network Limited
+vless://d34c4e7c-3eac-4a26-adb9-9004b6981ad8@45.192.194.104:35600?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zHmC_LkSMSrRHcetzsRJZvu6irqviiG3vf9VuXRL6FE&security=reality&sni=www.iij.ad.jp&type=tcp#🇭🇰 Гонконг 1 LSHIY LLC
+vless://8614bde7-34cf-4413-8360-e96f1b960528@45.192.193.54:35600?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fJwbUNPAxu-CcoWnzWrvtDkX7QMDvJwFGWzJ3lDcFC4&security=reality&sni=www.iij.ad.jp&type=tcp#🇭🇰 Гонконг 2 LSHIY LLC
+vless://8b17beac-b143-447d-aa68-14cbb121a602@8.217.1.203:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=74P0QFvaK6B13rHsxR_t0lqRlg4YLuORD4VaHr5Jd38&security=reality&sid=0bf55f64&sni=www.apple.com&type=tcp#🇭🇰 Гонконг 3 Alibaba US Technology Co., Ltd.
+vless://8f9c04c9-5c94-495e-9452-ab8b7a8af1bc@46.8.226.4:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=23_VHT4FYqho1mngpot4LnR0zlkvLO7gOZZTZ1aY5Wc&security=reality&sni=hongkong.freegate.win&type=tcp#🇭🇰 Гонконг 4 CGI GLOBAL LIMITED
