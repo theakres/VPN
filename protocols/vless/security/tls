@@ -7,16 +7,13 @@
 vless://f5a049c3-2c0a-4056-a780-8ef2327cb6c2@178.214.118.176:8443?encryption=none&fp=firefox&security=tls&serviceName=fr4grpc&sni=fr4.cyphervpn.pro&type=grpc#🇫🇷 Франция 1 ESTOXY OU
 vless://f5a049c3-2c0a-4056-a780-8ef2327cb6c2@178.214.118.219:18443?encryption=none&fp=firefox&security=tls&serviceName=maingrpc&sni=main.vimeostream.online&type=grpc#🇫🇷 Франция 2 ESTOXY OU
 vless://f5a049c3-2c0a-4056-a780-8ef2327cb6c2@185.42.24.231:443?encryption=none&fp=firefox&security=tls&serviceName=fr4grpc&sni=fr4.cyphervpn.pro&type=grpc#🇫🇷 Франция 3 ESTOXY OU
-vless://c57268f0-1afc-4830-9687-3497e1ee8363@85.9.104.115:443?encryption=none&fp=firefox&host=string00.bot2.ir&security=tls&sni=string00.bot2.ir&type=ws#🇫🇷 Франция 4 OVH SAS
-vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.226:80?encryption=none&fp=firefox&security=tls&serviceName=qi8ws15c7jv5q2fa&sni=68r2nrw6avta71yq.cdn.cachefleet.com&type=grpc#🇫🇷 Франция 5 Raul Ghita trading as Ghita Telekom
-vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@194.77.220.101:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 1 OVH SAS
-vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@194.77.220.101:443?encryption=none&fp=firefox&host=riga.zovip2.ir&path=/api/v3/pulse&security=tls&sni=riga.zovip2.ir&type=ws#🇩🇪 Германия 2 OVH SAS
-vless://0eea6d8d-3c8d-4a38-bfc1-bfc8274f559e@91.99.209.29:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=static.197.56.233.167.clients.your-server.de&type=tcp#🇩🇪 Германия 3 Hetzner Online GmbH
+vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.226:80?encryption=none&fp=firefox&security=tls&serviceName=qi8ws15c7jv5q2fa&sni=68r2nrw6avta71yq.cdn.cachefleet.com&type=grpc#🇫🇷 Франция 4 Raul Ghita trading as Ghita Telekom
 vless://a6c58c10-183e-4278-bdcd-ffc07220e7e2@195.24.67.154:8443?encryption=none&fp=firefox&path=/9f2c7a4e1b6d8053&security=tls&sni=eu88.cdn77.icu&type=xhttp#🇳🇱 Нидерланды 1 Geodema Group LLC
 vless://a6c58c10-183e-4278-bdcd-ffc07220e7e2@195.24.67.154:8443?encryption=none&fp=firefox&host=eu88.cdn77.icu&path=/9f2c7a4e1b6d8053&security=tls&sni=eu88.cdn77.icu&type=xhttp#🇳🇱 Нидерланды 2 Geodema Group LLC
 vless://9c36e2b4-db6d-400f-9755-3046b981698b@189.74.114.68:443?encryption=none&fp=firefox&security=tls&serviceName=3e99d50d5740985d&sni=nl-next.mediastvor.cc&type=grpc#🇳🇱 Нидерланды 3 FDCservers.net
+vless://30b99882-86ca-46a2-8aad-6f1b97407d22@45.145.167.80:23030?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=gb.ezhiknet.work&type=tcp#🇬🇧 Великобритания ALEXHOST S.R.L.
 vless://f5a049c3-2c0a-4056-a780-8ef2327cb6c2@80.47.13.240:8443?encryption=none&fp=firefox&security=tls&serviceName=pl1grpc&sni=calls.vimeostream.online&type=grpc#🇵🇱 Польша MEVSPACE sp. z o.o.
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.80.175:4443?encryption=none&fp=firefox&path=/api/v1/sync/&security=tls&sni=swo2.nexfile.net&type=xhttp#🇺🇸 США SERV.HOST GROUP LTD
+vless://901c1ed2-be44-4c97-843e-7bcdcce28e04@172.86.112.136:2053?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=firefox&host=usa.amosh.sbs&security=tls&sni=usa.amosh.sbs&type=xhttp#🇺🇸 США RouterHosting LLC
 vless://7d718630-7a1a-4af8-9332-aa0610634e8a@191.217.252.31:443?encryption=none&fp=firefox&path=/live/showroom&security=tls&sni=media.saari.lalibobi.online&type=ws#🇫🇮 Финляндия OC NETWORKS LIMITED
 vless://9c36e2b4-db6d-400f-9755-3046b981698b@189.74.118.3:443?encryption=none&fp=firefox&security=tls&serviceName=r7Kp4mN9tQ2v&sni=cz-next.mediastvor.cc&type=grpc#🇨🇿 Чехия FDCservers.net
 vless://7d718630-7a1a-4af8-9332-aa0610634e8a@132.243.67.197:443?encryption=none&fp=firefox&path=/live/showroom&security=tls&sni=media.aava.lalibobi.online&type=ws#🇪🇪 Эстония Paul Sagov
