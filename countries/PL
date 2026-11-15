@@ -1,0 +1,13 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQn9C+0LvRjNGI0LA=
+vless://f3a227cb-8a8b-4ccb-b613-9143c4a1346c@177.1.183.105:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=37ZFWtNTZ_slVsJp0_5siKSeqz-sZSuLdYurC_cBrxw&security=reality&sni=ru-pl1.fluxnode777.ru&type=tcp#🇵🇱 Польша 1 Paul Sagov
+vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@201.58.139.178:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0dAUffCns_r-xP3QP1V8qy2P29vBN5ROOoX96TxpvXA&security=reality&sid=b545243c33282b73&sni=d4a338t.pl8.h1clayd.click&type=tcp#🇵🇱 Польша 2 Paul Sagov
+vless://026cbfba-f7ea-4bde-ae5b-918e026a171b@187.54.1.4:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fz-ncRVRmWnpd2sFb5Q3bR3BQEdpL6N_zbDSD16g5QI&security=reality&sid=7a3f9e2b1c8d4f6a&sni=pl.global-cdn.org&type=tcp#🇵🇱 Польша 3 AdaptGroup LLC
+hysteria2://lvu_1f46c9c7e44bef3f9974936d87ee4f44_1f900674c11bcad65b09ef1f77502ea5:np2.1.z9PBCLlUfCKIMqYEuafOnTLQIjz8lGsSRofhhXAlFdc@212.102.227.131:9443?sni=n34.neproxy.net#🇵🇱 Польша 4 HOSTKEY B.V.
+vless://a31b6d17-1c4a-44e3-9402-ce78f1fb7eb5@177.3.252.61:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hWoXr8IOaVZWINjSddWxpVKzS1DkcKl0QXrgAAY_oy8&security=reality&sid=a6e5087bd9cd56ed&sni=pl1.absolute.beer&type=tcp#🇵🇱 Польша 5 Kochedykov Egor Aleksandrovich
+vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@13.143.239.236:25700?encryption=none&fp=firefox&host=pl9.h1cloud.net&path=/astral-edge-h1&pbk=w698in_6eoH8y_C5jY3cpScMyaRaPpmPQEQhzw8QMUM&security=reality&sid=54c9c22217db5c86&sni=5dc396r.pl9.h1clayd.click&type=xhttp#🇵🇱 Польша 6 MEVSPACE sp. z o.o.
+vless://6fb89451-b573-4391-b046-d45ab9a6db49@179.254.71.100:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=bm-pl.armuz-trans.com&type=tcp#🇵🇱 Польша 7 Raul Ghita trading as Ghita Telekom

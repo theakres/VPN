@@ -4,4 +4,9 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
-vless://ca21222b-caf1-4418-b404-345ea713daa4@37.221.76.116:2092?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&security=reality&sid=716b7eba38125f3a&sni=www.apple.com&type=tcp#🇫🇷 Франция FDCservers.net
+vless://6fb89451-b573-4391-b046-d45ab9a6db49@31.77.227.42:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=frra.setlisting.ru&type=tcp#🇫🇷 Франция 1 BANATSYNC SRL
+vless://6fb89451-b573-4391-b046-d45ab9a6db49@31.77.227.151:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=bm1.armuz-trans.com&type=tcp#🇫🇷 Франция 2 BANATSYNC SRL
+vless://6fb89451-b573-4391-b046-d45ab9a6db49@31.77.227.40:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=frra.setlisting.ru&type=tcp#🇫🇷 Франция 3 BANATSYNC SRL
+vless://ca21222b-caf1-4418-b404-345ea713daa4@37.221.76.116:2092?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&security=reality&sid=716b7eba38125f3a&sni=www.apple.com&type=tcp#🇫🇷 Франция 4 FDCservers.net
+vless://ca21222b-caf1-4418-b404-345ea713daa4@37.221.76.117:2092?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&security=reality&sid=716b7eba38125f3a&sni=www.apple.com&type=tcp#🇫🇷 Франция 5 FDCservers.net
+vless://301a34b9-4352-4094-a169-39ad7cd7622c@212.193.10.79:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k-zB-Tf6HyT7kocUU8UDvFoHxw9r-JTonmYVpe4RT3U&security=reality&sid=a5fe10fba46b8613&sni=fr-212-193-10-79.sslip.io&type=tcp#🇫🇷 Франция 6 SERV.HOST GROUP LTD

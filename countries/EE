@@ -1,0 +1,9 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
+vless://6fb89451-b573-4391-b046-d45ab9a6db49@13.143.178.150:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=bm-g.armuz-trans.com&type=tcp#🇪🇪 Эстония 1 Raul Ghita trading as Ghita Telekom
+vless://6fb89451-b573-4391-b046-d45ab9a6db49@179.254.70.101:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=bm-e.armuz-trans.com&type=tcp#🇪🇪 Эстония 2 Raul Ghita trading as Ghita Telekom
+vless://d5651570-bfab-44d8-abd0-60496f548e2a@141.0.187.239:11443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4Zzm9Ac34AEy-3PcT_T6UWvRJLnZvmEnvwmRLRc0328&security=reality&sid=e5d7a4874e7e74d4&sni=141.0.187.22&type=tcp#🇪🇪 Эстония 3 Alfahost LLC
