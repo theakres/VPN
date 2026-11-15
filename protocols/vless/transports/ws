@@ -1,0 +1,14 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
+vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@194.77.220.119:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 1 OVH SAS
+vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@194.77.220.57:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 2 OVH SAS
+vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@178.83.46.30:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 3 OVH SAS
+vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&host=decdn-28.nome-rkp.net&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇩🇪 Германия 4 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇩🇪 Германия 5 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@144.126.226.76:2087?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇬🇧 Великобритания Cloudflare, Inc.
+vless://c1208c5a-2350-4506-affd-fc41b4319286@176.123.11.43:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=bundledispatch.ratethatrestaurant.org&type=ws#🇲🇩 Молдова ALEXHOST S.R.L.
+vless://cfcec551-255a-9dea-361e-6779db9e2dab@13.140.208.59:443?encryption=none&fp=firefox&host=xray-usnhvg5k-rapid-canyon-9.cloady.io&path=/8405ed7d6e78bd7e&security=tls&sni=xray-usnhvg5k-rapid-canyon-9.cloady.io&type=ws#🇫🇷 Франция Contabo GmbH

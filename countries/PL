@@ -1,0 +1,13 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQn9C+0LvRjNGI0LA=
+vless://bda6e235-c778-4e57-bfcd-5a9026fec8c9@201.58.139.183:443?encryption=none&fp=firefox&pbk=ixnCbdlT5sAVd-ilp2nG11CvnNsBCf9xPD56TlXxlR4&security=reality&sid=a91531ad58c8611c&sni=d58daft.plp1.h1cloud.net&type=tcp#🇵🇱 Польша 1 Paul Sagov
+vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@201.58.139.183:443?encryption=none&fp=firefox&pbk=ixnCbdlT5sAVd-ilp2nG11CvnNsBCf9xPD56TlXxlR4&security=reality&sid=a91531ad58c8611c&sni=d58daft.plp1.h1cloud.net&type=tcp#🇵🇱 Польша 2 Paul Sagov
+vless://16f3d526-8cf8-4af5-a86f-b023c5b52085@201.58.139.183:443?encryption=none&fp=firefox&pbk=cWC6AGVZ9ke_eCTWXEB-eLdf670CuoP9zP-1k8DrPxo&security=reality&serviceName=d5d6142b8b66&sid=8ae9cc8c9447c95a&sni=13e1cfg.plp1.h1cloud.net&type=grpc#🇵🇱 Польша 3 Paul Sagov
+vless://16f3d526-8cf8-4af5-a86f-b023c5b52085@201.58.139.183:443?encryption=none&fp=firefox&pbk=Rbho8R1xROOFPv5tCWDCcePuAxbzNuviUn91jR9CdQ4&security=reality&sid=6941a08bb53ea2a1&sni=3eebf4b1.plp1.h1cloud.net&type=tcp#🇵🇱 Польша 4 Paul Sagov
+hysteria2://lvu_1f46c9c7e44bef3f9974936d87ee4f44_1f900674c11bcad65b09ef1f77502ea5:np2.1.z9PBCLlUfCKIMqYEuafOnTLQIjz8lGsSRofhhXAlFdc@212.102.227.131:9443?sni=n34.neproxy.net#🇵🇱 Польша 5 HOSTKEY B.V.
+vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@83.141.92.190:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=files.porsche.com&type=tcp#🇵🇱 Польша 6 Melbikomas UAB
+vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@138.124.244.55:25700?encryption=none&fp=firefox&path=/astral-edge-h1&pbk=w698in_6eoH8y_C5jY3cpScMyaRaPpmPQEQhzw8QMUM&security=reality&sid=54c9c22217db5c86&sni=5dc396r.pl9.h1clayd.click&type=xhttp#🇵🇱 Польша 7 MEVSPACE sp. z o.o.

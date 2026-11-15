@@ -4,9 +4,9 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQntCx0YXQvtC0INCR0KE=
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@129.101.98.60:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lews1n_fypGexd_dMofEO4Vy1ULsFeVIFa90MMY3pm4&security=reality&sid=3992cc7fb9fcbe58&sni=ru7e2bab87cc39.eu-cdn539.com&type=tcp#🇷🇺 Россия 1 JSC TIMEWEB
-vless://9548ef84-b54d-41dc-b17c-9da21d52ba82@212.233.90.78:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FwPphm8xGAKY6u74WDRVrcVye3A7GdLDfJoNSDWFsFQ&security=reality&sid=2c6df23e&sni=birch-ledger.justext.space&type=tcp#🇷🇺 Россия 2 LLC VK
-vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.232.178:8443?encryption=none&fp=firefox&host=earlytrain.net&path=/api/v1/upload&security=tls&sni=earlytrain.net&type=xhttp#🇧🇬 Болгария Belcloud LTD
+vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.232.178:8443?encryption=none&fp=firefox&host=earlytrain.net&path=/api/v1/upload&security=tls&sni=earlytrain.net&type=xhttp#🇧🇬 Болгария 1 Belcloud LTD
+vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.232.178:8443?encryption=none&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"xmux":{"maxConnections":"0","maxConcurrency":"16-32","cMaxReuseTimes":"64-128"}}&fp=firefox&host=earlytrain.net&path=/api/v1/upload&security=tls&sni=earlytrain.net&type=xhttp#🇧🇬 Болгария 2 Belcloud LTD
+vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.232.178:8443?encryption=none&extra={"scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"xmux":{"cMaxReuseTimes":"64-128","maxConcurrency":"16-32","maxConnections":0},"xPaddingBytes":"100-1000"}&fp=firefox&host=earlytrain.net&path=/api/v1/upload&security=tls&sni=earlytrain.net&type=xhttp#🇧🇬 Болгария 3 Belcloud LTD
 vless://fe1988d0-077c-4865-8b03-ffde242a109f@185.129.100.252:443?encryption=none&fp=firefox&path=/gateway/v1/ws/a10af91503cf8cbe55f42a7e5264c498&security=tls&sni=my.nehtar.ru&type=ws#🇩🇪 Германия Cloudflare, Inc.
 vless://4eebdec5-08eb-4772-a0e6-35fec4c91cb0@185.178.208.167:443?encryption=none&fp=firefox&host=speakpro.lol&path=/player/collect/9c8514f9552d/&security=tls&sni=uwugirl.dev&type=ws#🇳🇱 Нидерланды Vladislav Doniy
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@185.178.208.167:443?encryption=none&fp=firefox&host=speakpro.lol&path=/useraction/metrics/4c907dfe0305/&security=tls&sni=speakpro.lol&type=ws#🇵🇱 Польша CLOUD SOLUTIONS GLOBAL LTD
