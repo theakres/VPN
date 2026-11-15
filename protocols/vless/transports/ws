@@ -4,11 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
-vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@194.77.220.61:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 1 OVH SAS
-vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@194.77.220.207:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 2 OVH SAS
-vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@168.222.43.151:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 3 OVH SAS
-vless://8a1a991a-f206-447a-adaf-37a57c133418@185.10.240.23:443?encryption=none&fp=firefox&host=ir2.cryptojakiro.com&security=tls&sni=ir2.cryptojakiro.com&type=ws#🇩🇪 Германия 4 Hetzner Online GmbH
-vless://8ce711da-21c8-93fd-d020-6461d83d4821@138.199.24.219:443?encryption=none&fp=firefox&host=free-config-bot-development-33s35.lucity.app&path=/ws/8ce711da-21c8-93fd-d020-6461d83d4821&security=tls&sni=free-config-bot-development-33s35.lucity.app&type=ws#🇩🇪 Германия 5 Hetzner Online GmbH
-vless://b84969fc-0d7d-428e-ac67-68feccfa2559@141.0.187.216:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇪🇪 Эстония 1 Alfahost LLC
-vless://b84969fc-0d7d-428e-ac67-68feccfa2559@141.0.187.228:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇪🇪 Эстония 2 Alfahost LLC
-vless://b84969fc-0d7d-428e-ac67-68feccfa2559@92.242.165.141:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇫🇮 Финляндия UXHOST LTD
+vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@194.77.220.207:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 1 OVH SAS
+vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@143.14.59.56:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 2 OVH SAS
+vless://8a1a991a-f206-447a-adaf-37a57c133418@185.10.240.23:443?encryption=none&fp=firefox&host=ir2.cryptojakiro.com&security=tls&sni=ir2.cryptojakiro.com&type=ws#🇩🇪 Германия 3 Hetzner Online GmbH
