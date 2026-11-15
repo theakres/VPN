@@ -5,4 +5,5 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
 vless://d5651570-bfab-44d8-abd0-60496f548e2a@141.0.187.239:11443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4Zzm9Ac34AEy-3PcT_T6UWvRJLnZvmEnvwmRLRc0328&security=reality&sid=e5d7a4874e7e74d4&sni=141.0.187.22&type=tcp#🇪🇪 Эстония 1 Alfahost LLC
-vless://02655447-4659-41df-8d0e-d23a3035b7cb@31.77.236.131:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OjB-nOB0_ebRS3ZUo8RS68vzup_1OKjpjIZimXaRvXU&security=reality&sid=d3c6409a7b0dae17&sni=ee.nebulaguard.org&type=tcp#🇪🇪 Эстония 2 PUSHPKT OU
+vless://d5651570-bfab-44d8-abd0-60496f548e2a@141.0.187.237:11443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hEf0Dx035SZMYkAAst1XKk-a2qNeCx78HKoKHvvEiHE&security=reality&sid=fac7f49ce084bb51&sni=141.0.187.20&type=tcp#🇪🇪 Эстония 2 Alfahost LLC
+vless://02655447-4659-41df-8d0e-d23a3035b7cb@31.77.236.131:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OjB-nOB0_ebRS3ZUo8RS68vzup_1OKjpjIZimXaRvXU&security=reality&sid=d3c6409a7b0dae17&sni=ee.nebulaguard.org&type=tcp#🇪🇪 Эстония 3 PUSHPKT OU
