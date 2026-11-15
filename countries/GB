@@ -1,9 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQktC10LvQuNC60L7QsdGA0LjRgtCw0L3QuNGP
-vless://372931d3-91c5-4564-b79c-041302de9a17@94.183.179.64:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9UG9zvrDpiPgY_J0dvB-n10ygEw3FzJ2qT8PFtITUBE&security=reality&sid=e06e30590f288e0f&sni=gb2.soshelper.space&type=tcp#🇬🇧 Великобритания 1 Akenai Products LTD
-vless://372931d3-91c5-4564-b79c-041302de9a17@94.183.179.212:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9UG9zvrDpiPgY_J0dvB-n10ygEw3FzJ2qT8PFtITUBE&security=reality&sid=e06e30590f288e0f&sni=gb1.soshelper.space&type=tcp#🇬🇧 Великобритания 2 Akenai Products LTD
-vless://cf56362c-c1d4-420d-9bac-06fc7c0f467a@104.194.144.40:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MFEIB2WW-LFHZhI_2lxznilxfnc8n2B7Dkn2hpAcSHY&security=reality&sid=dcfed5639f3b1830&sni=inpost.co.uk&type=tcp#🇬🇧 Великобритания 3 Joseph Hofmann trading as Tornado Datacenter GmbH & Co. KG
