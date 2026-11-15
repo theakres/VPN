@@ -6,20 +6,8 @@
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
 vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@143.14.59.56:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 1 OVH SAS
 vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@194.77.220.207:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 2 OVH SAS
-vless://8a1a991a-f206-447a-adaf-37a57c133418@185.10.240.23:443?encryption=none&fp=firefox&host=ir2.cryptojakiro.com&security=tls&sni=ir2.cryptojakiro.com&type=ws#🇩🇪 Германия 3 Hetzner Online GmbH
-vless://6fb89451-b573-4391-b046-d45ab9a6db49@13.143.178.151:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=bm-g.armuz-trans.com&type=tcp#🇩🇪 Германия 4 Raul Ghita trading as Ghita Telekom
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.100.247:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru4.net&type=tcp#🇩🇪 Германия 5 UAB Cherry Servers
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.100.247:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru4.net&type=tcp#🇩🇪 Германия 3 UAB Cherry Servers
 vless://2443c85b-8566-4d61-b6fa-9ccc012701e9@91.188.237.14:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ab2.xt-game.net&type=tcp#🇺🇸 США 1 DataWagon LLC
 vless://313b84fa-b922-500f-9b65-acb67c040cc0@185.197.193.137:443?encryption=none&fp=firefox&host=us2.v2less.site&path=/vless&security=tls&sni=us2.v2less.site&type=ws#🇺🇸 США 2 Ilia Baikov
-vless://6fb89451-b573-4391-b046-d45ab9a6db49@179.254.69.103:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=us1.buyclicks.click&type=tcp#🇺🇸 США 3 Raul Ghita trading as Ghita Telekom
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@200.102.179.69:443?encryption=none&fp=firefox&host=dmbdnpctq8hjxx.hat.onl&path=/hls/014373eq/seg&security=tls&sni=dmbdnpctq8hjxx.hat.onl&type=xhttp#🇺🇸 США 4 WEDEPLOY SAS
-vless://6fb89451-b573-4391-b046-d45ab9a6db49@31.77.227.42:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=frra.setlisting.ru&type=tcp#🇫🇷 Франция 1 BANATSYNC SRL
-vless://6fb89451-b573-4391-b046-d45ab9a6db49@31.77.227.151:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=bm1.armuz-trans.com&type=tcp#🇫🇷 Франция 2 BANATSYNC SRL
-vless://6fb89451-b573-4391-b046-d45ab9a6db49@31.77.227.40:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=frra.setlisting.ru&type=tcp#🇫🇷 Франция 3 BANATSYNC SRL
-vless://2443c85b-8566-4d61-b6fa-9ccc012701e9@144.48.10.243:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ab1.xt-game.net&type=tcp#🇳🇱 Нидерланды 1 Mastersoft S.R.L.
-vless://6fb89451-b573-4391-b046-d45ab9a6db49@13.143.179.150:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=bm2.armuz-trans.com&type=tcp#🇳🇱 Нидерланды 2 Raul Ghita trading as Ghita Telekom
-vless://6fb89451-b573-4391-b046-d45ab9a6db49@13.143.178.150:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=bm-g.armuz-trans.com&type=tcp#🇪🇪 Эстония 1 Raul Ghita trading as Ghita Telekom
-vless://6fb89451-b573-4391-b046-d45ab9a6db49@179.254.70.101:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=bm-e.armuz-trans.com&type=tcp#🇪🇪 Эстония 2 Raul Ghita trading as Ghita Telekom
-vless://6fb89451-b573-4391-b046-d45ab9a6db49@87.192.47.6:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=bm-lv.armuz-trans.com&type=tcp#🇱🇻 Латвия Raul Ghita trading as Ghita Telekom
-vless://6fb89451-b573-4391-b046-d45ab9a6db49@179.254.71.100:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=bm-pl.armuz-trans.com&type=tcp#🇵🇱 Польша Raul Ghita trading as Ghita Telekom
-vless://6fb89451-b573-4391-b046-d45ab9a6db49@179.254.68.101:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=fl-1.sdohnite.org&type=tcp#🇫🇮 Финляндия Raul Ghita trading as Ghita Telekom
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@200.102.179.69:443?encryption=none&fp=firefox&host=dmbdnpctq8hjxx.hat.onl&path=/hls/014373eq/seg&security=tls&sni=dmbdnpctq8hjxx.hat.onl&type=xhttp#🇺🇸 США 3 WEDEPLOY SAS
+vless://2443c85b-8566-4d61-b6fa-9ccc012701e9@144.48.10.243:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ab1.xt-game.net&type=tcp#🇳🇱 Нидерланды Mastersoft S.R.L.
