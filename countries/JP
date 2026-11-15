@@ -4,6 +4,5 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQr9C/0L7QvdC40Y8=
-vless://6392cd80-967f-45fc-a4b2-41502f5c68b6@31.76.91.94:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=idIOvZeC3DjAf12hLxq1UW5aJQUWTjR0o66HlvkNpSI&security=reality&sid=b0d8f964b7ac8ac0&sni=39404053.b.uni.onehopcdn.com&type=tcp#🇯🇵 Япония 1 Akenai Products LTD
-vless://6392cd80-967f-45fc-a4b2-41502f5c68b6@31.76.91.94:2053?encryption=none&fp=firefox&path=/api/v1/video/chunk/segment.ts&pbk=idIOvZeC3DjAf12hLxq1UW5aJQUWTjR0o66HlvkNpSI&security=reality&sid=966eadda72000d7c&sni=39404053.b.uni.onehopcdn.com&type=xhttp#🇯🇵 Япония 2 Akenai Products LTD
-hysteria2://SW_COSMOS:sYcUMf7G9g67Zuho@167.17.179.175:443?sni=spacearea.onthewifi.com#🇯🇵 Япония 3 Baxet Group Inc.
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@13.115.252.32:43149?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE&security=reality&sid=15aa0ad4&sni=psstatic.cdn.bcebos.com&type=tcp#🇯🇵 Япония 1 Eons Data Communications Limited
+vless://f131d292-d3c2-42b3-bcea-f9712c31b303@185.71.216.177:2090?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qBobe6KSNkFLqTPCffcJo0nXgxy-3JKru9WRqY9rkjk&security=reality&sid=bb472a184677af64&sni=www.apple.com&type=tcp#🇯🇵 Япония 2 FDCservers.net
