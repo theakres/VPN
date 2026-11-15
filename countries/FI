@@ -4,7 +4,4 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNC40L3Qu9GP0L3QtNC40Y8=
-vless://34dd3340-5cf6-4d61-bc60-b8b13ee2b3c1@207.89.17.68:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oImt0TW4JPXoVLCHkqjwr042kXLs1_HwIYKMWlQGdjs&security=reality&sid=2cba5882b6a81b07&sni=www.twitch.tv&type=tcp#🇫🇮 Финляндия 1 Mykyta Skorobohatko
-vless://040588bb-686b-47b3-8f88-d71e1b2e268c@81.177.140.23:53898?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aV_BHCeZ30y4-5rpUIHaWHMYAgogLsw4AE06Rw2X4WE&security=reality&sid=e202a94ad1711af2&sni=c3b4ce4b957a.vps.myjino.ru&type=tcp#🇫🇮 Финляндия 2 NetCrafters OU
-vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@196.240.181.132:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jRHg94HymqCnI9LLFHMBxvi9URv_AOMgJxhLkOVuCl8&security=reality&sid=0bfd7d104dcc9cae&sni=45b545t.fi7.h1clayd.click&type=tcp#🇫🇮 Финляндия 3 Orion Network Limited
-vless://882b1d03-f43c-4adf-abe7-4ace93d7e37b@177.202.65.6:443?encryption=none&fp=firefox&pbk=X2fkuOI3cZDh01wLmptTBal3xrNo2RuJZ4udE-u50yw&security=reality&serviceName=grpc&sid=b04dd3564373ba03&sni=node2.vazza.ratcraft.ru&type=grpc#🇫🇮 Финляндия 4 PLAY2GO - FZCO
+vless://537d8ade-134d-4ec2-905c-0187e7e1e22e@196.240.181.30:443?encryption=none&fp=firefox&host=78ec29x.fi2.h1clayd.click&pbk=WCuIW5EhUUfvOtDeVO-M7NjwXaE20zinTv3rpQ9erxs&security=reality&sid=6f2d8ece33a96159&sni=78ec29x.fi2.h1clayd.click&type=xhttp#🇫🇮 Финляндия Hetzner Online GmbH

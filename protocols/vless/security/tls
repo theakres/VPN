@@ -4,10 +4,4 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://8a1a991a-f206-447a-adaf-37a57c133418@185.10.240.23:443?encryption=none&fp=firefox&host=ir2.cryptojakiro.com&security=tls&sni=ir2.cryptojakiro.com&type=ws#🇩🇪 Германия 1 Hetzner Online GmbH
-vless://109fe686-024c-48cf-8f74-6a8e938a0464@91.107.244.90:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=24c-48cf-8-de-d.vitaminp.ir&type=tcp#🇩🇪 Германия 2 Hetzner Online GmbH
-vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@194.77.220.207:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 3 OVH SAS
-vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@143.14.59.56:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 4 OVH SAS
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.100.247:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru4.net&type=tcp#🇩🇪 Германия 5 UAB Cherry Servers
-vless://2443c85b-8566-4d61-b6fa-9ccc012701e9@144.48.10.243:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ab1.xt-game.net&type=tcp#🇳🇱 Нидерланды Mastersoft S.R.L.
-vless://5d5f84aa-d65f-4843-bfad-383bb9ca9989@191.223.137.80:9443?encryption=none&fp=firefox&host=xh.asdfghjuyt.ru&path=/malibu-xh&security=tls&sni=xh.asdfghjuyt.ru&type=xhttp#🇺🇸 США Web1 Oy
+vless://313b84fa-b922-500f-9b65-acb67c040cc0@185.197.193.137:443?encryption=none&fp=firefox&host=us2.v2less.site&path=/vless&security=tls&sni=us2.v2less.site&type=ws#🇺🇸 США Ilia Baikov

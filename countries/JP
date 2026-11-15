@@ -1,9 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQr9C/0L7QvdC40Y8=
-vless://f131d292-d3c2-42b3-bcea-f9712c31b303@185.71.216.177:2090?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qBobe6KSNkFLqTPCffcJo0nXgxy-3JKru9WRqY9rkjk&security=reality&sid=bb472a184677af64&sni=www.apple.com&type=tcp#🇯🇵 Япония 1 FDCservers.net
-vless://f131d292-d3c2-42b3-bcea-f9712c31b303@37.221.76.117:2090?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qBobe6KSNkFLqTPCffcJo0nXgxy-3JKru9WRqY9rkjk&security=reality&sid=bb472a184677af64&sni=www.apple.com&type=tcp#🇯🇵 Япония 2 FDCservers.net
-vless://f131d292-d3c2-42b3-bcea-f9712c31b303@185.71.216.94:2090?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qBobe6KSNkFLqTPCffcJo0nXgxy-3JKru9WRqY9rkjk&security=reality&sid=bb472a184677af64&sni=www.apple.com&type=tcp#🇯🇵 Япония 3 FDCservers.net
