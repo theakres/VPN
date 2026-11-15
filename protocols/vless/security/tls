@@ -4,13 +4,21 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://8a1a991a-f206-447a-adaf-37a57c133418@185.10.240.23:443?encryption=none&fp=firefox&host=ir2.cryptojakiro.com&security=tls&sni=ir2.cryptojakiro.com&type=ws#🇩🇪 Германия 1 Hetzner Online GmbH
+vless://352a250d-080b-47b5-b7db-f9f8fa31c551@154.86.119.111:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=h6ble4t3.virtual-network.lol&type=tcp#🇳🇱 Нидерланды 1 ExpressHost Ltd
+vless://3619ae0e-bd3a-458c-bb0a-c0479019d9ec@178.130.46.226:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=serv1.fishtohome.ru&type=tcp#🇳🇱 Нидерланды 2 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://352a250d-080b-47b5-b7db-f9f8fa31c551@150.251.143.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=fsos4kac.virtual-network.lol&type=tcp#🇳🇱 Нидерланды 3 Paul Sagov
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@72.56.19.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru5.net&type=tcp#🇳🇱 Нидерланды 4 Timeweb, LLP
+vless://352a250d-080b-47b5-b7db-f9f8fa31c551@187.7.206.179:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=1fw71df.virtual-network.lol&type=tcp#🇩🇪 Германия 1 ExpressHost Ltd
 vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@194.77.220.224:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 2 OVH SAS
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.100.247:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru4.net&type=tcp#🇩🇪 Германия 3 UAB Cherry Servers
-vless://352a250d-080b-47b5-b7db-f9f8fa31c551@154.86.119.111:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=h6ble4t3.virtual-network.lol&type=tcp#🇳🇱 Нидерланды 1 ExpressHost Ltd
-vless://352a250d-080b-47b5-b7db-f9f8fa31c551@150.251.143.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=fsos4kac.virtual-network.lol&type=tcp#🇳🇱 Нидерланды 2 Paul Sagov
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@72.56.19.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru5.net&type=tcp#🇳🇱 Нидерланды 3 Timeweb, LLP
+vless://e3453410-191b-48b5-b37f-aac745bbfa6b@188.255.236.21:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=188.255.236.21&type=tcp#🇪🇪 Эстония 1 Raul Ghita trading as Ghita Telekom
+vless://e3453410-191b-48b5-b37f-aac745bbfa6b@188.255.236.23:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=188.255.236.23&type=tcp#🇪🇪 Эстония 2 Raul Ghita trading as Ghita Telekom
+vless://71b9b927-f2bd-4443-bd61-85518410be69@141.0.187.216:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇪🇪 Эстония 3 Alfahost LLC
+vless://e3453410-191b-48b5-b37f-aac745bbfa6b@81.85.1.233:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=81.85.1.233&type=tcp#🇬🇧 Великобритания 1 Nebius B.V.
+vless://e3453410-191b-48b5-b37f-aac745bbfa6b@81.85.2.126:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=81.85.2.126&type=tcp#🇬🇧 Великобритания 2 Nebius B.V.
 vless://313b84fa-b922-500f-9b65-acb67c040cc0@185.197.193.137:443?encryption=none&fp=firefox&host=us2.v2less.site&path=/vless&security=tls&sni=us2.v2less.site&type=ws#🇺🇸 США 1 Ilia Baikov
 vless://7592ca5c-b352-4562-8856-a9c936a3331b@200.102.179.69:443?encryption=none&fp=firefox&host=dmbdnpctq8hjxx.hat.onl&path=/hls/014373eq/seg&security=tls&sni=dmbdnpctq8hjxx.hat.onl&type=xhttp#🇺🇸 США 2 WEDEPLOY SAS
-vless://e3453410-191b-48b5-b37f-aac745bbfa6b@81.85.1.233:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=81.85.1.233&type=tcp#🇬🇧 Великобритания Nebius B.V.
-vless://50414e45-4c5f-5a45-5553-2b737ffd08fa@178.104.19.178:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/2b737ffd08fa&security=tls&sni=bcz0bnequuss.gametyrh20e2.workers.deV&type=ws#🇫🇷 Франция Cloudflare, Inc.
+vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?encryption=none&fp=firefox&host=vpn-rating.space&path=/api/vless&security=tls&sni=daily-author.ru&type=ws#🇨🇭 Швейцария 1 Infomaniak Network SA
+vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?encryption=none&fp=firefox&path=/api/vless&security=tls&sni=daily-author.ru&type=ws#🇨🇭 Швейцария 2 Infomaniak Network SA
+vless://3d409814-b663-411e-8f54-a112ecba7ddd@62.60.232.226:2096?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=nova-house.justext.space&type=tcp#🇭🇰 Гонконг GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://352a250d-080b-47b5-b7db-f9f8fa31c551@45.194.66.177:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=31tawwo0.virtual-network.lol&type=tcp#🇵🇱 Польша ExpressHost Ltd

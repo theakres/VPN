@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmNC30YDQsNC40LvRjA==
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.150.108.180:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Jw--SSPecJpt9-lke7H9Bdr8F73xxtvC_5ZrxiWRog0&security=reality&sid=dc1bf50b0e0a&sni=il1.gofizzin.com&type=tcp#🇮🇱 Израиль BlueVPS OU

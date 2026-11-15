@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkNCy0YHRgtGA0LDQu9C40Y8=
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@195.114.14.91:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CcxdRFcNF4OLIFqS999iAHZSa6dsFB6wuhyKlBr45DI&security=reality&sid=7d9e4e85e6f9&sni=au1.gofizz.in&type=tcp#🇦🇺 Австралия FlowVPS

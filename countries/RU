@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNC+0YHRgdC40Y8=
+vless://9a709d5f-d997-4ac0-9520-3635d25cd69e@212.193.31.80:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&security=reality&sid=6aa2d2e950441a9a&sni=ne.tv.normbot.ru&type=tcp#🇷🇺 Россия 1 KVANTA LLC
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@94.228.166.37:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HZuajwozj8RKGAU_N_0cp0iKPU1EeljHjVu5NkWaUjU&security=reality&sid=a36b1ffa&sni=ru1.gofizz.in&type=tcp#🇷🇺 Россия 2 NetCrafters OU
