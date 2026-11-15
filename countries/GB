@@ -4,5 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQktC10LvQuNC60L7QsdGA0LjRgtCw0L3QuNGP
-vless://e3453410-191b-48b5-b37f-aac745bbfa6b@81.85.1.233:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=81.85.1.233&type=tcp#🇬🇧 Великобритания 1 Nebius B.V.
-vless://49fe1f7b-e6f6-43dc-a67d-caade85128ba@185.90.62.112:10000?encryption=none&fp=firefox&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&security=reality&sid=cd0a1986719e44c8&sni=amp-api-edge.apps.apple.com&type=tcp#🇬🇧 Великобритания 2 Packet Star Networks Limited
+vless://4e678c45-891f-4265-b349-2adcccb52796@201.58.133.201:443?encryption=none&fp=firefox&pbk=zYNnGVEkMFCUR_9NcYeaXfm9A_L-PP6iG2sIIST6S0M&security=reality&sid=1ed136481e0ede74&sni=eu121.cdn77.icu&type=tcp#🇬🇧 Великобритания 1 GSL Networks Pty LTD
+vless://e3453410-191b-48b5-b37f-aac745bbfa6b@81.85.1.233:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=81.85.1.233&type=tcp#🇬🇧 Великобритания 2 Nebius B.V.
+vless://49fe1f7b-e6f6-43dc-a67d-caade85128ba@185.90.62.112:10000?encryption=none&fp=firefox&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&security=reality&sid=cd0a1986719e44c8&sni=amp-api-edge.apps.apple.com&type=tcp#🇬🇧 Великобритания 3 Packet Star Networks Limited
