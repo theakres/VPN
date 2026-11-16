@@ -4,6 +4,9 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@88.214.24.247:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uvYdcBw9FFSxYXpZy5Pr5gzgXan7PWkWJKg940ogxSU&security=reality&sid=50ea8dd3&sni=fr1.gofizzin.com&type=tcp#🇫🇷 Франция 1 Layer7 Networks GmbH
-vless://4ecb0295-8fa7-4670-8bab-976667c5509e@2.56.127.109:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CNMh9FFr4tfJc7hCtBqwYlLcBxk2Okz2fDPebYGJEww&security=reality&sid=5e72e96b1a9ce2b4&sni=64ec2c66edb9.j.cloudfront.hls.ttvnw.net&type=tcp#🇫🇷 Франция 2 NetCrafters OU
-vless://59ed8211-2293-41a5-8996-cf72fe05f4b0@212.193.10.79:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k-zB-Tf6HyT7kocUU8UDvFoHxw9r-JTonmYVpe4RT3U&security=reality&sid=a5fe10fba46b8613&sni=fr-212-193-10-79.sslip.io&type=tcp#🇫🇷 Франция 3 SERV.HOST GROUP LTD
+vless://3de54b98-fdfe-4a8d-ae72-f2458dd5e5f4@83.141.88.195:443?encryption=none&fp=firefox&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc&security=reality&sni=hannover.gosgenarchive.com&type=xhttp#🇫🇷 Франция 1 AEZA GROUP LLC
+vless://0f82d566-1273-43c5-a73c-229997b3b4b0@213.199.57.127:2087?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Y8U3PhV0K8jT4PBHq-rhCA4eUtOXa1CNB9waCvZbZSc&security=reality&sid=42&sni=blog.api.www.cloudflare.com&type=tcp#🇫🇷 Франция 2 Contabo GmbH
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@88.214.24.247:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uvYdcBw9FFSxYXpZy5Pr5gzgXan7PWkWJKg940ogxSU&security=reality&sid=50ea8dd3&sni=fr1.gofizzin.com&type=tcp#🇫🇷 Франция 3 Layer7 Networks GmbH
+vless://4ecb0295-8fa7-4670-8bab-976667c5509e@2.56.127.109:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CNMh9FFr4tfJc7hCtBqwYlLcBxk2Okz2fDPebYGJEww&security=reality&sid=5e72e96b1a9ce2b4&sni=64ec2c66edb9.j.cloudfront.hls.ttvnw.net&type=tcp#🇫🇷 Франция 4 NetCrafters OU
+vless://6962c372-27da-56d6-9d1f-8041abb7538e@83.136.210.129:443?encryption=none&fp=firefox&pbk=wBh3jtk45kBonp2-uVqsx71F4ziNH7vZcU6DAC6t2xs&security=reality&sid=0ccc9342fa5e7f&sni=wxug.com&type=tcp#🇫🇷 Франция 5 PETROSKY CLOUD LLC
+vless://59ed8211-2293-41a5-8996-cf72fe05f4b0@212.193.10.79:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k-zB-Tf6HyT7kocUU8UDvFoHxw9r-JTonmYVpe4RT3U&security=reality&sid=a5fe10fba46b8613&sni=fr-212-193-10-79.sslip.io&type=tcp#🇫🇷 Франция 6 SERV.HOST GROUP LTD

@@ -4,5 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQktC10LvQuNC60L7QsdGA0LjRgtCw0L3QuNGP
-vless://97ab2e86-83c5-0a32-4914-5dbe1af97839@122.8.92.3:8443?encryption=none&fp=firefox&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#🇬🇧 Великобритания 1 Global Transit Systems LLC
-vless://4a923161-156f-4914-8cac-762fb2433bfb@45.91.54.162:43000?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&security=reality&sid=ee4ea980&sni=45.91.54.162&type=tcp#🇬🇧 Великобритания 2 Packet Star Networks Limited
+vless://588f4e7a-6023-46bd-9f17-dfd7da9a26c5@83.141.76.222:2096?encryption=none&fp=firefox&security=tls&sni=copper-delta.fastlanehosting.ru&type=tcp#🇬🇧 Великобритания 1 AEZA GROUP LLC
+vless://97ab2e86-83c5-0a32-4914-5dbe1af97839@122.8.92.3:8443?encryption=none&fp=firefox&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#🇬🇧 Великобритания 2 Global Transit Systems LLC
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@203.57.82.106:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=9a3f6c21d8e047b5&sni=api-gw-net.galioncc.com&type=tcp#🇬🇧 Великобритания 3 GSL Networks Pty LTD
+vless://4a923161-156f-4914-8cac-762fb2433bfb@45.91.54.162:43000?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&security=reality&sid=ee4ea980&sni=45.91.54.162&type=tcp#🇬🇧 Великобритания 4 Packet Star Networks Limited
