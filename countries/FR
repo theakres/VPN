@@ -4,7 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
-vless://50414e45-4c5f-5a45-5553-e759cf52c6be@176.118.214.216:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/e759cf52c6be&security=tls&sni=9lz3z5efu8os.gamewizardbac1k.workers.Dev&type=ws#🇫🇷 Франция 1 Cloudflare, Inc.
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@88.214.24.247:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uvYdcBw9FFSxYXpZy5Pr5gzgXan7PWkWJKg940ogxSU&security=reality&sid=50ea8dd3&sni=fr1.gofizzin.com&type=tcp#🇫🇷 Франция 2 Layer7 Networks GmbH
-vless://4ecb0295-8fa7-4670-8bab-976667c5509e@2.56.127.109:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CNMh9FFr4tfJc7hCtBqwYlLcBxk2Okz2fDPebYGJEww&security=reality&sid=5e72e96b1a9ce2b4&sni=64ec2c66edb9.j.cloudfront.hls.ttvnw.net&type=tcp#🇫🇷 Франция 3 NetCrafters OU
-vless://59ed8211-2293-41a5-8996-cf72fe05f4b0@212.193.10.79:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k-zB-Tf6HyT7kocUU8UDvFoHxw9r-JTonmYVpe4RT3U&security=reality&sid=a5fe10fba46b8613&sni=fr-212-193-10-79.sslip.io&type=tcp#🇫🇷 Франция 4 SERV.HOST GROUP LTD
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@88.214.24.247:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uvYdcBw9FFSxYXpZy5Pr5gzgXan7PWkWJKg940ogxSU&security=reality&sid=50ea8dd3&sni=fr1.gofizzin.com&type=tcp#🇫🇷 Франция 1 Layer7 Networks GmbH
+vless://4ecb0295-8fa7-4670-8bab-976667c5509e@2.56.127.109:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CNMh9FFr4tfJc7hCtBqwYlLcBxk2Okz2fDPebYGJEww&security=reality&sid=5e72e96b1a9ce2b4&sni=64ec2c66edb9.j.cloudfront.hls.ttvnw.net&type=tcp#🇫🇷 Франция 2 NetCrafters OU
+vless://59ed8211-2293-41a5-8996-cf72fe05f4b0@212.193.10.79:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k-zB-Tf6HyT7kocUU8UDvFoHxw9r-JTonmYVpe4RT3U&security=reality&sid=a5fe10fba46b8613&sni=fr-212-193-10-79.sslip.io&type=tcp#🇫🇷 Франция 3 SERV.HOST GROUP LTD
