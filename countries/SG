@@ -4,9 +4,9 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQodC40L3Qs9Cw0L/Rg9GA
-vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@50.7.21.92:443?encryption=none&fp=firefox&pbk=xU_Pw9119W3uGKLCBU4lTBCwcazzsAsuoUVxLWSJ-BE&security=reality&serviceName=grpc&sid=807fa7754d&sni=gorse.heathcombe.top&type=grpc#🇸🇬 Сингапур 1 FDCservers.net
+vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@50.7.21.252:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9z2gIqli8mHcRY5WFxUrlHcU-5Td_x0teoCDIAq1fSs&security=reality&sid=95c8616d6286&sni=moss.heathcombe.top&type=tcp#🇸🇬 Сингапур 1 FDCservers.net
 vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@50.7.21.22:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QHLG_9UrJNKH86yMVDRbnQgbtgfPc-iJEyKo6p3Fo1k&security=reality&sid=bd3d2095&sni=ling.heathcombe.top&type=tcp#🇸🇬 Сингапур 2 FDCservers.net
-vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@50.7.21.252:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9z2gIqli8mHcRY5WFxUrlHcU-5Td_x0teoCDIAq1fSs&security=reality&sid=95c8616d6286&sni=moss.heathcombe.top&type=tcp#🇸🇬 Сингапур 3 FDCservers.net
-vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@67.159.52.80:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZW0yTM5nfPIQ68ihbjYoIGxvypA6fAU8xjDk2PMVwwY&security=reality&sid=e7cea6ccd340d2d7&sni=tarn.glenmarsh.top&type=tcp#🇸🇬 Сингапур 4 FDCservers.net
-vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@50.7.21.44:443?encryption=none&fp=firefox&pbk=ZW0yTM5nfPIQ68ihbjYoIGxvypA6fAU8xjDk2PMVwwY&security=reality&serviceName=grpc&sid=e7cea6ccd340d2d7&sni=holt.glenmarsh.top&type=grpc#🇸🇬 Сингапур 5 FDCservers.net
+vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@50.7.21.92:443?encryption=none&fp=firefox&pbk=xU_Pw9119W3uGKLCBU4lTBCwcazzsAsuoUVxLWSJ-BE&security=reality&serviceName=grpc&sid=807fa7754d&sni=gorse.heathcombe.top&type=grpc#🇸🇬 Сингапур 3 FDCservers.net
+vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@50.7.21.44:443?encryption=none&fp=firefox&pbk=ZW0yTM5nfPIQ68ihbjYoIGxvypA6fAU8xjDk2PMVwwY&security=reality&serviceName=grpc&sid=e7cea6ccd340d2d7&sni=holt.glenmarsh.top&type=grpc#🇸🇬 Сингапур 4 FDCservers.net
+vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@67.159.52.80:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZW0yTM5nfPIQ68ihbjYoIGxvypA6fAU8xjDk2PMVwwY&security=reality&sid=e7cea6ccd340d2d7&sni=tarn.glenmarsh.top&type=tcp#🇸🇬 Сингапур 5 FDCservers.net
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@18.138.238.12:30322?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&security=reality&sid=6a60e7e382d6&sni=psstatic.cdn.bcebos.com&type=tcp#🇸🇬 Сингапур 6 BAGE CLOUD LLC

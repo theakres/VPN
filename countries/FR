@@ -6,3 +6,5 @@
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
 vless://0f82d566-1273-43c5-a73c-229997b3b4b0@213.199.57.127:2087?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Y8U3PhV0K8jT4PBHq-rhCA4eUtOXa1CNB9waCvZbZSc&security=reality&sid=42&sni=blog.api.www.cloudflare.com&type=tcp#🇫🇷 Франция 1 Contabo GmbH
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@88.214.24.247:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uvYdcBw9FFSxYXpZy5Pr5gzgXan7PWkWJKg940ogxSU&security=reality&sid=50ea8dd3&sni=fr1.gofizzin.com&type=tcp#🇫🇷 Франция 2 Layer7 Networks GmbH
+vless://e8e197a9-c8bf-4104-add1-7ce534cdb540@45.95.98.129:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mbd06LKGZlQInmxNq_AOgRT_EuOMQyjX5ArfxoWpFWY&security=reality&sid=d14c88e86e91bf45&sni=fr.aether-runet.top&type=tcp#🇫🇷 Франция 3 OVH SAS
+vless://f0cd939d-966a-4dc9-9454-ea0b4907f3ca@144.31.214.219:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MWFS07CEzWm-Ko8R04Bl4no5G9whXBRNUaHPS02VbiI&security=reality&sid=fd33061edc&sni=www.dassault-aviation.com&type=tcp#🇫🇷 Франция 4 SERV.HOST GROUP LTD
