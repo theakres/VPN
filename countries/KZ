@@ -4,7 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmtCw0LfQsNGF0YHRgtCw0L0=
-vless://3fc29b36-3ec4-4b77-b8e8-ff0dbf7d3530@48.102.216.65:8443?encryption=none&fp=firefox&host=ed-ru48.edgehubnet.com&path=/stream&security=tls&sni=ed-ru48.edgehubnet.com&type=xhttp#🇰🇿 Казахстан 1 Newserverlife LLC
-vless://3fc29b36-3ec4-4b77-b8e8-ff0dbf7d3530@48.102.216.65:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=E8gtZB7-juQ3AZAivptjwUqQZYTdGV3kfZgPwoEVkQE&security=reality&sid=69d2bbb45d2895d8&sni=ed-ru1.dotinfo.cfd&type=tcp#🇰🇿 Казахстан 2 Newserverlife LLC
-vless://6d9c322f-55e4-4dc0-837f-068de8c176dc@31.77.217.125:28012?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=VayQd3OHrK8jdNSNMPt0eCswf2AVbzSVShlOl246GQU&security=reality&sid=900bf4eb1d89ce28&sni=connect.i-love-russia.online&type=tcp#🇰🇿 Казахстан 3 AntiDDoS Networks LTD
-vless://23886542-94e6-4d3a-bfed-bda65b503903@89.106.88.85:443?encryption=none&fp=firefox&pbk=-AdhgMZeNHR2zAmGWa5peg7Ni0-e4IVMoSzydC9n7C4&security=reality&serviceName=grpc&sid=08&sni=ee85.own-homelab.cloud&type=grpc#🇰🇿 Казахстан 4 G-Core Labs S.A.
+vless://23886542-94e6-4d3a-bfed-bda65b503903@89.106.88.85:443?encryption=none&fp=firefox&pbk=-AdhgMZeNHR2zAmGWa5peg7Ni0-e4IVMoSzydC9n7C4&security=reality&serviceName=grpc&sid=08&sni=ee85.own-homelab.cloud&type=grpc#🇰🇿 Казахстан 1 G-Core Labs S.A.
+vless://23886542-94e6-4d3a-bfed-bda65b503903@89.106.88.89:443?encryption=none&fp=firefox&pbk=-AdhgMZeNHR2zAmGWa5peg7Ni0-e4IVMoSzydC9n7C4&security=reality&serviceName=grpc&sid=08&sni=ee89.own-homelab.cloud&type=grpc#🇰🇿 Казахстан 2 G-Core Labs S.A.
+vless://3fc29b36-3ec4-4b77-b8e8-ff0dbf7d3530@48.102.216.65:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=E8gtZB7-juQ3AZAivptjwUqQZYTdGV3kfZgPwoEVkQE&security=reality&sid=69d2bbb45d2895d8&sni=ed-ru1.dotinfo.cfd&type=tcp#🇰🇿 Казахстан 3 Newserverlife LLC
+vless://3fc29b36-3ec4-4b77-b8e8-ff0dbf7d3530@48.102.216.65:8443?encryption=none&fp=firefox&host=ed-ru48.edgehubnet.com&path=/stream&security=tls&sni=ed-ru48.edgehubnet.com&type=xhttp#🇰🇿 Казахстан 4 Newserverlife LLC

@@ -6,5 +6,4 @@
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQntCQ0K0=
 vless://97ab2e86-83c5-0a32-4914-5dbe1af97839@122.8.47.7:8443?encryption=none&fp=firefox&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&security=reality&serviceName=TunService&sni=www.canon.com&type=grpc#🇦🇪 ОАЭ 1 Fast Servers Pty Ltd
 vless://97ab2e86-83c5-0a32-4914-5dbe1af97839@122.8.47.7:8443?encryption=none&fp=firefox&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#🇦🇪 ОАЭ 2 Fast Servers Pty Ltd
-vless://6d9c322f-55e4-4dc0-837f-068de8c176dc@31.77.217.125:28019?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=eh3tuDO8LBLLJnO6S1xkFoCqLnaCtCaDueG1X3Vzghw&security=reality&sid=dbea647fa8d356ec&sni=connect.i-love-russia.online&type=tcp#🇦🇪 ОАЭ 3 AntiDDoS Networks LTD
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.86.228.39:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6_gm-7Bn-4wN79POTNyDJrJvPh1I5SSiO85zMKpKRUI&security=reality&sid=29967a52&sni=ae1.gofizzin.com&type=tcp#🇦🇪 ОАЭ 4 BlueVPS OU
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.86.228.39:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6_gm-7Bn-4wN79POTNyDJrJvPh1I5SSiO85zMKpKRUI&security=reality&sid=29967a52&sni=ae1.gofizzin.com&type=tcp#🇦🇪 ОАЭ 3 BlueVPS OU
