@@ -4,31 +4,26 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@140.233.177.66:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 1 OVH SAS
-vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@194.77.220.212:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 2 OVH SAS
-vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@194.77.220.212:443?encryption=none&fp=firefox&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 3 OVH SAS
-vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@140.233.177.66:443?encryption=none&fp=firefox&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 4 OVH SAS
-vless://352a250d-080b-47b5-b7db-f9f8fa31c551@187.7.206.176:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=1fw71dc.virtual-network.lol&type=tcp#🇩🇪 Германия 5 ExpressHost Ltd
-vless://352a250d-080b-47b5-b7db-f9f8fa31c551@187.7.206.179:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=1fw71df.virtual-network.lol&type=tcp#🇩🇪 Германия 6 ExpressHost Ltd
-vless://5472dcf3-b9ec-4273-8031-50de98443ca3@83.141.76.222:2096?encryption=none&fp=firefox&security=tls&sni=copper-delta.fastlanehosting.ru&type=tcp#🇩🇪 Германия 7 AEZA GROUP LLC
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.100.247:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru4.net&type=tcp#🇩🇪 Германия 8 UAB Cherry Servers
+vless://352a250d-080b-47b5-b7db-f9f8fa31c551@187.7.206.176:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=1fw71dc.virtual-network.lol&type=tcp#🇩🇪 Германия 1 ExpressHost Ltd
+vless://352a250d-080b-47b5-b7db-f9f8fa31c551@187.7.206.179:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=1fw71df.virtual-network.lol&type=tcp#🇩🇪 Германия 2 ExpressHost Ltd
+vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@194.77.220.212:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 3 OVH SAS
+vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@194.77.220.212:443?encryption=none&fp=firefox&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 4 OVH SAS
+vless://8a1a991a-f206-447a-adaf-37a57c133418@185.10.240.23:443?encryption=none&fp=firefox&host=ir2.cryptojakiro.com&security=tls&sni=ir2.cryptojakiro.com&type=ws#🇩🇪 Германия 5 Hetzner Online GmbH
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.100.247:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru4.net&type=tcp#🇩🇪 Германия 6 UAB Cherry Servers
 vless://352a250d-080b-47b5-b7db-f9f8fa31c551@130.78.30.145:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=105ky35.virtual-network.lol&type=tcp#🇳🇱 Нидерланды 1 ExpressHost Ltd
 vless://352a250d-080b-47b5-b7db-f9f8fa31c551@154.86.119.111:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=h6ble4t3.virtual-network.lol&type=tcp#🇳🇱 Нидерланды 2 ExpressHost Ltd
 vless://3619ae0e-bd3a-458c-bb0a-c0479019d9ec@178.130.46.226:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=serv1.fishtohome.ru&type=tcp#🇳🇱 Нидерланды 3 GLOBAL CONNECTIVITY SOLUTIONS LLP
 vless://352a250d-080b-47b5-b7db-f9f8fa31c551@150.251.143.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=fsos4kac.virtual-network.lol&type=tcp#🇳🇱 Нидерланды 4 Paul Sagov
 vless://74a57b7a-007f-4c08-9036-7b84a189fb3a@153.52.255.65:443?encryption=none&fp=firefox&host=speednet-api-production-4e78.up.railway.app&path=/fVg7ZWzh1iTX-hu&security=tls&sni=speednet-api-production-4e78.up.railway.app&type=httpupgrade#🇳🇱 Нидерланды 5 Railway
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@72.56.19.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru5.net&type=tcp#🇳🇱 Нидерланды 6 Timeweb, LLP
-vless://4859c235-2530-4062-9a0b-ea859cbbf861@5.157.30.28:8443?encryption=none&fp=firefox&host=1.proxy2.us.ci.&path=/?ed=2560&security=tls&sni=1.proxy2.us.ci.&type=ws#🇺🇸 США 1 HostPapa
-vless://313b84fa-b922-500f-9b65-acb67c040cc0@185.197.193.137:443?encryption=none&fp=firefox&host=us2.v2less.site&path=/vless&security=tls&sni=us2.v2less.site&type=ws#🇺🇸 США 2 Ilia Baikov
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@200.102.179.69:443?encryption=none&fp=firefox&host=dmbdnpctq8hjxx.hat.onl&path=/hls/014373eq/seg&security=tls&sni=dmbdnpctq8hjxx.hat.onl&type=xhttp#🇺🇸 США 3 WEDEPLOY SAS
-vless://71b9b927-f2bd-4443-bd61-85518410be69@141.0.187.228:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇪🇪 Эстония 1 Alfahost LLC
-vless://71b9b927-f2bd-4443-bd61-85518410be69@141.0.187.216:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇪🇪 Эстония 2 Alfahost LLC
-vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@87.232.116.22:443?encryption=none&fp=firefox&security=tls&serviceName=67h2o3erm0t9imsj&sni=fafeqdhlett2p5la6d.cdn.cachefleet.com&type=grpc#🇪🇪 Эстония 3 TAKEHOST OU
 vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇮🇳 Индия 1 RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED
 vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&host=decdn-28.nome-rkp.net&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇮🇳 Индия 2 RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED
 vless://352a250d-080b-47b5-b7db-f9f8fa31c551@132.243.212.204:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=10w0wjw.virtual-network.lol&type=tcp#🇵🇱 Польша 1 Andris Jakovlevs
 vless://352a250d-080b-47b5-b7db-f9f8fa31c551@45.194.66.177:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=31tawwo0.virtual-network.lol&type=tcp#🇵🇱 Польша 2 ExpressHost Ltd
-vless://3a86ffe2-0a7e-4f2d-91a8-5aec33f4c089@185.242.247.177:2096?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=cedar-lantern.justext.space&type=tcp#🇫🇮 Финляндия 1 GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://71b9b927-f2bd-4443-bd61-85518410be69@92.242.165.141:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇫🇮 Финляндия 2 UXHOST LTD
+vless://71b9b927-f2bd-4443-bd61-85518410be69@141.0.187.228:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇪🇪 Эстония 1 Alfahost LLC
+vless://71b9b927-f2bd-4443-bd61-85518410be69@141.0.187.216:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇪🇪 Эстония 2 Alfahost LLC
+vless://2e69b088-6ef3-417f-8247-125cf257fafd@3.174.189.0:443?encryption=none&fp=firefox&path=/cf&security=tls&sni=d3rpprumpbwwt5.cloudfront.net&type=xhttp#🇬🇧 Великобритания LIGHT NODE LIMITED
 vless://3d409814-b663-411e-8f54-a112ecba7ddd@62.60.232.226:2096?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=nova-house.justext.space&type=tcp#🇭🇰 Гонконг GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@200.102.179.69:443?encryption=none&fp=firefox&host=dmbdnpctq8hjxx.hat.onl&path=/hls/014373eq/seg&security=tls&sni=dmbdnpctq8hjxx.hat.onl&type=xhttp#🇺🇸 США WEDEPLOY SAS
+vless://71b9b927-f2bd-4443-bd61-85518410be69@92.242.165.141:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇫🇮 Финляндия UXHOST LTD
 vless://50414e45-4c5f-5a45-5553-e759cf52c6be@176.118.214.216:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/e759cf52c6be&security=tls&sni=9lz3z5efu8os.gamewizardbac1k.workers.Dev&type=ws#🇫🇷 Франция Cloudflare, Inc.

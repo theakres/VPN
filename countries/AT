@@ -5,7 +5,7 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkNCy0YHRgtGA0LjRjw==
 vless://7af8ad56-33ce-4f3d-ad15-ef32a71d67f7@66.90.106.210:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2okfB1oMV1oQX1QZLbd_gQx4ZGtIDkP8KkELglZIBys&security=reality&sid=accded3297&sni=dash.syn2.online&type=tcp#🇦🇹 Австрия 1 FDCservers.net
-vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@50.7.115.242:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Mwczt2QjgQo3q8N10PVx8bWNubwiNhgka5GvxUy-GHQ&security=reality&sid=7d1c7473&sni=tarn.hazelmoor.top&type=tcp#🇦🇹 Австрия 2 FDCservers.net
-vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@50.7.115.245:443?encryption=none&fp=firefox&pbk=Mwczt2QjgQo3q8N10PVx8bWNubwiNhgka5GvxUy-GHQ&security=reality&sid=53df2804&sni=beck.mossgill.top&type=xhttp#🇦🇹 Австрия 3 FDCservers.net
+vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@50.7.115.245:443?encryption=none&fp=firefox&pbk=Mwczt2QjgQo3q8N10PVx8bWNubwiNhgka5GvxUy-GHQ&security=reality&sid=53df2804&sni=beck.mossgill.top&type=xhttp#🇦🇹 Австрия 2 FDCservers.net
+vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@50.7.115.242:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Mwczt2QjgQo3q8N10PVx8bWNubwiNhgka5GvxUy-GHQ&security=reality&sid=7d1c7473&sni=tarn.hazelmoor.top&type=tcp#🇦🇹 Австрия 3 FDCservers.net
 vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@50.7.115.244:443?encryption=none&fp=firefox&pbk=Mwczt2QjgQo3q8N10PVx8bWNubwiNhgka5GvxUy-GHQ&security=reality&serviceName=grpc&sid=00defa20&sni=gill.tarnfell.top&type=grpc#🇦🇹 Австрия 4 FDCservers.net
 vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@50.7.115.243:443?encryption=none&fp=firefox&pbk=Mwczt2QjgQo3q8N10PVx8bWNubwiNhgka5GvxUy-GHQ&security=reality&serviceName=grpc&sid=139a95f1&sni=scree.rowanmere.top&type=grpc#🇦🇹 Австрия 5 FDCservers.net
