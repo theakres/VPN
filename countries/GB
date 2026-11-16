@@ -4,8 +4,5 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQktC10LvQuNC60L7QsdGA0LjRgtCw0L3QuNGP
-vless://c36163a8-2561-4cc4-86e3-bdccd264edab@193.163.201.48:8443?encryption=none&fp=firefox&host=vu.mobileselleraghareza.shop&path=/ukb&security=tls&sni=vu.mobileselleraghareza.shop&type=ws#🇬🇧 Великобритания 1 BitCommand LLC
-vless://c36163a8-2561-4cc4-86e3-bdccd264edab@94.249.178.26:2053?encryption=none&fp=firefox&pbk=KRwyjttsIYSBG7g96EaPB_pVIPHxDau6YikEiPx9nHo&security=reality&sid=fb4a70ba77fae64c&sni=www.apple.com&type=tcp#🇬🇧 Великобритания 2 BitCommand LLC
-vless://c36163a8-2561-4cc4-86e3-bdccd264edab@94.249.178.26:2096?encryption=none&extra={"xPaddingBytes":"100-1000","xmux":{"hKeepAlivePeriod":60,"hMaxReusableSecs":"3600-7200","maxConcurrency":"16-32"}}&fp=firefox&path=/9bad8e134b&pbk=KRwyjttsIYSBG7g96EaPB_pVIPHxDau6YikEiPx9nHo&security=reality&sid=5ee350e91fbf8264&sni=www.yahoo.com&type=xhttp#🇬🇧 Великобритания 3 BitCommand LLC
-vless://97ab2e86-83c5-0a32-4914-5dbe1af97839@122.8.92.3:8443?encryption=none&fp=firefox&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#🇬🇧 Великобритания 4 Global Transit Systems LLC
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&security=reality&sid=f51489cb3d7e8be2&sni=uk2.gofizz.in&type=tcp#🇬🇧 Великобритания 5 HostHatch, LLC
+vless://97ab2e86-83c5-0a32-4914-5dbe1af97839@122.8.92.3:8443?encryption=none&fp=firefox&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#🇬🇧 Великобритания 1 Global Transit Systems LLC
+vless://4a923161-156f-4914-8cac-762fb2433bfb@45.91.54.162:43000?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&security=reality&sid=ee4ea980&sni=45.91.54.162&type=tcp#🇬🇧 Великобритания 2 Packet Star Networks Limited
