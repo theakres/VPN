@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQntCQ0K0=
-vless://97ab2e86-83c5-0a32-4914-5dbe1af97839@122.8.47.7:8443?encryption=none&fp=firefox&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&security=reality&serviceName=TunService&sni=www.canon.com&type=grpc#🇦🇪 ОАЭ 1 Fast Servers Pty Ltd
-vless://97ab2e86-83c5-0a32-4914-5dbe1af97839@122.8.47.7:8443?encryption=none&fp=firefox&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#🇦🇪 ОАЭ 2 Fast Servers Pty Ltd
