@@ -1,9 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmtCw0L3QsNC00LA=
-vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@23.237.104.242:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_jpI7oO6m15TW28mm2oAVfs2ftOYSaqFCYVrJ8pzKn8&security=reality&sid=409220db&sni=ford.copperfen.top&type=tcp#🇨🇦 Канада 1 FDCservers.net
-vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@23.237.104.244:443?encryption=none&fp=firefox&pbk=_jpI7oO6m15TW28mm2oAVfs2ftOYSaqFCYVrJ8pzKn8&security=reality&serviceName=grpc&sid=639ac704&sni=spit.harborpine.top&type=grpc#🇨🇦 Канада 2 FDCservers.net
-vless://128ce9ab-63bc-48dc-92ca-1b5426a9eb46@23.155.44.105:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HE1CGzI0QBqhMRUsHqq_9v4Mj3M5dkluFmfyMBH_7kM&security=reality&sid=70f75668dc5914b3&sni=app.flyprotect.ca&type=tcp#🇨🇦 Канада 3 Servury
