@@ -1,9 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmtCw0LfQsNGF0YHRgtCw0L0=
-vless://3fc29b36-3ec4-4b77-b8e8-ff0dbf7d3530@48.102.216.65:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=E8gtZB7-juQ3AZAivptjwUqQZYTdGV3kfZgPwoEVkQE&security=reality&sid=69d2bbb45d2895d8&sni=ed-ru1.dotinfo.cfd&type=tcp#🇰🇿 Казахстан 1 Newserverlife LLC
-vless://3fc29b36-3ec4-4b77-b8e8-ff0dbf7d3530@48.102.216.65:8443?encryption=none&fp=firefox&host=ed-ru48.edgehubnet.com&path=/stream&security=tls&sni=ed-ru48.edgehubnet.com&type=xhttp#🇰🇿 Казахстан 2 Newserverlife LLC
-vless://3fc29b36-3ec4-4b77-b8e8-ff0dbf7d3530@179.254.175.165:2087?encryption=none&fp=firefox&pbk=myKCYPkRjfEowHH9LPEkGLehaf_SGbAj4UeAhr6d_GY&security=reality&serviceName=grpc&sid=28fb50ec2bbcc420&sni=ed-ru2.dotinfo.cfd&type=grpc#🇰🇿 Казахстан 3 Newserverlife LLC

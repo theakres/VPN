@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNC+0YHRgdC40Y8=
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@94.228.166.37:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HZuajwozj8RKGAU_N_0cp0iKPU1EeljHjVu5NkWaUjU&security=reality&sid=a36b1ffa&sni=ru1.gofizz.in&type=tcp#🇷🇺 Россия 1 NetCrafters OU
-vless://3fc29b36-3ec4-4b77-b8e8-ff0dbf7d3530@48.102.213.102:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oFF-ymaEF5FZdS4CGSS-7zh-N_RpuR2grraCIg986mk&security=reality&sid=bb256b3ff5db758d&sni=dir-ru2.edgehubnet.com&type=tcp#🇷🇺 Россия 2 SERV.HOST GROUP LTD
