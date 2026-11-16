@@ -4,7 +4,10 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@88.216.60.73:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=a7c92e4b10d6f835&sni=ns-api-gw.galioncc.com&type=tcp#🇸🇪 Швеция 1 UAB Cherry Servers
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.134.201.254:443?encryption=none&fp=firefox&pbk=U5oHsZbfXVvUqPS2G5lrM3lrEtDVvdxlSloHkO6cf0Y&security=reality&sid=30ed95&sni=tidalcore.dev&type=grpc#🇸🇪 Швеция 1 UAB Cherry Servers
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.154.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru10.net&type=tcp#🇸🇪 Швеция 2 UAB Cherry Servers
-vless://8f2c9a71-4d3e-4b6a-9c11-7e5d2a4b8f60@8.47.69.7:443?encryption=none&fp=firefox&host=edt-sub.antonstorer.workers.dev&path=/?ed=2560&security=tls&sni=edt-sub.antonstorer.workers.dev&type=ws#🇸🇪 Швеция 3 Cloudflare, Inc.
-vless://0809eed6-5204-49b8-8312-b82a10024022@178.18.158.17:43000?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=U_dxFnbfesmgSwL-SlpvGYFbpY5vlJ1kb52knlCXkkI&security=reality&sid=8cfe1563&sni=178.18.158.17&type=tcp#🇸🇪 Швеция 4 Tom Gewiese
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@88.216.60.73:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=a7c92e4b10d6f835&sni=ns-api-gw.galioncc.com&type=tcp#🇸🇪 Швеция 3 UAB Cherry Servers
+vless://2dfbcaf9-89fc-4fa2-9b41-962d8cb77aaf@136.148.215.248:443?encryption=none&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se2.h1clayd.click&type=grpc#🇸🇪 Швеция 4 Hostup AB
+vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@136.148.215.248:25191?encryption=none&fp=firefox&path=/astral-edge-h1&pbk=_Cb2FzFDVi9blwCb_5V0NZue6wt-U6GL0N_-OX8NGGA&security=reality&sid=55328e423218ee9b&sni=a8687er.se2.h1clayd.click&type=xhttp#🇸🇪 Швеция 5 Hostup AB
+vless://4e0322d8-b04f-493d-a269-ffebb4bc5dfa@95.181.212.229:8444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=j2SFqXjpRipq3yefZOm2Exw45TxuZOZ19vYzF4CitxA&security=reality&sni=sec-se.kaifarikhost.top&type=tcp#🇸🇪 Швеция 6 NODE HOST LIMITED
+vless://0809eed6-5204-49b8-8312-b82a10024022@178.18.158.17:43000?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=U_dxFnbfesmgSwL-SlpvGYFbpY5vlJ1kb52knlCXkkI&security=reality&sid=8cfe1563&sni=178.18.158.17&type=tcp#🇸🇪 Швеция 7 Tom Gewiese
