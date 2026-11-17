@@ -1,0 +1,10 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQotGD0YDRhtC40Y8=
+vless://a346c521-7a7f-452b-9356-a4893feb5982@77.83.245.79:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&sni=tr1-r.bankai.party&type=tcp#🇹🇷 Турция 1 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://a346c521-7a7f-452b-9356-a4893feb5982@77.83.245.79:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&sid=457fab2ac885dbe0&sni=tr1-r.bankai.party&type=tcp#🇹🇷 Турция 2 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@45.141.148.48:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=net-svc-mgr.galioncc.com&type=tcp#🇹🇷 Турция 3 Fiba Cloud Operation Company, LLC
+vless://f6a9376f-87de-45c1-902f-05ab773ce333@109.94.164.115:2070?encryption=none&fp=firefox&pbk=WZ0GmAztQy5OSLWgsYUW5VIZEaCiy_s-iILHB_i5gUo&security=reality&sid=bbba1d&sni=www.intel.com&type=tcp#🇹🇷 Турция 4 Netlen Internet Hizmetleri Ltd. Sti.
