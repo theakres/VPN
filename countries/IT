@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmNGC0LDQu9C40Y8=
+vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@48.103.120.21:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=net-svc-io.galioncc.com&type=tcp#🇮🇹 Италия 1 Aruba S.p.A.
+vless://a30903dc-1bf0-0002-8b1b-603a3a56211c@48.103.120.21:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=net-svc-io.galioncc.com&type=tcp#🇮🇹 Италия 2 Aruba S.p.A.
