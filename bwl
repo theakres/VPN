@@ -4,10 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQntCx0YXQvtC0INCR0KE=
-vless://8d44611d-e9ca-4939-a9a1-ff9b4b9d3f08@31.177.111.241:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=t192lvTN6ZtCch9LSAkLOKnKuyYdLLaTJx8tn3VRHz0&security=reality&sid=dfdee30a27b11f0f&sni=yfivst4pvut13bd351og.sellerape.cc&type=tcp#🇩🇪 Германия 1 Hetzner Online GmbH
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?encryption=none&fp=firefox&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&security=reality&sid=ea322b8b5b015812&sni=emberworks.cloud&type=grpc#🇩🇪 Германия 2 UAB Cherry Servers
-vless://05c5d8e4-1cf2-4352-97cb-5f1f079ab282@185.11.246.176:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=skQrUvqTYNsmUQiEFd2ySa94etOjlEQz6JbHwtgRclk&security=reality&sid=a182319d&sni=www.sravni.ru&type=tcp#🇷🇴 Румыния 1 Data Room, Inc
-vless://05c5d8e4-1cf2-0004-97cb-5f1f079ab282@185.11.246.176:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=skQrUvqTYNsmUQiEFd2ySa94etOjlEQz6JbHwtgRclk&security=reality&sid=a182319d&sni=www.sravni.ru&type=tcp#🇷🇴 Румыния 2 Data Room, Inc
-vless://05c5d8e4-1cf2-0002-97cb-5f1f079ab282@185.11.246.176:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=skQrUvqTYNsmUQiEFd2ySa94etOjlEQz6JbHwtgRclk&security=reality&sid=a182319d&sni=www.sravni.ru&type=tcp#🇳🇱 Нидерланды RoyaleHosting BV
+vless://6b62c1dc-542b-4a47-9953-ec3012a60adc@62.109.3.117:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=fast235.slopllex.app&type=tcp#🇩🇪 Германия Hetzner Online GmbH
 vless://1b7b37e0-d8bc-4feb-9e82-f81dea94cb51@185.86.147.15:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&security=reality&sid=c0d1d1776fed0f6d&sni=joinerylane.net&type=tcp#🇷🇺 Россия Start2 LLC
-vless://34d8954c-6898-46f6-8c6f-ded18c46e0e6@155.212.142.219:35384?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GnnDllUbNsUtvxHxd_C694OcL2kyGWHR99WJrp0hwmA&security=reality&sid=39&sni=cms.troppa.ru&type=tcp#🇹🇯 Таджикистан Datacamp Limited
+vless://7a8f716f-37ee-4af3-84c3-67e9a1b17d08@31.129.42.97:8443?encryption=none&fp=firefox&pbk=WV58fGQd270mAtuAYhep9LXoVKTI0kiF4rCRaXAumWc&security=reality&serviceName=grpc&sid=16ee3a5f0387c553&sni=i0.photo.2gis.com&type=grpc#🇫🇷 Франция OVH SAS

@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQktC10LvQuNC60L7QsdGA0LjRgtCw0L3QuNGP
-vless://0f2dc4af-951f-4690-922e-07c6e8bab26a@94.228.162.227:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ASVlGdmTImXr_8H1ckHdeDl39NemRM6DKnEl9sadsm4&security=reality&sid=ed79dd3a38fe3260&sni=at-11-d1ca.cdn-lab.online&type=tcp#🇬🇧 Великобритания 1 AEZA GROUP LLC
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@203.57.82.107:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=9a3f6c21d8e047b5&sni=api-io-mgr.galioncc.com&type=tcp#🇬🇧 Великобритания 2 GSL Networks Pty LTD

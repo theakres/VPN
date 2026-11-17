@@ -4,7 +4,5 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://e7cbfd86-ae39-4ecc-852d-89754c8823e9@167.233.184.255:34257?encryption=mlkem768x25519plus.native.0rtt.9ifdcMCsJ-bMvc9ealWuadeq1_iASTHy8hetUix-nTM&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=sv.clients.fimrel.ir&type=tcp#🇩🇪 Германия Hetzner Online GmbH
 vless://352a250d-080b-47b5-b7db-f9f8fa31c551@130.78.30.147:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=105ky37.virtual-network.lol&type=tcp#🇳🇱 Нидерланды ExpressHost Ltd
-vless://e7cbfd86-ae39-4ecc-852d-89754c8823e9@65.109.249.61:29086?encryption=mlkem768x25519plus.native.0rtt.9ifdcMCsJ-bMvc9ealWuadeq1_iASTHy8hetUix-nTM&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=sv.fn.clients.fimrel.ir&type=tcp#🇫🇮 Финляндия Hetzner Online GmbH
 vless://dfe50e18-28ce-459e-a6b9-0f2585bcc3b6@13.143.180.152:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=sw-part.cookie-line.cc&type=tcp#🇸🇪 Швеция SERV.HOST GROUP LTD
