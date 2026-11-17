@@ -4,21 +4,18 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://442fe579-4acf-4f3d-9771-49b2a85a2cb2@178.239.149.23:8880?encryption=mlkem768x25519plus.native.0rtt.5g6DmYKCbpLO6t9Kxtn8BZEA_uaawAK2FDSfZgjP6Tk&fp=firefox&host=arvancloud.ir&security=tls&sni=asasians.carshops4.ir&type=ws#🇩🇪 Германия 1 Hetzner Online GmbH
-vless://442fe579-4acf-4f3d-9771-49b2a85a2cb2@46.38.146.237:8880?encryption=mlkem768x25519plus.native.0rtt.5g6DmYKCbpLO6t9Kxtn8BZEA_uaawAK2FDSfZgjP6Tk&fp=firefox&host=arvancloud.ir&security=tls&sni=asasians.carshops4.ir&type=ws#🇩🇪 Германия 2 Hetzner Online GmbH
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.31:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru2.net&type=tcp#🇩🇪 Германия 3 HOSTES LTD
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru3.net&type=tcp#🇩🇪 Германия 4 HOSTES LTD
+vless://442fe579-4acf-4f3d-9771-49b2a85a2cb2@46.38.146.237:8880?encryption=mlkem768x25519plus.native.0rtt.5g6DmYKCbpLO6t9Kxtn8BZEA_uaawAK2FDSfZgjP6Tk&fp=firefox&host=arvancloud.ir&security=tls&sni=asasians.carshops4.ir&type=ws#🇩🇪 Германия 1 Hetzner Online GmbH
+vless://442fe579-4acf-4f3d-9771-49b2a85a2cb2@178.239.149.23:8880?encryption=mlkem768x25519plus.native.0rtt.5g6DmYKCbpLO6t9Kxtn8BZEA_uaawAK2FDSfZgjP6Tk&fp=firefox&host=arvancloud.ir&security=tls&sni=asasians.carshops4.ir&type=ws#🇩🇪 Германия 2 Hetzner Online GmbH
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru3.net&type=tcp#🇩🇪 Германия 3 HOSTES LTD
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.31:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru2.net&type=tcp#🇩🇪 Германия 4 HOSTES LTD
 vless://93ffca4d-8049-4829-befd-0d836b874169@92.223.84.84:443?encryption=mlkem768x25519plus.native.0rtt.QNwL_fJODss75Ex2BLrITnfQi9oI_jqIkgHziZio5nE&extra={"scMaxEachPostBytes":"100000"}&fp=firefox&host=my-site-nc7udb5t.gcorecdn.com&path=/sakeneko&security=tls&sni=gcore.com&type=xhttp#🇩🇪 Германия 5 Akamai Technologies, Inc.
-vless://442fe579-4acf-4f3d-9771-49b2a85a2cb2@178.239.157.38:2245?encryption=mlkem768x25519plus.native.0rtt.5g6DmYKCbpLO6t9Kxtn8BZEA_uaawAK2FDSfZgjP6Tk&fp=firefox&host=arvancloud.ir&security=tls&sni=asasians.carshops4.ir&type=ws#🇩🇪 Германия 6 OVH SAS
-vless://c69457f9-ff85-42fc-a0c1-05a85f78cce7@78.17.215.155:443?encryption=none&fp=firefox&path=/media/99d86182&security=tls&sni=assets.dota2top.shop&type=ws#🇩🇪 Германия 7 SOULFUL HOSTING LTD
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=firefox&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#🇸🇪 Швеция 1 Cloudflare, Inc.
-vless://dfe50e18-28ce-459e-a6b9-0f2585bcc3b6@13.143.180.152:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=sw-part.cookie-line.cc&type=tcp#🇸🇪 Швеция 2 SERV.HOST GROUP LTD
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@84.32.154.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru10.net&type=tcp#🇸🇪 Швеция 3 UAB Cherry Servers
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@179.253.101.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru17.net&type=tcp#🇵🇱 Польша 1 CLOUD SOLUTIONS GLOBAL LTD
-vless://c69457f9-ff85-42fc-a0c1-05a85f78cce7@217.60.19.238:8443?encryption=none&fp=firefox&path=/chunkycorp&security=tls&sni=pl3.superpuper.cfd&type=ws#🇵🇱 Польша 2 OC NETWORKS LIMITED
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@84.32.98.168:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru14.net&type=tcp#🇩🇪 Германия 6 UAB Cherry Servers
 vless://a5b1d16b-719b-4bd6-9d7b-fe6d84607da9@94.184.22.9:4343?encryption=none&fp=firefox&host=fortuna.masynbazar.ru&security=tls&sni=fortuna.masynbazar.ru&type=xhttp#🇺🇸 США 1 StormyCloud Inc
 vless://a5b1d16b-719b-4bd6-9d7b-fe6d84607da9@94.184.22.9:4343?encryption=none&fp=firefox&security=tls&sni=fortuna.masynbazar.ru&type=xhttp#🇺🇸 США 2 StormyCloud Inc
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=firefox&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#🇸🇪 Швеция 1 Cloudflare, Inc.
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@84.32.154.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru10.net&type=tcp#🇸🇪 Швеция 2 UAB Cherry Servers
 vless://47de2ceb-3a86-4ded-b9fb-2941fc80d570@45.9.156.64:443?encryption=none&fp=firefox&security=tls&serviceName=mobile.api.Event&sni=bg4.mediacorp.fyi&type=grpc#🇧🇬 Болгария MAXKO d.o.o.
 vless://aca41663-6378-47af-950b-6b57017c4e60@209.33.161.60:36408?encryption=none&fp=firefox&security=tls&sni=hongkong.astrocloud.online&type=tcp#🇭🇰 Гонконг BAGE CLOUD LLC
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.201:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru1.com&type=tcp#🇮🇩 Индонезия HOSTES LTD
 vless://442fe579-4acf-4f3d-9771-49b2a85a2cb2@178.239.149.12:8880?encryption=mlkem768x25519plus.native.0rtt.5g6DmYKCbpLO6t9Kxtn8BZEA_uaawAK2FDSfZgjP6Tk&fp=firefox&host=arvancloud.ir&security=tls&sni=asasians.carshops4.ir&type=ws#🇳🇱 Нидерланды Kamatera Inc
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@179.253.101.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru17.net&type=tcp#🇵🇱 Польша CLOUD SOLUTIONS GLOBAL LTD
