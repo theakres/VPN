@@ -1,0 +1,10 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmNGB0L/QsNC90LjRjw==
+vless://d3863595-3afe-4a74-8305-612ab69cd21c@196.196.148.89:443?encryption=none&fp=firefox&path=/213e9a1b05ae&pbk=9sWOE2VbSpvzojv2XPNUqb3sj8nY07jHvnQhGEiDaGo&security=reality&sid=032aaa29e6579343&sni=cb8b18x.es7.h1clayd.click&type=xhttp#🇪🇸 Испания 1 Orion Network Limited
+vless://d3863595-3afe-4a74-8305-612ab69cd21c@196.196.148.89:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cqzzb4oRMuWNC5Ahjq4dEEZt3MKA5EQ7No6SSNoVtiQ&security=reality&sid=5a750bb3e3806a20&sni=a013fct.es7.h1clayd.click&type=tcp#🇪🇸 Испания 2 Orion Network Limited
+vless://d3863595-3afe-4a74-8305-612ab69cd21c@196.196.148.89:443?encryption=none&fp=firefox&host=cb8b18x.es7.h1clayd.click&path=/213e9a1b05ae&pbk=9sWOE2VbSpvzojv2XPNUqb3sj8nY07jHvnQhGEiDaGo&security=reality&sid=032aaa29e6579343&sni=cb8b18x.es7.h1clayd.click&type=xhttp#🇪🇸 Испания 3 Orion Network Limited
+vless://483c6187-3c8d-436b-8413-536c2c87b70c@77.90.47.14:2087?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=VZDaJcWqU7og6erDHuB3TPrcN1KuTz1qQDfdbWwTWGk&security=reality&sid=c216cfede5b662ae&sni=edge6f54.cdn.tv-av.fun&type=tcp#🇪🇸 Испания 4 HOSTKEY B.V.
