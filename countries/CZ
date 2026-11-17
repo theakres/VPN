@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQp9C10YXQuNGP
+vless://981ab9b4-2b26-4bda-9bd9-ce3f360e552b@13.143.183.171:443?encryption=none&extra={"noGRPCHeader":false,"noSSEHeader":false,"scMaxBufferedPosts":30,"scStreamUpServerSecs":"20-80","xPaddingBytes":"100-1000","xmux":{"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConnections":1}}&fp=firefox&path=/conv4/stream/d34366ecdd31367d0fc76955c6b8d77c&security=tls&sni=cda2b733.rasterparcel.tech&type=xhttp#🇨🇿 Чехия SERV.HOST GROUP LTD

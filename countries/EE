@@ -4,6 +4,5 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
-vless://5f1c2e83-d4aa-a028-81e9-e0ccc018974c@48.102.216.240:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2yqGYYn0FG7dy5vtEkeyouBuIsMQFbpFHnx-yCCPABM&security=reality&sid=8d760489b7a2b8ac&sni=lkm8.artemida.digital&type=tcp#🇪🇪 Эстония 1 ETERNITY NETWORKS LLC
-vless://dfe50e18-28ce-459e-a6b9-0f2585bcc3b6@48.102.209.126:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ee.point.cookie-line.cc&type=tcp#🇪🇪 Эстония 2 SERV.HOST GROUP LTD
-vless://240af353-dccb-4cf6-a2d5-01457bb6fbb7@5.1.40.71:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=onecloudstream.com&type=ws#🇪🇪 Эстония 3 UXHOST LTD
+vless://dfe50e18-28ce-459e-a6b9-0f2585bcc3b6@48.102.209.126:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ee.point.cookie-line.cc&type=tcp#🇪🇪 Эстония 1 SERV.HOST GROUP LTD
+vless://240af353-dccb-4cf6-a2d5-01457bb6fbb7@5.1.40.71:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=onecloudstream.com&type=ws#🇪🇪 Эстония 2 UXHOST LTD
