@@ -5,8 +5,7 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
 vless://474c5a2e-96eb-fa3f-6639-cbd2129c8027@84.17.38.250:443?encryption=none&fp=firefox&host=free-config-bot-development-33s35.lucity.app&path=/ws/474c5a2e-96eb-fa3f-6639-cbd2129c8027&security=tls&sni=free-config-bot-development-33s35.lucity.app&type=ws#🇩🇪 Германия 1 Hetzner Online GmbH
-vless://474c5a2e-96eb-fa3f-6639-cbd2129c8027@156.146.56.170:443?encryption=none&fp=firefox&host=free-config-bot-development-33s35.lucity.app&path=/ws/474c5a2e-96eb-fa3f-6639-cbd2129c8027&security=tls&sni=free-config-bot-development-33s35.lucity.app&type=ws#🇩🇪 Германия 2 Hetzner Online GmbH
-vless://474c5a2e-96eb-fa3f-6639-cbd2129c8027@84.17.38.250:443?encryption=none&fp=firefox&path=/ws/474c5a2e-96eb-fa3f-6639-cbd2129c8027&security=tls&sni=free-config-bot-development-33s35.lucity.app&type=ws#🇩🇪 Германия 3 Hetzner Online GmbH
+vless://474c5a2e-96eb-fa3f-6639-cbd2129c8027@84.17.38.250:443?encryption=none&fp=firefox&path=/ws/474c5a2e-96eb-fa3f-6639-cbd2129c8027&security=tls&sni=free-config-bot-development-33s35.lucity.app&type=ws#🇩🇪 Германия 2 Hetzner Online GmbH
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@88.216.70.125:443?encryption=none&fp=firefox&host=o685y.save-node.com&path=/api/se1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&sni=o685y.save-node.com&type=ws#🇩🇪 Германия 3 UAB Cherry Servers
 vless://88e79aa6-f431-4453-8dcc-652a0c747198@88.216.70.125:443?encryption=none&fp=firefox&path=/api/se1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&sni=o685y.save-node.com&type=ws#🇩🇪 Германия 4 UAB Cherry Servers
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@88.216.70.125:443?encryption=none&fp=firefox&host=o685y.save-node.com&path=/api/se1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&sni=o685y.save-node.com&type=ws#🇩🇪 Германия 5 UAB Cherry Servers
 vless://c1208c5a-2350-4506-affd-fc41b4319286@138.124.63.65:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=freshoutlet.cleanfoodshop.org&type=ws#🇱🇻 Латвия GLOBAL CONNECTIVITY SOLUTIONS LLP
