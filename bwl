@@ -4,6 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQntCx0YXQvtC0INCR0KE=
-vless://6b62c1dc-542b-4a47-9953-ec3012a60adc@62.109.3.117:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=fast235.slopllex.app&type=tcp#🇩🇪 Германия Hetzner Online GmbH
-vless://1b7b37e0-d8bc-4feb-9e82-f81dea94cb51@185.86.147.15:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&security=reality&sid=c0d1d1776fed0f6d&sni=joinerylane.net&type=tcp#🇷🇺 Россия Start2 LLC
-vless://7a8f716f-37ee-4af3-84c3-67e9a1b17d08@31.129.42.97:8443?encryption=none&fp=firefox&pbk=WV58fGQd270mAtuAYhep9LXoVKTI0kiF4rCRaXAumWc&security=reality&serviceName=grpc&sid=16ee3a5f0387c553&sni=i0.photo.2gis.com&type=grpc#🇫🇷 Франция OVH SAS
+vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@104.171.139.81:443?encryption=none&fp=firefox&security=tls&serviceName=glush.de2.v1&sni=windlass.gerqix.online&type=grpc#🇩🇪 Германия 1 Tabunscic Anatoli
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?encryption=none&fp=firefox&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&security=reality&sid=ea322b8b5b015812&sni=emberworks.cloud&type=grpc#🇩🇪 Германия 2 UAB Cherry Servers
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@129.101.98.60:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lews1n_fypGexd_dMofEO4Vy1ULsFeVIFa90MMY3pm4&security=reality&sid=3992cc7fb9fcbe58&sni=ru7e2bab87cc39.eu-cdn539.com&type=tcp#🇷🇺 Россия JSC TIMEWEB
+vless://34d8954c-6898-46f6-8c6f-ded18c46e0e6@155.212.142.219:35384?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GnnDllUbNsUtvxHxd_C694OcL2kyGWHR99WJrp0hwmA&security=reality&sid=39&sni=cms.troppa.ru&type=tcp#🇹🇯 Таджикистан Datacamp Limited
