@@ -4,6 +4,10 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=firefox&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#🇸🇪 Швеция 1 Cloudflare, Inc.
-vless://3ede439b-410f-4eae-b449-4e15064c0706@195.206.235.122:443?encryption=none&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc#🇸🇪 Швеция 2 Hostup AB
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@84.32.154.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru10.net&type=tcp#🇸🇪 Швеция 3 UAB Cherry Servers
+vless://67e68fc6-2514-4d4e-82f7-e2b140741ae8@16.192.175.172:2053?encryption=none&fp=firefox&pbk=sqrqI269Pmudhsk6-h4l7OSgfd0nUm2TnjzE5lRVHFk&security=reality&sid=80f31961e94d32ea&sni=dl.google.com&type=tcp#🇸🇪 Швеция 1 Amazon.com, Inc.
+vless://67e68fc6-2514-4d4e-82f7-e2b140741ae8@16.192.175.172:8449?encryption=none&fp=firefox&pbk=sqrqI269Pmudhsk6-h4l7OSgfd0nUm2TnjzE5lRVHFk&security=reality&sni=dl.google.com&type=tcp#🇸🇪 Швеция 2 Amazon.com, Inc.
+vless://d3863595-3afe-4a74-8305-612ab69cd21c@136.148.213.129:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&security=reality&sid=1cc8aab4a9fa9280&sni=9ed8a8t.se4.h1clayd.click&type=tcp#🇸🇪 Швеция 3 Hostup AB
+vless://d3863595-3afe-4a74-8305-612ab69cd21c@136.148.213.129:443?encryption=none&fp=firefox&path=/444de120fb2d&pbk=LZhuBYUqlo8epvzFF3tOPMZ_vjZPN1sraOYy2CKtcz4&security=reality&sid=356cc54d885a4036&sni=0ef47cx.se4.h1clayd.click&type=xhttp#🇸🇪 Швеция 4 Hostup AB
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=firefox&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#🇸🇪 Швеция 5 Cloudflare, Inc.
+vless://df97ce68-477f-4484-94c7-79eccab7319d@2.26.101.102:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NDaFo-4WjwhCA2OJKiLhvek2U2D7F-lqJi0-SUfFTEk&security=reality&sni=swd2.angelsleep9.com&type=tcp#🇸🇪 Швеция 6 PLAY2GO INTERNATIONAL LIMITED
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@84.32.154.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru10.net&type=tcp#🇸🇪 Швеция 7 UAB Cherry Servers

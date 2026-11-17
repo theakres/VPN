@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQodC40L3Qs9Cw0L/Rg9GA
+vless://df97ce68-477f-4484-94c7-79eccab7319d@69.48.229.52:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kRzgZOHaTRul4ozS_tQaxCVxWuxNpdgTbaCL8S_IwQU&security=reality&sni=sig1.angelsleep9.com&type=tcp#🇸🇬 Сингапур 1 BL Networks
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@1.160.15.119:51283?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇸🇬 Сингапур 2 Datacamp Limited
