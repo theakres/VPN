@@ -4,22 +4,24 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@146.19.254.171:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=146.19.254.171&type=tcp#🇳🇱 Нидерланды 1 BlueVPS OU
-vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@171.22.183.159:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=171.22.183.159&type=tcp#🇳🇱 Нидерланды 2 BlueVPS OU
+vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@171.22.183.159:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=171.22.183.159&type=tcp#🇳🇱 Нидерланды 1 BlueVPS OU
+vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@146.19.254.171:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=146.19.254.171&type=tcp#🇳🇱 Нидерланды 2 BlueVPS OU
 vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@171.22.183.159:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&type=tcp#🇳🇱 Нидерланды 3 BlueVPS OU
 vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@146.19.254.171:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&type=tcp#🇳🇱 Нидерланды 4 BlueVPS OU
 vless://dfe50e18-28ce-459e-a6b9-0f2585bcc3b6@87.58.201.5:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=nl.point.cookie-line.cc&type=tcp#🇳🇱 Нидерланды 5 Andris Jakovlevs
 vless://352a250d-080b-47b5-b7db-f9f8fa31c551@130.78.30.147:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=105ky37.virtual-network.lol&type=tcp#🇳🇱 Нидерланды 6 ExpressHost Ltd
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@50.7.169.244:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru9.net&type=tcp#🇳🇱 Нидерланды 7 FDCservers.net
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.96.120:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru8.net&type=tcp#🇳🇱 Нидерланды 8 UAB Cherry Servers
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@88.216.70.125:443?encryption=none&fp=firefox&host=o685y.save-node.com&path=/api/se1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&sni=o685y.save-node.com&type=ws#🇩🇪 Германия 1 UAB Cherry Servers
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@88.216.70.125:443?encryption=none&fp=firefox&path=/api/se1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&sni=o685y.save-node.com&type=ws#🇩🇪 Германия 2 UAB Cherry Servers
-vless://474c5a2e-96eb-fa3f-6639-cbd2129c8027@84.17.38.250:443?encryption=none&fp=firefox&host=free-config-bot-development-33s35.lucity.app&path=/ws/474c5a2e-96eb-fa3f-6639-cbd2129c8027&security=tls&sni=free-config-bot-development-33s35.lucity.app&type=ws#🇩🇪 Германия 3 Hetzner Online GmbH
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@31.58.213.31:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru2.net&type=tcp#🇩🇪 Германия 4 HOSTES LTD
+vless://474c5a2e-96eb-fa3f-6639-cbd2129c8027@84.17.38.250:443?encryption=none&fp=firefox&host=free-config-bot-development-33s35.lucity.app&path=/ws/474c5a2e-96eb-fa3f-6639-cbd2129c8027&security=tls&sni=free-config-bot-development-33s35.lucity.app&type=ws#🇩🇪 Германия 1 Hetzner Online GmbH
+vless://e7cbfd86-ae39-4ecc-852d-89754c8823e9@167.233.184.255:34257?encryption=mlkem768x25519plus.native.0rtt.9ifdcMCsJ-bMvc9ealWuadeq1_iASTHy8hetUix-nTM&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=sv.clients.fimrel.ir&type=tcp#🇩🇪 Германия 2 Hetzner Online GmbH
+vless://474c5a2e-96eb-fa3f-6639-cbd2129c8027@156.146.56.170:443?encryption=none&fp=firefox&host=free-config-bot-development-33s35.lucity.app&path=/ws/474c5a2e-96eb-fa3f-6639-cbd2129c8027&security=tls&sni=free-config-bot-development-33s35.lucity.app&type=ws#🇩🇪 Германия 3 Hetzner Online GmbH
+vless://474c5a2e-96eb-fa3f-6639-cbd2129c8027@84.17.38.250:443?encryption=none&fp=firefox&path=/ws/474c5a2e-96eb-fa3f-6639-cbd2129c8027&security=tls&sni=free-config-bot-development-33s35.lucity.app&type=ws#🇩🇪 Германия 4 Hetzner Online GmbH
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@88.216.70.125:443?encryption=none&fp=firefox&path=/api/se1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&sni=o685y.save-node.com&type=ws#🇩🇪 Германия 5 UAB Cherry Servers
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@88.216.70.125:443?encryption=none&fp=firefox&host=o685y.save-node.com&path=/api/se1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&sni=o685y.save-node.com&type=ws#🇩🇪 Германия 6 UAB Cherry Servers
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@31.58.213.31:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru2.net&type=tcp#🇩🇪 Германия 7 HOSTES LTD
 vless://7592ca5c-b352-4562-8856-a9c936a3331b@200.102.179.69:443?encryption=none&fp=firefox&host=dmbdnpctq8hjxx.hat.onl&path=/hls/014373eq/seg&security=tls&sni=dmbdnpctq8hjxx.hat.onl&type=xhttp#🇺🇸 США 1 WEDEPLOY SAS
 vless://7592ca5c-b352-4562-8856-a9c936a3331b@200.102.179.69:443?encryption=none&fp=firefox&path=/hls/014373eq/seg&security=tls&sni=dmbdnpctq8hjxx.hat.onl&type=xhttp#🇺🇸 США 2 WEDEPLOY SAS
-vless://88d18cf3-ac0e-46ef-b073-47bd07145983@46.224.158.20:8443?encryption=none&fp=firefox&host=apex-2jj.pages.dev&path=/rp/DE&security=tls&sni=apex-2jj.pages.dev&type=ws#🇺🇸 США 3 FDCservers.net
-vless://88d18cf3-ac0e-46ef-b073-47bd07145983@46.224.158.20:8443?encryption=none&fp=firefox&host=apex-2jj.pages.dev&path=/rp/DE?ed=2048&security=tls&sni=apex-2jj.pages.dev&type=ws#🇺🇸 США 4 Ilia Baikov
 vless://c1208c5a-2350-4506-affd-fc41b4319286@138.124.63.65:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=freshoutlet.cleanfoodshop.org&type=ws#🇱🇻 Латвия GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://e7cbfd86-ae39-4ecc-852d-89754c8823e9@65.109.249.61:29086?encryption=mlkem768x25519plus.native.0rtt.9ifdcMCsJ-bMvc9ealWuadeq1_iASTHy8hetUix-nTM&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=sv.fn.clients.fimrel.ir&type=tcp#🇫🇮 Финляндия Hetzner Online GmbH
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.154.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru10.net&type=tcp#🇸🇪 Швеция UAB Cherry Servers
 vless://dfe50e18-28ce-459e-a6b9-0f2585bcc3b6@48.102.209.71:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ee.point.cookie-line.cc&type=tcp#🇪🇪 Эстония SERV.HOST GROUP LTD

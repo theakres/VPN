@@ -5,5 +5,4 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
 vless://f3a227cb-8a8b-4ccb-b613-9143c4a1346c@13.143.239.249:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2XeZjDQGJSF9FWs1uAD1zkP_6jwLT3N1T107fRz3bzs&security=reality&sid=b176736ddbda2105&sni=ee1.benzinvpn.com&type=tcp#🇪🇪 Эстония 1 Paul Sagov
-vless://5c09e56b-f97f-4360-8f01-eb4d39202095@185.155.55.12:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&security=reality&sid=661766b2bcef440a&sni=ee-nf.reddotcorp.org&type=tcp#🇪🇪 Эстония 2 RJ Network OU
-vless://dfe50e18-28ce-459e-a6b9-0f2585bcc3b6@48.102.209.71:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ee.point.cookie-line.cc&type=tcp#🇪🇪 Эстония 3 SERV.HOST GROUP LTD
+vless://dfe50e18-28ce-459e-a6b9-0f2585bcc3b6@48.102.209.71:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ee.point.cookie-line.cc&type=tcp#🇪🇪 Эстония 2 SERV.HOST GROUP LTD
