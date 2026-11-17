@@ -6,3 +6,4 @@
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
 vless://df97ce68-477f-4484-94c7-79eccab7319d@45.39.255.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KvhOBGV_aFOuJg1_QMre2uewPCjyZlazQIuRa3rhNT8&security=reality&sni=fir1.angelsleep9.com&type=tcp#🇫🇷 Франция 1 Cloud Software - FZCO
 vless://df97ce68-477f-4484-94c7-79eccab7319d@45.39.255.25:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vIho2vPJud-TmvPPTPrLheREXrXkqRFO4gB4rs4T6h0&security=reality&sni=fir2.angelsleep9.com&type=tcp#🇫🇷 Франция 2 Cloud Software - FZCO
+vless://14b49dbd-e6a8-442c-9d64-a28682b87c53@213.176.73.245:2096?encryption=none&fp=firefox&security=tls&serviceName=edge8&sni=edge8.volkswagenman.ru&type=grpc#🇫🇷 Франция 3 SERV.HOST GROUP LTD
