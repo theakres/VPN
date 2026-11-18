@@ -4,7 +4,4 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQodC40L3Qs9Cw0L/Rg9GA
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:9444?sni=cloudehouse24.ru#🇸🇬 Сингапур 1 netcup GmbH
-vless://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:443?encryption=none&extra={"scMaxEachPostBytes":"500000-1000000","scMinPostsIntervalMs":"10-30","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"8-16"}}&fp=firefox&host=cloudehouse24.ru&path=/v1/assets/7c3f9a2e6b4d8f10/sg-xhttp2.js&security=tls&sni=cloudehouse24.ru&type=xhttp#🇸🇬 Сингапур 2 netcup GmbH
-vless://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:443?encryption=none&extra={"xmux":{"cMaxReuseTimes":0,"maxConcurrency":"8-16","hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"},"xPaddingBytes":"100-1000","scMaxEachPostBytes":"500000-1000000","scMinPostsIntervalMs":"10-30"}&fp=firefox&host=cloudehouse24.ru&path=/v1/assets/7c3f9a2e6b4d8f10/sg-xhttp2.js&security=tls&sni=cloudehouse24.ru&type=xhttp#🇸🇬 Сингапур 3 netcup GmbH
-vless://df97ce68-477f-4484-94c7-79eccab7319d@69.48.229.52:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kRzgZOHaTRul4ozS_tQaxCVxWuxNpdgTbaCL8S_IwQU&security=reality&sni=sig1.angelsleep9.com&type=tcp#🇸🇬 Сингапур 4 BL Networks
+vless://df97ce68-477f-4484-94c7-79eccab7319d@69.48.229.52:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kRzgZOHaTRul4ozS_tQaxCVxWuxNpdgTbaCL8S_IwQU&security=reality&sni=sig1.angelsleep9.com&type=tcp#🇸🇬 Сингапур BL Networks
