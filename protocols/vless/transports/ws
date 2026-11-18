@@ -5,17 +5,6 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
 vless://0c492b73-98de-4ad2-bbe9-eb25661d17ac@194.87.85.5:8443?encryption=none&fp=firefox&host=byyzz.pages.dev&path=/?proxyip=proxyip.oracle.cmliussss.net&security=tls&sni=byyzz.pages.dev&type=ws#🇺🇸 США 1 Oracle Corporation
-vless://0bb8b560-b056-4245-8b9d-231a0a78c54b@64.83.33.34:443?encryption=none&fp=firefox&host=vip.freevpn.cloudns.biz&path=/0bb8b560-b056-4245-8b9d-231a0a78c54b&security=tls&sni=vip.freevpn.cloudns.biz&type=ws#🇺🇸 США 2 Oracle Corporation
-vless://0c492b73-98de-4ad2-bbe9-eb25661d17ac@80.227.252.11:8443?encryption=none&fp=firefox&host=byyzz.pages.dev&path=/?proxyip=proxyip.oracle.cmliussss.net&security=tls&sni=byyzz.pages.dev&type=ws#🇺🇸 США 3 Oracle Corporation
-vless://0bb8b560-b056-4245-8b9d-231a0a78c54b@38.175.200.121:443?encryption=none&fp=firefox&host=vip.freevpn.cloudns.biz&path=/0bb8b560-b056-4245-8b9d-231a0a78c54b&security=tls&sni=vip.freevpn.cloudns.biz&type=ws#🇺🇸 США 4 DigitalOcean, LLC
-vless://bf14dc50-e9f2-49fd-8642-620446edeafb@83.147.14.62:8443?encryption=none&fp=firefox&host=v3-duz.pages.dev&path=/video/GURFTRQGFwoPDU0SQl4WFUQMQktCWlNAUxAKFgUPXUpRVUhRVEgADEZPF0BCF01ECBkAChs=&security=tls&sni=v3-duz.pages.dev&type=ws#🇺🇸 США 5 HostPapa
-vless://0bb8b560-b056-4245-8b9d-231a0a78c54b@38.175.200.61:443?encryption=none&fp=firefox&host=vip.freevpn.cloudns.biz&path=/0bb8b560-b056-4245-8b9d-231a0a78c54b&security=tls&sni=vip.freevpn.cloudns.biz&type=ws#🇺🇸 США 6 Microsoft Corporation
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@206.189.61.33:2087?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇩🇪 Германия 1 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@139.59.151.190:2096?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇩🇪 Германия 2 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@144.31.224.58:8443?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇳🇱 Нидерланды 1 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@72.56.29.2:8443?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇳🇱 Нидерланды 2 Cloudflare, Inc.
-vless://61e7a9b7-fbf4-4672-8c8b-c669109fb72a@169.58.215.154:8443?encryption=none&fp=firefox&host=lenoxtunnel.pages.dev&security=tls&sni=lenoxtunnel.pages.dev&type=ws#🇫🇷 Франция 1 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@167.233.249.190:8443?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇫🇷 Франция 2 Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@144.126.226.76:2087?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇬🇧 Великобритания Cloudflare, Inc.
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@185.47.131.138:8443?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇪🇸 Испания Cloudflare, Inc.
+vless://0c492b73-98de-4ad2-bbe9-eb25661d17ac@173.242.63.235:8443?encryption=none&fp=firefox&host=byyzz.pages.dev&path=/?proxyip=proxyip.oracle.cmliussss.net&security=tls&sni=byyzz.pages.dev&type=ws#🇺🇸 США 2 Oracle Corporation
+vless://61e7a9b7-fbf4-4672-8c8b-c669109fb72a@169.58.215.154:8443?encryption=none&fp=firefox&host=lenoxtunnel.pages.dev&security=tls&sni=lenoxtunnel.pages.dev&type=ws#🇩🇪 Германия Cloudflare, Inc.
 vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=firefox&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#🇸🇪 Швеция Cloudflare, Inc.
