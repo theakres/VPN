@@ -7,4 +7,5 @@
 vless://003ec416-45f0-462a-8030-016fe0a71703@160.123.255.172:443?encryption=none&fp=firefox&security=tls&sni=mama147.baklajann.ru&type=xhttp#🇫🇷 Франция 1 OVH SAS
 vless://a13f3a29-56fd-4540-b7f4-848861f63ed0@160.123.255.172:443?encryption=none&fp=firefox&security=tls&sni=mama147.baklajann.ru&type=xhttp#🇫🇷 Франция 2 OVH SAS
 vless://df97ce68-477f-4484-94c7-79eccab7319d@45.39.255.25:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vIho2vPJud-TmvPPTPrLheREXrXkqRFO4gB4rs4T6h0&security=reality&sni=fir2.angelsleep9.com&type=tcp#🇫🇷 Франция 3 Cloud Software - FZCO
-vless://14b49dbd-e6a8-442c-9d64-a28682b87c53@213.176.73.245:2096?encryption=none&fp=firefox&security=tls&serviceName=edge8&sni=edge8.volkswagenman.ru&type=grpc#🇫🇷 Франция 4 SERV.HOST GROUP LTD
+vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@167.233.249.190:8443?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇫🇷 Франция 4 Cloudflare, Inc.
+vless://14b49dbd-e6a8-442c-9d64-a28682b87c53@213.176.73.245:2096?encryption=none&fp=firefox&security=tls&serviceName=edge8&sni=edge8.volkswagenman.ru&type=grpc#🇫🇷 Франция 5 SERV.HOST GROUP LTD

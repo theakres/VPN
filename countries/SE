@@ -5,5 +5,6 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
 vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=firefox&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#🇸🇪 Швеция 1 Cloudflare, Inc.
-vless://df97ce68-477f-4484-94c7-79eccab7319d@2.26.101.102:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NDaFo-4WjwhCA2OJKiLhvek2U2D7F-lqJi0-SUfFTEk&security=reality&sni=swd2.angelsleep9.com&type=tcp#🇸🇪 Швеция 2 PLAY2GO INTERNATIONAL LIMITED
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@84.32.154.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru10.net&type=tcp#🇸🇪 Швеция 3 UAB Cherry Servers
+vless://076b9961-51c7-407f-92b8-a8f2c6d42a7f@48.102.172.128:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CnC08-EGzr6smaBZbQXW7y2mjH4uHcJly0ROcqtv0Gk&security=reality&sid=09e501600e39ed57&sni=se-1.vpezid.net&type=tcp#🇸🇪 Швеция 2 PLAY2GO - FZCO
+vless://df97ce68-477f-4484-94c7-79eccab7319d@2.26.101.102:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NDaFo-4WjwhCA2OJKiLhvek2U2D7F-lqJi0-SUfFTEk&security=reality&sni=swd2.angelsleep9.com&type=tcp#🇸🇪 Швеция 3 PLAY2GO INTERNATIONAL LIMITED
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@84.32.154.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru10.net&type=tcp#🇸🇪 Швеция 4 UAB Cherry Servers
