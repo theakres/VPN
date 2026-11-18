@@ -4,4 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
-vless://f18c5f6d-2bac-4a99-8c92-a6e6e7aea9b4@185.155.55.12:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&security=reality&sid=661766b2bcef440a&sni=ee-nf.reddotcorp.org&type=tcp#🇪🇪 Эстония RJ Network OU
+vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@45.83.180.123:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=orbitwallet.yournextidea.digital&type=ws#🇪🇪 Эстония 1 BlueVPS OU
+vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@45.83.181.245:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=auditrapid.yournextidea.digital&type=ws#🇪🇪 Эстония 2 BlueVPS OU
+vless://c6be9785-4c8d-4e68-897e-e21231091a95@31.77.236.140:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2OOxYhr6H7pyL06p4kD8glO1tjOO2J5l8Ym217tDIX8&security=reality&sid=b3d015d22d9d5575&sni=lv1tk.foxxxylife.world&type=tcp#🇪🇪 Эстония 3 PUSHPKT OU

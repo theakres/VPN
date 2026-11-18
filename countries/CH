@@ -1,0 +1,10 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXQudGG0LDRgNC40Y8=
+vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@131.123.34.134:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=trackwaybill.yournextidea.digital&type=ws#🇨🇭 Швейцария 1 ALEXHOST S.R.L.
+vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@143.246.202.100:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=bronzemaroon.yournextidea.digital&type=ws#🇨🇭 Швейцария 2 ALEXHOST S.R.L.
+vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@132.243.162.248:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=segmentdigest.yournextidea.digital&type=ws#🇨🇭 Швейцария 3 ALEXHOST S.R.L.
+vless://00f1d8d5-9c90-45f2-98d8-cbd7a536a92e@132.243.167.145:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=version-0t.sosnas.site&type=tcp#🇨🇭 Швейцария 4 GLOBAL CONNECTIVITY SOLUTIONS LLP
