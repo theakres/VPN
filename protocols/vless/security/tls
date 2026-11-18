@@ -4,22 +4,12 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@150.241.92.16:2096?encryption=none&fp=firefox&host=stacc3b.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stacc3b.rumedia-cdn.com&type=ws#🇳🇱 Нидерланды 1 NODE HOST LIMITED
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@150.241.92.23:2096?encryption=none&fp=firefox&host=stbf331.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stbf331.rumedia-cdn.com&type=ws#🇳🇱 Нидерланды 2 NODE HOST LIMITED
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@150.241.92.15:2096?encryption=none&fp=firefox&host=st73a59.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st73a59.rumedia-cdn.com&type=ws#🇳🇱 Нидерланды 3 NODE HOST LIMITED
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@150.241.92.9:2096?encryption=none&fp=firefox&host=st771fb.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st771fb.rumedia-cdn.com&type=ws#🇳🇱 Нидерланды 4 NODE HOST LIMITED
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@150.241.92.19:2096?encryption=none&fp=firefox&host=ste9036.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=ste9036.rumedia-cdn.com&type=ws#🇳🇱 Нидерланды 5 NODE HOST LIMITED
-vless://a9a6a972-6394-4e4b-9d84-b0abe68a1ef5@194.135.22.186:443?encryption=none&fp=firefox&security=tls&serviceName=videohosting.Stream&sni=videohosting.cliphub.forum&type=grpc#🇳🇱 Нидерланды 6 RoyaleHosting BV
-vless://a9a6a972-6394-4e4b-9d84-b0abe68a1ef5@194.59.40.85:443?encryption=none&fp=firefox&security=tls&serviceName=videohosting.Stream&sni=videohosting.cliphub.forum&type=grpc#🇳🇱 Нидерланды 7 RoyaleHosting BV
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.201:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru1.com&type=tcp#🇩🇪 Германия 1 HOSTES LTD
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru3.net&type=tcp#🇩🇪 Германия 2 HOSTES LTD
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.31:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru2.net&type=tcp#🇩🇪 Германия 3 HOSTES LTD
 vless://f18c5f6d-2bac-4a99-8c92-a6e6e7aea9b4@50.7.87.123:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-v2.atlanta-games.com&type=tcp#🇩🇪 Германия 4 FDCservers.net
-vless://08fc6597-23e9-4f29-bce2-b3bbc04e8c91@91.107.177.172:443?encryption=none&fp=firefox&security=tls&sni=mergo.vpn.iiproxy.com&type=tcp#🇩🇪 Германия 5 Hetzner Online GmbH
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=firefox&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#🇸🇪 Швеция 1 Cloudflare, Inc.
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=firefox&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#🇸🇪 Швеция 2 Cloudflare, Inc.
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@84.32.154.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru10.net&type=tcp#🇸🇪 Швеция 3 UAB Cherry Servers
-vless://50414e45-4c5f-5a45-5553-e56923ade28f@185.207.198.151:443?encryption=none&fp=firefox&host=6izgogewuq8s.5czjqeeeua8s.workers.dev&path=/stream/PANEL_ZEUS/e56923ade28f/loc-1&security=tls&sni=6izgogewuq8s.5czjqeeeua8s.workers.dev&type=ws#🇲🇽 Мексика Datacamp Limited
-vless://003ec416-45f0-462a-8030-016fe0a71703@185.133.35.86:443?encryption=none&fp=firefox&security=tls&sni=mama511.baklajann.ru&type=xhttp#🇵🇱 Польша OVH SAS
-vless://44ddb84a-f152-47ef-a970-fd63f2df9b30@93.88.206.70:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pulse.sevka.xyz&type=tcp#🇷🇺 Россия Packet Loss LTD
-vless://313b84fa-b922-500f-9b65-acb67c040cc0@185.197.193.137:443?encryption=none&fp=firefox&host=us2.v2less.site&path=/vless&security=tls&sni=us2.v2less.site&type=ws#🇺🇸 США Ilia Baikov
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@150.241.92.15:2096?encryption=none&fp=firefox&host=st73a59.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st73a59.rumedia-cdn.com&type=ws#🇳🇱 Нидерланды 1 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@150.241.92.23:2096?encryption=none&fp=firefox&host=stbf331.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stbf331.rumedia-cdn.com&type=ws#🇳🇱 Нидерланды 2 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@150.241.92.16:2096?encryption=none&fp=firefox&host=stacc3b.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stacc3b.rumedia-cdn.com&type=ws#🇳🇱 Нидерланды 3 NODE HOST LIMITED
+vless://44ddb84a-f152-47ef-a970-fd63f2df9b30@93.88.206.70:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pulse.sevka.xyz&type=tcp#🇷🇺 Россия 1 Packet Loss LTD
+vless://44ddb84a-f152-47ef-a970-fd63f2df9b30@93.88.206.70:443?encryption=none&fp=firefox&path=/350a12c4b006&security=tls&sni=edge.sevka.xyz&type=xhttp#🇷🇺 Россия 2 Packet Loss LTD

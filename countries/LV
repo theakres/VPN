@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQm9Cw0YLQstC40Y8=
-vless://2bba3b63-eb4c-470b-aa58-ae9d4a1430c8@13.143.138.85:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m6US_Wo7oYwRvmXWu2_bMRST1FB_rVcPpW3TqZX5_xY&security=reality&sni=13.143.138.85&type=tcp#🇱🇻 Латвия 1 Akenai Products LTD
-vless://df97ce68-477f-4484-94c7-79eccab7319d@46.183.219.239:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TRhWL_Q_urd77W0ErV_XcbE8AUrSCyumYIBC0JRor2c&security=reality&sni=liv5.angelsleep9.com&type=tcp#🇱🇻 Латвия 2 SIA RixHost
