@@ -4,31 +4,15 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.201:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru1.com&type=tcp#🇩🇪 Германия 1 HOSTES LTD
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru3.net&type=tcp#🇩🇪 Германия 2 HOSTES LTD
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru3.net&type=tcp#🇩🇪 Германия 1 HOSTES LTD
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.201:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru1.com&type=tcp#🇩🇪 Германия 2 HOSTES LTD
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.31:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru2.net&type=tcp#🇩🇪 Германия 3 HOSTES LTD
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@78.17.215.148:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=depotkestrel.yournextidea.digital&type=ws#🇩🇪 Германия 4 SOULFUL HOSTING LTD
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@78.17.215.134:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=foldertransit.yournextidea.digital&type=ws#🇩🇪 Германия 5 SOULFUL HOSTING LTD
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@93.123.101.252:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=menumemo.yournextidea.digital&type=ws#🇩🇪 Германия 6 SOULFUL HOSTING LTD
-vless://d1bd7647-6faf-4911-bfc6-451cd219e640@178.17.58.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=cdn-79.mvpm.site&type=tcp#🇩🇪 Германия 7 GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@144.31.144.111:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=consoleglobal.yournextidea.digital&type=ws#🇳🇱 Нидерланды 1 LLC HOSTOFF CSL
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@153.76.116.174:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=vaultseller.yournextidea.digital&type=ws#🇳🇱 Нидерланды 2 LLC HOSTOFF CSL
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@144.31.91.134:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=pipeanchor.yournextidea.digital&type=ws#🇳🇱 Нидерланды 3 LLC HOSTOFF CSL
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@31.56.120.186:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=de.usractivity-metrics.digital&type=ws#🇳🇱 Нидерланды 4 Ferdinand Zink trading as Tube-Hosting
-vless://8771fca3-242d-4c68-9fe3-db8c5ab4c86b@153.52.255.64:443?encryption=none&fp=firefox&host=vegatu3-production.up.railway.app&path=/ws/8771fca3-242d-4c68-9fe3-db8c5ab4c86b&security=tls&sni=vegatu3-production.up.railway.app&type=ws#🇳🇱 Нидерланды 5 Railway
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@131.123.34.134:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=trackwaybill.yournextidea.digital&type=ws#🇨🇭 Швейцария 1 ALEXHOST S.R.L.
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@143.246.202.100:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=bronzemaroon.yournextidea.digital&type=ws#🇨🇭 Швейцария 2 ALEXHOST S.R.L.
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@132.243.162.248:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=segmentdigest.yournextidea.digital&type=ws#🇨🇭 Швейцария 3 ALEXHOST S.R.L.
-vless://00f1d8d5-9c90-45f2-98d8-cbd7a536a92e@132.243.167.145:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=version-0t.sosnas.site&type=tcp#🇨🇭 Швейцария 4 GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@2.27.255.26:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=pricebright.bestideasfor.org&type=ws#🇵🇱 Польша 1 Illia Kravtsov
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@2.27.255.156:443?encryption=none&fp=firefox&security=tls&serviceName=/grpc.reflection.v1alpha.ServerReflection/ServerReflectionInfo/&sni=bucketquota.bestideasfor.org&type=grpc#🇵🇱 Польша 2 Illia Kravtsov
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@2.27.255.124:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=volumereplica.bestideasfor.org&type=ws#🇵🇱 Польша 3 Illia Kravtsov
-vless://b6c958fa-02db-0006-99b7-ee5ae2ba8633@89.144.20.213:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=harriergamma.bestideasfor.org&type=ws#🇺🇸 США 1 Cogent Communications, LLC
-vless://Inetiran@185.255.90.193:443?encryption=none&fp=firefox&path=/backhaul-209e18c7d6142c48&security=tls&sni=ryanserver.ir&type=ws#🇺🇸 США 2 YottaSrc
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@89.144.20.213:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=harriergamma.bestideasfor.org&type=ws#🇹🇷 Турция 1 AltunHOST LTD
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@194.146.47.135:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=storagebranch.bestideasfor.org&type=ws#🇹🇷 Турция 2 AltunHOST LTD
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@45.83.180.123:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=orbitwallet.yournextidea.digital&type=ws#🇪🇪 Эстония 1 BlueVPS OU
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@45.83.181.245:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=auditrapid.yournextidea.digital&type=ws#🇪🇪 Эстония 2 BlueVPS OU
+vless://7970faba-6ddc-4e4e-908e-f60c1409398d@185.214.74.234:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=log-9v.mvp-rk.site&type=tcp#🇳🇱 Нидерланды 1 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://aa1f101c-4014-4ba1-b981-a4643a616632@206.245.153.115:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=archive-4ue.sosnas.site&type=tcp#🇳🇱 Нидерланды 2 Moula World LLC
+vless://c4645ab3-eec2-430a-a8f5-83fc3fdce3ef@153.52.255.42:443?encryption=none&fp=firefox&host=dertyghusweaqw-production.up.railway.app&path=/api/c6GOe8&security=tls&sni=dertyghusweaqw-production.up.railway.app&type=ws#🇳🇱 Нидерланды 3 Railway
+vless://f7ab2945-5220-4b6e-a8a2-92c6cb366ca3@138.124.246.102:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=content-0st.sosnas.site&type=tcp#🇬🇷 Греция GLOBAL CONNECTIVITY SOLUTIONS LLP
 vless://9721ae68-fc60-4349-8519-1d513b06d044@194.87.45.177:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-67392.sosnas.site&type=tcp#🇪🇸 Испания GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@169.40.0.87:443?encryption=none&fp=firefox&security=tls&serviceName=/grpc.reflection.v1alpha.ServerReflection/ServerReflectionInfo/&sni=n2latv.usractivity-metrics.digital&type=grpc#🇱🇻 Латвия SIA VEESP
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@95.216.87.122:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=routebooking.yournextidea.digital&type=ws#🇫🇮 Финляндия Hetzner Online GmbH
+vless://4259bc76-37e3-49a6-b958-5913c41a9683@48.103.230.51:56221?encryption=mlkem768x25519plus.native.0rtt.4Nj343PWqsYGYdNFhsNh_TEoLBJacybMlUeD9YJXah8&fp=firefox&host=sub.macdonalder.cyou&security=tls&sni=sub.macdonalder.cyou&type=httpupgrade#🇺🇸 США Ace Data Centers II, L.L.C.
+vless://4655b290-d165-4d9e-988b-461e00cb26e1@193.124.46.111:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-91643.sosnas.site&type=tcp#🇹🇷 Турция Baxet Group Inc.
+vless://00f1d8d5-9c90-45f2-98d8-cbd7a536a92e@132.243.167.145:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=version-0t.sosnas.site&type=tcp#🇨🇭 Швейцария GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@84.32.154.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru10.net&type=tcp#🇸🇪 Швеция UAB Cherry Servers

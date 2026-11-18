@@ -4,7 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNC40L3Qu9GP0L3QtNC40Y8=
-vless://b384d216-9efa-4fd0-a5ef-bd3c37475e4d@85.192.49.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=U4emEOkDFbLtjL-zw7iOti2IRrLjSBGcvRHK1edC-VI&security=reality&sid=886b97976d1e42cc&sni=fl-sec.anonch.org&type=tcp#🇫🇮 Финляндия 1 aurologic GmbH
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@95.216.87.122:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=routebooking.yournextidea.digital&type=ws#🇫🇮 Финляндия 2 Hetzner Online GmbH
-vless://67864856-8730-40cc-9e1a-a0df697d912b@2.27.14.122:9443?encryption=none&fp=firefox&path=/assets/246a109dceaa6b7832a98d17&pbk=zd4L59ejBo94N8N9GQtZMox2eBBF9TQf2TLyIgpwlCg&security=reality&sid=fd7624659f1e7d66&sni=fin.krabvpn.pro&type=xhttp#🇫🇮 Финляндия 3 NODE HOST LIMITED
+vless://0b22812b-4a79-42b1-93ec-5b157b0f2f7f@2.27.14.122:9443?encryption=none&fp=firefox&path=/assets/246a109dceaa6b7832a98d17&pbk=zd4L59ejBo94N8N9GQtZMox2eBBF9TQf2TLyIgpwlCg&security=reality&sid=fd7624659f1e7d66&sni=fin.krabvpn.pro&type=xhttp#🇫🇮 Финляндия 1 NODE HOST LIMITED
+vless://67864856-8730-40cc-9e1a-a0df697d912b@2.27.14.122:9443?encryption=none&fp=firefox&path=/assets/246a109dceaa6b7832a98d17&pbk=zd4L59ejBo94N8N9GQtZMox2eBBF9TQf2TLyIgpwlCg&security=reality&sid=fd7624659f1e7d66&sni=fin.krabvpn.pro&type=xhttp#🇫🇮 Финляндия 2 NODE HOST LIMITED
+vless://537d8ade-134d-4ec2-905c-0187e7e1e22e@196.196.149.30:443?encryption=none&fp=firefox&pbk=_oCg5rCW6XTxriBPzbd_AX0os6QhenVYO9cbrsDSyRY&security=reality&sid=cf2a731a5f2dc451&sni=f0f0bet.fi2.h1clayd.click&type=grpc#🇫🇮 Финляндия 3 Hetzner Online GmbH
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.171:4444?sni=fl4.edgeport.cloud#🇫🇮 Финляндия 4 SERV.HOST GROUP LTD

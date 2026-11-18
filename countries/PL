@@ -4,10 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQn9C+0LvRjNGI0LA=
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@2.27.255.26:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=pricebright.bestideasfor.org&type=ws#🇵🇱 Польша 1 Illia Kravtsov
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@2.27.255.156:443?encryption=none&fp=firefox&security=tls&serviceName=/grpc.reflection.v1alpha.ServerReflection/ServerReflectionInfo/&sni=bucketquota.bestideasfor.org&type=grpc#🇵🇱 Польша 2 Illia Kravtsov
-vless://b6c958fa-02db-4a72-99b7-ee5ae2ba8633@2.27.255.124:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=volumereplica.bestideasfor.org&type=ws#🇵🇱 Польша 3 Illia Kravtsov
-vless://e0decac3-1b3e-4ab1-a2a8-860a8aca76f6@187.54.1.75:3738?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=y2_CwHuL3tWUgKn_bHn4WUMX_cVHdSi4JbLKCfD6_3A&security=reality&sid=d777235c883e6c88&sni=pl38.static-s3.org&type=tcp#🇵🇱 Польша 4 AdaptGroup LLC
-vless://be146d46-ae50-4691-838c-b6c87dbaec8f@143.246.41.214:443?encryption=none&fp=firefox&pbk=8OI8rEgAiWxH-cG03xgzuz7XTFHrbA1MY9HnPHcgSUA&security=reality&sid=1d5ac21e988c571f&sni=702e56t.pl5.h1clayd.click&type=tcp#🇵🇱 Польша 5 H1CLOUD LTD
-vless://67864856-8730-40cc-9e1a-a0df697d912b@2.27.14.122:7443?encryption=none&fp=firefox&path=/assets/7ae15be966a6bce1f00fa96a&pbk=NmMggGv5jmohnMmZytnLdenxmpNwa4P9E2PZW1EV8go&security=reality&sid=5e25bf4462660ed8&sni=pl-origin.krabvpn.pro&type=xhttp#🇵🇱 Польша 6 NODE HOST LIMITED
-vless://47ac6931-bed7-4456-ae7d-5d440257dd78@48.102.174.42:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V-cWjK_GZ0PTJ3wnUHgwey_dNWI6_QNXsC9CdmA0mVI&security=reality&sid=408c85938839e89f&sni=po2.hys.braidx.tech&type=tcp#🇵🇱 Польша 7 PLAY2GO - FZCO
+vless://be146d46-ae50-4691-838c-b6c87dbaec8f@143.246.41.214:443?encryption=none&fp=firefox&pbk=8OI8rEgAiWxH-cG03xgzuz7XTFHrbA1MY9HnPHcgSUA&security=reality&sid=1d5ac21e988c571f&sni=702e56t.pl5.h1clayd.click&type=tcp#🇵🇱 Польша 1 H1CLOUD LTD
+vless://be146d46-ae50-4691-838c-b6c87dbaec8f@13.143.239.94:443?encryption=none&fp=firefox&pbk=8OI8rEgAiWxH-cG03xgzuz7XTFHrbA1MY9HnPHcgSUA&security=reality&sid=1d5ac21e988c571f&sni=702e56t.pl5.h1clayd.click&type=tcp#🇵🇱 Польша 2 H1CLOUD LTD
+vless://0b22812b-4a79-42b1-93ec-5b157b0f2f7f@2.27.14.122:7443?encryption=none&fp=firefox&path=/assets/7ae15be966a6bce1f00fa96a&pbk=NmMggGv5jmohnMmZytnLdenxmpNwa4P9E2PZW1EV8go&security=reality&sid=5e25bf4462660ed8&sni=pl-origin.krabvpn.pro&type=xhttp#🇵🇱 Польша 3 NODE HOST LIMITED
+vless://67864856-8730-40cc-9e1a-a0df697d912b@2.27.14.122:7443?encryption=none&fp=firefox&path=/assets/7ae15be966a6bce1f00fa96a&pbk=NmMggGv5jmohnMmZytnLdenxmpNwa4P9E2PZW1EV8go&security=reality&sid=5e25bf4462660ed8&sni=pl-origin.krabvpn.pro&type=xhttp#🇵🇱 Польша 4 NODE HOST LIMITED
+vless://e0decac3-1b3e-4ab1-a2a8-860a8aca76f6@187.54.1.75:3738?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=y2_CwHuL3tWUgKn_bHn4WUMX_cVHdSi4JbLKCfD6_3A&security=reality&sid=d777235c883e6c88&sni=pl38.static-s3.org&type=tcp#🇵🇱 Польша 5 AdaptGroup LLC

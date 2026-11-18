@@ -1,0 +1,10 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
+vless://0b22812b-4a79-42b1-93ec-5b157b0f2f7f@2.27.14.122:5443?encryption=none&fp=firefox&path=/assets/f9c8d7e6a5b4c3d2e1f02468&pbk=YWaSbf7NwwCZNuB3cQ_VCF20mUwWJBcfMysIZN4j6mI&security=reality&sid=7a8c9b0e1d2f3456&sni=sw.krabvpn.pro&type=xhttp#🇸🇪 Швеция 1 NODE HOST LIMITED
+vless://67864856-8730-40cc-9e1a-a0df697d912b@2.27.14.122:5443?encryption=none&fp=firefox&path=/assets/f9c8d7e6a5b4c3d2e1f02468&pbk=YWaSbf7NwwCZNuB3cQ_VCF20mUwWJBcfMysIZN4j6mI&security=reality&sid=7a8c9b0e1d2f3456&sni=sw.krabvpn.pro&type=xhttp#🇸🇪 Швеция 2 NODE HOST LIMITED
+hysteria2://Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-@185.164.72.192:26206?sni=config7x.de5.net&obfs=salamander&obfs-password=vxvnmus9agdzduvz#🇸🇪 Швеция 3 Amazon.com, Inc.
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@84.32.154.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru10.net&type=tcp#🇸🇪 Швеция 4 UAB Cherry Servers
