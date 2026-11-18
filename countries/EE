@@ -4,5 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
-vless://dfe50e18-28ce-459e-a6b9-0f2585bcc3b6@48.102.209.126:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ee.point.cookie-line.cc&type=tcp#🇪🇪 Эстония 1 SERV.HOST GROUP LTD
-vless://240af353-dccb-4cf6-a2d5-01457bb6fbb7@5.1.40.71:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=onecloudstream.com&type=ws#🇪🇪 Эстония 2 UXHOST LTD
+vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@87.232.116.22:443?encryption=none&fp=firefox&security=tls&serviceName=67h2o3erm0t9imsj&sni=fafeqdhlett2p5la6d.cdn.cachefleet.com&type=grpc#🇪🇪 Эстония 1 TAKEHOST OU
+vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@87.232.116.21:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QmMAxiMbYvZG8NE-7NdYaYRovPyNilnfcmXelA0hGjA&security=reality&sid=343db8abdd85766b&sni=aurora-ledger.cdn.cachefleet.com&type=tcp#🇪🇪 Эстония 2 TAKEHOST OU
+vless://dfe50e18-28ce-459e-a6b9-0f2585bcc3b6@48.102.209.126:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ee.point.cookie-line.cc&type=tcp#🇪🇪 Эстония 3 SERV.HOST GROUP LTD
+vless://240af353-dccb-4cf6-a2d5-01457bb6fbb7@5.1.40.71:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=onecloudstream.com&type=ws#🇪🇪 Эстония 4 UXHOST LTD

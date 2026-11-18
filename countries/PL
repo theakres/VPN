@@ -4,14 +4,16 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQn9C+0LvRjNGI0LA=
-vless://a13f3a29-56fd-4540-b7f4-848861f63ed0@192.200.160.42:443?encryption=none&fp=firefox&security=tls&sni=mama542.baklajann.ru&type=xhttp#🇵🇱 Польша 1 OVH SAS
-vless://a13f3a29-56fd-4540-b7f4-848861f63ed0@185.133.35.86:443?encryption=none&fp=firefox&security=tls&sni=mama511.baklajann.ru&type=xhttp#🇵🇱 Польша 2 OVH SAS
-vless://003ec416-45f0-462a-8030-016fe0a71703@185.133.35.86:443?encryption=none&fp=firefox&security=tls&sni=mama511.baklajann.ru&type=xhttp#🇵🇱 Польша 3 OVH SAS
+vless://a13f3a29-56fd-4540-b7f4-848861f63ed0@185.133.35.86:443?encryption=none&fp=firefox&security=tls&sni=mama511.baklajann.ru&type=xhttp#🇵🇱 Польша 1 OVH SAS
+vless://003ec416-45f0-462a-8030-016fe0a71703@185.133.35.86:443?encryption=none&fp=firefox&security=tls&sni=mama511.baklajann.ru&type=xhttp#🇵🇱 Польша 2 OVH SAS
+vless://a13f3a29-56fd-4540-b7f4-848861f63ed0@192.200.160.42:443?encryption=none&fp=firefox&security=tls&sni=mama542.baklajann.ru&type=xhttp#🇵🇱 Польша 3 OVH SAS
 vless://003ec416-45f0-462a-8030-016fe0a71703@192.200.160.42:443?encryption=none&fp=firefox&security=tls&sni=mama542.baklajann.ru&type=xhttp#🇵🇱 Польша 4 OVH SAS
-vless://df97ce68-477f-4484-94c7-79eccab7319d@179.253.101.61:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Wpgu3RZ3zdg1Hj0uj1xskeDAQ73bKplj0zpcRKj52D0&security=reality&sni=pl6.angelsleep9.com&type=tcp#🇵🇱 Польша 5 CLOUD SOLUTIONS GLOBAL LTD
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@179.253.101.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru17.net&type=tcp#🇵🇱 Польша 6 CLOUD SOLUTIONS GLOBAL LTD
-vless://a346c521-7a7f-452b-9356-a4893feb5982@83.171.241.244:25267?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tP78ugkcN9bZU6fJH3mqHJIErR8vjBwOw0ERPwCZSSM&security=reality&sid=b1e59e06c61b090c&sni=pl1-edge.bankai.party&type=tcp#🇵🇱 Польша 7 Paul Sagov
-vless://a346c521-7a7f-452b-9356-a4893feb5982@83.171.241.244:25267?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tP78ugkcN9bZU6fJH3mqHJIErR8vjBwOw0ERPwCZSSM&security=reality&sni=pl1-edge.bankai.party&type=tcp#🇵🇱 Польша 8 Paul Sagov
-vless://5f1c2e83-d4aa-a028-81e9-e0ccc018974c@48.102.216.240:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2yqGYYn0FG7dy5vtEkeyouBuIsMQFbpFHnx-yCCPABM&security=reality&sid=8d760489b7a2b8ac&sni=lkm8.artemida.digital&type=tcp#🇵🇱 Польша 9 Datagio Systems Ltd.
-vless://47ac6931-bed7-4456-ae7d-5d440257dd78@177.202.76.31:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V-cWjK_GZ0PTJ3wnUHgwey_dNWI6_QNXsC9CdmA0mVI&security=reality&sid=408c85938839e89f&sni=po2.hys.braidx.tech&type=tcp#🇵🇱 Польша 10 PLAY2GO - FZCO
-vless://981ab9b4-2b26-4bda-9bd9-ce3f360e552b@144.31.241.24:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PAqGM0sKOwWkHhhI8UKztzThI1V7o994ZwD6V8qYd0s&security=reality&sid=5823fa569cc01687&sni=dfad5148.con.rasterparcel.tech&type=tcp#🇵🇱 Польша 11 SERV.HOST GROUP LTD
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@179.253.101.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru17.net&type=tcp#🇵🇱 Польша 5 CLOUD SOLUTIONS GLOBAL LTD
+vless://df97ce68-477f-4484-94c7-79eccab7319d@179.253.101.61:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Wpgu3RZ3zdg1Hj0uj1xskeDAQ73bKplj0zpcRKj52D0&security=reality&sni=pl6.angelsleep9.com&type=tcp#🇵🇱 Польша 6 CLOUD SOLUTIONS GLOBAL LTD
+vless://df97ce68-477f-4484-94c7-79eccab7319d@130.78.31.44:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Fgl3cxer1ZznUcZpuUQZnqdSkqwwFepl5W4o6Lk0mEc&security=reality&sni=pol5.angelsleep9.com&type=tcp#🇵🇱 Польша 7 ExpressHost Ltd
+hysteria2://bc60e93b-1c62-45fc-9c1d-c26285b29e7e@45.198.0.228:1443?sni=infra-core.cvedcdigital.vip#🇵🇱 Польша 8 ExpressHost Ltd
+vless://a346c521-7a7f-452b-9356-a4893feb5982@83.171.241.244:25267?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tP78ugkcN9bZU6fJH3mqHJIErR8vjBwOw0ERPwCZSSM&security=reality&sni=pl1-edge.bankai.party&type=tcp#🇵🇱 Польша 9 Paul Sagov
+vless://a346c521-7a7f-452b-9356-a4893feb5982@83.171.241.244:25267?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tP78ugkcN9bZU6fJH3mqHJIErR8vjBwOw0ERPwCZSSM&security=reality&sid=b1e59e06c61b090c&sni=pl1-edge.bankai.party&type=tcp#🇵🇱 Польша 10 Paul Sagov
+vless://47ac6931-bed7-4456-ae7d-5d440257dd78@177.202.76.31:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V-cWjK_GZ0PTJ3wnUHgwey_dNWI6_QNXsC9CdmA0mVI&security=reality&sid=408c85938839e89f&sni=po2.hys.braidx.tech&type=tcp#🇵🇱 Польша 11 PLAY2GO - FZCO
+vless://076b9961-51c7-407f-92b8-a8f2c6d42a7f@177.202.76.255:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CnC08-EGzr6smaBZbQXW7y2mjH4uHcJly0ROcqtv0Gk&security=reality&sid=09e501600e39ed57&sni=pl-2.vpezid.net&type=tcp#🇵🇱 Польша 12 PLAY2GO - FZCO
+vless://5f1c2e83-d4aa-a028-81e9-e0ccc018974c@48.102.216.240:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2yqGYYn0FG7dy5vtEkeyouBuIsMQFbpFHnx-yCCPABM&security=reality&sid=8d760489b7a2b8ac&sni=lkm8.artemida.digital&type=tcp#🇵🇱 Польша 13 Datagio Systems Ltd.
