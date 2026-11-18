@@ -5,11 +5,13 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.201:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru1.com&type=tcp#🇩🇪 Германия 1 HOSTES LTD
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru3.net&type=tcp#🇩🇪 Германия 2 HOSTES LTD
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.31:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru2.net&type=tcp#🇩🇪 Германия 3 HOSTES LTD
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.31:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru2.net&type=tcp#🇩🇪 Германия 2 HOSTES LTD
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru3.net&type=tcp#🇩🇪 Германия 3 HOSTES LTD
 vless://f18c5f6d-2bac-4a99-8c92-a6e6e7aea9b4@50.7.87.123:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-v2.atlanta-games.com&type=tcp#🇩🇪 Германия 4 FDCservers.net
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@150.241.92.15:2096?encryption=none&fp=firefox&host=st73a59.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st73a59.rumedia-cdn.com&type=ws#🇳🇱 Нидерланды 1 NODE HOST LIMITED
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@150.241.92.23:2096?encryption=none&fp=firefox&host=stbf331.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stbf331.rumedia-cdn.com&type=ws#🇳🇱 Нидерланды 2 NODE HOST LIMITED
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@150.241.92.16:2096?encryption=none&fp=firefox&host=stacc3b.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stacc3b.rumedia-cdn.com&type=ws#🇳🇱 Нидерланды 3 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@150.241.92.9:2096?encryption=none&fp=firefox&host=st771fb.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st771fb.rumedia-cdn.com&type=ws#🇳🇱 Нидерланды 4 NODE HOST LIMITED
 vless://44ddb84a-f152-47ef-a970-fd63f2df9b30@93.88.206.70:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pulse.sevka.xyz&type=tcp#🇷🇺 Россия 1 Packet Loss LTD
 vless://44ddb84a-f152-47ef-a970-fd63f2df9b30@93.88.206.70:443?encryption=none&fp=firefox&path=/350a12c4b006&security=tls&sni=edge.sevka.xyz&type=xhttp#🇷🇺 Россия 2 Packet Loss LTD
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@84.32.154.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru10.net&type=tcp#🇸🇪 Швеция UAB Cherry Servers
