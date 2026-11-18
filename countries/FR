@@ -8,6 +8,4 @@ vless://df97ce68-477f-4484-94c7-79eccab7319d@45.39.255.25:443?encryption=none&fl
 vless://df97ce68-477f-4484-94c7-79eccab7319d@45.39.255.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KvhOBGV_aFOuJg1_QMre2uewPCjyZlazQIuRa3rhNT8&security=reality&sni=fir1.angelsleep9.com&type=tcp#🇫🇷 Франция 2 Cloud Software - FZCO
 vless://f18c5f6d-2bac-4a99-8c92-a6e6e7aea9b4@95.182.110.134:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dJqaQL_kSl2DFR7Dx3igZXhPuw1uW9d7XejtyYSvkGg&security=reality&sid=aaa2ba7d45c12957&sni=fr.atlanta-api.com&type=tcp#🇫🇷 Франция 3 Interkvm Host SRL
 vless://f18c5f6d-2bac-4a99-8c92-a6e6e7aea9b4@95.133.247.20:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dJqaQL_kSl2DFR7Dx3igZXhPuw1uW9d7XejtyYSvkGg&security=reality&sid=aaa2ba7d45c12957&sni=fr.atlanta-api.com&type=tcp#🇫🇷 Франция 4 Interkvm Host SRL
-vless://a13f3a29-56fd-4540-b7f4-848861f63ed0@160.123.255.172:443?encryption=none&fp=firefox&security=tls&sni=mama147.baklajann.ru&type=xhttp#🇫🇷 Франция 5 OVH SAS
-vless://003ec416-45f0-462a-8030-016fe0a71703@160.123.255.172:443?encryption=none&fp=firefox&security=tls&sni=mama147.baklajann.ru&type=xhttp#🇫🇷 Франция 6 OVH SAS
-vless://14b49dbd-e6a8-442c-9d64-a28682b87c53@213.176.73.245:2096?encryption=none&fp=firefox&security=tls&serviceName=edge8&sni=edge8.volkswagenman.ru&type=grpc#🇫🇷 Франция 7 SERV.HOST GROUP LTD
+vless://14b49dbd-e6a8-442c-9d64-a28682b87c53@213.176.73.245:2096?encryption=none&fp=firefox&security=tls&serviceName=edge8&sni=edge8.volkswagenman.ru&type=grpc#🇫🇷 Франция 5 SERV.HOST GROUP LTD
