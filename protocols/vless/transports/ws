@@ -4,5 +4,5 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
-vless://61e7a9b7-fbf4-4672-8c8b-c669109fb72a@169.58.215.154:8443?encryption=none&fp=firefox&host=lenoxtunnel.pages.dev&security=tls&sni=lenoxtunnel.pages.dev&type=ws#🇩🇪 Германия Cloudflare, Inc.
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=firefox&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#🇸🇪 Швеция Cloudflare, Inc.
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=firefox&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#🇸🇪 Швеция 1 Cloudflare, Inc.
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=firefox&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#🇸🇪 Швеция 2 Cloudflare, Inc.
