@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQr9C/0L7QvdC40Y8=
+vless://11e6855d-947b-03f0-ad3b-8a1efe518139@200.102.183.222:443?encryption=none&fp=firefox&security=tls&serviceName=et7wvuobx2skqzaw&sni=lgok4ew6lgiq03pj.cdn.cachefleet.com&type=grpc#🇯🇵 Япония G-Core Labs S.A.

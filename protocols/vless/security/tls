@@ -4,15 +4,20 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru3.net&type=tcp#🇩🇪 Германия 1 HOSTES LTD
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.201:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru1.com&type=tcp#🇩🇪 Германия 2 HOSTES LTD
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.31:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru2.net&type=tcp#🇩🇪 Германия 3 HOSTES LTD
-vless://7970faba-6ddc-4e4e-908e-f60c1409398d@185.214.74.234:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=log-9v.mvp-rk.site&type=tcp#🇳🇱 Нидерланды 1 GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://aa1f101c-4014-4ba1-b981-a4643a616632@206.245.153.115:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=archive-4ue.sosnas.site&type=tcp#🇳🇱 Нидерланды 2 Moula World LLC
-vless://c4645ab3-eec2-430a-a8f5-83fc3fdce3ef@153.52.255.42:443?encryption=none&fp=firefox&host=dertyghusweaqw-production.up.railway.app&path=/api/c6GOe8&security=tls&sni=dertyghusweaqw-production.up.railway.app&type=ws#🇳🇱 Нидерланды 3 Railway
-vless://f7ab2945-5220-4b6e-a8a2-92c6cb366ca3@138.124.246.102:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=content-0st.sosnas.site&type=tcp#🇬🇷 Греция GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://9721ae68-fc60-4349-8519-1d513b06d044@194.87.45.177:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-67392.sosnas.site&type=tcp#🇪🇸 Испания GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://4259bc76-37e3-49a6-b958-5913c41a9683@48.103.230.51:56221?encryption=mlkem768x25519plus.native.0rtt.4Nj343PWqsYGYdNFhsNh_TEoLBJacybMlUeD9YJXah8&fp=firefox&host=sub.macdonalder.cyou&security=tls&sni=sub.macdonalder.cyou&type=httpupgrade#🇺🇸 США Ace Data Centers II, L.L.C.
-vless://4655b290-d165-4d9e-988b-461e00cb26e1@193.124.46.111:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-91643.sosnas.site&type=tcp#🇹🇷 Турция Baxet Group Inc.
-vless://00f1d8d5-9c90-45f2-98d8-cbd7a536a92e@132.243.167.145:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=version-0t.sosnas.site&type=tcp#🇨🇭 Швейцария GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@84.32.154.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru10.net&type=tcp#🇸🇪 Швеция UAB Cherry Servers
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.223:2096?encryption=none&fp=firefox&host=stac1f5.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stac1f5.rumedia-cdn.com&type=ws#🇩🇪 Германия 1 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.218:2096?encryption=none&fp=firefox&host=st64d67.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st64d67.rumedia-cdn.com&type=ws#🇩🇪 Германия 2 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.231:2096?encryption=none&fp=firefox&host=st71404.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st71404.rumedia-cdn.com&type=ws#🇩🇪 Германия 3 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.197:2096?encryption=none&fp=firefox&host=st23ca2.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st23ca2.rumedia-cdn.com&type=ws#🇩🇪 Германия 4 NODE HOST LIMITED
+vless://05b8bddf-ff28-4504-b12a-33df21f52319@49.12.36.119:443?encryption=none&fp=firefox&host=germanyhetz.onlineblog.ir&security=tls&sni=germanyhetz.onlineblog.ir&type=httpupgrade#🇩🇪 Германия 5 Hetzner Online GmbH
+vless://d7283148-ce6a-495d-8018-4a1a6da55304@167.233.217.107:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=static.40.68.12.49.clients.your-server.de&type=tcp#🇩🇪 Германия 6 Hetzner Online GmbH
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.28.228:2096?encryption=none&fp=firefox&host=ste87ea.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=ste87ea.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 1 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@2.27.14.247:2096?encryption=none&fp=firefox&host=st2a695.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st2a695.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 2 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.200:2096?encryption=none&fp=firefox&host=stadc07.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stadc07.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 3 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2096?encryption=none&fp=firefox&host=stb71e5.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stb71e5.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 4 NODE HOST LIMITED
+vless://aa983622-bffd-4313-b4d1-bf0e1b7b6ad8@157.228.172.4:8443?encryption=none&fp=firefox&security=tls&type=tcp#🇫🇮 Финляндия 5 U1 DIGITAL SERVICES LTD
+vless://11e6855d-947b-4d5e-ad3b-8a1efe518139@109.69.218.205:7443?encryption=none&fp=firefox&security=tls&serviceName=30d813d13a5dfa15&sni=moss-quarry.cdn.cachefleet.com&type=grpc#🇧🇪 Бельгия VERIXI SA
+vless://0f2dc4af-951f-4690-922e-07c6e8bab26a@45.141.177.35:8444?encryption=none&fp=firefox&host=se-32-mqbb.wave-inside.online&path=/xh&security=tls&sni=se-32-mqbb.wave-inside.online&type=xhttp#🇬🇧 Великобритания AEZA GROUP LLC
+vless://753623e2-d08c-43eb-90ad-8891769b0f4a@153.52.255.79:443?encryption=none&fp=firefox&host=morte5yh-production.up.railway.app&path=/api/dhBm0V&security=tls&sni=morte5yh-production.up.railway.app&type=ws#🇳🇱 Нидерланды Railway
+vless://edeb6e83-2de8-4e2c-a44d-656ae2991278@208.103.161.2:2083?encryption=none&fp=firefox&path=/?ed=2560&security=tls&sni=RayaN15-90e49Yiz-v3.rAYan-15.workeRS.deV&type=ws#🇺🇸 США Amazon.com, Inc.
+vless://5dca5180-7c50-4b91-b21c-be8bfc769141@83.243.86.129:443?encryption=none&fp=firefox&path=/ws-89a4f2&security=tls&sni=fr6.sky-vault.top&type=ws#🇫🇷 Франция TAKEHOST OU
+vless://11e6855d-947b-03f0-ad3b-8a1efe518139@200.102.183.222:443?encryption=none&fp=firefox&security=tls&serviceName=et7wvuobx2skqzaw&sni=lgok4ew6lgiq03pj.cdn.cachefleet.com&type=grpc#🇯🇵 Япония G-Core Labs S.A.
