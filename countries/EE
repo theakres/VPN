@@ -4,7 +4,5 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
-vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?encryption=none&fp=firefox&security=tls&sni=szqbx-ru-77dc.my-fade.cloud&type=tcp#🇪🇪 Эстония 1 BlueVPS OU
-hysteria2://87bb2ac4-b7a1-0001-b11d-2107709ea6cb@136.148.83.69:443?sni=szqbx-ru-77dc.my-fade.cloud#🇪🇪 Эстония 2 BlueVPS OU
-vless://13cca0fd-bb3e-44e4-9ced-1c6efcabbb03@95.85.243.72:443?encryption=none&fp=firefox&pbk=m3opvubdy_gjBiBkXnAw3eDUP4alVeVWxKkvZHIINjs&security=reality&sid=426165a0badade80&sni=212.192.156.15&type=tcp#🇪🇪 Эстония 3 OC NETWORKS LIMITED
-vless://67864856-8730-40cc-9e1a-a0df697d912b@85.92.156.133:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=de.krabvpn.pro&type=tcp#🇪🇪 Эстония 4 Owned by Sentia
+vless://13cca0fd-bb3e-44e4-9ced-1c6efcabbb03@95.85.243.72:443?encryption=none&fp=firefox&pbk=m3opvubdy_gjBiBkXnAw3eDUP4alVeVWxKkvZHIINjs&security=reality&sid=426165a0badade80&sni=212.192.156.15&type=tcp#🇪🇪 Эстония 1 OC NETWORKS LIMITED
+vless://67864856-8730-40cc-9e1a-a0df697d912b@85.92.156.133:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=de.krabvpn.pro&type=tcp#🇪🇪 Эстония 2 Owned by Sentia
