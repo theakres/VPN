@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQnNC+0LvQtNC+0LLQsA==
+vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@217.156.64.64:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PQm4_ELMk_t2_-78lisq7Pt3aal3IVaC519prE_-Fh8&security=reality&sid=9c2378562188c3cb&sni=md.dendiboss.org&type=tcp#🇲🇩 Молдова ALEXHOST S.R.L.
