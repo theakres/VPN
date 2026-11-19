@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNGD0LzRi9C90LjRjw==
+vless://4a41ba8e-c78d-41dd-a579-d5638416a8df@162.249.125.156:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=romania.gamma-kvn.com&type=tcp#🇷🇴 Румыния 1 INTERKVM HOST SRL
+vless://4a41ba8e-c78d-41dd-a579-d5638416a8df@193.168.140.225:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ro.gamma-kvn.com&type=tcp#🇷🇴 Румыния 2 ZERGRUSH SRL
