@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkdC10LvRjNCz0LjRjw==
-vless://11e6855d-947b-4d5e-ad3b-8a1efe518139@109.69.218.205:7443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&security=reality&sni=wren-quarry.cdn.cachefleet.com&type=tcp#🇧🇪 Бельгия 1 VERIXI SA
-vless://11e6855d-947b-4d5e-ad3b-8a1efe518139@109.69.218.205:7443?encryption=none&fp=firefox&security=tls&serviceName=30d813d13a5dfa15&sni=moss-quarry.cdn.cachefleet.com&type=grpc#🇧🇪 Бельгия 2 VERIXI SA

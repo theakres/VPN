@@ -4,11 +4,9 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNC40L3Qu9GP0L3QtNC40Y8=
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.28.228:2096?encryption=none&fp=firefox&host=ste87ea.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=ste87ea.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 1 NODE HOST LIMITED
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@2.27.14.247:2096?encryption=none&fp=firefox&host=st2a695.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st2a695.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 2 NODE HOST LIMITED
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2096?encryption=none&fp=firefox&host=stb71e5.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stb71e5.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 3 NODE HOST LIMITED
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.200:2096?encryption=none&fp=firefox&host=stadc07.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stadc07.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 4 NODE HOST LIMITED
-vless://aa983622-bffd-4313-b4d1-bf0e1b7b6ad8@157.228.172.4:8443?encryption=none&fp=firefox&security=tls&type=tcp#🇫🇮 Финляндия 5 U1 DIGITAL SERVICES LTD
-vless://aa983622-bffd-4313-b4d1-bf0e1b7b6ad8@157.228.172.4:8443?encryption=none&fp=firefox&security=tls&sni=157.228.172.4&type=tcp#🇫🇮 Финляндия 6 U1 DIGITAL SERVICES LTD
-vless://ab5e91ee-f600-4825-a2bc-d6471d5cee03@185.232.204.116:443?encryption=none&fp=firefox&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&security=reality&serviceName=grpc&sid=12345678&sni=food-from-finlda-here-we-go.keno.su&type=grpc#🇫🇮 Финляндия 7 Anton Levin
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.171:4444?sni=fl4.edgeport.cloud#🇫🇮 Финляндия 8 SERV.HOST GROUP LTD
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@2.27.14.247:2096?encryption=none&fp=firefox&host=st2a695.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st2a695.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 1 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.28.228:2096?encryption=none&fp=firefox&host=ste87ea.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=ste87ea.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 2 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.200:2096?encryption=none&fp=firefox&host=stadc07.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stadc07.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 3 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2096?encryption=none&fp=firefox&host=stb71e5.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stb71e5.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 4 NODE HOST LIMITED
+vless://ab5e91ee-f600-4825-a2bc-d6471d5cee03@185.232.204.116:443?encryption=none&fp=firefox&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&security=reality&serviceName=grpc&sid=12345678&sni=food-from-finlda-here-we-go.keno.su&type=grpc#🇫🇮 Финляндия 5 Anton Levin
+vless://429b851c-f731-4f95-9e34-793a51ad48b2@48.102.165.38:443?encryption=none&fp=firefox&host=fin1g.klen.team&path=/stats/v3/ZWkVxWhrR9jk&security=tls&sni=fin1g.klen.team&type=ws#🇫🇮 Финляндия 6 PLAY2GO - FZCO

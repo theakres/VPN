@@ -4,5 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
-vless://7d77e8fc-07d9-46e3-bf70-66531011fed3@2.56.127.202:17101?encryption=none&fp=firefox&pbk=td00T39muH83FZFqpyfgfYYQLjT860DLdrCcnKr2_FE&security=reality&sid=b08ccd&sni=it.nvidia.com&type=grpc#🇫🇷 Франция 1 NetCrafters OU
-vless://5dca5180-7c50-4b91-b21c-be8bfc769141@83.243.86.129:443?encryption=none&fp=firefox&path=/ws-89a4f2&security=tls&sni=fr6.sky-vault.top&type=ws#🇫🇷 Франция 2 TAKEHOST OU
+vless://fa7d250b-d84e-4ad8-9404-69be893d763f@189.74.117.4:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videodolina.cc&type=tcp#🇫🇷 Франция 1 FDCservers.net
+vless://7d77e8fc-07d9-46e3-bf70-66531011fed3@2.56.127.202:17101?encryption=none&fp=firefox&pbk=td00T39muH83FZFqpyfgfYYQLjT860DLdrCcnKr2_FE&security=reality&sid=b08ccd&sni=it.nvidia.com&type=grpc#🇫🇷 Франция 2 NetCrafters OU
+vless://5dca5180-7c50-4b91-b21c-be8bfc769141@83.243.86.129:443?encryption=none&fp=firefox&path=/ws-89a4f2&security=tls&sni=fr6.sky-vault.top&type=ws#🇫🇷 Франция 3 TAKEHOST OU

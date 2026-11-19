@@ -5,6 +5,7 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQodCo0JA=
 vless://edeb6e83-2de8-4e2c-a44d-656ae2991278@208.103.161.2:2083?encryption=none&fp=firefox&path=/?ed=2560&security=tls&sni=RayaN15-90e49Yiz-v3.rAYan-15.workeRS.deV&type=ws#🇺🇸 США 1 Amazon.com, Inc.
-vless://edeb6e83-2de8-4e2c-a44d-656ae2991278@208.103.161.2:2083?encryption=none&fp=firefox&security=tls&sni=RayaN15-90e49Yiz-v3.rAYan-15.workeRS.deV&type=ws#🇺🇸 США 2 Amazon.com, Inc.
-vless://e76e5621-8d2f-4afb-a187-9523e9c1cded@5.78.57.22:2083?encryption=none&fp=firefox&path=/53dbc47975134240&pbk=B0s4SCWH-u-WXZQFy0aZugzz3VG9Yu7Ky35L5qgpEQs&security=reality&sid=5f8c5373bdd9953c&sni=github.com&type=xhttp#🇺🇸 США 3 Hetzner Online GmbH
-vless://3bbc98cb-46b1-4441-9d55-02a100000020@87.120.222.199:443?encryption=none&fp=firefox&host=cf-smart-354.pnihastam7021.workers.dev&path=/sync&security=tls&sni=cf-smart-354.pnihastam7021.workers.dev&type=ws#🇺🇸 США 4 OVH SAS
+vless://fa7d250b-d84e-4ad8-9404-69be893d763f@152.232.62.82:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videobereg.cc&type=tcp#🇺🇸 США 2 B2 Net Solutions Inc.
+vless://edeb6e83-2de8-4e2c-a44d-656ae2991278@208.103.161.2:2083?encryption=none&fp=firefox&security=tls&sni=RayaN15-90e49Yiz-v3.rAYan-15.workeRS.deV&type=ws#🇺🇸 США 3 Internet Brands Inc.
+vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@153.56.230.77:25155?encryption=none&fp=firefox&host=48688cr.us12.h1clayd.click&path=/astral-edge-h1&pbk=I4mzdgz1mvaVDtkDD9AzK1ZJkEaQu_GYEbGIfm_a5UM&security=reality&sid=0ebb438948cdf356&sni=48688cr.us12.h1clayd.click&type=xhttp#🇺🇸 США 4 Interserver, Inc
+vless://ab53f3b6-7962-4bc1-90f6-8420767b22a8@136.148.83.132:8443?encryption=none&fp=firefox&path=/xhttp&pbk=KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k&security=reality&sid=6bd33a75ebc0f26e&sni=cdn-us.cahmes.space&type=xhttp#🇺🇸 США 5 ROUTE 95 LLC

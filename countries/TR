@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQotGD0YDRhtC40Y8=
+vless://a6cfc07b-964a-4737-a089-69abefcdb509@38.17.65.8:443?encryption=none&fp=firefox&path=/8802c2c55be0&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&security=reality&sid=9a597f16c2171bab&sni=www.amd.com&type=xhttp#🇹🇷 Турция 1 Netlen Internet Hizmetleri Ltd. Sti.
+vless://a6cfc07b-964a-4737-a089-69abefcdb509@38.17.65.8:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&security=reality&sid=9a597f16c2171bab&sni=www.nvidia.com&type=tcp#🇹🇷 Турция 2 Netlen Internet Hizmetleri Ltd. Sti.
