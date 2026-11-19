@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQm9C40YLQstCw
+vless://66fdec33-40bb-44c9-ab09-67e99471c051@201.58.155.64:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=af2bebede7320b3e&sni=clan2-39471de30b50bb.webmoney.ru&type=tcp#🇱🇹 Литва 1 UAB Bacloud
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@188.214.129.133:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bkKOiMl4vnU10lZSEEL0Uj5dqKKNXW8I2t86Fo9sVmw&security=reality&sid=7594d4e0&sni=app.streamru15.net&type=tcp#🇱🇹 Литва 2 UAB Cherry Servers

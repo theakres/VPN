@@ -5,9 +5,7 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@2.27.14.247:2096?encryption=none&fp=firefox&host=st2a695.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st2a695.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 1 NODE HOST LIMITED
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.200:2096?encryption=none&fp=firefox&host=stadc07.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stadc07.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 2 NODE HOST LIMITED
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2096?encryption=none&fp=firefox&host=stb71e5.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stb71e5.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 3 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2096?encryption=none&fp=firefox&host=stb71e5.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stb71e5.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 2 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.200:2096?encryption=none&fp=firefox&host=stadc07.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stadc07.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 3 NODE HOST LIMITED
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.197:2096?encryption=none&fp=firefox&host=st23ca2.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st23ca2.rumedia-cdn.com&type=ws#🇩🇪 Германия 1 NODE HOST LIMITED
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.218:2096?encryption=none&fp=firefox&host=st64d67.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st64d67.rumedia-cdn.com&type=ws#🇩🇪 Германия 2 NODE HOST LIMITED
-vless://ca527fff-309d-4219-b47a-c2b7c8a0a93b@153.52.255.97:443?encryption=none&fp=firefox&host=jfdgswrsfder-production.up.railway.app&path=/api/J6l81o&security=tls&sni=jfdgswrsfder-production.up.railway.app&type=ws#🇳🇱 Нидерланды Railway
-vless://5dca5180-7c50-4b91-b21c-be8bfc769141@83.243.86.129:443?encryption=none&fp=firefox&path=/ws-89a4f2&security=tls&sni=fr6.sky-vault.top&type=ws#🇫🇷 Франция TAKEHOST OU
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.231:2096?encryption=none&fp=firefox&host=st71404.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st71404.rumedia-cdn.com&type=ws#🇩🇪 Германия 2 NODE HOST LIMITED
