@@ -5,5 +5,6 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
 vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@45.95.98.139:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=45.95.98.130&type=tcp#🇫🇷 Франция 1 DigitalEra Tech OU
-vless://7d77e8fc-07d9-46e3-bf70-66531011fed3@2.56.127.202:17101?encryption=none&fp=firefox&pbk=td00T39muH83FZFqpyfgfYYQLjT860DLdrCcnKr2_FE&security=reality&sid=b08ccd&sni=it.nvidia.com&type=grpc#🇫🇷 Франция 2 NetCrafters OU
-vless://74af70c0-bea7-4412-9a1a-f7eab9c91ef8@138.124.9.201:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-93ZD_5l99Hu0HDdHsPWrjV07UCNQiQ2PRAGqIC4Xgg&security=reality&sid=5b3ef653ee33b49a&sni=codestral.mistral.ai&type=tcp#🇫🇷 Франция 3 YottaSrc
+vless://31d0f8a6-3dac-4f89-b2f1-aca50f293f70@189.74.117.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videodolina.cc&type=tcp#🇫🇷 Франция 2 FDCservers.net
+vless://7d77e8fc-07d9-46e3-bf70-66531011fed3@2.56.127.202:17101?encryption=none&fp=firefox&pbk=td00T39muH83FZFqpyfgfYYQLjT860DLdrCcnKr2_FE&security=reality&sid=b08ccd&sni=it.nvidia.com&type=grpc#🇫🇷 Франция 3 NetCrafters OU
+vless://74af70c0-bea7-4412-9a1a-f7eab9c91ef8@138.124.9.201:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-93ZD_5l99Hu0HDdHsPWrjV07UCNQiQ2PRAGqIC4Xgg&security=reality&sid=5b3ef653ee33b49a&sni=codestral.mistral.ai&type=tcp#🇫🇷 Франция 4 YottaSrc
