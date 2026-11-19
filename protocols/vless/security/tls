@@ -4,19 +4,13 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.231:2096?encryption=none&fp=firefox&host=st71404.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st71404.rumedia-cdn.com&type=ws#🇩🇪 Германия 1 NODE HOST LIMITED
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.197:2096?encryption=none&fp=firefox&host=st23ca2.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st23ca2.rumedia-cdn.com&type=ws#🇩🇪 Германия 2 NODE HOST LIMITED
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.218:2096?encryption=none&fp=firefox&host=st64d67.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st64d67.rumedia-cdn.com&type=ws#🇩🇪 Германия 3 NODE HOST LIMITED
-vless://4a41ba8e-c78d-41dd-a579-d5638416a8df@13.143.183.185:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=cz2.gamma-kvn.com&type=tcp#🇩🇪 Германия 4 SERV.HOST GROUP LTD
-vless://4a41ba8e-c78d-41dd-a579-d5638416a8df@13.143.183.24:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=cz.gamma-kvn.com&type=tcp#🇩🇪 Германия 5 SERV.HOST GROUP LTD
-vless://4a41ba8e-c78d-41dd-a579-d5638416a8df@50.7.210.83:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=nl-ded1-2.gamma-kvn.com&type=tcp#🇳🇱 Нидерланды 1 FDCservers.net
-vless://4a41ba8e-c78d-41dd-a579-d5638416a8df@50.7.210.59:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=nl-ded3-2.gamma-kvn.com&type=tcp#🇳🇱 Нидерланды 2 FDCservers.net
-vless://4a41ba8e-c78d-41dd-a579-d5638416a8df@50.7.220.107:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=nl-ded2-2.gamma-kvn.com&type=tcp#🇳🇱 Нидерланды 3 FDCservers.net
-vless://cda55439-17ba-4351-a0ae-72da9770b286@153.52.255.12:443?encryption=none&fp=firefox&host=ldjfrfhvdvfg-production.up.railway.app&path=/api/2d4us8&security=tls&sni=ldjfrfhvdvfg-production.up.railway.app&type=ws#🇳🇱 Нидерланды 4 Railway
-vless://4a41ba8e-c78d-41dd-a579-d5638416a8df@162.249.125.156:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=romania.gamma-kvn.com&type=tcp#🇷🇴 Румыния 1 INTERKVM HOST SRL
-vless://4a41ba8e-c78d-41dd-a579-d5638416a8df@193.168.140.225:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ro.gamma-kvn.com&type=tcp#🇷🇴 Румыния 2 ZERGRUSH SRL
-vless://4a41ba8e-c78d-41dd-a579-d5638416a8df@88.218.42.119:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=france-ai.gamma-kvn.com&type=tcp#🇫🇷 Франция 1 INTERKVM HOST SRL
-vless://5dca5180-7c50-4b91-b21c-be8bfc769141@83.243.86.129:443?encryption=none&fp=firefox&path=/ws-89a4f2&security=tls&sni=fr6.sky-vault.top&type=ws#🇫🇷 Франция 2 TAKEHOST OU
-vless://4a41ba8e-c78d-41dd-a579-d5638416a8df@50.7.184.27:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=at.gamma-kvn.com&type=tcp#🇦🇹 Австрия FDCservers.net
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.200:2096?encryption=none&fp=firefox&host=stadc07.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stadc07.rumedia-cdn.com&type=ws#🇫🇮 Финляндия NODE HOST LIMITED
-vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?encryption=none&fp=firefox&security=tls&sni=szqbx-ru-77dc.my-fade.cloud&type=tcp#🇪🇪 Эстония BlueVPS OU
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.197:2096?encryption=none&fp=firefox&host=st23ca2.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st23ca2.rumedia-cdn.com&type=ws#🇩🇪 Германия 1 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.218:2096?encryption=none&fp=firefox&host=st64d67.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st64d67.rumedia-cdn.com&type=ws#🇩🇪 Германия 2 NODE HOST LIMITED
+vless://67864856-8730-40cc-9e1a-a0df697d912b@85.92.156.133:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=de.krabvpn.pro&type=tcp#🇩🇪 Германия 3 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.200:2096?encryption=none&fp=firefox&host=stadc07.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stadc07.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 1 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2096?encryption=none&fp=firefox&host=stb71e5.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stb71e5.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 2 NODE HOST LIMITED
+vless://5dca5180-7c50-4b91-b21c-be8bfc769141@83.243.86.129:443?encryption=none&fp=firefox&path=/ws-89a4f2&security=tls&sni=fr6.sky-vault.top&type=ws#🇫🇷 Франция 1 TAKEHOST OU
+vless://5dca5180-7c50-4b91-b21c-be8bfc769141@83.243.86.129:443?encryption=none&fp=firefox&host=fr6.sky-vault.top&path=/ws-89a4f2&security=tls&sni=fr6.sky-vault.top&type=ws#🇫🇷 Франция 2 TAKEHOST OU
+vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?encryption=none&fp=firefox&security=tls&sni=szqbx-ru-77dc.my-fade.cloud&type=tcp#🇪🇪 Эстония 1 BlueVPS OU
+vless://67864856-8730-40cc-9e1a-a0df697d912b@85.92.156.133:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=de.krabvpn.pro&type=tcp#🇪🇪 Эстония 2 Owned by Sentia
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@84.32.185.50:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru16.net&type=tcp#🇳🇱 Нидерланды UAB Cherry Servers

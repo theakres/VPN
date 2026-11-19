@@ -4,7 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNC40L3Qu9GP0L3QtNC40Y8=
-vless://ab5e91ee-f600-4825-a2bc-d6471d5cee03@185.232.204.116:443?encryption=none&fp=firefox&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&security=reality&serviceName=grpc&sid=12345678&sni=food-from-finlda-here-we-go.keno.su&type=grpc#🇫🇮 Финляндия 1 Anton Levin
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.200:2096?encryption=none&fp=firefox&host=stadc07.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stadc07.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 2 NODE HOST LIMITED
-hysteria2://lvu_3aa4932b4c5fcc489c6e7f7ab964c6f6_d7175b76207f60dd31ff5a508f544f55:np2.1.2ee0JcTRe0ZVg32m8KLelOq4P0fH0s7iHXwZpzBYics@91.108.247.47:9443?sni=n33.neproxy.net#🇫🇮 Финляндия 3 Oy Crea Nova Hosting Solution Ltd
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.200:2096?encryption=none&fp=firefox&host=stadc07.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stadc07.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 1 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2096?encryption=none&fp=firefox&host=stb71e5.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stb71e5.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 2 NODE HOST LIMITED
+vless://ab5e91ee-f600-4825-a2bc-d6471d5cee03@185.232.204.116:443?encryption=none&fp=firefox&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&security=reality&serviceName=grpc&sid=12345678&sni=food-from-finlda-here-we-go.keno.su&type=grpc#🇫🇮 Финляндия 3 Anton Levin
 vless://66c78912-4e2d-41dc-8742-aaae2590804e@13.143.187.220:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=eDzVz3bxkv3IoN3BUCa_aA-RicoeG7ACylYSnmS2Pgg&security=reality&sni=fi-s1.kadrhub.tech&type=tcp#🇫🇮 Финляндия 4 SERV.HOST GROUP LTD
