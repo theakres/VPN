@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQotGD0YDRhtC40Y8=
-vless://1fba2b1d-21c7-4110-80b6-5ddfd5407cf8@38.17.65.8:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&security=reality&sid=9a597f16c2171bab&sni=www.nvidia.com&type=tcp#🇹🇷 Турция 1 Netlen Internet Hizmetleri Ltd. Sti.
-vless://7fd87f36-d0f6-40bb-9c5c-6c7b1148be03@94.182.134.170:8443?encryption=mlkem768x25519plus.native.0rtt.mZzm-VXIzNl_7ArZjLzd4-XtQ0ryPyZW2NqLSTV3YC4&flow=xtls-rprx-vision&fp=firefox&pbk=x2gVFOvPV4ucfzXqD7f_WkV_hw8rTHTPLCMgcgJgq0I&security=reality&sid=0fb9f155&sni=google.com&type=tcp#🇹🇷 Турция 2 Netlen Internet Hizmetleri Ltd. Sti.
