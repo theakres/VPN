@@ -4,13 +4,11 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://26d87b51-e894-4e14-8959-f00aacf36ddf@81.12.57.72:2086?encryption=none&fp=firefox&security=tls&sni=shno.shnovps.cyou&type=tcp#🇩🇪 Германия 1 Hetzner Online GmbH
-vless://fbe13da8-ed47-4a95-a894-269ae0b26839@5.202.14.174:706?encryption=none&fp=firefox&host=Germany.speedfast99.ir&security=tls&sni=Germany.speedfast99.ir&type=ws#🇩🇪 Германия 2 Hetzner Online GmbH
+vless://5eda3398-bb23-47dd-b95c-4f9fb1282d35@116.202.184.184:27181?encryption=mlkem768x25519plus.native.0rtt.F5LiR4Hs6W_x17I2LmxdFA8MUGvpHSaVuZ4zxTCAkmI&fp=firefox&host=login.zanjanphone.ir&path=/user&security=tls&sni=login.zanjanphone.ir&type=ws#🇩🇪 Германия 1 Hetzner Online GmbH
+vless://67864856-8730-40cc-9e1a-a0df697d912b@216.225.198.243:443?encryption=none&fp=firefox&host=devlayer.tech&path=/api/bHdrRe2r7Ater7rlxXjIjyHOLQQ/&security=tls&sni=devlayer.tech&type=xhttp#🇩🇪 Германия 2 NODE HOST LIMITED
 vless://58118f4c-d0a1-4d91-9b58-c15b249dfcbd@217.60.12.99:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=217.60.12.99&type=tcp#🇩🇪 Германия 3 UAB Cherry Servers
+vless://0f2dc4af-951f-4690-922e-07c6e8bab26a@83.141.91.211:8444?encryption=none&fp=firefox&host=fr-41-tapy.wave-inside.online&path=/xh&security=tls&sni=fr-41-tapy.wave-inside.online&type=xhttp#🇬🇧 Великобритания 1 AEZA GROUP LLC
+vless://0f2dc4af-951f-4690-922e-07c6e8bab26a@193.106.220.103:8444?encryption=none&fp=firefox&host=at-40-xckh.wave-inside.online&path=/xh&security=tls&sni=at-40-xckh.wave-inside.online&type=xhttp#🇬🇧 Великобритания 2 AEZA GROUP LLC
 vless://62598096-8cfd-4557-a952-bf729f77fa6c@50.7.95.221:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru13.net&type=tcp#🇳🇱 Нидерланды 1 FDCservers.net
 vless://64f002a5-e347-4954-ac53-9fb5d76d19d5@194.135.22.186:443?encryption=none&fp=firefox&security=tls&serviceName=videohosting.Stream&sni=videohosting.cliphub.forum&type=grpc#🇳🇱 Нидерланды 2 Royalehosting BV
-vless://62598096-8cfd-4557-a952-bf729f77fa6c@84.32.185.50:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru16.net&type=tcp#🇳🇱 Нидерланды 3 UAB Cherry Servers
-vless://0f2dc4af-951f-4690-922e-07c6e8bab26a@193.106.220.103:8444?encryption=none&fp=firefox&host=at-40-xckh.wave-inside.online&path=/xh&security=tls&sni=at-40-xckh.wave-inside.online&type=xhttp#🇬🇧 Великобритания 1 AEZA GROUP LLC
-vless://0f2dc4af-951f-4690-922e-07c6e8bab26a@83.141.91.211:8444?encryption=none&fp=firefox&host=fr-41-tapy.wave-inside.online&path=/xh&security=tls&sni=fr-41-tapy.wave-inside.online&type=xhttp#🇬🇧 Великобритания 2 AEZA GROUP LLC
-vless://aa983622-bffd-4313-b4d1-bf0e1b7b6ad8@157.228.172.4:8443?encryption=none&fp=firefox&security=tls&sni=157.228.172.4&type=tcp#🇫🇮 Финляндия 1 U1 DIGITAL SERVICES LTD
-vless://aa983622-bffd-4313-b4d1-bf0e1b7b6ad8@157.228.172.4:8443?encryption=none&fp=firefox&security=tls&type=tcp#🇫🇮 Финляндия 2 U1 DIGITAL SERVICES LTD
+vless://aa983622-bffd-4313-b4d1-bf0e1b7b6ad8@157.228.172.4:8443?encryption=none&fp=firefox&security=tls&sni=157.228.172.4&type=tcp#🇫🇮 Финляндия U1 DIGITAL SERVICES LTD
