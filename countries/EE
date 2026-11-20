@@ -4,9 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
-vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@217.60.100.223:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tF62l_MUqYMOj-yHo1rHXQKhZK9hi9rLSyMhZjF5ZVA&security=reality&sid=7a15402edc83d157&sni=est1s.dendi.best&type=tcp#🇪🇪 Эстония 1 STENCLOUD LLC
-vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@217.60.100.222:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=217.60.100.222&type=tcp#🇪🇪 Эстония 2 STENCLOUD LLC
-vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@87.232.116.22:443?encryption=none&fp=firefox&security=tls&serviceName=67h2o3erm0t9imsj&sni=fafeqdhlett2p5la6d.cdn.cachefleet.com&type=grpc#🇪🇪 Эстония 3 TAKEHOST OU
-vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@87.232.116.21:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QmMAxiMbYvZG8NE-7NdYaYRovPyNilnfcmXelA0hGjA&security=reality&sid=343db8abdd85766b&sni=aurora-ledger.cdn.cachefleet.com&type=tcp#🇪🇪 Эстония 4 TAKEHOST OU
-vless://0259e5aa-c188-4334-b204-32cd5ea859f6@31.56.187.211:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_MeP-WwmolUvi6wMXNoSs_zo6miG_OW7xk4ibzADiHY&security=reality&sni=maps-carts-world.keno.su&type=tcp#🇪🇪 Эстония 5 ExpressHost Ltd
-vless://13cca0fd-bb3e-44e4-9ced-1c6efcabbb03@95.85.243.72:443?encryption=none&fp=firefox&pbk=m3opvubdy_gjBiBkXnAw3eDUP4alVeVWxKkvZHIINjs&security=reality&sid=426165a0badade80&sni=212.192.156.15&type=tcp#🇪🇪 Эстония 6 OC NETWORKS LIMITED
+vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@217.60.100.222:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=217.60.100.222&type=tcp#🇪🇪 Эстония 1 STENCLOUD LLC
+vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@217.60.100.223:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tF62l_MUqYMOj-yHo1rHXQKhZK9hi9rLSyMhZjF5ZVA&security=reality&sid=7a15402edc83d157&sni=est1s.dendi.best&type=tcp#🇪🇪 Эстония 2 STENCLOUD LLC
+vless://0259e5aa-c188-4334-b204-32cd5ea859f6@31.56.187.211:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_MeP-WwmolUvi6wMXNoSs_zo6miG_OW7xk4ibzADiHY&security=reality&sni=maps-carts-world.keno.su&type=tcp#🇪🇪 Эстония 3 ExpressHost Ltd
+vless://13cca0fd-bb3e-44e4-9ced-1c6efcabbb03@95.85.243.72:443?encryption=none&fp=firefox&pbk=m3opvubdy_gjBiBkXnAw3eDUP4alVeVWxKkvZHIINjs&security=reality&sid=426165a0badade80&sni=212.192.156.15&type=tcp#🇪🇪 Эстония 4 OC NETWORKS LIMITED
