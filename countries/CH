@@ -6,6 +6,6 @@
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXQudGG0LDRgNC40Y8=
 vless://c1f4f185-5786-40c9-893f-2f100b7165f2@94.183.195.179:20017?encryption=none&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=eu64.cdn77.icu&type=tcp#🇨🇭 Швейцария 1 ROUTE 95 LLC
 hysteria2://lvu_3aa4932b4c5fcc489c6e7f7ab964c6f6_d7175b76207f60dd31ff5a508f544f55:np2.1.2ee0JcTRe0ZVg32m8KLelOq4P0fH0s7iHXwZpzBYics@212.102.227.131:10443?sni=n32.neproxy.net#🇨🇭 Швейцария 2 ROUTE 95 LLC
-hysteria2://lvu_3aa4932b4c5fcc489c6e7f7ab964c6f6_d7175b76207f60dd31ff5a508f544f55:np2.1.2ee0JcTRe0ZVg32m8KLelOq4P0fH0s7iHXwZpzBYics@91.108.247.47:12443?sni=n32.neproxy.net#🇨🇭 Швейцария 3 ROUTE 95 LLC
+vless://c1f4f185-5786-40c9-893f-2f100b7165f2@94.183.195.179:20017?encryption=none&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=94.183.195.179&type=tcp#🇨🇭 Швейцария 3 ROUTE 95 LLC
 vless://50414e45-4c5f-5a45-5553-442eb64cf8be@194.154.29.245:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/442eb64cf8be&security=tls&sni=2gz7b3ebutms.ergte1098ewtg.workers.dev&type=ws#🇨🇭 Швейцария 4 Cloudflare, Inc.
 vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@179.43.152.212:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DvuHNIj448CnPljdm52Aa2JWVuVZh1T8zXEvJ6zXz04&security=reality&sid=9c2378562188c3cb&sni=6f6s73bt7.dendiboss.org&type=tcp#🇨🇭 Швейцария 5 Private Layer INC
