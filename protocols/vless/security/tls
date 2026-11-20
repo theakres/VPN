@@ -4,9 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://122455f3-fdbf-431e-89dc-d2281226db1f@50.7.169.245:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru9.net&type=tcp#🇳🇱 Нидерланды 1 FDCservers.net
-vless://122455f3-fdbf-431e-89dc-d2281226db1f@50.7.95.221:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru13.net&type=tcp#🇳🇱 Нидерланды 2 FDCservers.net
-vless://1e7e4df1-a912-4a01-a3c4-d88054fff285@82.148.249.143:2053?encryption=none&fp=firefox&security=tls&serviceName=0be13b1e7974&sni=nbv1.duckdns.org&type=grpc#🇬🇧 Великобритания AEZA GROUP LLC
-vless://93c0244e-6eb2-41bc-ad9c-1a7606747e13@156.245.234.97:2096?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=lyhk.mihoyo.site&type=tcp#🇭🇰 Гонконг MoeDove
+vless://c8c17d77-cc46-4c81-a2bf-779e75532bdc@95.163.2.47:443?encryption=none&fp=firefox&host=zisvpn.tech&path=/vless-nl&security=tls&sni=zisvpn.tech&type=ws#🇳🇱 Нидерланды 1 HOSTOX GROUP S.R.L.
+vless://52d0c9b1-80aa-4b20-bcb1-849991560498@5.59.205.81:443?encryption=none&fp=firefox&security=tls&sni=52d0c9b1.ferrin.uk&type=xhttp#🇳🇱 Нидерланды 2 Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi
+vless://52d0c9b1-80aa-4b20-bcb1-849991560498@5.59.205.81:443?encryption=none&extra={"xmux":{"hMaxReusableSecs":"1140-1260","maxConnections":3}}&fp=firefox&path=/tr&security=tls&sni=52d0c9b1.ferrin.uk&type=xhttp#🇹🇷 Турция Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi
 vless://2b696acb-1311-4ab7-b832-b376d29dca27@65.109.252.58:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=static.170.55.238.62.clients.your-server.de&type=tcp#🇫🇮 Финляндия Hetzner Online GmbH
 vless://7449aa0e-bac3-4971-a7cf-5bf7c3eface5@179.253.81.242:443?encryption=none&fp=firefox&host=179.253.81.242&path=/edge/stream&security=tls&sni=ee.cultcorp.net&type=xhttp#🇪🇪 Эстония SERV.HOST GROUP LTD

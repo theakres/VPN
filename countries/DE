@@ -4,11 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQk9C10YDQvNCw0L3QuNGP
-vless://1dfcb989-e9e8-4652-9e95-c5cde9eaf908@89.125.175.188:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=tcp#🇩🇪 Германия 1 WEYRO LTD
-vless://e44f2cca-c59b-4535-9bcf-62ab0481665e@89.125.175.188:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=tcp#🇩🇪 Германия 2 WEYRO LTD
-vless://167c4a31-e694-43a1-9bf9-3fb65384ef87@89.125.175.188:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=tcp#🇩🇪 Германия 3 WEYRO LTD
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@185.255.115.181:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&security=reality&sid=6976d670818644cc&sni=4935e4t.de25.h1clayd.click&type=tcp#🇩🇪 Германия 4 dataforest GmbH
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@195.206.235.99:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&security=reality&sid=6976d670818644cc&sni=4935e4t.de25.h1clayd.click&type=tcp#🇩🇪 Германия 5 dataforest GmbH
-hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@48.102.174.174:443?sni=polandchuzhoi.site#🇩🇪 Германия 6 PLAY2GO - FZCO
-hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@94.156.179.197:443?sni=germanyafterpool.fun#🇩🇪 Германия 7 PLAY2GO INTERNATIONAL LIMITED
-vless://4f17f94b-e725-4be8-92a4-0e4987578bcc@82.139.235.44:443?encryption=none&fp=firefox&pbk=ZHnkRCy0F75B26CsYwK-jRbIjWkr9u8uqX6frMtQORo&security=reality&sid=a5ba46c7&sni=cloudflare.com&type=tcp#🇩🇪 Германия 8 POLONETWORK LIMITED
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@195.206.235.99:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&security=reality&sid=6976d670818644cc&sni=4935e4t.de25.h1clayd.click&type=tcp#🇩🇪 Германия 1 dataforest GmbH
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@185.255.115.181:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&security=reality&sid=6976d670818644cc&sni=4935e4t.de25.h1clayd.click&type=tcp#🇩🇪 Германия 2 dataforest GmbH
+hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@94.156.179.197:443?sni=germanyafterpool.fun#🇩🇪 Германия 3 PLAY2GO INTERNATIONAL LIMITED
+vless://9a9f167d-b461-466f-be50-f0ffd598a6f8@144.31.167.154:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lY9sPrXzj3Dlsj6JTP5UolK1RmIAlstuAy3dBJ97ag0&security=reality&sni=gembeforeshoping.space&type=tcp#🇩🇪 Германия 4 PLAY2GO INTERNATIONAL LIMITED
+hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@48.102.174.174:443?sni=polandchuzhoi.site#🇩🇪 Германия 5 PLAY2GO - FZCO

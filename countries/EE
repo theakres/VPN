@@ -4,9 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
-vless://7449aa0e-bac3-4971-a7cf-5bf7c3eface5@179.253.81.242:443?encryption=none&fp=firefox&host=179.253.81.242&path=/edge/stream&security=tls&sni=ee.cultcorp.net&type=xhttp#🇪🇪 Эстония 1 SERV.HOST GROUP LTD
-hysteria2://917f4b0a-8b3b-404c-aa60-b47e83a33e8f@150.241.74.160:30443?sni=tll.nikomy.uk#🇪🇪 Эстония 2 SERV.HOST GROUP LTD
-vless://6ab79fec-ca02-447b-b7be-5945f6e6ea8f@80.79.121.156:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=x9HClr5eRPhMPuBIndkjqFU_0D0M-p4sJVAxuTP68kM&security=reality&sid=dcfad1cc10d0d15b&sni=archive-eu-west.livemusic.ac&type=tcp#🇪🇪 Эстония 3 Aktsiaselts WaveCom
-vless://0259e5aa-c188-4334-b204-32cd5ea859f6@31.56.187.211:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_MeP-WwmolUvi6wMXNoSs_zo6miG_OW7xk4ibzADiHY&security=reality&sni=maps-carts-world.keno.su&type=tcp#🇪🇪 Эстония 4 ExpressHost Ltd
-vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@153.52.143.118:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=de2.fox-lisa.ru&type=tcp#🇪🇪 Эстония 5 GIGAGROUP Sp. z o.o
-vless://13cca0fd-bb3e-44e4-9ced-1c6efcabbb03@95.85.243.72:443?encryption=none&fp=firefox&pbk=m3opvubdy_gjBiBkXnAw3eDUP4alVeVWxKkvZHIINjs&security=reality&sid=426165a0badade80&sni=212.192.156.15&type=tcp#🇪🇪 Эстония 6 OC NETWORKS LIMITED
+vless://6ab79fec-ca02-447b-b7be-5945f6e6ea8f@80.79.121.156:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=x9HClr5eRPhMPuBIndkjqFU_0D0M-p4sJVAxuTP68kM&security=reality&sid=dcfad1cc10d0d15b&sni=archive-eu-west.livemusic.ac&type=tcp#🇪🇪 Эстония 1 Aktsiaselts WaveCom
+vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@153.52.143.118:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=de2.fox-lisa.ru&type=tcp#🇪🇪 Эстония 2 GIGAGROUP Sp. z o.o
+vless://7449aa0e-bac3-4971-a7cf-5bf7c3eface5@179.253.81.242:443?encryption=none&fp=firefox&host=179.253.81.242&path=/edge/stream&security=tls&sni=ee.cultcorp.net&type=xhttp#🇪🇪 Эстония 3 SERV.HOST GROUP LTD
