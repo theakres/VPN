@@ -4,13 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
-vless://61e7a9b7-fbf4-4672-8c8b-c669109fb72a@169.58.215.154:8443?encryption=none&fp=firefox&host=lenoxtunnel.pages.dev&security=tls&sni=lenoxtunnel.pages.dev&type=ws#🇩🇪 Германия 1 Cloudflare, Inc.
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.244:2096?encryption=none&fp=firefox&host=stc4ef0.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stc4ef0.rumedia-cdn.com&type=ws#🇩🇪 Германия 2 Cloudflare, Inc.
-vless://c4bc7991-1d11-4fbe-ad9c-4de525060249@45.135.194.209:666?encryption=none&fp=firefox&host=de.nyanners.ir&security=tls&sni=de.nyanners.ir&type=ws#🇩🇪 Германия 3 Pfcloud UG haftungsbeschrankt
 vless://50414e45-4c5f-5a45-5553-d617da6e0a54@194.156.26.20:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/d617da6e0a54&security=tls&sni=qzzw7gegux3s.ersg587gatdd.workers.dev&type=ws#🇷🇺 Россия 1 Cloudflare, Inc.
 vless://50414e45-4c5f-5a45-5553-d498006b6113@194.156.26.4:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/d498006b6113&security=tls&sni=4kzs98enuqus.gametyrhewr06.workers.dev&type=ws#🇷🇺 Россия 2 Cloudflare, Inc.
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2096?encryption=none&fp=firefox&path=/cdn/v3/live&security=tls&sni=stb71e5.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 1 NODE HOST LIMITED
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2096?encryption=none&fp=firefox&host=stb71e5.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stb71e5.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 2 NODE HOST LIMITED
-vless://3bbc98cb-46b1-4441-9d55-02a100000020@87.120.222.199:443?encryption=none&fp=firefox&host=cf-smart-354.pnihastam7021.workers.dev&path=/sync&security=tls&sni=cf-smart-354.pnihastam7021.workers.dev&type=ws#🇺🇸 США OVH SAS
-vless://bf14dc50-e9f2-49fd-8642-620446edeafb@83.147.14.62:8443?encryption=none&fp=firefox&host=v3-duz.pages.dev&security=tls&sni=v3-duz.pages.dev&type=ws#🇹🇼 Тайвань Cloudflare, Inc.
+vless://61e7a9b7-fbf4-4672-8c8b-c669109fb72a@169.58.215.154:8443?encryption=none&fp=firefox&host=lenoxtunnel.pages.dev&security=tls&sni=lenoxtunnel.pages.dev&type=ws#🇩🇪 Германия Cloudflare, Inc.
 vless://50414e45-4c5f-5a45-5553-442eb64cf8be@194.154.29.245:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/442eb64cf8be&security=tls&sni=2gz7b3ebutms.ergte1098ewtg.workers.dev&type=ws#🇨🇭 Швейцария Cloudflare, Inc.

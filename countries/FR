@@ -1,9 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
-vless://d236da5f-198e-72dc-5a24-f37b5e90a159@122.8.92.8:443?encryption=none&fp=firefox&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&security=reality&sni=www.philips.com&type=xhttp#🇫🇷 Франция 1 Fast Servers Pty Ltd
-vless://d236da5f-198e-72dc-5a24-f37b5e90a159@122.8.92.8:8443?encryption=none&fp=firefox&pbk=3DYkxUg9fBA6cONioJOPrsklcMQEImEsurR6air4swo&security=reality&serviceName=TunService&sni=cdn.steamstatic.com&type=grpc#🇫🇷 Франция 2 Fast Servers Pty Ltd
-vless://74af70c0-bea7-4412-9a1a-f7eab9c91ef8@138.124.9.201:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-93ZD_5l99Hu0HDdHsPWrjV07UCNQiQ2PRAGqIC4Xgg&security=reality&sid=5b3ef653ee33b49a&sni=codestral.mistral.ai&type=tcp#🇫🇷 Франция 3 YottaSrc
