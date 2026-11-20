@@ -4,10 +4,15 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.197:2096?encryption=none&fp=firefox&host=st23ca2.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st23ca2.rumedia-cdn.com&type=ws#🇩🇪 Германия 1 NODE HOST LIMITED
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.244:2096?encryption=none&fp=firefox&host=stc4ef0.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stc4ef0.rumedia-cdn.com&type=ws#🇩🇪 Германия 2 NODE HOST LIMITED
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.233:2096?encryption=none&fp=firefox&host=st46d76.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st46d76.rumedia-cdn.com&type=ws#🇩🇪 Германия 3 NODE HOST LIMITED
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.223:2096?encryption=none&fp=firefox&host=stac1f5.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stac1f5.rumedia-cdn.com&type=ws#🇩🇪 Германия 4 NODE HOST LIMITED
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2096?encryption=none&fp=firefox&host=stb71e5.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stb71e5.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 1 NODE HOST LIMITED
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.200:2096?encryption=none&fp=firefox&host=stadc07.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stadc07.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 2 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.233:2096?encryption=none&fp=firefox&host=st46d76.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st46d76.rumedia-cdn.com&type=ws#🇩🇪 Германия 1 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.223:2096?encryption=none&fp=firefox&host=stac1f5.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stac1f5.rumedia-cdn.com&type=ws#🇩🇪 Германия 2 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.197:2096?encryption=none&fp=firefox&host=st23ca2.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st23ca2.rumedia-cdn.com&type=ws#🇩🇪 Германия 3 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.244:2096?encryption=none&fp=firefox&host=stc4ef0.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stc4ef0.rumedia-cdn.com&type=ws#🇩🇪 Германия 4 Cloudflare, Inc.
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@72.61.179.194:8443?encryption=none&fp=firefox&host=v1n3.11676767.xyz&security=tls&sni=v1n3.11676767.xyz&type=ws#🇩🇪 Германия 5 Cloudflare, Inc.
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.200:2096?encryption=none&fp=firefox&host=stadc07.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stadc07.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 1 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2096?encryption=none&fp=firefox&host=stb71e5.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stb71e5.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 2 NODE HOST LIMITED
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2096?encryption=none&fp=firefox&path=/cdn/v3/live&security=tls&sni=stb71e5.rumedia-cdn.com&type=ws#🇫🇮 Финляндия 3 NODE HOST LIMITED
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@163.47.43.52:8443?encryption=none&fp=firefox&host=vp4.1145678.xyz&security=tls&sni=vp4.1145678.xyz&type=ws#🇺🇸 США 1 Cloudflare, Inc.
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@149.28.8.10:443?encryption=none&fp=firefox&host=v1n3.11676767.xyz&security=tls&sni=v1n3.11676767.xyz&type=ws#🇺🇸 США 2 Cloudflare, Inc.
+vless://c3dd06bc-7c9e-4716-beb2-dde88bd31d7f@31.56.204.91:666?encryption=none&fp=firefox&host=latvia.nyanners.ir&security=tls&sni=latvia.nyanners.ir&type=ws#🇱🇻 Латвия CGI GLOBAL LIMITED
 vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@193.58.179.197:443?encryption=none&fp=firefox&host=geoplan-krd.pro&path=/checkout/step/wjZAlhnxAy9g&security=tls&sni=geoplan-krd.pro&type=ws#🇳🇱 Нидерланды UAB Cherry Servers
