@@ -4,8 +4,9 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@167.233.249.190:8443?encryption=none&fp=firefox&host=666-7sf.pages.dev&security=tls&sni=666-7sf.pages.dev&type=ws#🇫🇷 Франция 1 Cloudflare, Inc.
-vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@45.95.98.139:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=45.95.98.130&type=tcp#🇫🇷 Франция 2 DigitalEra Tech OU
-vless://d236da5f-198e-72dc-5a24-f37b5e90a159@122.8.92.8:443?encryption=none&fp=firefox&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&security=reality&sni=www.philips.com&type=xhttp#🇫🇷 Франция 3 Fast Servers Pty Ltd
-vless://cd1ac04c-3dea-450b-b57b-2aa00f357353@50.7.244.131:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=iLtI3MZq_yv800TdWhYDV-33NUq6teuSQPE4utHpZl0&security=reality&sid=36733490cb&sni=vetmo.sywl5.ink&type=tcp#🇫🇷 Франция 4 FDCservers.net
-vless://74af70c0-bea7-4412-9a1a-f7eab9c91ef8@138.124.9.201:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-93ZD_5l99Hu0HDdHsPWrjV07UCNQiQ2PRAGqIC4Xgg&security=reality&sid=5b3ef653ee33b49a&sni=codestral.mistral.ai&type=tcp#🇫🇷 Франция 5 YottaSrc
+vless://d236da5f-198e-72dc-5a24-f37b5e90a159@122.8.92.8:443?encryption=none&fp=firefox&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&security=reality&sni=www.philips.com&type=xhttp#🇫🇷 Франция 1 Fast Servers Pty Ltd
+vless://d236da5f-198e-72dc-5a24-f37b5e90a159@122.8.92.8:8443?encryption=none&fp=firefox&pbk=3DYkxUg9fBA6cONioJOPrsklcMQEImEsurR6air4swo&security=reality&serviceName=TunService&sni=cdn.steamstatic.com&type=grpc#🇫🇷 Франция 2 Fast Servers Pty Ltd
+vless://61e7a9b7-fbf4-4672-8c8b-c669109fb72a@169.58.215.154:8443?encryption=none&fp=firefox&host=lenoxtunnel.pages.dev&security=tls&sni=lenoxtunnel.pages.dev&type=ws#🇫🇷 Франция 3 Cloudflare, Inc.
+vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@45.95.98.139:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=45.95.98.130&type=tcp#🇫🇷 Франция 4 DigitalEra Tech OU
+vless://cd1ac04c-3dea-450b-b57b-2aa00f357353@50.7.244.131:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=iLtI3MZq_yv800TdWhYDV-33NUq6teuSQPE4utHpZl0&security=reality&sid=36733490cb&sni=vetmo.sywl5.ink&type=tcp#🇫🇷 Франция 5 FDCservers.net
+vless://74af70c0-bea7-4412-9a1a-f7eab9c91ef8@138.124.9.201:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-93ZD_5l99Hu0HDdHsPWrjV07UCNQiQ2PRAGqIC4Xgg&security=reality&sid=5b3ef653ee33b49a&sni=codestral.mistral.ai&type=tcp#🇫🇷 Франция 6 YottaSrc
