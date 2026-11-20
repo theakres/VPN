@@ -5,5 +5,8 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
 vless://6ab79fec-ca02-447b-b7be-5945f6e6ea8f@80.79.121.156:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=x9HClr5eRPhMPuBIndkjqFU_0D0M-p4sJVAxuTP68kM&security=reality&sid=dcfad1cc10d0d15b&sni=archive-eu-west.livemusic.ac&type=tcp#🇪🇪 Эстония 1 Aktsiaselts WaveCom
-vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@153.52.143.118:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=de2.fox-lisa.ru&type=tcp#🇪🇪 Эстония 2 GIGAGROUP Sp. z o.o
-vless://7449aa0e-bac3-4971-a7cf-5bf7c3eface5@179.253.81.242:443?encryption=none&fp=firefox&host=179.253.81.242&path=/edge/stream&security=tls&sni=ee.cultcorp.net&type=xhttp#🇪🇪 Эстония 3 SERV.HOST GROUP LTD
+vless://c2b17066-5386-0001-803b-5e652c0528f9@185.178.208.167:443?encryption=none&fp=firefox&host=api.14887277.xyz&path=/session&security=tls&sni=trx.tools&type=ws#🇪🇪 Эстония 2 BlueVPS OU
+vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@153.52.143.118:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=de2.fox-lisa.ru&type=tcp#🇪🇪 Эстония 3 GIGAGROUP Sp. z o.o
+vless://ac56e1c8-cddb-4203-a886-40da71018779@168.113.132.25:2096?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Ni6eoBn84Zr8uqHSMZ18Ws47QtHWOtd-9Pgqmc3BpHo&security=reality&sid=7c6ed95951c15310&sni=youflexsite.jumpingcrab.com&type=tcp#🇪🇪 Эстония 4 OC NETWORKS LIMITED
+vless://b0cd356f-da28-4107-a4e8-2375efab2614@176.109.103.20:8453?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xPmRjkBE_F0_Lh-61wEv3SoUn2dTRHZO5Ko7ZdOyTnM&security=reality&sid=9b2653371e8cbc31&sni=essst.lerogrenta.shop&type=tcp#🇪🇪 Эстония 5 Orion Network Limited
+vless://7449aa0e-bac3-4971-a7cf-5bf7c3eface5@179.253.81.242:443?encryption=none&fp=firefox&host=179.253.81.242&path=/edge/stream&security=tls&sni=ee.cultcorp.net&type=xhttp#🇪🇪 Эстония 6 SERV.HOST GROUP LTD
