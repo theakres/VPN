@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
+vless://5eda3398-bb23-47dd-b95c-4f9fb1282d35@116.202.184.184:27181?encryption=mlkem768x25519plus.native.0rtt.F5LiR4Hs6W_x17I2LmxdFA8MUGvpHSaVuZ4zxTCAkmI&fp=firefox&host=login.zanjanphone.ir&path=/user&security=tls&sni=login.zanjanphone.ir&type=ws#🇩🇪 Германия Hetzner Online GmbH
+vless://c8c17d77-cc46-4c81-a2bf-779e75532bdc@95.163.2.47:443?encryption=none&fp=firefox&host=zisvpn.tech&path=/vless-nl&security=tls&sni=zisvpn.tech&type=ws#🇳🇱 Нидерланды HOSTOX GROUP S.R.L.
