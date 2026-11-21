@@ -4,6 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
-vless://6ab79fec-ca02-447b-b7be-5945f6e6ea8f@80.79.121.156:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=x9HClr5eRPhMPuBIndkjqFU_0D0M-p4sJVAxuTP68kM&security=reality&sid=dcfad1cc10d0d15b&sni=archive-eu-west.livemusic.ac&type=tcp#🇪🇪 Эстония 1 Aktsiaselts WaveCom
-vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@153.52.143.118:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=de2.fox-lisa.ru&type=tcp#🇪🇪 Эстония 2 GIGAGROUP Sp. z o.o
-vless://f087c6c0-ee7f-4ff9-899a-3521e78dfcda@185.155.222.78:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=angrybirds.su&type=tcp#🇪🇪 Эстония 3 RJ Network OU
+vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@87.232.116.22:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QmMAxiMbYvZG8NE-7NdYaYRovPyNilnfcmXelA0hGjA&security=reality&sid=343db8abdd85766b&sni=aurora-ledger.cdn.cachefleet.com&type=tcp#🇪🇪 Эстония 1 TAKEHOST OU
+vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@87.232.116.21:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QmMAxiMbYvZG8NE-7NdYaYRovPyNilnfcmXelA0hGjA&security=reality&sid=343db8abdd85766b&sni=aurora-ledger.cdn.cachefleet.com&type=tcp#🇪🇪 Эстония 2 TAKEHOST OU
+vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@87.232.116.22:443?encryption=none&fp=firefox&security=tls&serviceName=67h2o3erm0t9imsj&sni=fafeqdhlett2p5la6d.cdn.cachefleet.com&type=grpc#🇪🇪 Эстония 3 TAKEHOST OU
+vless://6ab79fec-ca02-447b-b7be-5945f6e6ea8f@80.79.121.156:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=x9HClr5eRPhMPuBIndkjqFU_0D0M-p4sJVAxuTP68kM&security=reality&sid=dcfad1cc10d0d15b&sni=archive-eu-west.livemusic.ac&type=tcp#🇪🇪 Эстония 4 Aktsiaselts WaveCom
+vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@153.52.143.118:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=de2.fox-lisa.ru&type=tcp#🇪🇪 Эстония 5 GIGAGROUP Sp. z o.o
