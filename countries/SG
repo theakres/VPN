@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQodC40L3Qs9Cw0L/Rg9GA
+vless://fca493f2-3a28-4cb7-bf6e-8d86ba67349b@125.230.99.155:30401?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZeXA8rcM3TV466jK83J157gY7U2JTI9KP9nmn_Nbawk&security=reality&sid=105a652c&sni=itunes.apple.com&type=tcp#🇸🇬 Сингапур G-Core Labs S.A.
