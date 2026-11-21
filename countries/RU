@@ -4,5 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNC+0YHRgdC40Y8=
-vless://9d08af01-1294-4dd9-a05f-5f0de0e95d66@179.253.173.203:2093?encryption=none&fp=firefox&host=msk.aleqseivpn.site&path=/bdfad638100033a3&security=tls&sni=msk2.aleqseivpn.site&type=ws#🇷🇺 Россия 1 Citytelecom LLC
-vless://cfd6ce74-f4c5-4815-bba4-2fd0fa77bf4e@109.107.189.69:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q1EhO97gyUBlF7LiAfeAESI0O2Mg95T4yIk7keOnMEE&security=reality&sid=0912cc7f28aa26ba&sni=gw-721bd5.dobry.monster&type=tcp#🇷🇺 Россия 2 Cloudflare, Inc.
+vless://4fabeed0-790e-9724-8f12-138ed31ac60e@122.8.93.4:8443?encryption=none&fp=firefox&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&security=reality&serviceName=TunService&sni=www.epson.com&type=grpc#🇷🇺 Россия 1 Alex Largman
+vless://9d08af01-1294-4dd9-a05f-5f0de0e95d66@179.253.173.203:2093?encryption=none&fp=firefox&host=msk.aleqseivpn.site&path=/bdfad638100033a3&security=tls&sni=msk2.aleqseivpn.site&type=ws#🇷🇺 Россия 2 Citytelecom LLC
+vless://cfd6ce74-f4c5-4815-bba4-2fd0fa77bf4e@109.107.189.69:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q1EhO97gyUBlF7LiAfeAESI0O2Mg95T4yIk7keOnMEE&security=reality&sid=0912cc7f28aa26ba&sni=gw-721bd5.dobry.monster&type=tcp#🇷🇺 Россия 3 Cloudflare, Inc.
