@@ -4,4 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQktC10LvQuNC60L7QsdGA0LjRgtCw0L3QuNGP
-vless://4fabeed0-790e-9724-8f12-138ed31ac60e@62.233.39.5:8443?encryption=none&fp=firefox&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#🇬🇧 Великобритания Global Transit Systems LLC
+vless://554ca542-0f7f-4499-9c80-a4bfaca140e0@50.7.154.78:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediasvyaz.cc&type=tcp#🇬🇧 Великобритания 1 FDCservers.net
+vless://c45fdf89-e247-4656-a1dd-44fc69d700ac@50.7.154.78:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediasvyaz.cc&type=tcp#🇬🇧 Великобритания 2 FDCservers.net
+vless://4fabeed0-790e-9724-8f12-138ed31ac60e@62.233.39.5:8443?encryption=none&fp=firefox&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#🇬🇧 Великобритания 3 Global Transit Systems LLC
