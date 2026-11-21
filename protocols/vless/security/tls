@@ -4,30 +4,30 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://8ce4ccb8-99ab-4540-a0db-f879c9933986@50.7.28.213:443?encryption=none&fp=firefox&security=tls&sni=api-v3-8ce4ccb8.vmagnum.win&type=xhttp#🇩🇪 Германия 1 FDCservers.net
-vless://e9958027-03be-4eb5-bcec-70415b2e4844@50.7.28.213:443?encryption=none&fp=firefox&security=tls&sni=api-v3-e9958027.vmagnum.win&type=xhttp#🇩🇪 Германия 2 FDCservers.net
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@191.217.215.228:2096?encryption=none&fp=firefox&host=st3b6e5.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st3b6e5.rumedia-cdn.com&type=ws#🇩🇪 Германия 3 H2NEXUS CLOUD SERVICES - FZCO
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@191.217.215.186:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=191.217.215.186&type=tcp#🇩🇪 Германия 4 H2NEXUS CLOUD SERVICES - FZCO
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@2.26.93.106:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws#🇩🇪 Германия 5 SERV.HOST GROUP LTD
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@2.26.93.106:443?encryption=none&fp=firefox&host=depotchannel.lucheeebezlimitnoekino.stream&path=/media/ws/&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws#🇩🇪 Германия 6 SERV.HOST GROUP LTD
-vless://d96bdba8-70d6-407f-9863-e2a61e4b1399@5.182.87.242:443?encryption=none&fp=firefox&security=tls&sni=de2.omgcloud.ru&type=grpc#🇩🇪 Германия 7 AEZA GROUP LLC
-vless://50558fad-14a8-40ba-8030-e7530b17f99f@116.202.184.184:27181?encryption=mlkem768x25519plus.native.0rtt.F5LiR4Hs6W_x17I2LmxdFA8MUGvpHSaVuZ4zxTCAkmI&fp=firefox&host=login.zanjanphone.ir&path=/user&security=tls&sni=login.zanjanphone.ir&type=ws#🇩🇪 Германия 8 Hetzner Online GmbH
-vless://f63206a4-c04a-47a8-bb8e-d218515d7982@144.31.1.201:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=clientbright.cleanfoodshop.org&type=ws#🇵🇱 Польша 1 H2NEXUS CLOUD SERVICES - FZCO
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@144.31.5.94:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=alphafooter.newbuzideas.org&type=ws#🇵🇱 Польша 2 H2NEXUS CLOUD SERVICES - FZCO
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@144.31.4.18:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=marginbirch.cleanfoodshop.org&type=ws#🇵🇱 Польша 3 H2NEXUS CLOUD SERVICES - FZCO
+vless://e9958027-03be-4eb5-bcec-70415b2e4844@50.7.28.213:443?encryption=none&fp=firefox&security=tls&sni=api-v3-e9958027.vmagnum.win&type=xhttp#🇩🇪 Германия 1 FDCservers.net
+vless://8ce4ccb8-99ab-4540-a0db-f879c9933986@50.7.28.213:443?encryption=none&fp=firefox&security=tls&sni=api-v3-8ce4ccb8.vmagnum.win&type=xhttp#🇩🇪 Германия 2 FDCservers.net
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@191.217.215.186:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=191.217.215.186&type=tcp#🇩🇪 Германия 3 H2NEXUS CLOUD SERVICES - FZCO
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@191.217.215.228:2096?encryption=none&fp=firefox&host=st3b6e5.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st3b6e5.rumedia-cdn.com&type=ws#🇩🇪 Германия 4 H2NEXUS CLOUD SERVICES - FZCO
+vless://50558fad-14a8-40ba-8030-e7530b17f99f@116.202.184.184:27181?encryption=mlkem768x25519plus.native.0rtt.F5LiR4Hs6W_x17I2LmxdFA8MUGvpHSaVuZ4zxTCAkmI&fp=firefox&host=login.zanjanphone.ir&path=/user&security=tls&sni=login.zanjanphone.ir&type=ws#🇩🇪 Германия 5 Hetzner Online GmbH
+vless://109fe686-024c-48cf-8f74-6a8e938a0464@91.107.244.90:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=24c-48cf-8-de-d.vitaminp.ir&type=tcp#🇩🇪 Германия 6 Hetzner Online GmbH
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@2.26.93.106:443?encryption=none&fp=firefox&host=depotchannel.lucheeebezlimitnoekino.stream&path=/media/ws/&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws#🇩🇪 Германия 7 SERV.HOST GROUP LTD
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@2.26.93.106:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws#🇩🇪 Германия 8 SERV.HOST GROUP LTD
+vless://d96bdba8-70d6-407f-9863-e2a61e4b1399@5.182.87.242:443?encryption=none&fp=firefox&security=tls&sni=de2.omgcloud.ru&type=grpc#🇩🇪 Германия 9 AEZA GROUP LLC
+vless://b398ddde-edd8-4ba9-a218-eebd136913ad@208.103.161.2:2083?encryption=none&fp=firefox&security=tls&sni=ZGqHW1lxrVKVdFe0t.17ys7jQ251.woRKeRs.DEV&type=ws#🇩🇪 Германия 10 HOSTKEY B.V.
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@144.31.5.94:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=alphafooter.newbuzideas.org&type=ws#🇵🇱 Польша 1 H2NEXUS CLOUD SERVICES - FZCO
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@144.31.4.18:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=marginbirch.cleanfoodshop.org&type=ws#🇵🇱 Польша 2 H2NEXUS CLOUD SERVICES - FZCO
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@144.31.3.89:443?encryption=none&fp=firefox&host=clearingmatch.melodramaonline.net&path=/media/ws/&security=tls&sni=clearingmatch.melodramaonline.net&type=ws#🇵🇱 Польша 3 H2NEXUS CLOUD SERVICES - FZCO
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@144.31.3.89:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=clearingmatch.melodramaonline.net&type=ws#🇵🇱 Польша 4 H2NEXUS CLOUD SERVICES - FZCO
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@144.31.3.89:443?encryption=none&fp=firefox&host=clearingmatch.melodramaonline.net&path=/media/ws/&security=tls&sni=clearingmatch.melodramaonline.net&type=ws#🇵🇱 Польша 5 H2NEXUS CLOUD SERVICES - FZCO
-vless://26af98af-edf3-4d4c-b8f5-d60b474e005f@93.123.17.151:443?encryption=none&fp=firefox&host=goodchinatour.dpdns.org&security=tls&sni=goodchinatour.dpdns.org&type=ws#🇵🇱 Польша 6 ExpressHost Ltd
+vless://26af98af-edf3-4d4c-b8f5-d60b474e005f@93.123.17.151:443?encryption=none&fp=firefox&host=goodchinatour.dpdns.org&security=tls&sni=goodchinatour.dpdns.org&type=ws#🇵🇱 Польша 5 ExpressHost Ltd
 vless://f55ea93e-b325-43dc-9e1a-1264e7fd946e@193.233.127.76:40189?encryption=none&fp=firefox&security=tls&sni=nl3.pg.fastlanehosting.ru&type=tcp#🇳🇱 Нидерланды 1 GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://df7c56c6-2e4a-49cd-ba89-aa4d38836244@193.58.179.199:443?encryption=none&fp=firefox&host=avtovyshka-nn.site&path=/checkout/step/Q5RCQb6Vu9Kp&security=tls&sni=avtovyshka-nn.site&type=ws#🇳🇱 Нидерланды 2 Moskalev Georgiy
-vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@48.102.173.125:444?encryption=none&fp=firefox&host=neplay603.gangtype.com&path=/stream/updates/a66d7902&security=tls&sni=neplay603.gangtype.com&type=ws#🇳🇱 Нидерланды 3 PLAY2GO - FZCO
-vless://e9958027-03be-4eb5-bcec-70415b2e4844@89.41.181.168:443?encryption=none&fp=firefox&security=tls&sni=e9958027.ferrin.uk&type=xhttp#🇳🇱 Нидерланды 4 Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi
-vless://50414e45-4c5f-5a45-5553-d498006b6113@194.156.26.4:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/d498006b6113&security=tls&sni=4kzs98enuqus.gametyrhewr06.workers.dev&type=ws#🇷🇺 Россия 1 Cloudflare, Inc.
-vless://50414e45-4c5f-5a45-5553-d617da6e0a54@194.156.26.20:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/d617da6e0a54&security=tls&sni=qzzw7gegux3s.ersg587gatdd.workers.dev&type=ws#🇷🇺 Россия 2 Cloudflare, Inc.
-vless://e9958027-03be-4eb5-bcec-70415b2e4844@107.150.93.43:443?encryption=none&fp=firefox&security=tls&sni=e9958027.ferrin.uk&type=xhttp#🇫🇮 Финляндия 1 Orion Network Limited
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 2 SERV.HOST GROUP LTD
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@77.232.143.142:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=volumestyle.komediyatorg.net&type=ws#🇸🇪 Швеция 1 AEZA GROUP LLC
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@77.232.143.142:443?encryption=none&fp=firefox&host=volumestyle.komediyatorg.net&path=/media/ws/&security=tls&sni=volumestyle.komediyatorg.net&type=ws#🇸🇪 Швеция 2 AEZA GROUP LLC
+vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@48.102.173.125:444?encryption=none&fp=firefox&host=neplay603.gangtype.com&path=/stream/updates/a66d7902&security=tls&sni=neplay603.gangtype.com&type=ws#🇳🇱 Нидерланды 2 PLAY2GO - FZCO
+vless://e9958027-03be-4eb5-bcec-70415b2e4844@89.41.181.168:443?encryption=none&fp=firefox&security=tls&sni=e9958027.ferrin.uk&type=xhttp#🇳🇱 Нидерланды 3 Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi
+vless://2b696acb-1311-4ab7-b832-b376d29dca27@65.109.252.58:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=static.170.55.238.62.clients.your-server.de&type=tcp#🇫🇮 Финляндия 1 Hetzner Online GmbH
+vless://e9958027-03be-4eb5-bcec-70415b2e4844@107.150.93.43:443?encryption=none&fp=firefox&security=tls&sni=e9958027.ferrin.uk&type=xhttp#🇫🇮 Финляндия 2 Orion Network Limited
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 3 SERV.HOST GROUP LTD
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@77.232.143.142:443?encryption=none&fp=firefox&host=volumestyle.komediyatorg.net&path=/media/ws/&security=tls&sni=volumestyle.komediyatorg.net&type=ws#🇸🇪 Швеция 1 AEZA GROUP LLC
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@77.232.143.142:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=volumestyle.komediyatorg.net&type=ws#🇸🇪 Швеция 2 AEZA GROUP LLC
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@147.45.221.225:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=nl.lucheeebezlimitnoekino.stream&type=ws#🇦🇱 Албания GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://50414e45-4c5f-5a45-5553-d498006b6113@194.156.26.4:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/d498006b6113&security=tls&sni=4kzs98enuqus.gametyrhewr06.workers.dev&type=ws#🇷🇺 Россия Cloudflare, Inc.
 vless://e9958027-03be-4eb5-bcec-70415b2e4844@23.237.202.254:443?encryption=none&fp=firefox&security=tls&sni=id-e9958027.vmagnum.win&type=xhttp#🇺🇸 США FDCservers.net
-vless://f63206a4-c04a-47a8-bb8e-d218515d7982@5.175.136.4:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=bundlecharge.ratethatrestaurant.org&type=ws#🇹🇷 Турция AltunHOST LTD
+vless://52d0c9b1-80aa-4b20-bcb1-849991560498@5.59.205.184:443?encryption=none&fp=firefox&path=/tr&security=tls&sni=52d0c9b1.ferrin.uk&type=xhttp#🇹🇷 Турция Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi
