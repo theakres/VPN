@@ -4,7 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@77.232.143.142:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=volumestyle.komediyatorg.net&type=ws#🇸🇪 Швеция 1 AEZA GROUP LLC
-hysteria2://Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-@185.164.72.192:26206?sni=config7x.de5.net&obfs=salamander&obfs-password=vxvnmus9agdzduvz#🇸🇪 Швеция 2 Amazon.com, Inc.
-vless://191cd0ee-7267-4ff5-a064-4fdaa24b2cbf@87.121.105.208:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Aqozg7SuheGLClMCYsM__qlfiV_K7QFRiP-fRqSUeyA&security=reality&sid=974e51a5814f4220&sni=sweden-01.shtormovoy.online&type=tcp#🇸🇪 Швеция 3 PLAY2GO - FZCO
-vless://7d2edfcc-4f99-4aff-bae8-c2b0ccc31765@88.216.130.51:443?encryption=none&fp=firefox&pbk=_4x6mU7USpNESoYSD2qzwA2pdvq8f30m0UwALXAqqzY&security=reality&serviceName=api.v1.StreamService&sid=5877634632cd9b75&sni=live.on3ok.com&type=grpc#🇸🇪 Швеция 4 UAB Cherry Servers
+vless://76798308-0a01-4afe-809b-17aaca23e67f@64.188.81.66:8443?encryption=none&fp=firefox&pbk=-qkLX9VrSYt23pryJgtskKeNLj_FQa7lwQb5KVckpko&security=reality&serviceName=api.v2.SyncService&sni=sw1111.sonicservice.digital&type=grpc#🇸🇪 Швеция 1 OC NETWORKS LIMITED
+vless://191cd0ee-7267-4ff5-a064-4fdaa24b2cbf@87.121.105.208:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Aqozg7SuheGLClMCYsM__qlfiV_K7QFRiP-fRqSUeyA&security=reality&sid=974e51a5814f4220&sni=sweden-01.shtormovoy.online&type=tcp#🇸🇪 Швеция 2 PLAY2GO - FZCO
+vless://7d2edfcc-4f99-4aff-bae8-c2b0ccc31765@88.216.130.51:443?encryption=none&fp=firefox&pbk=_4x6mU7USpNESoYSD2qzwA2pdvq8f30m0UwALXAqqzY&security=reality&serviceName=api.v1.StreamService&sid=5877634632cd9b75&sni=live.on3ok.com&type=grpc#🇸🇪 Швеция 3 UAB Cherry Servers
