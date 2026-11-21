@@ -5,5 +5,6 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@77.232.143.142:443?encryption=none&fp=firefox&host=volumestyle.komediyatorg.net&path=/media/ws/&security=tls&sni=volumestyle.komediyatorg.net&type=ws#🇸🇪 Швеция 1 AEZA GROUP LLC
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@77.232.143.142:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=volumestyle.komediyatorg.net&type=ws#🇸🇪 Швеция 2 AEZA GROUP LLC
+vless://152472ec-e29f-45df-a75c-b3a0d2699c81@16.16.207.164:443?encryption=mlkem768x25519plus.native.0rtt.tl1Bv14vyLTVA7d7Y8nagOJ9g4y4ievcu5atZfbypHc&fp=firefox&pbk=rf3v5q2WQbjSMd0b5rP_YD8-WITwW0b_R5ZhFh9FqHU&security=reality&sid=b3fc2fd0de&sni=buybox.amazon.com&type=grpc#🇸🇪 Швеция 2 Amazon.com, Inc.
 vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@83.171.241.155:25191?encryption=none&fp=firefox&path=/astral-edge-h1&pbk=_Cb2FzFDVi9blwCb_5V0NZue6wt-U6GL0N_-OX8NGGA&security=reality&sid=55328e423218ee9b&sni=a8687er.se2.h1clayd.click&type=xhttp#🇸🇪 Швеция 3 Hostup AB
+vless://d3eeebec-d7ba-4695-a1ea-2f2407c86582@177.3.209.122:36443?encryption=none&fp=firefox&path=/assets/d2a0752e84654859fbd76eeed1901292&pbk=N-uJSEyk-n_rfnJUJXorw6vdHBn8buRapPty6O2rRy4&security=reality&sid=12628dbd45f29a78&sni=static-se.snobmenu.xyz&type=xhttp#🇸🇪 Швеция 4 PLAY2GO - FZCO

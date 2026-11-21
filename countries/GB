@@ -4,8 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQktC10LvQuNC60L7QsdGA0LjRgtCw0L3QuNGP
-vless://9780207b-d02a-493a-9bf1-ebc1a4486b34@31.76.246.25:706?encryption=none&fp=firefox&pbk=6ABNRK-j4hVgo-DwsX3zxMSjMOuudrVZRxLde3XB530&security=reality&sni=www.amd.com&type=grpc#🇬🇧 Великобритания 1 AntiDDoS Networks LTD
-vless://9780207b-d02a-493a-9bf1-ebc1a4486b34@31.76.246.65:706?encryption=none&fp=firefox&pbk=6ABNRK-j4hVgo-DwsX3zxMSjMOuudrVZRxLde3XB530&security=reality&sni=www.amd.com&type=grpc#🇬🇧 Великобритания 2 AntiDDoS Networks LTD
-vless://9780207b-d02a-493a-9bf1-ebc1a4486b34@31.76.246.54:706?encryption=none&fp=firefox&pbk=6ABNRK-j4hVgo-DwsX3zxMSjMOuudrVZRxLde3XB530&security=reality&sni=www.amd.com&type=grpc#🇬🇧 Великобритания 3 AntiDDoS Networks LTD
-vless://9780207b-d02a-493a-9bf1-ebc1a4486b34@31.76.246.27:706?encryption=none&fp=firefox&pbk=6ABNRK-j4hVgo-DwsX3zxMSjMOuudrVZRxLde3XB530&security=reality&sni=www.amd.com&type=grpc#🇬🇧 Великобритания 4 AntiDDoS Networks LTD
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@1.160.18.239:62015?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇬🇧 Великобритания 5 POLONETWORK LIMITED
+vless://0391d175-5dcc-4660-bbca-73c2334a2f7e@50.7.154.78:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediasvyaz.cc&type=tcp#🇬🇧 Великобритания 1 FDCservers.net
+vless://1e7d524c-8027-4d6e-9207-7ac61ccc32ff@50.7.154.78:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediasvyaz.cc&type=tcp#🇬🇧 Великобритания 2 FDCservers.net
+vless://5980f1e1-970c-43b9-b3e8-a8ddd70ceadc@158.220.95.242:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PCm0k-SvNd00cgNuqqnbCzmwVZd5vkgX2ZLk2_qngRs&security=reality&sid=b60a93&sni=www.samsung.com&type=tcp#🇬🇧 Великобритания 3 Contabo GmbH
+vless://9fc65c1f-f7e2-44dd-be6f-a9270732b97a@109.176.229.61:443?encryption=none&fp=firefox&security=tls&sni=fox.sorixset.ir&type=tcp#🇬🇧 Великобритания 4 FREAKHOSTING LTD
