@@ -4,9 +4,5 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmtCw0LfQsNGF0YHRgtCw0L0=
-vless://929b5d21-4124-4bc4-9fa0-fe7cef978303@217.180.1.122:443?encryption=none&fp=firefox&path=/api/v1/data&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&security=reality&sid=c44bcdb731f12c41&sni=static.yandex.net&type=xhttp#🇰🇿 Казахстан 1 ITGLOBAL.COM KZ LLP
-vless://929b5d21-4124-4bc4-9fa0-fe7cef978303@85.198.90.106:443?encryption=none&fp=firefox&path=/api/v1/data&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&security=reality&sid=c44bcdb731f12c41&sni=static.yandex.net&type=xhttp#🇰🇿 Казахстан 2 ITGLOBAL.COM KZ LLP
-vless://929b5d21-4124-4bc4-9fa0-fe7cef978303@85.198.89.134:443?encryption=none&fp=firefox&path=/api/v1/data&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&security=reality&sid=c44bcdb731f12c41&sni=static.yandex.net&type=xhttp#🇰🇿 Казахстан 3 ITGLOBAL.COM KZ LLP
-vless://3dcf80c9-4e6d-0fc7-1112-126507d3ee3f@62.233.39.5:8443?encryption=none&fp=firefox&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&security=reality&serviceName=TunService&sni=dl.dell.com&type=grpc#🇰🇿 Казахстан 4 Alex Largman
-vless://4cadde0d-41c1-0002-98f9-3231b252d4bd@93.152.217.175:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=insightfailover.ratethatrestaurant.org&type=ws#🇰🇿 Казахстан 5 Fedinyak Sergey Vyacheslavovich
-vless://cac10246-5b76-4809-9fd0-417c58a3ca90@144.31.90.237:8445?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=32eua16pKE179lLHv-VNZGrX287qQFMXA3n0VgEzNTQ&security=reality&sid=b3a633bc754b648d&sni=portal.gifmems.com&type=tcp#🇰🇿 Казахстан 6 PS Internet Company LLP
+vless://3dcf80c9-4e6d-0fc7-1112-126507d3ee3f@62.233.39.5:8443?encryption=none&fp=firefox&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&security=reality&serviceName=TunService&sni=dl.dell.com&type=grpc#🇰🇿 Казахстан 1 Alex Largman
+vless://4cadde0d-41c1-0002-98f9-3231b252d4bd@93.152.217.175:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=insightfailover.ratethatrestaurant.org&type=ws#🇰🇿 Казахстан 2 Fedinyak Sergey Vyacheslavovich
