@@ -4,6 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQr9C/0L7QvdC40Y8=
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@151.241.128.146:4430?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=iE3EoCDzsS7tTRt7icQDxGYbDd_j_4TDk00y6Nd5Lhs&security=reality&sid=ade96cf50b4b&sni=psstatic.cdn.bcebos.com&type=tcp#🇯🇵 Япония 1 DigitalVirt
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@151.241.128.46:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rf-Thys7hJwt_ZgndODmH-aAiXbnqH7nOJlRLVRUEl4&security=reality&sid=bf69305d&sni=psstatic.cdn.bcebos.com&type=tcp#🇯🇵 Япония 2 DigitalVirt
-vless://052ad41f-7cf5-4027-b14d-c90f89e46103@154.36.152.216:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dv37ircK63KvcVZwv3XJiUXvOsiP-dEsZQ3gXDdPmRs&security=reality&sid=a3f7c2e1b9d4&sni=www.cloudflare.com&type=tcp#🇯🇵 Япония 3 NetLab Global
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@151.241.128.46:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rf-Thys7hJwt_ZgndODmH-aAiXbnqH7nOJlRLVRUEl4&security=reality&sid=bf69305d&sni=psstatic.cdn.bcebos.com&type=tcp#🇯🇵 Япония 1 DigitalVirt
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@151.241.128.146:4430?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=iE3EoCDzsS7tTRt7icQDxGYbDd_j_4TDk00y6Nd5Lhs&security=reality&sid=ade96cf50b4b&sni=psstatic.cdn.bcebos.com&type=tcp#🇯🇵 Япония 2 DigitalVirt
+hysteria2://36187bef1c708c82fd4099b9d70116ffd8c0f1f5bfd19cbb319eeb67899714f6@156.246.93.237:443?sni=jpk.wentibuxiaobuda.xyz#🇯🇵 Япония 3 AKILE LTD
+vless://052ad41f-7cf5-4027-b14d-c90f89e46103@154.36.152.216:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dv37ircK63KvcVZwv3XJiUXvOsiP-dEsZQ3gXDdPmRs&security=reality&sid=a3f7c2e1b9d4&sni=www.cloudflare.com&type=tcp#🇯🇵 Япония 4 NetLab Global

@@ -4,5 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
-vless://53e4aaff-65f5-4667-83ea-8a4c0a60a701@189.74.117.13:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videodolina.cc&type=tcp#🇫🇷 Франция 1 FDCservers.net
-vless://e47131f4-05ee-4083-9766-74f705878b7a@9.247.23.113:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=nl.ussr.party&type=tcp#🇫🇷 Франция 2 OVH SAS
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@5.180.145.53:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=routestage.cleanfoodshop.org&type=ws#🇫🇷 Франция 1 FBW NETWORKS SAS
+vless://de4729d8-4b52-4cac-b796-4ae1bb723631@189.74.117.13:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videodolina.cc&type=tcp#🇫🇷 Франция 2 FDCservers.net
+vless://2c901d22-8586-4682-8d6c-2634672b1517@9.247.23.2:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=fr.ussr.party&type=tcp#🇫🇷 Франция 3 OVH SAS
