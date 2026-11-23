@@ -4,18 +4,11 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQk9C10YDQvNCw0L3QuNGP
-vless://566a19dc-591e-4ddf-a727-2b95d68ae4a5@195.201.225.248:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=c3nztvix78ee.dx4x.com&type=tcp#🇩🇪 Германия 1 Hetzner Online GmbH
-vless://e15225fb-0998-4719-8391-eede56f4d472@146.75.32.177:443?encryption=none&fp=firefox&host=huryuk.global.ssl.fastly.net&security=tls&sni=zd.fastly.com&type=xhttp#🇩🇪 Германия 2 Hetzner Online GmbH
-vless://d0d7883e-d63b-49a3-9ffd-9d0e5b80c885@185.215.231.43:443?encryption=none&fp=firefox&security=tls&sni=ge-2.meepo1.com&type=tcp#🇩🇪 Германия 3 Hetzner Online GmbH
-vless://d0d7883e-d63b-49a3-9ffd-9d0e5b80c885@185.215.231.39:443?encryption=none&fp=firefox&security=tls&sni=gr-3.meepo1.com&type=tcp#🇩🇪 Германия 4 Hetzner Online GmbH
-vless://d0d7883e-d63b-49a3-9ffd-9d0e5b80c885@185.215.231.38:443?encryption=none&fp=firefox&security=tls&sni=gr-4-n.meepo1.com&type=tcp#🇩🇪 Германия 5 Hetzner Online GmbH
-vless://d0d7883e-d63b-49a3-9ffd-9d0e5b80c885@185.215.231.46:443?encryption=none&fp=firefox&security=tls&sni=gr-5.meepo1.com&type=tcp#🇩🇪 Германия 6 Hetzner Online GmbH
-vless://d0d7883e-d63b-49a3-9ffd-9d0e5b80c885@85.133.230.19:443?encryption=none&fp=firefox&security=tls&sni=gr-6.meepo1.com&type=tcp#🇩🇪 Германия 7 Hetzner Online GmbH
-vless://ac322621-2458-4694-87ec-86f1c919a764@37.202.233.84:41389?encryption=none&fp=firefox&host=tl3.tavqila.ir&security=tls&sni=tl3.tavqila.ir&type=ws#🇩🇪 Германия 8 Hetzner Online GmbH
-vless://320d3e8e-59d7-4389-90cf-da4a9be248bf@8.6.112.0:443?encryption=none&fp=firefox&host=worker3.gogimi1942.workers.dev&path=/gkOut3g6sZDs9hSO&security=tls&sni=worker3.gogimi1942.workers.dev&type=ws#🇩🇪 Германия 9 IONOS SE
-vless://320d3e8e-59d7-4389-90cf-da4a9be248bf@8.6.112.0:443?encryption=none&fp=firefox&path=/gkOut3g6sZDs9hSO?ed=2560&security=tls&sni=worker3.gogimi1942.workers.dev&type=ws#🇩🇪 Германия 10 IONOS SE
-vless://0a5df297-511f-411f-91a4-b7c86caec831@23.227.38.74:443?encryption=none&fp=firefox&security=tls&sni=1fckUssrNb.2eudh6Nc7l.workErs.deV&type=ws#🇩🇪 Германия 11 Baxet Group Inc.
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@13.141.36.63:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&security=reality&sid=6976d670818644cc&sni=4935e4t.de25.h1clayd.click&type=tcp#🇩🇪 Германия 12 dataforest GmbH
-vless://ff13a272-dd8f-4f4c-89e0-6bfdf25c10a7@212.17.225.77:443?encryption=none&fp=firefox&host=static-de1.song69.fun&path=/api/media/v1&pbk=BJx6C70Sf7yjCUqE-HSdRpiNhG7qdoP5Wp0qnntVpmI&security=reality&sni=static-de1.song69.fun&type=xhttp#🇩🇪 Германия 13 ESIMPSON LLC
-vless://fb3e70f3-c42c-4de8-baca-f35f619c2854@136.244.88.53:443?encryption=none&fp=firefox&host=bot-gw-nstrly.samanidempire.org&path=/b15bc9f5&security=tls&sni=bot-gw-nstrly.samanidempire.org&type=ws#🇩🇪 Германия 14 The Constant Company, LLC
-vless://b603ae76-2db6-4afc-8676-6a199cdbdbf3@89.125.175.245:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=de8.devtalks.pro&type=tcp#🇩🇪 Германия 15 WEYRO LTD
+vless://e7f0d68b-69d2-4638-9f51-a4cf53628568@31.76.11.182:443?encryption=none&fp=firefox&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc&security=reality&sni=essen.gosgenarchive.com&type=xhttp#🇩🇪 Германия 1 PLAY2GO - FZCO
+vless://e7f0d68b-69d2-4638-9f51-a4cf53628568@87.120.84.216:443?encryption=none&fp=firefox&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc&security=reality&sni=dortmund.gosgenarchive.com&type=xhttp#🇩🇪 Германия 2 PLAY2GO - FZCO
+vless://b603ae76-2db6-4afc-8676-6a199cdbdbf3@89.125.175.245:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=de8.devtalks.pro&type=tcp#🇩🇪 Германия 3 WEYRO LTD
+vless://ed433997-a07d-45fb-98e3-08760445a015@89.125.175.245:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=de8.devtalks.pro&type=tcp#🇩🇪 Германия 4 WEYRO LTD
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@13.141.36.63:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&security=reality&sid=6976d670818644cc&sni=4935e4t.de25.h1clayd.click&type=tcp#🇩🇪 Германия 5 dataforest GmbH
+vless://ff13a272-dd8f-4f4c-89e0-6bfdf25c10a7@212.17.225.77:443?encryption=none&fp=firefox&host=static-de1.song69.fun&path=/api/media/v1&pbk=BJx6C70Sf7yjCUqE-HSdRpiNhG7qdoP5Wp0qnntVpmI&security=reality&sni=static-de1.song69.fun&type=xhttp#🇩🇪 Германия 6 ESIMPSON LLC
+vless://4eb9a6e9-bf0e-4808-9df0-71d7b121ee64@45.142.106.164:443?encryption=none&fp=firefox&path=/xh-7f3a9c&pbk=RAHctmydk9WkPzebS9mCPMLmIYsgapp-JyZpvRSE4X8&security=reality&sid=3b197bfcd43c9535&sni=rubik.cakecat.cc&type=xhttp#🇩🇪 Германия 7 Florian Kolb
+vless://109fe686-024c-48cf-8f74-6a8e938a0464@91.107.175.106:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=24c-48cf-8-de-d.vitaminp.ir&type=tcp#🇩🇪 Германия 8 Hetzner Online GmbH
