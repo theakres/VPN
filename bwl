@@ -4,14 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQntCx0YXQvtC0INCR0KE=
-vless://d92038b6-b470-4267-9c69-2c649bf3f4a4@136.234.20.140:443?encryption=none&fp=firefox&pbk=43bHrvqzL5Sw8lvtDSE3LAlp_0WbixVc7nYcAf17bhg&security=reality&sid=16b6715de8577aaa&sni=8ba6c3t.nl2.h1clayd.click&type=tcp#🇳🇱 Нидерланды 1 ASTRA NETWORKS LTD
-vless://d92038b6-b470-4267-9c69-2c649bf3f4a4@136.234.20.140:443?encryption=none&fp=firefox&path=/c2ebbdd6f634&pbk=_nAced6S7uyPz0sjigvwEmN7CsYvJMOsumtBnqldEC8&security=reality&sid=eaf16e75feabc584&sni=6b878dx.nl2.h1clayd.click&type=xhttp#🇳🇱 Нидерланды 2 ASTRA NETWORKS LTD
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@136.234.20.137:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&security=reality&sid=8d0d0679f42ffd98&sni=8a2e72t.nl11.h1clayd.click&type=tcp#🇳🇱 Нидерланды 3 ASTRA NETWORKS LTD
-vless://ef423950-b6e2-4ab5-8242-591a7b7c4d68@185.86.147.33:443?encryption=none&fp=firefox&path=/b241ws&security=tls&sni=grc.rtkdvbr.cc&type=ws#🇳🇱 Нидерланды 4 GTHost
-vless://cae99415-10a6-4317-81bd-19a4586b5d76@136.234.36.156:48637?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XFWI_MEMvP6tajJyho0y7JYe5AkDKtNf4b5Bpkwfg0k&security=reality&sid=1125242fc281d82f&sni=6da588t.nl7.h1clayd.click&type=tcp#🇳🇱 Нидерланды 5 H1CLOUD LTD
-vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@136.234.20.130:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&security=reality&sid=1cc8aab4a9fa9280&sni=9ed8a8t.se4.h1clayd.click&type=tcp#🇸🇪 Швеция 1 Hostup AB
-vless://d3863595-3afe-4a74-8305-612ab69cd21c@136.234.20.130:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&security=reality&sid=1cc8aab4a9fa9280&sni=9ed8a8t.se4.h1clayd.click&type=tcp#🇸🇪 Швеция 2 Hostup AB
-vless://d3863595-3afe-4a74-8305-612ab69cd21c@136.234.20.130:443?encryption=none&fp=firefox&path=/444de120fb2d&pbk=LZhuBYUqlo8epvzFF3tOPMZ_vjZPN1sraOYy2CKtcz4&security=reality&sid=356cc54d885a4036&sni=0ef47cx.se4.h1clayd.click&type=xhttp#🇸🇪 Швеция 3 Hostup AB
-vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@136.234.20.130:443?encryption=none&fp=firefox&path=/444de120fb2d&pbk=LZhuBYUqlo8epvzFF3tOPMZ_vjZPN1sraOYy2CKtcz4&security=reality&sid=356cc54d885a4036&sni=0ef47cx.se4.h1clayd.click&type=xhttp#🇸🇪 Швеция 4 Hostup AB
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@72.56.1.44:443?encryption=none&fp=firefox&path=/api/de6/stream&security=tls&sni=birchmeadow.moltex.click&type=ws#🇩🇪 Германия Tabunscic Anatoli
-vless://8f2fb2bd-0e40-49ca-b2ec-04442e8b6de5@46.243.142.2:443?encryption=none&fp=firefox&path=/account/refresh/yVr9KTE0xTBC&security=tls&sni=api.floweroom.vip&type=ws#🇫🇷 Франция Cloudflare, Inc.
+vless://ef423950-b6e2-4ab5-8242-591a7b7c4d68@185.86.147.33:443?encryption=none&fp=firefox&path=/b241ws&security=tls&sni=grc.rtkdvbr.cc&type=ws#🇳🇱 Нидерланды 1 GTHost
+vless://00da270a-c35a-4102-afbc-2788ef40003a@185.229.9.174:49094?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Td6o-BHBTNeIugm0r2RjtHgYFkhbRoInB1VxEQtOjyg&security=reality&sid=c95f&sni=max.ru&type=tcp#🇳🇱 Нидерланды 2 UAB Cherry Servers
+vless://86c5a7fd-0000-42bc-bd6d-085d8d3cedd4@136.234.64.5:451?encryption=none&fp=firefox&host=cdn.x-fx.io&path=/cdnx&security=tls&sni=cdn.x-fx.io&type=xhttp#🇲🇩 Молдова ALEXHOST S.R.L.
+vless://918b1fa3-3e63-4c8d-87a4-8f635ffb7cd3@147.45.98.78:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=C8jwxMahtF-BpgtauR6I6dVXCc0X8VM9nbFxDQ3LzF0&security=reality&sid=b4&sni=www.gosuslugi.ru&type=tcp#🇷🇺 Россия JSC TIMEWEB
+vless://65b6bc06-44c9-4b21-8dc0-bdf1d688c0e6@2.56.178.83:8443?encryption=none&fp=firefox&path=/9f24b88768d5&pbk=cnpxP2XTZfv4YwZgJ3fh3Vi7oQUTLL210gjjwsJpJhM&security=reality&sid=8c73808b49016631&sni=cdn.vmmanager.work&type=xhttp#🇫🇮 Финляндия Oy Crea Nova Hosting Solution Ltd
