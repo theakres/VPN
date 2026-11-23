@@ -4,20 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNC40L3Qu9GP0L3QtNC40Y8=
-vless://e9958027-03be-4eb5-bcec-70415b2e4844@107.150.93.43:443?encryption=none&fp=firefox&host=107.150.93.43&security=tls&sni=e9958027.ferrin.uk&type=xhttp#🇫🇮 Финляндия 1 Orion Network Limited
-vless://e9958027-03be-4eb5-bcec-70415b2e4844@107.150.93.43:443?encryption=none&fp=firefox&security=tls&sni=e9958027.ferrin.uk&type=xhttp#🇫🇮 Финляндия 2 Orion Network Limited
-vless://e9958027-03be-4eb5-bcec-70415b2e4844@107.150.93.5:443?encryption=none&fp=firefox&security=tls&sni=e9958027.ferrin.uk&type=xhttp#🇫🇮 Финляндия 3 Orion Network Limited
-vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@196.245.153.97:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk&security=reality&sid=597e1c279d224774&sni=4c980ft.fi15.h1clayd.click&type=tcp#🇫🇮 Финляндия 4 Orion Network Limited
-hysteria2://GIFCjtpiGVOsrCy2kgBmgndXX5lUP7Eb@94.141.102.196:12242?sni=fin4.cft-razor.online#🇫🇮 Финляндия 5 Atomidata Oy
-hysteria2://GIFCjtpiGVOsrCy2kgBmgndXX5lUP7Eb@94.141.102.196:888?sni=fin1.cft-razor.online#🇫🇮 Финляндия 6 Atomidata Oy
-hysteria2://GIFCjtpiGVOsrCy2kgBmgndXX5lUP7Eb@94.141.102.196:21?sni=fin9.cft-razor.online#🇫🇮 Финляндия 7 Atomidata Oy
-vless://b2505fa2-f7c4-40d2-8c4a-1f6336bd37f1@2.29.125.167:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=static.162.97.119.168.clients.your-server.de&type=tcp#🇫🇮 Финляндия 8 Hetzner Online GmbH
-vless://2b696acb-1311-4ab7-b832-b376d29dca27@65.109.252.58:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=static.170.55.238.62.clients.your-server.de&type=tcp#🇫🇮 Финляндия 9 Hetzner Online GmbH
-vless://31485c77-db16-40b5-af7f-53b934fd2a02@77.42.58.231:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Rti1LszxGpW1ReMul2G2jyWwoXSw8LR7qr2FW1SFY1I&security=reality&sid=b0ed57be&sni=pgd.xanka.best&type=tcp#🇫🇮 Финляндия 10 Hetzner Online GmbH
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@31.76.31.75:4443?encryption=none&fp=firefox&host=gallery.kristinadmitriywedding.ru&path=/astral-edge-fi&pbk=NORtYfSTVbYq7r3qD1p8f7GWN8lCapPxqQTzGE7-3WQ&security=reality&sid=69e9f04fdfe55673&sni=www.is.fi&type=xhttp#🇫🇮 Финляндия 11 PowerRDP Network LTD
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@31.76.31.75:4443?encryption=none&extra={"xmux":{"maxConcurrency":"16-32","hKeepAlivePeriod":30}}&fp=firefox&host=gallery.kristinadmitriywedding.ru&path=/astral-edge-fi&pbk=NORtYfSTVbYq7r3qD1p8f7GWN8lCapPxqQTzGE7-3WQ&security=reality&sid=69e9f04fdfe55673&sni=www.is.fi&type=xhttp#🇫🇮 Финляндия 12 PowerRDP Network LTD
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@31.76.31.75:4443?encryption=none&extra={"xmux":{"hKeepAlivePeriod":30,"maxConcurrency":"16-32"}}&fp=firefox&host=gallery.kristinadmitriywedding.ru&path=/astral-edge-fi&pbk=NORtYfSTVbYq7r3qD1p8f7GWN8lCapPxqQTzGE7-3WQ&security=reality&sid=69e9f04fdfe55673&sni=www.is.fi&type=xhttp#🇫🇮 Финляндия 13 PowerRDP Network LTD
-vless://936ef8c6-fd6c-4b6c-bc74-7c88ded9aa50@200.96.109.71:443?encryption=none&fp=firefox&pbk=m-ddb1cBDLC3_I8TlVnxgvSZ-MvkJkhP1twRrX2xO0I&security=reality&serviceName=NexusGrpc&sid=d9662905&sni=fi.viwinlakgom.pro&type=grpc#🇫🇮 Финляндия 14 aurologic GmbH
-vless://98dee9df-575f-4652-8e7a-c5b67df6d83e@179.236.144.127:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mm9LAOG_Hk3N4MEbYkqvosVHUcVdEqzVyKp02utDgUQ&security=reality&sid=47646448a1ce6ae3&sni=servis.rivohost.cc&type=tcp#🇫🇮 Финляндия 15 DpkgSoft International Limited
-vless://85b8b4a4-d9c6-4357-a016-3a3ee04bf984@144.31.119.69:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gi2oD1AwSK4qShGQSnxkcZHa8Lj12GNsAHfMcuKkAjE&security=reality&sid=b86f68318eceac87&sni=fi.superspidy.com&type=tcp#🇫🇮 Финляндия 16 Senko Digital LLC
-vless://2793e279-8de3-478b-bd54-2669b6c7f00d@31.76.3.11:2096?encryption=none&fp=firefox&security=tls&serviceName=edge6&sni=edge6.volkswagenman.ru&type=grpc#🇫🇮 Финляндия 17 SERV.HOST GROUP LTD
+vless://99d29b72-ea07-4e45-96b3-caa6bb640f36@185.215.231.42:443?encryption=none&fp=firefox&security=tls&sni=fi-5.meepo1.com&type=tcp#🇫🇮 Финляндия 1 Hetzner Online GmbH
+vless://99d29b72-ea07-4e45-96b3-caa6bb640f36@185.215.231.40:443?encryption=none&fp=firefox&security=tls&sni=fi-4-n2.meepo1.com&type=tcp#🇫🇮 Финляндия 2 Hetzner Online GmbH
+vless://99d29b72-ea07-4e45-96b3-caa6bb640f36@85.133.230.22:443?encryption=none&fp=firefox&security=tls&sni=fi-6.meepo1.com&type=tcp#🇫🇮 Финляндия 3 Hetzner Online GmbH
+vless://97daeafa-0744-38a0-9441-74d6cdb63e80@138.124.37.196:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r7gK1xDtZl5wDL59Teyw--KXacW1EjOT2mm0MdwY7gM&security=reality&sid=39b7084197ed8260&sni=lg.hel.play2go.cloud&type=tcp#🇫🇮 Финляндия 4 PLAY2GO INTERNATIONAL LIMITED
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&host=payablemeta.cleanfoodshop.org&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 5 SERV.HOST GROUP LTD
