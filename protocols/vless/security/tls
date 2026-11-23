@@ -4,24 +4,15 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://99d29b72-ea07-4e45-96b3-caa6bb640f36@185.215.231.46:443?encryption=none&fp=firefox&security=tls&sni=gr-5.meepo1.com&type=tcp#🇩🇪 Германия 1 Hetzner Online GmbH
-vless://99d29b72-ea07-4e45-96b3-caa6bb640f36@185.215.231.43:443?encryption=none&fp=firefox&security=tls&sni=ge-2.meepo1.com&type=tcp#🇩🇪 Германия 2 Hetzner Online GmbH
-vless://99d29b72-ea07-4e45-96b3-caa6bb640f36@81.12.35.194:443?encryption=none&fp=firefox&security=tls&sni=ge.meepo1.com&type=tcp#🇩🇪 Германия 3 Hetzner Online GmbH
-vless://99d29b72-ea07-4e45-96b3-caa6bb640f36@185.215.231.38:443?encryption=none&fp=firefox&security=tls&sni=gr-4-n.meepo1.com&type=tcp#🇩🇪 Германия 4 Hetzner Online GmbH
-vless://99d29b72-ea07-4e45-96b3-caa6bb640f36@85.133.230.19:443?encryption=none&fp=firefox&security=tls&sni=gr-6.meepo1.com&type=tcp#🇩🇪 Германия 5 Hetzner Online GmbH
-vless://109fe686-024c-48cf-8f74-6a8e938a0464@91.107.251.238:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=24c-48cf-8-de-d.vitaminp.ir&type=tcp#🇩🇪 Германия 6 Hetzner Online GmbH
-vless://97005254-f226-4455-9cc2-866378cadd00@116.202.176.71:3922?encryption=mlkem768x25519plus.native.0rtt.EC0IMDOScfazln0_a-3BrghqAacbShVgfip4TtZdQAQ&flow=xtls-rprx-vision&fp=firefox&host=login.zanjanphone.ir&path=/login&security=tls&sni=login.zanjanphone.ir&type=ws#🇩🇪 Германия 7 Hetzner Online GmbH
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@2.26.93.106:443?encryption=none&fp=firefox&host=depotchannel.lucheeebezlimitnoekino.stream&path=/media/ws/&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws#🇩🇪 Германия 8 SERV.HOST GROUP LTD
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@2.26.93.106:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws#🇩🇪 Германия 9 SERV.HOST GROUP LTD
-vless://23fdf851-06e0-80d1-b19b-52e18a9667f4@66.241.124.242:443?encryption=none&fp=firefox&host=rvg-g6qmnw.fly.dev&path=/ws/23fdf851-06e0-80d1-b19b-52e18a9667f4&security=tls&sni=rvg-g6qmnw.fly.dev&type=ws#🇩🇪 Германия 10 Datacamp Limited
-vless://99d29b72-ea07-4e45-96b3-caa6bb640f36@185.215.231.42:443?encryption=none&fp=firefox&security=tls&sni=fi-5.meepo1.com&type=tcp#🇫🇮 Финляндия 1 Hetzner Online GmbH
-vless://99d29b72-ea07-4e45-96b3-caa6bb640f36@185.215.231.40:443?encryption=none&fp=firefox&security=tls&sni=fi-4-n2.meepo1.com&type=tcp#🇫🇮 Финляндия 2 Hetzner Online GmbH
-vless://99d29b72-ea07-4e45-96b3-caa6bb640f36@85.133.230.22:443?encryption=none&fp=firefox&security=tls&sni=fi-6.meepo1.com&type=tcp#🇫🇮 Финляндия 3 Hetzner Online GmbH
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&host=payablemeta.cleanfoodshop.org&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 4 SERV.HOST GROUP LTD
-vless://99d29b72-ea07-4e45-96b3-caa6bb640f36@185.215.231.37:443?encryption=none&fp=firefox&security=tls&sni=po2.meepo1.com&type=tcp#🇵🇱 Польша 1 OVH SAS
-vless://99d29b72-ea07-4e45-96b3-caa6bb640f36@85.133.230.24:443?encryption=none&fp=firefox&security=tls&sni=po1.meepo1.com&type=tcp#🇵🇱 Польша 2 OVH SAS
-vless://12eb241d-f650-4e7e-969b-09f00bb80123@159.195.233.11:8443?encryption=none&fp=firefox&host=next-1ez.pages.dev&path=/12eb241d-f650-4e7e-969b-09f00bb80123?ed=2048&security=tls&sni=next-1ez.pages.dev&type=ws#🇺🇸 США 1 DigitalOcean, LLC
-vless://12eb241d-f650-4e7e-969b-09f00bb80123@103.11.78.142:2053?encryption=none&fp=firefox&host=next-1ez.pages.dev&path=/12eb241d-f650-4e7e-969b-09f00bb80123?ed=2048&security=tls&sni=next-1ez.pages.dev&type=ws#🇺🇸 США 2 DigitalOcean, LLC
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@2.26.93.106:443?encryption=none&fp=firefox&host=depotchannel.lucheeebezlimitnoekino.stream&path=/media/ws/&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws#🇩🇪 Германия 1 SERV.HOST GROUP LTD
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@2.26.93.106:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws#🇩🇪 Германия 2 SERV.HOST GROUP LTD
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@2.26.93.106:443?encryption=none&fp=firefox&host=2.26.93.106&path=/media/ws/&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws#🇩🇪 Германия 3 SERV.HOST GROUP LTD
+vless://109fe686-024c-48cf-8f74-6a8e938a0464@91.107.251.238:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=24c-48cf-8-de-d.vitaminp.ir&type=tcp#🇩🇪 Германия 4 Hetzner Online GmbH
+vless://109fe686-024c-48cf-8f74-6a8e938a0464@91.107.175.106:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=24c-48cf-8-de-d.vitaminp.ir&type=tcp#🇩🇪 Германия 5 Hetzner Online GmbH
+vless://12eb241d-f650-4e7e-969b-09f00bb80123@159.195.233.11:8443?encryption=none&fp=firefox&host=next-1ez.pages.dev&path=/12eb241d-f650-4e7e-969b-09f00bb80123&security=tls&sni=next-1ez.pages.dev&type=ws#🇺🇸 США 1 Ilia Baikov
+vless://12eb241d-f650-4e7e-969b-09f00bb80123@103.11.78.142:2053?encryption=none&fp=firefox&host=next-1ez.pages.dev&path=/12eb241d-f650-4e7e-969b-09f00bb80123?ed=2048&security=tls&sni=next-1ez.pages.dev&type=ws#🇺🇸 США 2 NetLab Global
+vless://12eb241d-f650-4e7e-969b-09f00bb80123@159.195.233.11:8443?encryption=none&fp=firefox&host=next-1ez.pages.dev&path=/12eb241d-f650-4e7e-969b-09f00bb80123?ed=2048&security=tls&sni=next-1ez.pages.dev&type=ws#🇺🇸 США 3 tzulo, inc.
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&host=payablemeta.cleanfoodshop.org&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 1 SERV.HOST GROUP LTD
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 2 SERV.HOST GROUP LTD
 vless://915b8bfa-ba7a-425a-99e7-b260985df6ba@94.183.164.102:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=elzen.silalink.sbs&type=tcp#🇳🇱 Нидерланды Vladislav Doniy
-vless://97005254-f226-4455-9cc2-866378cadd00@116.202.176.71:3928?encryption=mlkem768x25519plus.native.0rtt.gB7_1-uA58uAJCnJBGsjIbb143pyetaqMjs83B4vhho&flow=xtls-rprx-vision&fp=firefox&host=login.zanjanphone.ir&path=/login&security=tls&sni=login.zanjanphone.ir&type=ws#🇹🇷 Турция Netbudur Telekomunikasyon Limited Sirketi
-vless://99d29b72-ea07-4e45-96b3-caa6bb640f36@85.133.230.23:443?encryption=none&fp=firefox&security=tls&sni=fr2.meepo1.com&type=tcp#🇫🇷 Франция OVH SAS
+vless://2b7a122f-f6ff-4860-a919-7bf51be03c02@194.156.26.28:443?encryption=none&extra={"mode":"packet-up","path":"/","xmux":{"maxConnections":4,"maxConcurrency":0,"cMaxReuseTimes":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","hKeepAlivePeriod":0}}&fp=firefox&host=mama544.baklajann.ru&security=tls&sni=mama544.baklajann.ru&type=xhttp#🇫🇷 Франция OVH SAS

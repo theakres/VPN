@@ -4,8 +4,11 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNC40L3Qu9GP0L3QtNC40Y8=
-vless://99d29b72-ea07-4e45-96b3-caa6bb640f36@185.215.231.42:443?encryption=none&fp=firefox&security=tls&sni=fi-5.meepo1.com&type=tcp#🇫🇮 Финляндия 1 Hetzner Online GmbH
-vless://99d29b72-ea07-4e45-96b3-caa6bb640f36@185.215.231.40:443?encryption=none&fp=firefox&security=tls&sni=fi-4-n2.meepo1.com&type=tcp#🇫🇮 Финляндия 2 Hetzner Online GmbH
-vless://99d29b72-ea07-4e45-96b3-caa6bb640f36@85.133.230.22:443?encryption=none&fp=firefox&security=tls&sni=fi-6.meepo1.com&type=tcp#🇫🇮 Финляндия 3 Hetzner Online GmbH
-vless://97daeafa-0744-38a0-9441-74d6cdb63e80@138.124.37.196:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r7gK1xDtZl5wDL59Teyw--KXacW1EjOT2mm0MdwY7gM&security=reality&sid=39b7084197ed8260&sni=lg.hel.play2go.cloud&type=tcp#🇫🇮 Финляндия 4 PLAY2GO INTERNATIONAL LIMITED
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&host=payablemeta.cleanfoodshop.org&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 5 SERV.HOST GROUP LTD
+vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@13.141.36.57:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk&security=reality&sid=597e1c279d224774&sni=4c980ft.fi15.h1clayd.click&type=tcp#🇫🇮 Финляндия 1 Orion Network Limited
+vless://d3863595-3afe-4a74-8305-612ab69cd21c@13.141.36.57:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk&security=reality&sid=597e1c279d224774&sni=4c980ft.fi15.h1clayd.click&type=tcp#🇫🇮 Финляндия 2 Orion Network Limited
+vless://d3863595-3afe-4a74-8305-612ab69cd21c@13.141.36.57:443?encryption=none&fp=firefox&path=/62b4692bebe4&pbk=KbJ6eZwp47FplCgvr6a1YnSJjpfcAEpweXyFtoQ1awA&security=reality&sid=c16858b18a5fe720&sni=9bfbf9x.fi15.h1clayd.click&type=xhttp#🇫🇮 Финляндия 3 Orion Network Limited
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&host=payablemeta.cleanfoodshop.org&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 4 SERV.HOST GROUP LTD
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 5 SERV.HOST GROUP LTD
+vless://2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df@13.141.36.15:443?encryption=none&fp=firefox&pbk=PslSaSQWP4BZZmkL7irab4FMti8sW6BvoC7ytFjJFyc&security=reality&sid=cc678f10161992a9&sni=a80b5386.fi2.h1clayd.click&type=tcp#🇫🇮 Финляндия 6 Edge Core FZE
+vless://fdbd8fb8-7d27-4bd8-9da1-1e42c4876835@177.3.220.135:443?encryption=none&fp=firefox&host=finlandnovemberone.best&path=/1269af64dcc9/726643dd&pbk=5INjcaKWv9Yfn62Igz2_xfw1PNgEtroCkKqd0c-wMA4&security=reality&sid=a8329724e1e60d85&sni=finlandnovemberone.best&type=xhttp#🇫🇮 Финляндия 7 PLAY2GO - FZCO
+vless://97daeafa-0744-38a0-9441-74d6cdb63e80@138.124.37.196:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r7gK1xDtZl5wDL59Teyw--KXacW1EjOT2mm0MdwY7gM&security=reality&sid=39b7084197ed8260&sni=lg.hel.play2go.cloud&type=tcp#🇫🇮 Финляндия 8 PLAY2GO INTERNATIONAL LIMITED
