@@ -4,4 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
-vless://2b7a122f-f6ff-4860-a919-7bf51be03c02@194.156.26.28:443?encryption=none&extra={"mode":"packet-up","path":"/","xmux":{"maxConnections":4,"maxConcurrency":0,"cMaxReuseTimes":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","hKeepAlivePeriod":0}}&fp=firefox&host=mama544.baklajann.ru&security=tls&sni=mama544.baklajann.ru&type=xhttp#🇫🇷 Франция OVH SAS
+vless://2b7a122f-f6ff-4860-a919-7bf51be03c02@194.156.26.28:443?encryption=none&extra={"mode":"packet-up","path":"/","xmux":{"maxConnections":4,"maxConcurrency":0,"cMaxReuseTimes":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","hKeepAlivePeriod":0}}&fp=firefox&host=mama544.baklajann.ru&security=tls&sni=mama544.baklajann.ru&type=xhttp#🇫🇷 Франция 1 OVH SAS
+vless://2b7a122f-f6ff-4860-a919-7bf51be03c02@45.67.215.20:443?encryption=none&fp=firefox&security=tls&sni=mama1472.baklajann.ru&type=xhttp#🇫🇷 Франция 2 OVH SAS
+vless://28b242aa-4b91-4ba8-bae5-a34a15355991@189.74.117.15:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videodolina.cc&type=tcp#🇫🇷 Франция 3 FDCservers.net
