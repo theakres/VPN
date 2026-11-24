@@ -4,13 +4,10 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://3444fa0a-f7c7-4601-8b81-9073819b72dc@116.202.176.71:27181?encryption=mlkem768x25519plus.native.0rtt.F5LiR4Hs6W_x17I2LmxdFA8MUGvpHSaVuZ4zxTCAkmI&fp=firefox&host=login.zanjanphone.ir&path=/user&security=tls&sni=login.zanjanphone.ir&type=ws#🇳🇱 Нидерланды 1 ClearStack B.V.
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@5.59.206.58:443?encryption=none&fp=firefox&path=/c34793d61204&security=tls&sni=nl.chick-chirik.com&type=ws#🇳🇱 Нидерланды 2 PLAY2GO INTERNATIONAL LIMITED
-vless://114ffca4-c2e6-4eea-8110-52bd041955b3@84.32.217.165:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=geo-se.cdnvideo.network&type=tcp#🇳🇱 Нидерланды 3 UAB Cherry Servers
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&host=payablemeta.cleanfoodshop.org&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 1 SERV.HOST GROUP LTD
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 2 SERV.HOST GROUP LTD
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&host=31.76.3.52&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 3 SERV.HOST GROUP LTD
-vless://50414e45-4c5f-5a45-5553-d498006b6113@194.156.26.4:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/d498006b6113&security=tls&sni=4kzs98enuqus.gametyrhewr06.workers.dev&type=ws#🇷🇺 Россия 1 Cloudflare, Inc.
-vless://50414e45-4c5f-5a45-5553-d617da6e0a54@194.156.26.20:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/d617da6e0a54&security=tls&sni=qzzw7gegux3s.ersg587gatdd.workers.dev&type=ws#🇷🇺 Россия 2 Cloudflare, Inc.
-vless://0c882c50-88c7-4201-9320-ffdca027a66a@138.199.158.105:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=static.105.158.199.138.clients.your-server.de&type=tcp#🇩🇪 Германия Hetzner Online GmbH
+vless://114ffca4-c2e6-4eea-8110-52bd041955b3@84.32.217.165:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=geo-se.cdnvideo.network&type=tcp#🇳🇱 Нидерланды 1 UAB Cherry Servers
+vless://114ffca4-c2e6-4eea-8110-52bd041955b3@152.232.137.38:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=stream-translator.deepl.network&type=tcp#🇳🇱 Нидерланды 2 UAB Cherry Servers
+vless://3444fa0a-f7c7-4601-8b81-9073819b72dc@116.202.176.71:27181?encryption=mlkem768x25519plus.native.0rtt.F5LiR4Hs6W_x17I2LmxdFA8MUGvpHSaVuZ4zxTCAkmI&fp=firefox&host=login.zanjanphone.ir&path=/user&security=tls&sni=login.zanjanphone.ir&type=ws#🇳🇱 Нидерланды 3 ClearStack B.V.
+vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@5.59.206.58:443?encryption=none&fp=firefox&path=/c34793d61204&security=tls&sni=nl.chick-chirik.com&type=ws#🇳🇱 Нидерланды 4 PLAY2GO - FZCO
+vless://50414e45-4c5f-5a45-5553-d617da6e0a54@194.156.26.20:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/d617da6e0a54&security=tls&sni=qzzw7gegux3s.ersg587gatdd.workers.dev&type=ws#🇷🇺 Россия Cloudflare, Inc.
+vless://81c91c05-179f-4b87-95ca-3306677fb310@89.116.11.171:2096?encryption=none&fp=firefox&host=g-fi-3.r3vgawew123fg.pics&path=/?ed=2048&security=tls&sni=g-fi-3.r3vgawew123fg.pics&type=ws#🇫🇮 Финляндия GLOBAL CONNECTIVITY SOLUTIONS LLP
 vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@145.223.71.220:443?encryption=none&fp=firefox&path=/fr-ws-5b927c40&security=tls&sni=fr.chick-chirik.com&type=ws#🇫🇷 Франция Regxa Company for Information Technology Ltd

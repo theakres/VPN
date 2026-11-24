@@ -5,5 +5,7 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
 vless://b8a4f1b4-9fb1-4c42-ae54-de5124de375c@189.74.117.15:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videodolina.cc&type=tcp#🇫🇷 Франция 1 FDCservers.net
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@145.223.71.220:443?encryption=none&fp=firefox&path=/fr-ws-5b927c40&security=tls&sni=fr.chick-chirik.com&type=ws#🇫🇷 Франция 2 Regxa Company for Information Technology Ltd
-vless://391a32c6-084c-4d61-8e8d-472678021dac@185.188.146.107:6443?encryption=none&fp=firefox&pbk=j0S1c1otF2nPttqWdl1jvO3Lpo46deTj5UYBeZoUB0w&security=reality&serviceName=/api/v1/update&sid=1265c88595b5c91a&sni=download.virtualbox.org&type=grpc#🇫🇷 Франция 3 WEDEPLOY SAS
+vless://8dbed8e2-86f6-4508-a846-6f44512bea88@189.74.117.15:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videodolina.cc&type=tcp#🇫🇷 Франция 2 FDCservers.net
+vless://ffc83d95-6d95-436c-8dd9-3cfd587251ea@189.74.117.15:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videodolina.cc&type=tcp#🇫🇷 Франция 3 FDCservers.net
+vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@145.223.71.220:443?encryption=none&fp=firefox&path=/fr-ws-5b927c40&security=tls&sni=fr.chick-chirik.com&type=ws#🇫🇷 Франция 4 Regxa Company for Information Technology Ltd
+vless://391a32c6-084c-4d61-8e8d-472678021dac@185.188.146.107:6443?encryption=none&fp=firefox&pbk=j0S1c1otF2nPttqWdl1jvO3Lpo46deTj5UYBeZoUB0w&security=reality&serviceName=/api/v1/update&sid=1265c88595b5c91a&sni=download.virtualbox.org&type=grpc#🇫🇷 Франция 5 WEDEPLOY SAS
