@@ -1,9 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQr9C/0L7QvdC40Y8=
-vless://923cb53a-0dec-45e3-9f9a-43607e2d7cf0@91.238.123.206:443?encryption=none&extra={"noGRPCHeader":false,"scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"scStreamUpServerSecs":"20-80","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"200-400","hMaxReusableSecs":"600-1200","maxConnections":3}}&fp=firefox&host=live.kinopolka.net&pbk=-gyODyohzfFAcFmgrR3ZTBGBZ6nsAAp198YabVPCLiE&security=reality&sid=2d05ab84b7ef220b&sni=live.kinopolka.net&type=xhttp#🇯🇵 Япония 1 Contabo Asia Private Limited
-vless://923cb53a-0dec-45e3-9f9a-43607e2d7cf0@91.238.123.206:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-gyODyohzfFAcFmgrR3ZTBGBZ6nsAAp198YabVPCLiE&security=reality&sid=2d05ab84b7ef220b&sni=live.kinopolka.net&type=tcp#🇯🇵 Япония 2 Contabo Asia Private Limited
-vless://923cb53a-0dec-45e3-9f9a-43607e2d7cf0@91.238.123.206:443?encryption=none&fp=firefox&path=/mp3/all&security=tls&sni=live.kinopolka.net&type=ws#🇯🇵 Япония 3 Contabo Asia Private Limited

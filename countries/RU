@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNC+0YHRgdC40Y8=
-vless://0c1bf4e8-561b-4aff-818a-1ca047e1f3a1@45.139.27.59:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=O1D9PBum3D4XL5wAT2oPTw9pQLWDcPj4Aam4XUHbhUQ&security=reality&sid=8a935b081e0f3822&sni=risekitchen.net&type=tcp#🇷🇺 Россия 1 KVIKTEL LLC
-vless://06faca2b-ccae-45c1-9b3a-5e927dc08efb@5.59.204.209:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ru.ezhiknet.work&type=tcp#🇷🇺 Россия 2 KVIKTEL LLC

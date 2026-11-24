@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkdC+0LvQs9Cw0YDQuNGP
-vless://0c1bf4e8-561b-4aff-818a-1ca047e1f3a1@91.92.137.54:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ripelever.net&type=tcp#🇧🇬 Болгария 1 Belcloud LTD
-vless://581e4182-377a-4ff6-8da4-c7ac1ffd38e7@185.120.136.187:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&security=reality&sni=bunny.net&type=tcp#🇧🇬 Болгария 2 Melbikomas UAB

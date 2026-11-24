@@ -4,8 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQodC40L3Qs9Cw0L/Rg9GA
-vless://e36585ea-95c6-47fa-8bea-c08eea04c6f3@85.149.211.173:6750?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rrLKfztlB3pH_5sylfvchYaXlxVaEOg4YCBnIpQ9Kis&security=reality&sni=sg-hyp-api.hoyoverse.com&type=tcp#🇸🇬 Сингапур 1 BAGE CLOUD LLC
-vless://2ec537b3-840a-493a-abf8-b446615d96b8@85.149.211.173:6750?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rrLKfztlB3pH_5sylfvchYaXlxVaEOg4YCBnIpQ9Kis&security=reality&sni=sg-hyp-api.hoyoverse.com&type=tcp#🇸🇬 Сингапур 2 BAGE CLOUD LLC
-vless://7aa77858-f235-000b-9434-7ab060848b17@62.113.70.156:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=cdn-v2.dinevnet.com&type=tcp#🇸🇬 Сингапур 3 Hetzner Online GmbH
-vless://7aa77858-f235-000b-9434-7ab060848b17@171.22.73.92:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=cdn-v3.dinevnet.com&type=tcp#🇸🇬 Сингапур 4 Hetzner Online GmbH
-vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@94.228.167.18:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=90uNUU-i14MO0VEIipqtK_Pk3xMhtDDDWtfcv_Y1X2s&security=reality&sid=b0f28b824c4f18f5&sni=ruaesing656.gangplatform.com&type=tcp#🇸🇬 Сингапур 5 Cloudflare, Inc.
+vless://2ec537b3-840a-493a-abf8-b446615d96b8@85.149.211.173:6750?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rrLKfztlB3pH_5sylfvchYaXlxVaEOg4YCBnIpQ9Kis&security=reality&sni=sg-hyp-api.hoyoverse.com&type=tcp#🇸🇬 Сингапур 1 BAGE CLOUD LLC
+vless://e36585ea-95c6-47fa-8bea-c08eea04c6f3@85.149.211.173:6750?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rrLKfztlB3pH_5sylfvchYaXlxVaEOg4YCBnIpQ9Kis&security=reality&sni=sg-hyp-api.hoyoverse.com&type=tcp#🇸🇬 Сингапур 2 BAGE CLOUD LLC
+vless://e36585ea-95c6-47fa-8bea-c08eea04c6f3@23.94.192.66:6884?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=69nEhJ685-NtSYDnd0OtOcTzL36YFLS0TkkR3NQSfC4&security=reality&sni=sg-hyp-api.hoyoverse.com&type=tcp#🇸🇬 Сингапур 3 WAP.AC LLC

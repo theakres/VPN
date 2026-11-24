@@ -4,10 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
-vless://216a03d5-bc3c-40c6-a2fd-dc153dbb3867@45.67.215.21:443?encryption=none&fp=firefox&security=tls&sni=mama147.baklajann.ru&type=xhttp#🇫🇷 Франция 1 OVH SAS
+vless://7078176e-bb3e-4dd2-aa74-b126e9d51315@83.98.132.156:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b6XQjJTAJByUgv_FJjLDeB_TSNCFEZVD7pGQGqygxH8&security=reality&sid=ed3c201ff2c7dee0&sni=fr.static-s3.org&type=tcp#🇫🇷 Франция 1 AdaptGroup LLC
 vless://3493b1bc-1c65-46e6-9cb6-9dd62b99afea@45.67.215.21:443?encryption=none&fp=firefox&security=tls&sni=mama147.baklajann.ru&type=xhttp#🇫🇷 Франция 2 OVH SAS
-vless://0c1bf4e8-561b-4aff-818a-1ca047e1f3a1@5.230.236.1:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=wittylake.com&type=tcp#🇫🇷 Франция 3 OVH SAS
-vless://0c1bf4e8-561b-4aff-818a-1ca047e1f3a1@5.59.205.3:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=wittylake.com&type=tcp#🇫🇷 Франция 4 OVH SAS
-vless://7078176e-bb3e-4dd2-aa74-b126e9d51315@83.98.132.156:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b6XQjJTAJByUgv_FJjLDeB_TSNCFEZVD7pGQGqygxH8&security=reality&sid=ed3c201ff2c7dee0&sni=fr.static-s3.org&type=tcp#🇫🇷 Франция 5 AdaptGroup LLC
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@145.223.71.220:443?encryption=none&fp=firefox&path=/fr-ws-5b927c40&security=tls&sni=fr.chick-chirik.com&type=ws#🇫🇷 Франция 6 Regxa Company for Information Technology Ltd
-vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@82.22.2.137:443?encryption=none&extra={"noGRPCHeader":false,"xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":30,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConnections":"1-2"}}&fp=firefox&path=/api/v2/7d94497a&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&security=reality&sid=0bf13fb706784403&sni=fr2.green-tg.com&type=xhttp#🇫🇷 Франция 7 VERYCLOUD SAS
+vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@82.22.2.137:443?encryption=none&extra={"noGRPCHeader":false,"xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":30,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConnections":"1-2"}}&fp=firefox&path=/api/v2/7d94497a&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&security=reality&sid=0bf13fb706784403&sni=fr2.green-tg.com&type=xhttp#🇫🇷 Франция 3 VERYCLOUD SAS
