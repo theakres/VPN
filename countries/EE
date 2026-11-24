@@ -1,9 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
-vless://7d31a423-4bb6-4c16-91b8-c08901a37780@13.143.239.90:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lI2vfdzBaAKrDxAdkAW8IHp9pkpQV6INmJrYriC_lyE&security=reality&sid=9ef8ebef9638b9c7&sni=e0ddd1x.ee2.h1clayd.click&type=tcp#🇪🇪 Эстония 1 ASTRA NETWORKS LTD
-vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@13.141.36.163:443?encryption=none&fp=firefox&pbk=wQ0i9JDLOmAnh1Xfo-n_QqSu1hyuqHtTcy--DGgqtzA&security=reality&serviceName=9e16c22000f6&sid=55c396924697994f&sni=314fbcg.ee5.h1clayd.shop&type=grpc#🇪🇪 Эстония 2 HOSTSLIM OU
-vless://391a32c6-084c-4d61-8e8d-472678021dac@85.234.86.230:6443?encryption=none&fp=firefox&pbk=3PLiGB7-JrVgOon0cmuxYLf0rOhuVIooAgch7gB8zD8&security=reality&serviceName=/api/v1/update&sid=d7d3b7ffae8086ac&sni=download.amd.com&type=grpc#🇪🇪 Эстония 3 HZ Hosting Ltd
