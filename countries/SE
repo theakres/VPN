@@ -4,7 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
-vless://d27390ea-4177-4ee3-a3fe-2cf513f33f7d@187.54.12.146:10455?encryption=none&extra={"noGRPCHeader":false,"noSSEHeader":false,"xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":"64-128","hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"16-32"}}&fp=firefox&path=/api&pbk=NoLIbCssob6T9HvprXBoNoYsZyDN650OViyAMePwp1c&security=reality&sid=54cd1667f48828f9&sni=addons.mozilla.org&type=xhttp#🇸🇪 Швеция 1 AdaptGroup LLC
+vless://d27390ea-4177-4ee3-a3fe-2cf513f33f7d@187.54.12.146:10455?encryption=none&fp=firefox&path=/api&pbk=NoLIbCssob6T9HvprXBoNoYsZyDN650OViyAMePwp1c&security=reality&sid=54cd1667f48828f9&sni=addons.mozilla.org&type=xhttp#🇸🇪 Швеция 1 AdaptGroup LLC
 vless://391a32c6-084c-4d61-8e8d-472678021dac@85.234.86.20:6443?encryption=none&fp=firefox&pbk=sadyaFeM276vgv_wdE1g6DDMgKZfKR_fr9DhTyCp9zM&security=reality&serviceName=/api/v1/update&sid=885781b112c298a5&sni=download.virtualbox.org&type=grpc#🇸🇪 Швеция 2 ALEXHOST S.R.L.
 hysteria2://Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-@185.42.212.207:26206?sni=config7x.de5.net&obfs=salamander&obfs-password=vxvnmus9agdzduvz#🇸🇪 Швеция 3 Amazon.com, Inc.
-vless://d3863595-3afe-4a74-8305-612ab69cd21c@13.141.37.253:443?encryption=none&fp=firefox&path=/444de120fb2d&pbk=LZhuBYUqlo8epvzFF3tOPMZ_vjZPN1sraOYy2CKtcz4&security=reality&sid=356cc54d885a4036&sni=0ef47cx.se4.h1clayd.click&type=xhttp#🇸🇪 Швеция 4 Hostup AB
