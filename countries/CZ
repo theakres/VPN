@@ -1,0 +1,12 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQp9C10YXQuNGP
+vless://7aa77858-f235-0005-9434-7ab060848b17@92.63.189.39:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=avelon.onl&type=tcp#🇨🇿 Чехия 1 ASTRA NETWORKS LTD
+vless://f944f0ab-811c-479c-966a-d6ab6ea3f6fc@89.125.96.154:443?encryption=none&fp=firefox&path=/api/convert/stream/&pbk=6nIgP_tiEDkDZVfAaEjElLdBTE7M-bctPjNsox6jfQg&security=reality&sid=2d439b5bcaef7c4b&sni=as3ch.convertez.org&type=xhttp#🇨🇿 Чехия 2 ASTRA NETWORKS LTD
+vless://7aa77858-f235-44d6-9434-7ab060848b17@171.22.73.92:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=cdn-v3.dinevnet.com&type=tcp#🇨🇿 Чехия 3 ASTRA NETWORKS LTD
+vless://7aa77858-f235-0005-9434-7ab060848b17@171.22.73.92:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=cdn-v3.dinevnet.com&type=tcp#🇨🇿 Чехия 4 ASTRA NETWORKS LTD
+vless://7aa77858-f235-0005-9434-7ab060848b17@62.113.70.156:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=cdn-v2.dinevnet.com&type=tcp#🇨🇿 Чехия 5 ASTRA NETWORKS LTD
+vless://09da2b61-be10-40b1-978d-2c8d07438fc2@5.39.202.153:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WU5baXUzRH9BceiYI8MPBmDMEloTFImx2vvE5uh1yjM&security=reality&sid=f19e02a2fb573c18&sni=czek.oblachniy.ink&type=tcp#🇨🇿 Чехия 6 GamerHost s.r.o.
