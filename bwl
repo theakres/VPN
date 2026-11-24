@@ -4,22 +4,13 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQntCx0YXQvtC0INCR0KE=
-vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=171.22.183.166&type=tcp#🇳🇱 Нидерланды 1 BlueVPS OU
-vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&type=tcp#🇳🇱 Нидерланды 2 BlueVPS OU
-vless://d92038b6-b470-4267-9c69-2c649bf3f4a4@136.234.20.140:443?encryption=none&fp=firefox&path=/c2ebbdd6f634&pbk=_nAced6S7uyPz0sjigvwEmN7CsYvJMOsumtBnqldEC8&security=reality&sid=eaf16e75feabc584&sni=6b878dx.nl2.h1clayd.click&type=xhttp#🇳🇱 Нидерланды 3 ASTRA NETWORKS LTD
-vless://ef423950-b6e2-4ab5-8242-591a7b7c4d68@185.86.147.33:443?encryption=none&fp=firefox&path=/b241ws&security=tls&sni=grc.rtkdvbr.cc&type=ws#🇳🇱 Нидерланды 4 GTHost
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@90.156.218.126:28453?encryption=none&fp=firefox&path=/lovelive&security=tls&sni=pl.sparxiecn.com&type=ws#🇵🇱 Польша 1 Newserverlife LLC
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@90.156.218.126:28452?encryption=none&fp=firefox&path=/lovelive&security=tls&sni=pl.sparxiecn.com&type=ws#🇵🇱 Польша 2 Newserverlife LLC
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@90.156.218.126:28449?encryption=none&fp=firefox&path=/lovelive&security=tls&sni=pl.sparxiecn.com&type=ws#🇵🇱 Польша 3 NODE HOST LIMITED
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@90.156.218.126:28450?encryption=none&fp=firefox&path=/lovelive&security=tls&sni=pl.sparxiecn.com&type=ws#🇵🇱 Польша 4 NODE HOST LIMITED
-vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.240.72:8443?encryption=none&fp=firefox&path=/api/v1/upload&security=tls&sni=plaindune.com&type=xhttp#🇧🇬 Болгария 1 Belcloud LTD
-vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.240.72:8443?encryption=none&fp=firefox&host=plaindune.com&path=/api/v1/upload&security=tls&sni=plaindune.com&type=xhttp#🇧🇬 Болгария 2 Belcloud LTD
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@160.5.217.235:18569?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6E5mOchF1kE3xeVVZmdJhmOG1K6zlrovSCvJKmCUxzY&security=reality&sid=67ce41457763df90&sni=bg.chick-chirik.com&type=tcp#🇧🇬 Болгария 3 Baxet Group Inc.
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@84.23.54.115:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2v1vd2gw3A9Sw6w36s63QaSeMYnY4DrkEPUdKAbBPzE&security=reality&sid=25f11b01338a8963&sni=lv.chick-chirik.com&type=tcp#🇱🇻 Латвия 1 SIA VEESP
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@87.239.111.174:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2v1vd2gw3A9Sw6w36s63QaSeMYnY4DrkEPUdKAbBPzE&security=reality&sid=25f11b01338a8963&sni=fi.chick-chirik.com&type=tcp#🇱🇻 Латвия 2 SIA VEESP
+vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@90.156.218.126:28450?encryption=none&fp=firefox&path=/lovelive&security=tls&sni=pl.sparxiecn.com&type=ws#🇵🇱 Польша 1 NODE HOST LIMITED
+vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@90.156.218.126:28447?encryption=none&fp=firefox&path=/lovelive&security=tls&sni=pl.sparxiecn.com&type=ws#🇵🇱 Польша 2 NODE HOST LIMITED
+vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@90.156.218.126:28452?encryption=none&fp=firefox&path=/lovelive&security=tls&sni=pl.sparxiecn.com&type=ws#🇵🇱 Польша 3 Newserverlife LLC
+vless://918b1fa3-3e63-4c8d-87a4-8f635ffb7cd3@147.45.98.78:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=C8jwxMahtF-BpgtauR6I6dVXCc0X8VM9nbFxDQ3LzF0&security=reality&sid=b4&sni=www.gosuslugi.ru&type=tcp#🇷🇺 Россия 1 JSC TIMEWEB
+vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@84.23.52.120:34443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NBiCX_Tj3BeMAyG-GbLLKpGjW_qacm3A2Mz5mN8v3Xk&security=reality&sid=ab532d3308daa67b&sni=ru.sparxiecn.com&type=tcp#🇷🇺 Россия 2 LLC VK
+vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@160.5.217.235:18569?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6E5mOchF1kE3xeVVZmdJhmOG1K6zlrovSCvJKmCUxzY&security=reality&sid=67ce41457763df90&sni=bg.chick-chirik.com&type=tcp#🇧🇬 Болгария Baxet Group Inc.
 vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@159.194.213.167:443?encryption=none&fp=firefox&path=/422f47b619cd&security=tls&sni=de.chick-chirik.com&type=ws#🇩🇪 Германия PLAY2GO INTERNATIONAL LIMITED
-vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@201.34.136.78:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&security=reality&sni=fjn2vd4dgxb6.dynarix-node41.sbs&type=tcp#🇰🇿 Казахстан Newserverlife LLC
+vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@84.23.54.115:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2v1vd2gw3A9Sw6w36s63QaSeMYnY4DrkEPUdKAbBPzE&security=reality&sid=25f11b01338a8963&sni=lv.chick-chirik.com&type=tcp#🇱🇻 Латвия SIA VEESP
 vless://86c5a7fd-0000-42bc-bd6d-085d8d3cedd4@136.234.64.5:451?encryption=none&fp=firefox&host=cdn.x-fx.io&path=/cdnx&security=tls&sni=cdn.x-fx.io&type=xhttp#🇲🇩 Молдова ALEXHOST S.R.L.
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@84.23.52.120:34443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NBiCX_Tj3BeMAyG-GbLLKpGjW_qacm3A2Mz5mN8v3Xk&security=reality&sid=ab532d3308daa67b&sni=ru.sparxiecn.com&type=tcp#🇷🇺 Россия LLC VK
 vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@151.248.113.145:18590?encryption=none&fp=firefox&path=/usaws61006&security=tls&sni=us-aeza.chick-chirik.com&type=ws#🇺🇸 США NetCrafters OU
-vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@147.45.213.56:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&security=reality&sni=zkgbzlv5d42.vortenix-data59.cfd&type=tcp#🇹🇷 Турция Fiba Cloud Operation Company, LLC

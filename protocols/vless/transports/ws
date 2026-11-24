@@ -5,8 +5,10 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&host=payablemeta.cleanfoodshop.org&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 1 SERV.HOST GROUP LTD
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&host=31.76.3.52&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 2 SERV.HOST GROUP LTD
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 3 SERV.HOST GROUP LTD
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 2 SERV.HOST GROUP LTD
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&host=31.76.3.52&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 3 SERV.HOST GROUP LTD
+vless://3444fa0a-f7c7-4601-8b81-9073819b72dc@116.202.176.71:27181?encryption=mlkem768x25519plus.native.0rtt.F5LiR4Hs6W_x17I2LmxdFA8MUGvpHSaVuZ4zxTCAkmI&fp=firefox&host=login.zanjanphone.ir&path=/user&security=tls&sni=login.zanjanphone.ir&type=ws#🇳🇱 Нидерланды 1 ClearStack B.V.
+vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@5.59.206.58:443?encryption=none&fp=firefox&path=/c34793d61204&security=tls&sni=nl.chick-chirik.com&type=ws#🇳🇱 Нидерланды 2 PLAY2GO INTERNATIONAL LIMITED
 vless://50414e45-4c5f-5a45-5553-d498006b6113@194.156.26.4:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/d498006b6113&security=tls&sni=4kzs98enuqus.gametyrhewr06.workers.dev&type=ws#🇷🇺 Россия 1 Cloudflare, Inc.
 vless://50414e45-4c5f-5a45-5553-d617da6e0a54@194.156.26.20:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/d617da6e0a54&security=tls&sni=qzzw7gegux3s.ersg587gatdd.workers.dev&type=ws#🇷🇺 Россия 2 Cloudflare, Inc.
 vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@145.223.71.220:443?encryption=none&fp=firefox&path=/fr-ws-5b927c40&security=tls&sni=fr.chick-chirik.com&type=ws#🇫🇷 Франция Regxa Company for Information Technology Ltd

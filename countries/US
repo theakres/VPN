@@ -4,8 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQodCo0JA=
-vless://7e2f4de7-4ba9-4944-8791-809ff49d03dd@178.156.194.168:2083?encryption=none&fp=firefox&path=/9fd4cc5c6bc3431a&pbk=nsygKb893m_SuA1BfH55efjT0sQlJQDCwIWGM8krawQ&security=reality&sid=b5870ad75616c0da&sni=github.com&type=xhttp#🇺🇸 США 1 Hetzner Online GmbH
-vless://7e2f4de7-4ba9-4944-8791-809ff49d03dd@178.156.194.168:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nsygKb893m_SuA1BfH55efjT0sQlJQDCwIWGM8krawQ&security=reality&sid=b5870ad75616c0da&sni=github.com&type=tcp#🇺🇸 США 2 Hetzner Online GmbH
-vless://ab53f3b6-7962-4bc1-90f6-8420767b22a8@136.148.83.132:8443?encryption=none&fp=firefox&host=us-05.avroraservice.online&path=/xhttp&pbk=KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k&security=reality&sid=6bd33a75ebc0f26e&sni=cdn-us.cahmes.space&type=xhttp#🇺🇸 США 3 ROUTE 95 LLC
-vless://3dd85a7d-65d2-4762-9eb0-0b9597a808d9@87.120.252.67:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&security=reality&sni=eslfast.com&type=tcp#🇺🇸 США 4 Unredacted Inc
-vless://ff13a272-dd8f-4f4c-89e0-6bfdf25c10a7@109.122.46.27:443?encryption=none&fp=firefox&host=static-us.song69.fun&path=/static/v2/media&pbk=mVLgC15zrD5BDn_n4ioczw8kVbGlqfJknH2jhpeOXzk&security=reality&sni=static-us.song69.fun&type=xhttp#🇺🇸 США 5 WEDEPLOY SAS
+vless://ab53f3b6-7962-4bc1-90f6-8420767b22a8@136.148.83.132:8443?encryption=none&fp=firefox&host=us-05.avroraservice.online&path=/xhttp&pbk=KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k&security=reality&sid=6bd33a75ebc0f26e&sni=cdn-us.cahmes.space&type=xhttp#🇺🇸 США 1 ROUTE 95 LLC
+vless://ab53f3b6-7962-4bc1-90f6-8420767b22a8@136.148.83.132:8443?encryption=none&fp=firefox&host=cdn-us.cahmes.space&path=/xhttp&pbk=KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k&security=reality&sid=6bd33a75ebc0f26e&sni=cdn-us.cahmes.space&type=xhttp#🇺🇸 США 2 ROUTE 95 LLC
+vless://3dd85a7d-65d2-4762-9eb0-0b9597a808d9@87.120.252.67:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&security=reality&sni=eslfast.com&type=tcp#🇺🇸 США 3 Unredacted Inc
