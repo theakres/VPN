@@ -4,15 +4,25 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
-vless://edeb6e83-2de8-4e2c-a44d-656ae2991278@208.103.161.2:2083?encryption=none&fp=firefox&security=tls&sni=RayaN15-90e49Yiz-v3.rAYan-15.workeRS.deV&type=ws#🇺🇸 США 1 Amazon.com, Inc.
-vless://12eb241d-f650-4e7e-969b-09f00bb80123@159.195.233.11:8443?encryption=none&fp=firefox&host=next-1ez.pages.dev&path=/12eb241d-f650-4e7e-969b-09f00bb80123&security=tls&sni=next-1ez.pages.dev&type=ws#🇺🇸 США 2 CYBERCON, INC.
-vless://12eb241d-f650-4e7e-969b-09f00bb80123@103.11.78.142:2053?encryption=none&fp=firefox&host=next-1ez.pages.dev&path=/12eb241d-f650-4e7e-969b-09f00bb80123&security=tls&sni=next-1ez.pages.dev&type=ws#🇺🇸 США 3 MULTACOM CORPORATION
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 1 SERV.HOST GROUP LTD
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&host=payablemeta.cleanfoodshop.org&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 2 SERV.HOST GROUP LTD
+vless://12eb241d-f650-4e7e-969b-09f00bb80123@172.82.74.217:2053?encryption=none&fp=firefox&host=next-1ez.pages.dev&path=/12eb241d-f650-4e7e-969b-09f00bb80123?ed=2048&security=tls&sni=next-1ez.pages.dev&type=ws#🇺🇸 США 1 Oracle Corporation
+vless://5c35d449-43e7-4a66-b520-63d2fc891bcd@185.245.34.118:8443?encryption=none&fp=firefox&host=next-8zs.pages.dev&path=/5c35d449-43e7-4a66-b520-63d2fc891bcd?ed=2048&security=tls&sni=next-8zs.pages.dev&type=ws#🇺🇸 США 2 Oracle Corporation
+vless://edeb6e83-2de8-4e2c-a44d-656ae2991278@208.103.161.2:2083?encryption=none&fp=firefox&security=tls&sni=RayaN15-90e49Yiz-v3.rAYan-15.workeRS.deV&type=ws#🇺🇸 США 3 Amazon.com, Inc.
+vless://12eb241d-f650-4e7e-969b-09f00bb80123@103.11.78.142:2053?encryption=none&fp=firefox&host=next-1ez.pages.dev&path=/12eb241d-f650-4e7e-969b-09f00bb80123&security=tls&sni=next-1ez.pages.dev&type=ws#🇺🇸 США 4 FIRST SERVER, SOCIEDAD LIMITADA
+vless://12eb241d-f650-4e7e-969b-09f00bb80123@159.195.233.11:8443?encryption=none&fp=firefox&host=next-1ez.pages.dev&path=/12eb241d-f650-4e7e-969b-09f00bb80123&security=tls&sni=next-1ez.pages.dev&type=ws#🇺🇸 США 5 GTHost
+vless://5c35d449-43e7-4a66-b520-63d2fc891bcd@54.190.224.192:8443?encryption=none&fp=firefox&host=next-8zs.pages.dev&path=/5c35d449-43e7-4a66-b520-63d2fc891bcd?ed=2048&security=tls&sni=next-8zs.pages.dev&type=ws#🇺🇸 США 6 HostPapa
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&host=payablemeta.cleanfoodshop.org&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 1 SERV.HOST GROUP LTD
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 2 SERV.HOST GROUP LTD
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&host=31.76.3.52&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 3 SERV.HOST GROUP LTD
-vless://0201af77-da3f-4aea-95e1-d35c98ec1b21@208.103.161.2:2087?encryption=none&fp=firefox&security=tls&sni=rayAn03-9wwNe2e6-v1.raYan-03.worKers.dEV&type=ws#🇩🇪 Германия 1 Amazon.com, Inc.
+vless://d283bbfe-d5cd-4576-bc1a-630a7a5ad829@31.76.3.52:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇫🇮 Финляндия 4 SERV.HOST GROUP LTD
+vless://b398ddde-edd8-4ba9-a218-eebd136913ad@208.103.161.2:2083?encryption=none&fp=firefox&security=tls&sni=ZGqHW1lxrVKVdFe0t.17ys7jQ251.woRKeRs.DEV&type=ws#🇩🇪 Германия 1 FREAKHOSTING LTD
 vless://13315c16-d89c-4f99-9ff9-72f3f0bdc0a4@188.212.96.177:443?encryption=none&fp=firefox&host=dl2.mbndadwsdf132131.torkey.ir&path=/games/fortnite&security=tls&sni=dl2.mbndadwsdf132131.torkey.ir&type=ws#🇩🇪 Германия 2 Hetzner Online GmbH
-vless://b398ddde-edd8-4ba9-a218-eebd136913ad@208.103.161.2:2083?encryption=none&fp=firefox&security=tls&sni=ZGqHW1lxrVKVdFe0t.17ys7jQ251.woRKeRs.DEV&type=ws#🇬🇧 Великобритания AEZA GROUP LLC
-vless://cd3d8e5c-794f-4c34-8222-59d3e99e35fe@212.116.115.69:443?encryption=none&fp=firefox&host=joeypg.ezbiz.dynv6.net&security=tls&sni=joeypg.ezbiz.dynv6.net&type=ws#🇭🇰 Гонконг PCCW IMS Limited
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@5.59.206.58:443?encryption=none&fp=firefox&path=/c34793d61204&security=tls&sni=nl.chick-chirik.com&type=ws#🇳🇱 Нидерланды PLAY2GO INTERNATIONAL LIMITED
+vless://d283bbfe-d5cd-4576-bc1a-630a7a5ad829@91.196.32.63:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=remotebuild.lucheeebezlimitnoekino.stream&type=ws#🇩🇪 Германия 3 SERV.HOST GROUP LTD
+vless://d283bbfe-d5cd-4576-bc1a-630a7a5ad829@193.233.127.209:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=trendslate.nem-osh-rkp.net&type=ws#🇳🇱 Нидерланды 1 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://d283bbfe-d5cd-4576-bc1a-630a7a5ad829@144.31.128.13:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=retryquery.luxe-self.co.uk&type=ws#🇳🇱 Нидерланды 2 H2NEXUS CLOUD SERVICES - FZCO
+vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@5.59.206.58:443?encryption=none&fp=firefox&path=/c34793d61204&security=tls&sni=nl.chick-chirik.com&type=ws#🇳🇱 Нидерланды 3 SERVERS TECH FZCO
+vless://50414e45-4c5f-5a45-5553-d498006b6113@194.156.26.4:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/d498006b6113&security=tls&sni=4kzs98enuqus.gametyrhewr06.workers.dev&type=ws#🇷🇺 Россия 1 Cloudflare, Inc.
+vless://50414e45-4c5f-5a45-5553-d617da6e0a54@194.156.26.20:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/d617da6e0a54&security=tls&sni=qzzw7gegux3s.ersg587gatdd.workers.dev&type=ws#🇷🇺 Россия 2 Cloudflare, Inc.
+vless://0201af77-da3f-4aea-95e1-d35c98ec1b21@208.103.161.2:2087?encryption=none&fp=firefox&security=tls&sni=rayAn03-9wwNe2e6-v1.raYan-03.worKers.dEV&type=ws#🇬🇧 Великобритания Iomart Managed Services Limited
+vless://d283bbfe-d5cd-0003-bc1a-630a7a5ad829@185.99.96.81:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=edgequote.comparecarprices.org&type=ws#🇮🇳 Индия RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED
+vless://d283bbfe-d5cd-0002-bc1a-630a7a5ad829@185.99.96.81:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=edgequote.comparecarprices.org&type=ws#🇰🇿 Казахстан Fedinyak Sergey Vyacheslavovich
 vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@145.223.71.220:443?encryption=none&fp=firefox&path=/fr-ws-5b927c40&security=tls&sni=fr.chick-chirik.com&type=ws#🇫🇷 Франция Regxa Company for Information Technology Ltd
