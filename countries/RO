@@ -1,0 +1,9 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNGD0LzRi9C90LjRjw==
+vless://0fd51173-737e-4509-82f3-fe3347034c9c@93.114.194.135:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pWC4Zthw_AH0PZVCkUY-1eNOzmEvNXGecs2eBmpj2nI&security=reality&sid=091529455a53b00e&sni=m756greek.rucdn.pro&type=tcp#🇷🇴 Румыния 1 INTERKVM HOST SRL
+vless://0fd51173-737e-4509-82f3-fe3347034c9c@85.204.107.2:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dAzWNLnINcfCwRteXOz4Ip0OIKuSse9Y-iZvJzSKeg8&security=reality&sid=cf4154ce8f4300c6&sni=sd755spsps.rucdn.pro&type=tcp#🇷🇴 Румыния 2 INTERKVM HOST SRL
+vless://04fa9389-a230-4f62-bcdb-3bfe240a62b2@201.8.80.216:443?encryption=none&fp=firefox&pbk=cAFMol_SqbGzF6IZSHdOS8taChr8dRe9n3RdxJp0QEQ&security=reality&serviceName=grpc&sni=dl.google.com&type=grpc#🇷🇴 Румыния 3 HOSTOX GROUP S.R.L.

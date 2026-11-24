@@ -4,8 +4,11 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQk9C10YDQvNCw0L3QuNGP
-vless://29183311-e47b-441a-9a39-3ad3579d31b0@89.125.175.217:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=de8.devtalks.pro&type=tcp#🇩🇪 Германия 1 WEYRO LTD
-vless://6fc8c2a2-cac4-4a88-9bb7-11a234cbedda@89.125.175.217:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=de8.devtalks.pro&type=tcp#🇩🇪 Германия 2 WEYRO LTD
-hysteria2://WA0SnWHPvYWDTaPjIMZgB6WFSJUPj5FH@31.56.189.204:443?sni=abr.ntsrc.xyz#🇩🇪 Германия 3 ExpressHost Ltd
-vless://391a32c6-084c-4d61-8e8d-472678021dac@80.240.97.60:6443?encryption=none&fp=firefox&pbk=HB7NH1pXFcxfe2DNjWKcwPJCgqJNLn27_KRcm15J2QI&security=reality&serviceName=/api/v1/update&sid=cc546535f6c9e72a&sni=appstats.nvidia.com&type=grpc#🇩🇪 Германия 4 WEDEPLOY SAS
-vless://5b1b4b2f-d8c2-4091-bd9d-ee697f50b84f@5.45.83.79:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-jdqVd5ghT8RpV2UE7wQP2nGTK1wJBvbPFD4fPOVZhM&security=reality&sni=germany.avara.fit&type=tcp#🇩🇪 Германия 5 xTom GmbH
+vless://c379c608-bec9-4940-a457-d3759c4bd86d@78.18.7.104:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=static.69.71.203.116.clients.your-server.de&type=tcp#🇩🇪 Германия 1 Hetzner Online GmbH
+vless://c379c608-bec9-4940-a457-d3759c4bd86d@2.28.138.224:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=static.224.138.28.2.clients.your-server.de&type=tcp#🇩🇪 Германия 2 Hetzner Online GmbH
+vless://f90ff217-d3ac-4be1-b5ce-86dee5d0e230@37.32.42.125:26061?encryption=mlkem768x25519plus.native.0rtt.aCyHWhYKQdyMXWHiCt0n0xJefdTk77V4-fqxhJzZg1c&fp=firefox&host=channel.varna-rp.ir&path=/Deliverycactus&pbk=b0Lktn3zKpk-9K8iDBxeCXo6dI9e7-EuMeZCmG90NRQ&security=reality&sid=587512fcde507a56&sni=aparat.com&type=xhttp#🇩🇪 Германия 3 Hetzner Online GmbH
+vless://0fd51173-737e-4509-82f3-fe3347034c9c@95.133.245.236:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oHL8Bc1TqMpL4x46qoyZKZBKuaQOSjSrNGUQKgAUi1g&security=reality&sni=e757de.rucdn.pro&type=tcp#🇩🇪 Германия 4 INTERKVM HOST SRL
+vless://0fd51173-737e-4509-82f3-fe3347034c9c@45.135.128.132:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wEIfyXoKR3UTkFnoXiWs3yC2psUjy0Vd6gbphpyYDxo&security=reality&sni=cdn705j38hd423.rucdn.pro&type=tcp#🇩🇪 Германия 5 INTERKVM HOST SRL
+hysteria2://WA0SnWHPvYWDTaPjIMZgB6WFSJUPj5FH@31.56.189.204:443?sni=abr.ntsrc.xyz#🇩🇪 Германия 6 ExpressHost Ltd
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@1.160.1.110:19482?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇩🇪 Германия 7 Matteo Martelloni trading as DELUXHOST
+vless://391a32c6-084c-4d61-8e8d-472678021dac@80.240.97.60:6443?encryption=none&fp=firefox&pbk=HB7NH1pXFcxfe2DNjWKcwPJCgqJNLn27_KRcm15J2QI&security=reality&serviceName=/api/v1/update&sid=cc546535f6c9e72a&sni=appstats.nvidia.com&type=grpc#🇩🇪 Германия 8 WEDEPLOY SAS
