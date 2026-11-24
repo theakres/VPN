@@ -1,9 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQodC40L3Qs9Cw0L/Rg9GA
-vless://2ec537b3-840a-493a-abf8-b446615d96b8@85.149.211.173:6750?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rrLKfztlB3pH_5sylfvchYaXlxVaEOg4YCBnIpQ9Kis&security=reality&sni=sg-hyp-api.hoyoverse.com&type=tcp#🇸🇬 Сингапур 1 BAGE CLOUD LLC
-vless://e36585ea-95c6-47fa-8bea-c08eea04c6f3@85.149.211.173:6750?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rrLKfztlB3pH_5sylfvchYaXlxVaEOg4YCBnIpQ9Kis&security=reality&sni=sg-hyp-api.hoyoverse.com&type=tcp#🇸🇬 Сингапур 2 BAGE CLOUD LLC
-vless://e36585ea-95c6-47fa-8bea-c08eea04c6f3@23.94.192.66:6884?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=69nEhJ685-NtSYDnd0OtOcTzL36YFLS0TkkR3NQSfC4&security=reality&sni=sg-hyp-api.hoyoverse.com&type=tcp#🇸🇬 Сингапур 3 WAP.AC LLC

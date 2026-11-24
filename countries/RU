@@ -1,0 +1,9 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNC+0YHRgdC40Y8=
+vless://58c9a6b4-985b-452f-82fd-8b32e2ff3086@94.228.175.184:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_F-frcnUUnw8JuJj-UHVbX7c9z-_566OAx6vgTT12mo&security=reality&sid=a1da34759a71a6be&sni=music.yandex.ru&type=tcp#🇷🇺 Россия 1 AEZA GROUP LLC
+vless://a8d0c223-76d6-4f47-bb2f-b922003e04c8@194.113.106.90:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PyuTgGxPzl6lT_oLpy_PUzBWS1n-9Xo8CYLCNPsJh3k&security=reality&sid=231ba4d8826bfa81&sni=klru2.x5specially.online&type=tcp#🇷🇺 Россия 2 AEZA GROUP LLC
+vless://65370318-d4b8-492f-8241-c61e70b8f0cd@185.147.26.120:443?encryption=none&fp=firefox&host=ru1.cdnconnect.org&security=tls&sni=ru1.cdnconnect.org&type=ws#🇷🇺 Россия 3 KVIKTEL LLC
