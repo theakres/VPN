@@ -1,0 +1,10 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IGdSUEM=
+vless://6d3f3ca5-bff7-4f4f-bbbc-8e648f29ace6@198.13.140.193:443?encryption=none&fp=firefox&pbk=QHh_UJffm-Oe4QtuSljlmCBlgCPidsAVY-DGfK9DoCg&security=reality&serviceName=grpc&sid=9cc9137a&sni=478e9.ggdrops.cc&type=grpc#🇩🇪 Германия TeraSwitch Networks Inc.
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@153.56.231.73:443?encryption=none&fp=firefox&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&security=reality&serviceName=204adda7e3da&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&type=grpc#🇮🇱 Израиль Company 64d3458brTzt8gEz
+vless://6d3f3ca5-bff7-4f4f-bbbc-8e648f29ace6@198.13.142.202:443?encryption=none&fp=firefox&pbk=JDUHaCWFryv7gFDYFcjcbdZiMJ7ympfTJGB8JXDwEnU&security=reality&serviceName=grpc&sid=798467fa&sni=77008.lumariqis.com&type=grpc#🇮🇪 Ирландия TeraSwitch Networks Inc.
+vless://cfa56ec0-2bd0-4768-9b4b-9ef906dd6db0@147.45.166.110:443?encryption=none&fp=firefox&pbk=HNxVD1Fe0pz7BR3nU4ZccnR8EeejoOcv9UgtvEknOzk&security=reality&serviceName=UpdateService&sid=eda0bce9f042c262&sni=pkg.go.dev&type=grpc#🇳🇱 Нидерланды Timeweb, LLP

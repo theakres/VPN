@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmNGB0L/QsNC90LjRjw==
+vless://cfa56ec0-2bd0-4768-9b4b-9ef906dd6db0@152.114.195.10:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SB4R8DxWrvEF9ekYeFObQRn9CfoePqIh3zqG0_G4Fww&security=reality&sid=e542bac0889226ef&sni=pkg.go.dev&type=tcp#🇪🇸 Испания HOSTKEY B.V.

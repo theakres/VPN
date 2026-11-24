@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQodC40L3Qs9Cw0L/Rg9GA
+vless://cfa56ec0-2bd0-4768-9b4b-9ef906dd6db0@104.234.233.105:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=34HNkQ-YKmvpWVRs5ZZKkLiHbWAcNqYE9YCyHyLq8GM&security=reality&sid=cd04f79510233bec&sni=dlcdn.apache.org&type=tcp#🇸🇬 Сингапур 1 AKILE LTD
+vless://e36585ea-95c6-47fa-8bea-c08eea04c6f3@23.94.192.66:6884?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=69nEhJ685-NtSYDnd0OtOcTzL36YFLS0TkkR3NQSfC4&security=reality&sni=sg-hyp-api.hoyoverse.com&type=tcp#🇸🇬 Сингапур 2 WAP.AC LLC

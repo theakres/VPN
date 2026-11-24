@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmtCw0LfQsNGF0YHRgtCw0L0=
+vless://cfa56ec0-2bd0-4768-9b4b-9ef906dd6db0@194.0.109.38:443?encryption=none&extra={"headers":{"User-Agent":"firefox"},"scMaxEachPostBytes":1000000,"seqKey":"partNumber","seqPlacement":"query","sessionIDKey":"uploadId","sessionIDLength":"24-32","sessionIDPlacement":"query","sessionIDTable":"Base62","sessionKey":"uploadId","sessionPlacement":"query","uplinkDataPlacement":"body","uplinkHTTPMethod":"PUT","xPaddingHeader":"Referer","xPaddingKey":"_ts","xPaddingMethod":"tokenish","xPaddingObfsMode":true,"xPaddingPlacement":"queryInHeader","xmux":{"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"3-4"}}&fp=firefox&path=/api/v1/uploads&pbk=5iI4gWdsx3sgJ8TZqRxssa_AoSVdp-xT3RPljKDNQiI&security=reality&sid=111fce347c752d81&sni=assets.fonts.adobe.com&type=xhttp#🇰🇿 Казахстан 1 Datacamp Limited
+vless://cfa56ec0-2bd0-4768-9b4b-9ef906dd6db0@194.0.109.22:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5R32i-b-pt5yuzunqq58tV2Ctq7UPl9SUYGoeJpzMDE&security=reality&sid=cc17fd753465612b&sni=upload-qvw50poc.getfreereel.com&type=tcp#🇰🇿 Казахстан 2 Datacamp Limited

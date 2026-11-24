@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmtCw0L3QsNC00LA=
+vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@84.54.47.216:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3U3hb-HmOG5qptCzXIt8NQE3TE40eeTJsNpBV_B9hQA&security=reality&sid=1dde6750d22c5634&sni=rucanmicro1.gangplatform.com&type=tcp#🇨🇦 Канада Cloudflare, Inc.

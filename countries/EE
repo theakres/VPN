@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQrdGB0YLQvtC90LjRjw==
+vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@13.143.239.243:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ocBBxRqpWdvUTfd6hRdEcOq7TtiHdQi65s5thInXjkw&security=reality&sid=a503308602b56095&sni=vexlum.klyck.online&type=tcp#🇪🇪 Эстония 1 ASTRA NETWORKS LTD
+hysteria2://7cbd9bf9-a3b1-4257-8406-df6109cd882f@31.76.70.154:443?sni=nl.chick-chirik.com#🇪🇪 Эстония 2 SERV.HOST GROUP LTD

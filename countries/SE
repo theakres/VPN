@@ -1,0 +1,11 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
+vless://5d98ff1a-d576-46d3-9504-b158d94bcce9@143.246.195.157:8448?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZrfnJpQfBnWiNjELJL9kDi1pNa2hrVyosu8a0sjE9WQ&security=reality&sid=2355ffa16d2b04a2&sni=www.telia.se&type=tcp#🇸🇪 Швеция 1 ALEXHOST S.R.L.
+hysteria2://Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-@185.42.212.207:26206?sni=config7x.de5.net&obfs=salamander&obfs-password=vxvnmus9agdzduvz#🇸🇪 Швеция 2 Amazon.com, Inc.
+vless://d7121b33-e335-4921-bb00-4c0b157e7fc1@201.8.87.187:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=2gcnbpjzq4go.cloud-kmt.com&type=tcp#🇸🇪 Швеция 3 ASTRA NETWORKS LTD
+vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@13.141.51.188:25191?encryption=none&fp=firefox&path=/astral-edge-h1&pbk=_Cb2FzFDVi9blwCb_5V0NZue6wt-U6GL0N_-OX8NGGA&security=reality&sid=55328e423218ee9b&sni=a8687er.se2.h1clayd.click&type=xhttp#🇸🇪 Швеция 4 Hostup AB
+vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@46.183.21.169:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=y070kpnC4ztcJp523O7L87JkxhMQhXOUYrjh-uP_PzI&security=reality&sid=ef50ff080d648308&sni=mxzfn.klyck.online&type=tcp#🇸🇪 Швеция 5 South Park Networks LLC

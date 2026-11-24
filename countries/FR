@@ -1,0 +1,10 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
+vless://3493b1bc-1c65-46e6-9cb6-9dd62b99afea@45.67.215.21:443?encryption=none&fp=firefox&security=tls&sni=mama147.baklajann.ru&type=xhttp#🇫🇷 Франция 1 OVH SAS
+vless://216a03d5-bc3c-40c6-a2fd-dc153dbb3867@45.67.215.21:443?encryption=none&fp=firefox&security=tls&sni=mama147.baklajann.ru&type=xhttp#🇫🇷 Франция 2 OVH SAS
+vless://e1685304-8010-48d9-b609-a9218d26c350@91.108.209.33:443?encryption=none&fp=firefox&security=tls&sni=mobile-api-05.cdnvk.co.uk&type=tcp#🇫🇷 Франция 3 Gabriele Sabatino
+vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@145.223.71.220:443?encryption=none&fp=firefox&path=/fr-ws-5b927c40&security=tls&sni=fr.chick-chirik.com&type=ws#🇫🇷 Франция 4 Regxa Company for Information Technology Ltd
