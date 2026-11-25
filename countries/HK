@@ -4,8 +4,5 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQk9C+0L3QutC+0L3Qsw==
-vless://84cf8cef-c05c-4d0e-ad81-3a5494ca4ef0@125.230.79.123:30101?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=egnl0iFXY3IZYfvHwoNd72sCaULkoFRoL78wQiFwcDU&security=reality&sid=176d4445&sni=itunes.apple.com&type=tcp#🇭🇰 Гонконг 1 Akari Networks Limited
-vless://148917bd-0b37-42b8-98f4-aa94ca73e75a@138.249.210.11:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0&security=reality&sid=4e3f59&sni=travel.yandex.ru&type=tcp#🇭🇰 Гонконг 2 BIG HOSTING LTD
-vless://b69cf773-da16-486e-afce-a45b94f998b3@185.206.171.66:8443?encryption=none&fp=firefox&host=senflarelink-node-7uv.pages.dev&security=tls&sni=senflarelink-node-7uv.pages.dev&type=ws#🇭🇰 Гонконг 3 Cloudflare, Inc.
-vless://84cf8cef-c05c-4d0e-ad81-3a5494ca4ef0@125.230.79.123:30103?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8M0-R5F627Hnwb-hiS0VMSm-q3NPmriztJSU9FfvTB4&security=reality&sid=435e2af5&sni=itunes.apple.com&type=tcp#🇭🇰 Гонконг 4 PCCW IMS Limited
-vless://391a32c6-084c-4d61-8e8d-472678021dac@200.181.82.74:6443?encryption=none&fp=firefox&pbk=9XjT5lRJlUeqtPnPy1j2WFXIWwUvdBnB4dbt1f7EXmY&security=reality&serviceName=/api/v1/update&sid=f7ef8c6fe14e83bd&sni=download.amd.com&type=grpc#🇭🇰 Гонконг 5 WEDEPLOY SAS
+vless://148917bd-0b37-42b8-98f4-aa94ca73e75a@138.249.210.11:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0&security=reality&sid=4e3f59&sni=travel.yandex.ru&type=tcp#🇭🇰 Гонконг 1 BIG HOSTING LTD
+vless://391a32c6-084c-4d61-8e8d-472678021dac@200.181.82.74:6443?encryption=none&fp=firefox&pbk=9XjT5lRJlUeqtPnPy1j2WFXIWwUvdBnB4dbt1f7EXmY&security=reality&serviceName=/api/v1/update&sid=f7ef8c6fe14e83bd&sni=download.amd.com&type=grpc#🇭🇰 Гонконг 2 WEDEPLOY SAS
