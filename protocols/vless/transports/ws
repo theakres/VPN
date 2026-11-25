@@ -4,17 +4,14 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
-vless://f120881b-3d5c-4583-a039-6ecd07e04c3f@2.27.203.133:443?encryption=none&fp=firefox&host=p4wd7n.syncpointbase.online&path=/ws&security=tls&sni=p4wd7n.syncpointbase.online&type=ws#🇫🇮 Финляндия 1 PLAY2GO INTERNATIONAL LIMITED
-vless://f120881b-3d5c-4583-a039-6ecd07e04c3f@46.17.45.116:443?encryption=none&fp=firefox&host=f4bcuz.syncpointbase.online&path=/ws&security=tls&sni=f4bcuz.syncpointbase.online&type=ws#🇫🇮 Финляндия 2 PLAY2GO INTERNATIONAL LIMITED
-vless://42e7accd-8b78-4265-8ad9-79e6f60e9916@185.147.26.118:443?encryption=none&fp=firefox&host=fi1.cdnconnect.org&security=tls&sni=fi1.cdnconnect.org&type=ws#🇫🇮 Финляндия 3 H2NEXUS CLOUD SERVICES - FZCO
-vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.31:8461?encryption=none&fp=firefox&path=/ws&security=tls&sni=library.plumstatic.com&type=ws#🇮🇳 Индия 1 Melbikomas UAB
-vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.45.23:8462?encryption=none&fp=firefox&path=/ws&security=tls&sni=gallery.plumstatic.com&type=ws#🇮🇳 Индия 2 Melbikomas UAB
+vless://50414e45-4c5f-5a45-5553-d498006b6113@194.156.26.4:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/d498006b6113&security=tls&sni=4kzs98enuqus.gametyrhewr06.workers.dev&type=ws#🇷🇺 Россия 1 Cloudflare, Inc.
+vless://50414e45-4c5f-5a45-5553-d617da6e0a54@194.156.26.20:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/d617da6e0a54&security=tls&sni=qzzw7gegux3s.ersg587gatdd.workers.dev&type=ws#🇷🇺 Россия 2 Cloudflare, Inc.
+vless://42e7accd-8b78-4265-8ad9-79e6f60e9916@185.147.26.120:443?encryption=none&fp=firefox&host=ru1.cdnconnect.org&security=tls&sni=ru1.cdnconnect.org&type=ws#🇷🇺 Россия 3 KVIKTEL LLC
+vless://42e7accd-8b78-4265-8ad9-79e6f60e9916@104.167.197.59:443?encryption=none&fp=firefox&host=us3.cdnconnect.org&security=tls&sni=us3.cdnconnect.org&type=ws#🇺🇸 США 1 Newserverlife LLC
+vless://42e7accd-8b78-4265-8ad9-79e6f60e9916@104.167.197.207:443?encryption=none&fp=firefox&host=us3.cdnconnect.org&security=tls&sni=us3.cdnconnect.org&type=ws#🇺🇸 США 2 Newserverlife LLC
 vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.45.23:8450?encryption=none&fp=firefox&path=/ws&security=tls&sni=fonts.plumstatic.com&type=ws#🇱🇻 Латвия Melbikomas UAB
 vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.31:8459?encryption=none&fp=firefox&path=/ws&security=tls&sni=photos.plumstatic.com&type=ws#🇦🇪 ОАЭ Melbikomas UAB
 vless://42e7accd-8b78-4265-8ad9-79e6f60e9916@80.47.10.180:443?encryption=none&fp=firefox&host=w1.cdnconnect.org&security=tls&sni=w1.cdnconnect.org&type=ws#🇵🇱 Польша MEVSPACE sp. z o.o.
-vless://42e7accd-8b78-4265-8ad9-79e6f60e9916@185.147.26.120:443?encryption=none&fp=firefox&host=ru1.cdnconnect.org&security=tls&sni=ru1.cdnconnect.org&type=ws#🇷🇺 Россия KVIKTEL LLC
-vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.45.23:8444?encryption=none&fp=firefox&path=/ws&security=tls&sni=media.plumstatic.com&type=ws#🇸🇬 Сингапур Melbikomas UAB
-vless://42e7accd-8b78-4265-8ad9-79e6f60e9916@104.167.197.59:443?encryption=none&fp=firefox&host=us3.cdnconnect.org&security=tls&sni=us3.cdnconnect.org&type=ws#🇺🇸 США Newserverlife LLC
+vless://42e7accd-8b78-4265-8ad9-79e6f60e9916@185.147.26.118:443?encryption=none&fp=firefox&host=fi1.cdnconnect.org&security=tls&sni=fi1.cdnconnect.org&type=ws#🇫🇮 Финляндия H2NEXUS CLOUD SERVICES - FZCO
 vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.45.23:8454?encryption=none&fp=firefox&path=/ws&security=tls&sni=store.plumstatic.com&type=ws#🇫🇷 Франция Melbikomas UAB
 vless://f120881b-3d5c-4583-a039-6ecd07e04c3f@31.77.18.117:443?encryption=none&fp=firefox&host=lte2k7.syncpointbase.online&path=/ws&security=tls&sni=lte2k7.syncpointbase.online&type=ws#🇸🇪 Швеция PLAY2GO - FZCO
-vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.31:8463?encryption=none&fp=firefox&path=/ws&security=tls&sni=share.plumstatic.com&type=ws#🇯🇵 Япония Melbikomas UAB

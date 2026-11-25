@@ -5,5 +5,5 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQk9C+0L3QutC+0L3Qsw==
 vless://391a32c6-084c-4d61-8e8d-472678021dac@200.181.82.74:6443?encryption=none&fp=firefox&pbk=9XjT5lRJlUeqtPnPy1j2WFXIWwUvdBnB4dbt1f7EXmY&security=reality&serviceName=/api/v1/update&sid=f7ef8c6fe14e83bd&sni=download.amd.com&type=grpc#🇭🇰 Гонконг 1 WEDEPLOY SAS
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@1.160.32.53:47396?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇭🇰 Гонконг 2 WEDEPLOY SAS
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@1.160.18.176:47396?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇭🇰 Гонконг 2 WEDEPLOY SAS
 vless://148917bd-0b37-42b8-98f4-aa94ca73e75a@138.249.210.11:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0&security=reality&sid=4e3f59&sni=travel.yandex.ru&type=tcp#🇭🇰 Гонконг 3 BIG HOSTING LTD
