@@ -4,7 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQodCo0JA=
-vless://f69e272f-e0e5-4e9d-b180-5be63930cde9@143.246.215.19:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=us.memepn.com&type=tcp#🇺🇸 США 1 ALEXHOST S.R.L.
-vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@195.209.209.64:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=f8nkGMN6JDENHKvHrFYabx4JqSMSAZGS0lyc-KuagnQ&security=reality&sid=f3166ffa363ceaef&sni=ruhsds744.gangtype.com&type=tcp#🇺🇸 США 2 Cloudflare, Inc.
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@162.35.38.120:25155?encryption=none&fp=firefox&path=/astral-edge-h1&pbk=I4mzdgz1mvaVDtkDD9AzK1ZJkEaQu_GYEbGIfm_a5UM&security=reality&sid=0ebb438948cdf356&sni=48688cr.us12.h1clayd.click&type=xhttp#🇺🇸 США 3 Interserver, Inc
-vless://5915986c-d28a-4286-998b-5f8c254c6ac8@87.120.106.95:443?encryption=none&fp=firefox&host=www.worldoftanks.eu&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&security=reality&sni=www.worldoftanks.eu&type=xhttp#🇺🇸 США 4 Unredacted Inc
+vless://5915986c-d28a-4286-998b-5f8c254c6ac8@87.120.106.95:443?encryption=none&fp=firefox&host=www.worldoftanks.eu&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&security=reality&sni=www.worldoftanks.eu&type=xhttp#🇺🇸 США 1 Unredacted Inc
+vless://6a8bb51e-b686-45da-ae5a-88a5d77a19fa@87.120.252.67:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&security=reality&sni=worldoftanks.eu&type=tcp#🇺🇸 США 2 Unredacted Inc
+vless://6a8bb51e-b686-45da-ae5a-88a5d77a19fa@176.126.122.236:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&security=reality&sni=lockheart.info&type=tcp#🇺🇸 США 3 Unredacted Inc

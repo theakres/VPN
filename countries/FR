@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
-vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@82.22.2.137:443?encryption=none&fp=firefox&path=/api/v2/7d94497a&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&security=reality&sid=0bf13fb706784403&sni=fr2.green-tg.com&type=xhttp#🇫🇷 Франция 1 VERYCLOUD SAS
-vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@82.22.2.137:443?encryption=none&extra={"noGRPCHeader":false,"xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":30,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConnections":"1-2"}}&fp=firefox&path=/api/v2/7d94497a&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&security=reality&sid=0bf13fb706784403&sni=fr2.green-tg.com&type=xhttp#🇫🇷 Франция 2 VERYCLOUD SAS

@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNC+0YHRgdC40Y8=
-vless://dd26459b-3e0c-4910-aa5d-2668ae20f65d@89.19.223.234:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lRuJPDrUb0b32-47hl4BgDoQutqmkuW31N4qVxbDgmI&security=reality&sid=0f19f0c8102dc695&sni=d3-ru.cloud-cdn.xyz&type=tcp#🇷🇺 Россия 1 KVANTA LLC
-vless://dd26459b-3e0c-4910-aa5d-2668ae20f65d@89.19.223.229:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lRuJPDrUb0b32-47hl4BgDoQutqmkuW31N4qVxbDgmI&security=reality&sid=0f19f0c8102dc695&sni=d3-ru.cloud-cdn.xyz&type=tcp#🇷🇺 Россия 2 KVANTA LLC
