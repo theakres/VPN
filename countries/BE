@@ -1,9 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkdC10LvRjNCz0LjRjw==
-vless://f8cb3c89-32af-4255-bebc-d90aad175069@98.142.254.208:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&sid=27350908de933e09&sni=bea.899themes.pro&type=tcp#🇧🇪 Бельгия 1 HZ Hosting Ltd
-vless://f8cb3c89-32af-4255-bebc-d90aad175069@94.126.225.138:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&sid=27350908de933e09&sni=beb.899themes.pro&type=tcp#🇧🇪 Бельгия 2 HZ Hosting Ltd
-vless://90ff5ee6-e8f0-000e-89bd-4bc2c76ee71c@116.202.179.200:2096?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=c7f2416117bed4fd.coreping.ir&type=tcp#🇧🇪 Бельгия 3 M247 Europe SRL

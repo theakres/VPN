@@ -1,9 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQktC10LvQuNC60L7QsdGA0LjRgtCw0L3QuNGP
-vless://1edc315b-54f9-4f3a-bde0-702a8128cd57@50.7.154.78:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediasvyaz.cc&type=tcp#🇬🇧 Великобритания 1 FDCservers.net
-vless://ac21efc7-5dc3-4e09-b940-9411cb81f56e@50.7.154.78:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediasvyaz.cc&type=tcp#🇬🇧 Великобритания 2 FDCservers.net
-vless://90ff5ee6-e8f0-0004-89bd-4bc2c76ee71c@167.233.189.229:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=0af03f5383be6307.filimino.ir&type=tcp#🇬🇧 Великобритания 3 31173 Services AB
