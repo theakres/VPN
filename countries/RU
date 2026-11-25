@@ -4,6 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQoNC+0YHRgdC40Y8=
-vless://58c9a6b4-985b-452f-82fd-8b32e2ff3086@94.228.175.184:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_F-frcnUUnw8JuJj-UHVbX7c9z-_566OAx6vgTT12mo&security=reality&sid=a1da34759a71a6be&sni=music.yandex.ru&type=tcp#🇷🇺 Россия 1 AEZA GROUP LLC
-vless://a8d0c223-76d6-4f47-bb2f-b922003e04c8@194.113.106.90:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PyuTgGxPzl6lT_oLpy_PUzBWS1n-9Xo8CYLCNPsJh3k&security=reality&sid=231ba4d8826bfa81&sni=klru2.x5specially.online&type=tcp#🇷🇺 Россия 2 AEZA GROUP LLC
-vless://65370318-d4b8-492f-8241-c61e70b8f0cd@185.147.26.120:443?encryption=none&fp=firefox&host=ru1.cdnconnect.org&security=tls&sni=ru1.cdnconnect.org&type=ws#🇷🇺 Россия 3 KVIKTEL LLC
+vless://a8d0c223-76d6-4f47-bb2f-b922003e04c8@194.113.106.90:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PyuTgGxPzl6lT_oLpy_PUzBWS1n-9Xo8CYLCNPsJh3k&security=reality&sid=231ba4d8826bfa81&sni=klru2.x5specially.online&type=tcp#🇷🇺 Россия 1 AEZA GROUP LLC
+vless://67a31bdf-5846-409d-8b49-3d795e1a2a4f@45.150.238.201:20443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xE2CNenfDgtu28WQ23Bq2KfdkEj3XN42P_ZVou1YRC4&security=reality&sid=f847646adc2b82fe&sni=dc.insidenet.ru&type=tcp#🇷🇺 Россия 2 Datacheap LLC
+hysteria2://7316d881-eeec-429b-94f1-07585747f7c8@95.182.123.106:443?sni=channelru.belka.tv#🇷🇺 Россия 3 Gilmutdinov Ildar Aydarovich
+vless://dd26459b-3e0c-4910-aa5d-2668ae20f65d@89.19.223.229:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lRuJPDrUb0b32-47hl4BgDoQutqmkuW31N4qVxbDgmI&security=reality&sid=0f19f0c8102dc695&sni=d3-ru.cloud-cdn.xyz&type=tcp#🇷🇺 Россия 4 KVANTA LLC
+vless://42e7accd-8b78-4265-8ad9-79e6f60e9916@185.147.26.120:443?encryption=none&fp=firefox&host=ru1.cdnconnect.org&security=tls&sni=ru1.cdnconnect.org&type=ws#🇷🇺 Россия 5 KVIKTEL LLC
