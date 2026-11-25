@@ -4,8 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQp9C10YXQuNGP
-vless://4eb87bcf-713a-4abc-9aea-e5840309161c@46.8.113.29:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=b.anzgopronet.com&type=tcp#🇨🇿 Чехия 1 Mastersoft S.R.L.
-vless://4eb87bcf-713a-4abc-9aea-e5840309161c@45.151.183.93:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=b.anzgopronet.com&type=tcp#🇨🇿 Чехия 2 Mastersoft S.R.L.
-vless://4eb87bcf-713a-4abc-9aea-e5840309161c@103.118.211.106:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=b.anzgopronet.com&type=tcp#🇨🇿 Чехия 3 Mastersoft S.R.L.
-vless://4eb87bcf-713a-4abc-9aea-e5840309161c@103.118.211.198:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=b.anzgopronet.com&type=tcp#🇨🇿 Чехия 4 Mastersoft S.R.L.
-vless://4eb87bcf-713a-4abc-9aea-e5840309161c@103.118.211.214:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=b.anzgopronet.com&type=tcp#🇨🇿 Чехия 5 Mastersoft S.R.L.
+vless://65b6bc06-44c9-0005-8dc0-bdf1d688c0e6@111.88.129.82:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=cdn-v3.dinevnet.com&type=tcp#🇨🇿 Чехия 1 ASTRA NETWORKS LTD
+vless://65b6bc06-44c9-0005-8dc0-bdf1d688c0e6@62.113.70.44:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=cdn-v2.dinevnet.com&type=tcp#🇨🇿 Чехия 2 ASTRA NETWORKS LTD
+vless://f8cb3c89-32af-4255-bebc-d90aad175069@195.123.245.211:443?encryption=none&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&serviceName=neurex&sid=27350908de933e09&sni=cza.899themes.pro&type=grpc#🇨🇿 Чехия 3 ROUTE 95 LLC
