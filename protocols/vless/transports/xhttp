@@ -4,8 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IHhIVFRQ
-vless://80b3cf20-c77c-4fb9-a69e-55c9dadd58c8@217.60.30.70:8443?encryption=none&fp=firefox&host=jurnal.primetap.pro&path=/api/v2/live/84bdcf675b7dc43f&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=jurnal.primetap.pro&type=xhttp#🇩🇪 Германия Vladislav Doniy
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@89.169.54.244:443?encryption=none&fp=firefox&path=/d20896a4ce30&pbk=jIRVNEf9SpuWP2nJrAbHGGIUnfzOmwZZlrNGw-Y-O2Q&security=reality&sid=2d2598d60447a967&sni=e60833x.nl7.h1clayd.click&type=xhttp#🇳🇱 Нидерланды GLOBAL CONNECTIVITY SOLUTIONS LLP
-vless://00799b08-1090-4ed3-bec0-0fa26816a703@72.56.69.70:443?encryption=none&fp=firefox&path=/api/v2/stream&security=tls&sni=plaksa.bootless.ru&type=xhttp#🇵🇱 Польша HOSTES LTD
+vless://00799b08-1090-4ed3-bec0-0fa26816a703@72.56.69.70:443?encryption=none&extra={"noSSEHeader":false}&fp=firefox&path=/api/v2/stream&security=tls&sni=plaksa.bootless.ru&type=xhttp#🇵🇱 Польша HOSTES LTD
 vless://5915986c-d28a-4286-998b-5f8c254c6ac8@87.120.106.95:443?encryption=none&fp=firefox&host=www.worldoftanks.eu&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&security=reality&sni=www.worldoftanks.eu&type=xhttp#🇺🇸 США Unredacted Inc
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@130.49.190.223:25191?encryption=none&fp=firefox&path=/astral-edge-h1&pbk=_Cb2FzFDVi9blwCb_5V0NZue6wt-U6GL0N_-OX8NGGA&security=reality&sid=55328e423218ee9b&sni=a8687er.se2.h1clayd.click&type=xhttp#🇸🇪 Швеция Hostup AB

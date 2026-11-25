@@ -4,8 +4,8 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://db906786-8c49-4b17-9182-cea680ef954d@43.164.191.170:443?encryption=none&fp=firefox&host=krd.80782636.xyz&path=/kw7x2mq9&security=tls&sni=krd.80782636.xyz&type=ws#🇰🇷 Южная Корея 1 Shenzhen Tencent Computer Systems Company Limited
-vless://9a600801-e889-4705-9adb-bf9aeb366fc7@43.155.175.232:443?encryption=none&fp=firefox&security=tls&sni=ifdmbpb.kdns.fr&type=tcp#🇰🇷 Южная Корея 2 Shenzhen Tencent Computer Systems Company Limited
-vless://00799b08-1090-4ed3-bec0-0fa26816a703@72.56.69.70:443?encryption=none&fp=firefox&path=/api/v2/stream&security=tls&sni=plaksa.bootless.ru&type=xhttp#🇵🇱 Польша HOSTES LTD
-vless://2a446e74-fd92-4917-aa71-f4d54721cf24@37.202.231.38:5252?encryption=none&fp=firefox&host=dpt.codmaxx.ir&path=/video&security=tls&sni=dpt.codmaxx.ir&type=ws#🇹🇷 Турция YottaSrc
+vless://7aa77858-f235-000e-9434-7ab060848b17@171.22.73.93:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=cdn.f2p.onl&type=tcp#🇩🇪 Германия 1 Hetzner Online GmbH
+vless://7aa77858-f235-000f-9434-7ab060848b17@171.22.73.93:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=cdn.f2p.onl&type=tcp#🇩🇪 Германия 2 STENCLOUD LLC
+vless://00799b08-1090-4ed3-bec0-0fa26816a703@72.56.69.70:443?encryption=none&extra={"noSSEHeader":false}&fp=firefox&path=/api/v2/stream&security=tls&sni=plaksa.bootless.ru&type=xhttp#🇵🇱 Польша HOSTES LTD
 vless://08c97940-7646-494c-82f5-7bc19b973281@65.21.242.134:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=mail2.besttotaldns.com&type=tcp#🇫🇮 Финляндия Hetzner Online GmbH
+vless://9a600801-e889-4705-9adb-bf9aeb366fc7@43.155.175.232:443?encryption=none&fp=firefox&security=tls&sni=ifdmbpb.kdns.fr&type=tcp#🇰🇷 Южная Корея Shenzhen Tencent Computer Systems Company Limited

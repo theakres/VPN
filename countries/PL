@@ -5,5 +5,5 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQn9C+0LvRjNGI0LA=
 vless://9c4f2213-4aed-4144-bca0-f4bf740d8310@189.74.116.41:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.oblachnyservis.cc&type=tcp#🇵🇱 Польша 1 FDCservers.net
-vless://00799b08-1090-4ed3-bec0-0fa26816a703@72.56.69.70:443?encryption=none&fp=firefox&path=/api/v2/stream&security=tls&sni=plaksa.bootless.ru&type=xhttp#🇵🇱 Польша 2 HOSTES LTD
+vless://00799b08-1090-4ed3-bec0-0fa26816a703@72.56.69.70:443?encryption=none&extra={"noSSEHeader":false}&fp=firefox&path=/api/v2/stream&security=tls&sni=plaksa.bootless.ru&type=xhttp#🇵🇱 Польша 2 HOSTES LTD
 vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@144.31.112.64:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qTwivTdhfTMDVJPsPrpx833IyxQM1DZqxnCby0VF5XE&security=reality&sid=cfe386d1e27b6085&sni=zorvik.speedtec.ru&type=tcp#🇵🇱 Польша 3 LLC HOSTOFF CSL
