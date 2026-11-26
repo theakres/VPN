@@ -7,14 +7,13 @@
 vless://0173d52e-8e1b-4681-831e-11529677b72f@50.7.28.214:443?encryption=none&fp=firefox&security=tls&sni=api-v3-0173d52e.vmagnum.win&type=xhttp#🇩🇪 Германия 1 FDCservers.net
 vless://0173d52e-8e1b-4681-831e-11529677b72f@50.7.28.214:443?encryption=none&extra={"xmux":{"maxConnections":1,"maxReuseTimes":0}}&fp=firefox&security=tls&sni=api-v3-0173d52e.vmagnum.win&type=xhttp#🇩🇪 Германия 2 FDCservers.net
 vless://33393561-4c63-416f-91dd-f88efc57c42a@91.107.243.2:993?encryption=none&fp=firefox&security=tls&sni=hw3.modemjibi.com.&type=ws#🇩🇪 Германия 3 Hetzner Online GmbH
-vless://41bcd5ea-f90c-4227-ab6f-23de50b0a226@92.223.84.84:443?encryption=none&fp=firefox&host=my-site-9bzpe6v5.gcorecdn.com&security=tls&sni=gcore.com&type=xhttp#🇩🇪 Германия 4 Hetzner Online GmbH
+vless://5c34ead9-5d88-470c-a028-e877e03cbaa3@31.59.190.14:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=31.59.190.14&type=tcp#🇩🇪 Германия 4 OVH SAS
 vless://364fc00d-9960-4099-ba72-a6665cf40f4c@48.103.230.114:443?encryption=none&fp=firefox&path=/access&security=tls&sni=api.cdn-mirror.net&type=ws#🇳🇱 Нидерланды 1 ASTRA NETWORKS LTD
 vless://6cd3dbe2-5bb8-4115-aad9-d50b238ce841@48.103.230.114:443?encryption=none&fp=firefox&path=/access&security=tls&sni=api.cdn-mirror.net&type=ws#🇳🇱 Нидерланды 2 ASTRA NETWORKS LTD
-vless://0173d52e-8e1b-4681-831e-11529677b72f@196.240.125.244:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-v1-6b07048f.vmagnum.win&type=tcp#🇳🇱 Нидерланды 3 Orion Network Limited
-vless://0173d52e-8e1b-4681-831e-11529677b72f@196.240.125.11:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-v1-6b07048f.vmagnum.win&type=tcp#🇳🇱 Нидерланды 4 Orion Network Limited
+vless://0173d52e-8e1b-4681-831e-11529677b72f@196.240.125.11:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-v1-6b07048f.vmagnum.win&type=tcp#🇳🇱 Нидерланды 3 Orion Network Limited
+vless://0173d52e-8e1b-4681-831e-11529677b72f@196.240.125.244:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-v1-6b07048f.vmagnum.win&type=tcp#🇳🇱 Нидерланды 4 Orion Network Limited
 vless://8bc3af32-c6bb-4a57-8da1-9a662fd79e3c@196.240.4.12:443?encryption=none&fp=firefox&path=/lv&security=tls&sni=8bc3af32.ferrin.uk&type=xhttp#🇱🇻 Латвия 1 Orion Network Limited
 vless://8bc3af32-c6bb-4a57-8da1-9a662fd79e3c@196.240.5.12:443?encryption=none&fp=firefox&path=/lv&security=tls&sni=8bc3af32.ferrin.uk&type=xhttp#🇱🇻 Латвия 2 Orion Network Limited
-vless://0173d52e-8e1b-4681-831e-11529677b72f@23.237.202.252:443?encryption=none&fp=firefox&security=tls&sni=id-0173d52e.vmagnum.win&type=xhttp#🇺🇸 США FDCservers.net
-vless://6463c737-9a6b-4652-8148-a8a52bf120f6@191.223.137.177:443?encryption=mlkem768x25519plus.native.0rtt.1mPV_03FYfCTg_EjuB7WE-fU6cbDkBrmNUsLWVL7pXw&extra={"noGRPCHeader":true,"uplinkHTTPMethod":"POST"}&fp=firefox&host=static.videos.ntsrc.xyz&path=/media/v3/segments&security=tls&sni=static.videos.ntsrc.xyz&type=xhttp#🇫🇮 Финляндия Web1 Oy
+vless://0173d52e-8e1b-4681-831e-11529677b72f@23.237.202.252:443?encryption=none&fp=firefox&security=tls&sni=id-0173d52e.vmagnum.win&type=xhttp#🇺🇸 США 1 FDCservers.net
+vless://628c40ed-187c-4dc7-8bec-0611080ea133@193.233.87.133:8443?encryption=none&fp=firefox&host=next-a5t.pages.dev&path=/628c40ed-187c-4dc7-8bec-0611080ea133?ed=2048&security=tls&sni=next-a5t.pages.dev&type=ws#🇺🇸 США 2 FDCservers.net
 vless://36460f92-81d2-4a5b-9c58-7578a7bfeede@179.253.81.242:443?encryption=none&fp=firefox&host=179.253.81.242&path=/edge/stream&security=tls&sni=ee.cultcorp.net&type=xhttp#🇪🇪 Эстония SERV.HOST GROUP LTD
-vless://8840fac2-5361-4cb6-b887-cd1b95092394@50.7.159.242:443?encryption=none&fp=firefox&security=tls&sni=jp.reddotcorp.org&type=tcp#🇯🇵 Япония FDCservers.net

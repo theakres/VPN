@@ -7,3 +7,4 @@
 vless://364fc00d-9960-4099-ba72-a6665cf40f4c@48.103.230.114:443?encryption=none&fp=firefox&path=/access&security=tls&sni=api.cdn-mirror.net&type=ws#🇳🇱 Нидерланды 1 ASTRA NETWORKS LTD
 vless://6cd3dbe2-5bb8-4115-aad9-d50b238ce841@48.103.230.114:443?encryption=none&fp=firefox&path=/access&security=tls&sni=api.cdn-mirror.net&type=ws#🇳🇱 Нидерланды 2 ASTRA NETWORKS LTD
 vless://33393561-4c63-416f-91dd-f88efc57c42a@91.107.243.2:993?encryption=none&fp=firefox&security=tls&sni=hw3.modemjibi.com.&type=ws#🇩🇪 Германия Hetzner Online GmbH
+vless://628c40ed-187c-4dc7-8bec-0611080ea133@193.233.87.133:8443?encryption=none&fp=firefox&host=next-a5t.pages.dev&path=/628c40ed-187c-4dc7-8bec-0611080ea133?ed=2048&security=tls&sni=next-a5t.pages.dev&type=ws#🇺🇸 США FDCservers.net

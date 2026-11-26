@@ -4,9 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
-vless://7803bad0-403e-4ccc-bd7c-47db51eb674e@187.54.12.84:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=86EpUrVaruIgHArqIZ91MKs2PXDeG7G5cqa6PizC1w8&security=reality&sid=9cedc15f97a064df&sni=se02.static-s3.org&type=tcp#🇸🇪 Швеция 1 AdaptGroup LLC
-vless://7803bad0-403e-4ccc-bd7c-47db51eb674e@187.54.12.85:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=86EpUrVaruIgHArqIZ91MKs2PXDeG7G5cqa6PizC1w8&security=reality&sid=9cedc15f97a064df&sni=se02.static-s3.org&type=tcp#🇸🇪 Швеция 2 AdaptGroup LLC
-vless://7803bad0-403e-4ccc-bd7c-47db51eb674e@187.54.11.83:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=86EpUrVaruIgHArqIZ91MKs2PXDeG7G5cqa6PizC1w8&security=reality&sid=9cedc15f97a064df&sni=se01.static-s3.org&type=tcp#🇸🇪 Швеция 3 AdaptGroup LLC
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@82.27.77.237:25191?encryption=none&fp=firefox&path=/astral-edge-h1&pbk=_Cb2FzFDVi9blwCb_5V0NZue6wt-U6GL0N_-OX8NGGA&security=reality&sid=55328e423218ee9b&sni=a8687er.se2.h1clayd.click&type=xhttp#🇸🇪 Швеция 4 Hostup AB
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@82.27.77.237:25191?encryption=none&fp=firefox&host=82.27.77.237&path=/astral-edge-h1&pbk=_Cb2FzFDVi9blwCb_5V0NZue6wt-U6GL0N_-OX8NGGA&security=reality&sid=55328e423218ee9b&sni=a8687er.se2.h1clayd.click&type=xhttp#🇸🇪 Швеция 5 Hostup AB
-vless://639b131f-d0f3-460c-aa17-423047f8a5df@213.21.252.56:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=stock2.mcufa.pro&type=tcp#🇸🇪 Швеция 6 AEZA GROUP LLC
+vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@82.27.77.237:25191?encryption=none&fp=firefox&path=/astral-edge-h1&pbk=_Cb2FzFDVi9blwCb_5V0NZue6wt-U6GL0N_-OX8NGGA&security=reality&sid=55328e423218ee9b&sni=a8687er.se2.h1clayd.click&type=xhttp#🇸🇪 Швеция 1 Hostup AB
+vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@82.27.77.237:25191?encryption=none&fp=firefox&host=82.27.77.237&path=/astral-edge-h1&pbk=_Cb2FzFDVi9blwCb_5V0NZue6wt-U6GL0N_-OX8NGGA&security=reality&sid=55328e423218ee9b&sni=a8687er.se2.h1clayd.click&type=xhttp#🇸🇪 Швеция 2 Hostup AB
+vless://639b131f-d0f3-460c-aa17-423047f8a5df@213.21.252.56:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=stock2.mcufa.pro&type=tcp#🇸🇪 Швеция 3 AEZA GROUP LLC

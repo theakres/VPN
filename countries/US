@@ -4,8 +4,10 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQodCo0JA=
-vless://25b062d3-1d5c-45f7-a8e2-c2981bbe9c27@152.232.82.194:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videobereg.cc&type=tcp#🇺🇸 США 1 B2 Net Solutions Inc.
-vless://9b0eb7db-c3be-4564-bf69-025ae05d02b4@152.232.82.194:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videobereg.cc&type=tcp#🇺🇸 США 2 B2 Net Solutions Inc.
-vless://0173d52e-8e1b-4681-831e-11529677b72f@23.237.202.252:443?encryption=none&fp=firefox&security=tls&sni=id-0173d52e.vmagnum.win&type=xhttp#🇺🇸 США 3 FDCservers.net
-vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@45.86.158.201:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cEapNjAtrnPz_dCSziCJVvXJf2Mq_FtY5UabpQFmI0w&security=reality&sid=449f801b009f33f4&sni=e293c7t.us3.h1clayd.click&type=tcp#🇺🇸 США 4 Interserver, Inc
-vless://81d6c0bb-280b-40d1-ac51-3081386bb895@87.120.106.95:443?encryption=none&fp=firefox&host=worldoftanks.eu&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&security=reality&sni=worldoftanks.eu&type=xhttp#🇺🇸 США 5 Unredacted Inc
+vless://0173d52e-8e1b-4681-831e-11529677b72f@23.237.202.252:443?encryption=none&fp=firefox&security=tls&sni=id-0173d52e.vmagnum.win&type=xhttp#🇺🇸 США 1 FDCservers.net
+vless://628c40ed-187c-4dc7-8bec-0611080ea133@193.233.87.133:8443?encryption=none&fp=firefox&host=next-a5t.pages.dev&path=/628c40ed-187c-4dc7-8bec-0611080ea133?ed=2048&security=tls&sni=next-a5t.pages.dev&type=ws#🇺🇸 США 2 FDCservers.net
+vless://ab53f3b6-7962-4bc1-90f6-8420767b22a8@136.148.85.91:8443?encryption=none&fp=firefox&path=/xhttp&pbk=KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k&security=reality&sid=6bd33a75ebc0f26e&sni=cdn-us.cahmes.space&type=xhttp#🇺🇸 США 3 ROUTE 95 LLC
+vless://ab53f3b6-7962-4bc1-90f6-8420767b22a8@136.148.85.91:8443?encryption=none&fp=firefox&host=cdn-us.cahmes.space&path=/xhttp&pbk=KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k&security=reality&sid=6bd33a75ebc0f26e&sni=cdn-us.cahmes.space&type=xhttp#🇺🇸 США 4 ROUTE 95 LLC
+vless://9b0eb7db-c3be-4564-bf69-025ae05d02b4@152.232.82.194:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videobereg.cc&type=tcp#🇺🇸 США 5 B2 Net Solutions Inc.
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@45.86.158.201:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cEapNjAtrnPz_dCSziCJVvXJf2Mq_FtY5UabpQFmI0w&security=reality&sid=449f801b009f33f4&sni=e293c7t.us3.h1clayd.click&type=tcp#🇺🇸 США 6 Interserver, Inc
+vless://81d6c0bb-280b-40d1-ac51-3081386bb895@87.120.106.95:443?encryption=none&fp=firefox&host=worldoftanks.eu&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&security=reality&sni=worldoftanks.eu&type=xhttp#🇺🇸 США 7 Unredacted Inc
