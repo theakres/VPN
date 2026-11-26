@@ -4,6 +4,10 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@82.27.77.237:25191?encryption=none&fp=firefox&path=/astral-edge-h1&pbk=_Cb2FzFDVi9blwCb_5V0NZue6wt-U6GL0N_-OX8NGGA&security=reality&sid=55328e423218ee9b&sni=a8687er.se2.h1clayd.click&type=xhttp#🇸🇪 Швеция 1 Hostup AB
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@82.27.77.237:25191?encryption=none&fp=firefox&host=82.27.77.237&path=/astral-edge-h1&pbk=_Cb2FzFDVi9blwCb_5V0NZue6wt-U6GL0N_-OX8NGGA&security=reality&sid=55328e423218ee9b&sni=a8687er.se2.h1clayd.click&type=xhttp#🇸🇪 Швеция 2 Hostup AB
-vless://639b131f-d0f3-460c-aa17-423047f8a5df@213.21.252.56:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=stock2.mcufa.pro&type=tcp#🇸🇪 Швеция 3 AEZA GROUP LLC
+hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.240.41:443?sni=clustertoken.comparecarprices.org#🇸🇪 Швеция 1 SERV.HOST GROUP LTD
+hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@31.76.3.7:443?sni=revisionbuyer.videostockmarket.org#🇸🇪 Швеция 2 SERV.HOST GROUP LTD
+vless://b1490307-d693-4392-8f32-a3f7cc139202@31.76.3.7:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=revisionbuyer.videostockmarket.org&type=ws#🇸🇪 Швеция 3 SERV.HOST GROUP LTD
+vless://b1490307-d693-4392-8f32-a3f7cc139202@144.31.240.41:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=clustertoken.comparecarprices.org&type=ws#🇸🇪 Швеция 4 SERV.HOST GROUP LTD
+vless://639b131f-d0f3-460c-aa17-423047f8a5df@213.21.252.56:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=stock2.mcufa.pro&type=tcp#🇸🇪 Швеция 5 AEZA GROUP LLC
+hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@147.45.73.182:443?sni=accountentry.comparecarprices.org#🇸🇪 Швеция 6 AEZA GROUP LLC
+vless://b1490307-d693-4392-8f32-a3f7cc139202@147.45.73.182:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=accountentry.comparecarprices.org&type=ws#🇸🇪 Швеция 7 AEZA GROUP LLC

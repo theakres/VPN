@@ -4,6 +4,12 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkNCy0YHRgtGA0LjRjw==
-vless://ac01dcf5-a26d-46b1-9514-0ab4088ca813@189.74.115.7:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediaroshcha.cc&type=tcp#🇦🇹 Австрия 1 FDCservers.net
-vless://b1d8c4f5-0236-4480-a1bc-acd1ecf1be1b@189.74.115.7:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediaroshcha.cc&type=tcp#🇦🇹 Австрия 2 FDCservers.net
-vless://4af962fb-c7e1-4084-8d4a-7825e8fba4b8@193.106.220.10:777?encryption=none&fp=firefox&pbk=AUyBhGHOGhQNdyRB_WYISQmc1jb_vwjbeuSqJ2Hq0XE&security=reality&sid=54a84d1a&sni=it.nvidia.com&type=grpc#🇦🇹 Австрия 3 NetCrafters OU
+hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.129.87:443?sni=batchrefund.videostockmarket.org#🇦🇹 Австрия 1 H2NEXUS CLOUD SERVICES - FZCO
+hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.129.78:443?sni=coastalchart.videostockmarket.org#🇦🇹 Австрия 2 H2NEXUS CLOUD SERVICES - FZCO
+hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.129.91:443?sni=menuagent.videostockmarket.org#🇦🇹 Австрия 3 H2NEXUS CLOUD SERVICES - FZCO
+vless://b1490307-d693-4392-8f32-a3f7cc139202@144.31.129.78:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=coastalchart.videostockmarket.org&type=ws#🇦🇹 Австрия 4 H2NEXUS CLOUD SERVICES - FZCO
+vless://b1490307-d693-4392-8f32-a3f7cc139202@144.31.129.91:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=menuagent.videostockmarket.org&type=ws#🇦🇹 Австрия 5 H2NEXUS CLOUD SERVICES - FZCO
+vless://ac01dcf5-a26d-46b1-9514-0ab4088ca813@189.74.115.7:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediaroshcha.cc&type=tcp#🇦🇹 Австрия 6 FDCservers.net
+vless://b1d8c4f5-0236-4480-a1bc-acd1ecf1be1b@189.74.115.7:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediaroshcha.cc&type=tcp#🇦🇹 Австрия 7 FDCservers.net
+vless://aba7e731-72aa-427e-ba2f-123477fc2887@189.74.115.7:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediaroshcha.cc&type=tcp#🇦🇹 Австрия 8 FDCservers.net
+vless://4af962fb-c7e1-4084-8d4a-7825e8fba4b8@193.106.220.10:777?encryption=none&fp=firefox&pbk=AUyBhGHOGhQNdyRB_WYISQmc1jb_vwjbeuSqJ2Hq0XE&security=reality&sid=54a84d1a&sni=it.nvidia.com&type=grpc#🇦🇹 Австрия 9 NetCrafters OU
