@@ -4,4 +4,4 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNGA0LDQvdGG0LjRjw==
-vless://ff2291f4-b977-4935-83a9-d94378cb3b01@189.74.117.17:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videodolina.cc&type=tcp#🇫🇷 Франция FDCservers.net
+vless://e6d52328-2d60-4fcf-812c-9734493baf11@194.122.84.6:443?encryption=none&extra={"xmux":{"maxConcurrency":"16-32","cMaxReuseTimes":"256-512","hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","hKeepAlivePeriod":30}}&fp=firefox&host=fl1.internium.forum&path=/connect&security=tls&sni=fl1.internium.forum&type=xhttp#🇫🇷 Франция ESIMPSON LLC

@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQktGM0LXRgtC90LDQvA==
-vless://43a7c35b-dfa4-4195-989b-b632af00ad69@160.191.52.145:6838?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sjPpGfG9yvgwG7cXdc4xruMml5A2jvLkhGDuaAn1hn8&security=reality&sni=vietteltelecom.vn&type=tcp#🇻🇳 Вьетнам 1 VNPT Corp
-vless://c2427d3f-5357-4721-b0b2-80ea6caa6e23@160.191.52.145:6838?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sjPpGfG9yvgwG7cXdc4xruMml5A2jvLkhGDuaAn1hn8&security=reality&sni=vietteltelecom.vn&type=tcp#🇻🇳 Вьетнам 2 VNPT Corp
