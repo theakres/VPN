@@ -4,5 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
-vless://240cb330-efc6-4d06-b5de-eb5fa8c7cc47@143.246.195.83:8448?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ipT42Jd5c_HMbbi-x0Qt12BGl2lGfJuZ5Im87DMfNGI&security=reality&sid=497b9fa9b6050f45&sni=www.tele2.se&type=tcp#🇸🇪 Швеция 1 ALEXHOST S.R.L.
-vless://5f4e9bd0-4c9a-416b-92c3-ca43174728de@104.20.0.89:2053?encryption=none&fp=firefox&host=farsnewsir.pages.dev&security=tls&sni=farsnewsir.pages.dev&type=ws#🇸🇪 Швеция 2 Cloudflare, Inc.
+vless://639b131f-d0f3-460c-aa17-423047f8a5df@213.21.252.56:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=stock2.mcufa.pro&type=tcp#🇸🇪 Швеция 1 AEZA GROUP LLC
+vless://240cb330-efc6-4d06-b5de-eb5fa8c7cc47@143.246.195.83:8448?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ipT42Jd5c_HMbbi-x0Qt12BGl2lGfJuZ5Im87DMfNGI&security=reality&sid=497b9fa9b6050f45&sni=www.tele2.se&type=tcp#🇸🇪 Швеция 2 ALEXHOST S.R.L.
+vless://5f4e9bd0-4c9a-416b-92c3-ca43174728de@104.20.0.89:2053?encryption=none&fp=firefox&host=farsnewsir.pages.dev&security=tls&sni=farsnewsir.pages.dev&type=ws#🇸🇪 Швеция 3 Cloudflare, Inc.
