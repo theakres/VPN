@@ -4,19 +4,14 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
-vless://b69cf773-da16-486e-afce-a45b94f998b3@179.255.137.204:8443?encryption=none&fp=firefox&host=senflarelink-node-xfcyh2.pages.dev&path=/flow=&security=tls&sni=senflarelink-node-xfcyh2.pages.dev&type=ws#🇺🇸 США 1 Cloudflare, Inc.
-vless://b69cf773-da16-486e-afce-a45b94f998b3@179.255.137.204:8443?encryption=none&fp=firefox&host=senflarelink-node-xfcyh2.pages.dev&security=tls&sni=senflarelink-node-xfcyh2.pages.dev&type=ws#🇺🇸 США 2 Cloudflare, Inc.
-vless://edeb6e83-2de8-4e2c-a44d-656ae2991278@208.103.161.2:2083?encryption=none&fp=firefox&security=tls&sni=RayaN15-90e49Yiz-v3.rAYan-15.workeRS.deV&type=ws#🇺🇸 США 3 Amazon.com, Inc.
-vless://628c40ed-187c-4dc7-8bec-0611080ea133@193.233.87.133:8443?encryption=none&fp=firefox&host=next-a5t.pages.dev&path=/628c40ed-187c-4dc7-8bec-0611080ea133?ed=2048&security=tls&sni=next-a5t.pages.dev&type=ws#🇺🇸 США 4 HostPapa
-vless://628c40ed-187c-4dc7-8bec-0611080ea133@193.233.87.133:8443?encryption=none&fp=firefox&host=next-a5t.pages.dev&path=/628c40ed-187c-4dc7-8bec-0611080ea133&security=tls&sni=next-a5t.pages.dev&type=ws#🇺🇸 США 5 Oracle Corporation
-vless://628c40ed-187c-4dc7-8bec-0611080ea133@193.233.87.133:8443?encryption=none&fp=firefox&host=next-a5t.pages.dev&path=/628c40ed-187c-4dc7-8bec-0611080ea133?ed=2048fp=firefox&security=tls&sni=next-a5t.pages.dev&type=ws#🇺🇸 США 6 The Constant Company, LLC
-vless://33393561-4c63-416f-91dd-f88efc57c42a@91.107.145.31:993?encryption=none&fp=firefox&security=tls&sni=hw3.modemjibi.com.&type=ws#🇩🇪 Германия 1 Hetzner Online GmbH
-vless://33393561-4c63-416f-91dd-f88efc57c42a@91.107.145.31:993?encryption=none&fp=firefox&host=hw3.modemjibi.com.&security=tls&sni=hw3.modemjibi.com.&type=ws#🇩🇪 Германия 2 Hetzner Online GmbH
+vless://33393561-4c63-416f-91dd-f88efc57c42a@91.107.145.31:993?encryption=none&fp=firefox&host=hw3.modemjibi.com.&security=tls&sni=hw3.modemjibi.com.&type=ws#🇩🇪 Германия 1 Hetzner Online GmbH
+vless://33393561-4c63-416f-91dd-f88efc57c42a@91.107.145.31:993?encryption=none&fp=firefox&security=tls&sni=hw3.modemjibi.com.&type=ws#🇩🇪 Германия 2 Hetzner Online GmbH
 vless://33393561-4c63-416f-91dd-f88efc57c42a@91.107.145.31:993?encryption=none&fp=firefox&path=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&security=tls&sni=hw3.modemjibi.com.&type=ws#🇩🇪 Германия 3 Hetzner Online GmbH
-vless://0201af77-da3f-4aea-95e1-d35c98ec1b21@208.103.161.2:2087?encryption=none&fp=firefox&security=tls&sni=rayAn03-9wwNe2e6-v1.raYan-03.worKers.dEV&type=ws#🇩🇪 Германия 4 OVH SAS
+vless://0201af77-da3f-4aea-95e1-d35c98ec1b21@208.103.161.2:2087?encryption=none&fp=firefox&security=tls&sni=rayAn03-9wwNe2e6-v1.raYan-03.worKers.dEV&type=ws#🇩🇪 Германия 4 FIRST SERVER, SOCIEDAD LIMITADA
 vless://b398ddde-edd8-4ba9-a218-eebd136913ad@208.103.161.2:2083?encryption=none&fp=firefox&security=tls&sni=ZGqHW1lxrVKVdFe0t.17ys7jQ251.woRKeRs.DEV&type=ws#🇩🇪 Германия 5 WAIcore Ltd
 vless://50414e45-4c5f-5a45-5553-d617da6e0a54@194.156.26.20:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/d617da6e0a54&security=tls&sni=qzzw7gegux3s.ersg587gatdd.workers.dev&type=ws#🇷🇺 Россия 1 Cloudflare, Inc.
 vless://50414e45-4c5f-5a45-5553-d498006b6113@194.156.26.4:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/d498006b6113&security=tls&sni=4kzs98enuqus.gametyrhewr06.workers.dev&type=ws#🇷🇺 Россия 2 Cloudflare, Inc.
 vless://591e7de6-f2dd-4ff9-ae21-8e00d5affa2a@46.250.246.11:8443?encryption=none&fp=firefox&host=46-250-246-11.sslip.io&path=/vpn-live&security=tls&sni=46-250-246-11.sslip.io&type=ws#🇦🇺 Австралия Contabo Asia Private Limited
 vless://591e7de6-f2dd-4ff9-ae21-8e00d5affa2a@147.93.171.8:8443?encryption=none&fp=firefox&host=147-93-171-8.sslip.io&path=/vpn-live&security=tls&sni=147-93-171-8.sslip.io&type=ws#🇮🇳 Индия Contabo Asia Private Limited
 vless://fc45503f-8403-4f7e-b510-92fe2ede8ffa@185.131.64.125:443?encryption=mlkem768x25519plus.native.0rtt._Iw_26TmwEm4IqWRegt0H8MUykosG7DGizsl0o4Jcxg&fp=firefox&host=Liber1.b-cdn.net&security=tls&sni=Liber1.b-cdn.net&type=ws#🇳🇱 Нидерланды Clouvider Limited
+vless://edeb6e83-2de8-4e2c-a44d-656ae2991278@208.103.161.2:2083?encryption=none&fp=firefox&security=tls&sni=RayaN15-90e49Yiz-v3.rAYan-15.workeRS.deV&type=ws#🇺🇸 США Amazon.com, Inc.
