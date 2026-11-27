@@ -1,0 +1,11 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQntCx0YXQvtC0INCR0KE=
+vless://99c1d1a2-5953-4566-8bea-a1861b4d0563@45.9.14.195:8445?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6kOTlfXhKW3tCBtMFQjjDZXJ6dm5TsiLOL7IONrM0y4&security=reality&sid=32164451823b4bd5&sni=bestrecipes-online.site&type=tcp#🇳🇱 Нидерланды 1 ExpressHost Ltd
+vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@37.18.14.25:18442?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qcQLgmXcaZnmi6G19qfREf1_vj-f05z8CVW0q8-4vyQ&security=reality&sid=fdf358c631f381c3&sni=sbmicro731.alexdjane.am&type=tcp#🇳🇱 Нидерланды 2 SERVERS TECH FZCO
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@185.86.147.33:443?encryption=none&fp=firefox&path=/g189ws&security=tls&sni=get.rtkdvbr.cc&type=ws#🇳🇱 Нидерланды 3 The Infrastructure Group B.V.
+vless://99c1d1a2-5953-4566-8bea-a1861b4d0563@45.9.15.47:8444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tVzgouWXfEtRH_j0ulUVuutWHVVmWwAWSFMwUC0RCQo&security=reality&sid=bdb9dfc2e611a9e2&sni=bestrecipes-online.site&type=tcp#🇩🇪 Германия ExpressHost Ltd
+vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@84.201.130.151:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FmH06hSx9EeWD2rSoIDxr_LT0kuspuA3CnWBAOciZhE&security=reality&sid=9dcf31a09fe98e19&sni=ruforeign3.richhoodfoc.com&type=tcp#🇷🇺 Россия Yandex.Cloud LLC
