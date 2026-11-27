@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQntCQ0K0=
+vless://d3277a12-396d-4726-acdb-248add69b1d4@211.121.253.29:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9MSKYWgSJJvRFEM86YdBxLMZfUhrz-xyUA99Fl22ACk&security=reality&sid=b495f40f&sni=www.fastly.com&type=tcp#🇦🇪 ОАЭ 1 Melbikomas UAB
+vless://d3277a12-396d-4726-acdb-248add69b1d4@121.103.99.60:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9MSKYWgSJJvRFEM86YdBxLMZfUhrz-xyUA99Fl22ACk&security=reality&sid=b495f40f&sni=www.fastly.com&type=tcp#🇦🇪 ОАЭ 2 Melbikomas UAB
