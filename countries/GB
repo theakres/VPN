@@ -4,4 +4,7 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQktC10LvQuNC60L7QsdGA0LjRgtCw0L3QuNGP
-vless://61c9aca3-c23b-4410-a85d-85fda46a76cc@48.102.240.1:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Bp9vEczvQrw_il1G29wH2eolQ2gM-2SwRK5ceMRLf2I&security=reality&sid=51ed343f9bbbbbd5&sni=brutak.kramiliantha.sbs&type=tcp#🇬🇧 Великобритания Akenai Products LTD
+vless://e7678bcb-be0c-4275-aa1d-6298324a003e@185.18.250.2:443?encryption=none&fp=firefox&host=worker3.cidayo573832.workers.dev&path=/ZSwEHuFy9lC7zgDp&security=tls&sni=worker3.cidayo573832.workers.dev&type=ws#🇬🇧 Великобритания 1 AEZA GROUP LLC
+vless://e7678bcb-be0c-4275-aa1d-6298324a003e@185.18.250.2:443?ech=https://dns.digitalsize.net/dns-query&encryption=none&fp=firefox&path=/ZSwEHuFy9lC7zgDp?ed=2560&security=tls&sni=worker3.cidayo573832.workers.dev&type=ws#🇬🇧 Великобритания 2 AEZA GROUP LLC
+vless://e7678bcb-be0c-4275-aa1d-6298324a003e@185.18.250.2:443?encryption=none&fp=firefox&path=/ZSwEHuFy9lC7zgDp?ed=2560&security=tls&sni=worker3.cidayo573832.workers.dev&type=ws#🇬🇧 Великобритания 3 AEZA GROUP LLC
+vless://61c9aca3-c23b-4410-a85d-85fda46a76cc@48.102.240.1:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Bp9vEczvQrw_il1G29wH2eolQ2gM-2SwRK5ceMRLf2I&security=reality&sid=51ed343f9bbbbbd5&sni=brutak.kramiliantha.sbs&type=tcp#🇬🇧 Великобритания 4 Akenai Products LTD
