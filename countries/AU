@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkNCy0YHRgtGA0LDQu9C40Y8=
+vless://591e7de6-f2dd-4ff9-ae21-8e00d5affa2a@46.250.246.11:8443?encryption=none&fp=firefox&host=46-250-246-11.sslip.io&path=/vpn-live&security=tls&sni=46-250-246-11.sslip.io&type=ws#🇦🇺 Австралия Contabo Asia Private Limited

@@ -4,10 +4,12 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.240.41:443?sni=clustertoken.comparecarprices.org#🇸🇪 Швеция 1 SERV.HOST GROUP LTD
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@31.76.3.7:443?sni=revisionbuyer.videostockmarket.org#🇸🇪 Швеция 2 SERV.HOST GROUP LTD
-vless://b1490307-d693-4392-8f32-a3f7cc139202@31.76.3.7:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=revisionbuyer.videostockmarket.org&type=ws#🇸🇪 Швеция 3 SERV.HOST GROUP LTD
-vless://b1490307-d693-4392-8f32-a3f7cc139202@144.31.240.41:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=clustertoken.comparecarprices.org&type=ws#🇸🇪 Швеция 4 SERV.HOST GROUP LTD
-vless://639b131f-d0f3-460c-aa17-423047f8a5df@213.21.252.56:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=stock2.mcufa.pro&type=tcp#🇸🇪 Швеция 5 AEZA GROUP LLC
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@147.45.73.182:443?sni=accountentry.comparecarprices.org#🇸🇪 Швеция 6 AEZA GROUP LLC
-vless://b1490307-d693-4392-8f32-a3f7cc139202@147.45.73.182:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=accountentry.comparecarprices.org&type=ws#🇸🇪 Швеция 7 AEZA GROUP LLC
+vless://0629a723-e9fd-460e-80fe-67e3149d9f64@187.54.11.144:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Ah92GPz7DePQhzVy1wMpB2i7I-ONOHmFI8tmgs9Bvzw&security=reality&sid=4ed692757445e6ab&sni=se01.static-s3.org&type=tcp#🇸🇪 Швеция 1 AdaptGroup LLC
+vless://47cd0aca-3ed8-4ddd-86c6-4d3f6a7670b4@187.54.11.143:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Ah92GPz7DePQhzVy1wMpB2i7I-ONOHmFI8tmgs9Bvzw&security=reality&sid=4ed692757445e6ab&sni=se01.static-s3.org&type=tcp#🇸🇪 Швеция 2 AdaptGroup LLC
+vless://47cd0aca-3ed8-4ddd-86c6-4d3f6a7670b4@187.54.11.145:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Ah92GPz7DePQhzVy1wMpB2i7I-ONOHmFI8tmgs9Bvzw&security=reality&sid=4ed692757445e6ab&sni=se01.static-s3.org&type=tcp#🇸🇪 Швеция 3 AdaptGroup LLC
+vless://7af8c5d0-ede6-40ab-9b9e-d7924f79d109@84.32.217.173:14443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bDusKhZi2NCA08GISCdWKvfuvFE8iGLlhCyoSFzh_lI&security=reality&sid=5e6ab3ab238625&sni=sw.sometraffic.org&type=tcp#🇸🇪 Швеция 4 UAB Cherry Servers
+vless://2098ca45-e61c-4a92-ad7d-8badb6b154f4@88.216.72.171:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&security=reality&sid=1c5869a95671bcb0&sni=se-sto1.connect.accessboy.com&type=tcp#🇸🇪 Швеция 5 UAB Cherry Servers
+vless://639b131f-d0f3-460c-aa17-423047f8a5df@213.21.252.56:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=stock2.mcufa.pro&type=tcp#🇸🇪 Швеция 6 AEZA GROUP LLC
+vless://240cb330-efc6-4d06-b5de-eb5fa8c7cc47@143.246.195.83:8448?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ipT42Jd5c_HMbbi-x0Qt12BGl2lGfJuZ5Im87DMfNGI&security=reality&sid=497b9fa9b6050f45&sni=www.tele2.se&type=tcp#🇸🇪 Швеция 7 ALEXHOST S.R.L.
+vless://7af8c5d0-ede6-40ab-9b9e-d7924f79d109@185.86.155.244:443?encryption=none&fp=firefox&host=converts.gurkusmalo.ru&path=/api/convert/stream/&pbk=qucWHVPGYdsD15hBKwspio2WAd0hNe9_Fv1Z4xTKSlA&security=reality&sid=5e2ab9ab138424&sni=converts.gurkusmalo.ru&type=xhttp#🇸🇪 Швеция 8 H2NEXUS CLOUD SERVICES - FZCO
+vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@48.103.231.62:25191?encryption=none&fp=firefox&path=/astral-edge-h1&pbk=_Cb2FzFDVi9blwCb_5V0NZue6wt-U6GL0N_-OX8NGGA&security=reality&sid=55328e423218ee9b&sni=a8687er.se2.h1clayd.click&type=xhttp#🇸🇪 Швеция 9 Hostup AB
