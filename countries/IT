@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmNGC0LDQu9C40Y8=
+vless://937bc631-4022-41d2-ae15-d8247ba5e32d@104.18.21.69:443?encryption=none&fp=firefox&host=it-mil.862400.xyz&path=/announcement?ed=2048&security=tls&sni=it-mil.862400.xyz&type=ws#🇮🇹 Италия 1 Akamai Technologies, Inc.
+vless://937bc631-4022-41d2-ae15-d8247ba5e32d@104.18.20.69:443?encryption=none&fp=firefox&host=it-mil.862400.xyz&path=/announcement?ed=2048&security=tls&sni=it-mil.862400.xyz&type=ws#🇮🇹 Италия 2 Akamai Technologies, Inc.
