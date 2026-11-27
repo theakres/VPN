@@ -4,11 +4,5 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IGdSUEM=
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@153.56.231.73:443?encryption=none&fp=firefox&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&security=reality&serviceName=204adda7e3da&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&type=grpc#🇳🇱 Нидерланды 1 H1CLOUD LTD
-vless://379b1f28-8109-43bc-9317-8f1f24cdc85b@185.236.8.42:443?encryption=none&fp=firefox&security=tls&serviceName=grpc&sni=edge-tr.lindenpixel.com&type=grpc#🇳🇱 Нидерланды 2 WEYRO LTD
-vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@185.12.127.227:12443?encryption=none&fp=firefox&pbk=iOiEYVhf8MzKkR88wAJ2uBYeEUj0J6I8JF_mNl-dTgA&security=reality&serviceName=cas-us&sid=78237c6b&sni=archive.saltmarsh-photo.de&type=grpc#🇺🇸 США 1 HYEHOST LLC
-vless://379b1f28-8109-43bc-9317-8f1f24cdc85b@216.86.70.132:443?encryption=none&fp=firefox&security=tls&serviceName=grpc&sni=nl18.plus-hit.ru&type=grpc#🇺🇸 США 2 WEYRO LTD
-vless://379b1f28-8109-43bc-9317-8f1f24cdc85b@213.178.141.247:443?encryption=none&fp=firefox&security=tls&serviceName=grpc&sni=edge-de2.lindenpixel.com&type=grpc#🇩🇪 Германия WEYRO LTD
-vless://6631915a-14eb-48d5-884d-bf4e3e30b071@45.133.73.155:2087?encryption=none&fp=firefox&pbk=oxdpwF7pHTpNG_R2y_Og0vOd2AAsCZ9dhCADuFH90AU&security=reality&serviceName=grpc-tunnel&sni=main.vpsvdsclouds.net&type=grpc#🇭🇰 Гонконг Julian Achter
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@153.56.231.73:443?encryption=none&fp=firefox&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&security=reality&serviceName=204adda7e3da&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&type=grpc#🇳🇱 Нидерланды H1CLOUD LTD
 vless://2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df@153.56.231.174:443?encryption=none&fp=firefox&pbk=ITvHZlJwSY3tsZEN3uTmOGj5hUWk-uazUBh7ZGBy33o&security=reality&serviceName=973a13acd723&sid=d50d9c31ff34ebc7&sni=468bc3g.fi16.h1clayd.click&type=grpc#🇫🇮 Финляндия Edge Core FZE
-vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@185.12.127.227:13443?encryption=none&fp=firefox&pbk=xHFKo76jn7L0vwj1s54CaqHUYRVBaSiXeL77G60KPDY&security=reality&serviceName=cas-za&sid=37fb3547&sni=archive.saltmarsh-photo.de&type=grpc#🇿🇦 ЮАР Host Africa Pty Ltd
