@@ -4,8 +4,9 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQodCo0JA=
-vless://6d30baea-6964-4db3-a454-e0a4bab5fae3@5.161.26.33:443?encryption=none&fp=firefox&host=dl.code-academy.ir&security=tls&sni=dl.code-academy.ir&type=ws#🇺🇸 США 1 Hetzner Online GmbH
-vless://6d30baea-6964-4db3-a454-e0a4bab5fae3@5.161.26.117:443?encryption=none&fp=firefox&host=dl.code-academy.ir&security=tls&sni=dl.code-academy.ir&type=ws#🇺🇸 США 2 Hetzner Online GmbH
-vless://4522dc13-e4f2-4ab4-94b6-5793770bafeb@152.232.82.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videobereg.cc&type=tcp#🇺🇸 США 3 B2 Net Solutions Inc.
-vless://ffec601b-ea61-473d-8105-d20873cb1f81@8.6.112.0:443?encryption=mlkem768x25519plus.native.0rtt.f1l2fwqTCc7B0iOHb3rNWVT6Js-L_1h1wWcSu4HkRyI&flow=xtls-rprx-vision&fp=firefox&host=hiphop.moltafet.bond&path=/t.me-SubGift&security=tls&sni=hiphop.moltafet.bond&type=ws#🇺🇸 США 4 Cloudflare, Inc.
-vless://ba373a70-295f-482d-a471-8bc17b54e23b@79.141.163.152:443?encryption=none&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&serviceName=neurex&sid=27350908de933e09&sni=usa.899themes.pro&type=grpc#🇺🇸 США 5 HZ Hosting Ltd
+vless://4522dc13-e4f2-4ab4-94b6-5793770bafeb@152.232.82.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videobereg.cc&type=tcp#🇺🇸 США 1 B2 Net Solutions Inc.
+vless://d0681c8c-45e0-403d-89e4-1a0800d284a3@152.232.82.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videobereg.cc&type=tcp#🇺🇸 США 2 B2 Net Solutions Inc.
+vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@48.103.122.20:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=steam-videos.cc&type=tcp#🇺🇸 США 3 Evgenii Konstantinov
+vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@104.224.47.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=steam-videos.cc&type=tcp#🇺🇸 США 4 Evgenii Konstantinov
+vless://ffec601b-ea61-473d-8105-d20873cb1f81@8.47.69.0:443?encryption=mlkem768x25519plus.native.0rtt.f1l2fwqTCc7B0iOHb3rNWVT6Js-L_1h1wWcSu4HkRyI&flow=xtls-rprx-vision&fp=firefox&host=hiphop.moltafet.bond&path=/t.me-SubGift&security=tls&sni=hiphop.moltafet.bond&type=ws#🇺🇸 США 5 Cloudflare, Inc.
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@79.141.163.152:443?encryption=none&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&serviceName=neurex&sid=27350908de933e09&sni=usa.899themes.pro&type=grpc#🇺🇸 США 6 HZ Hosting Ltd
