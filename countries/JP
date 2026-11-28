@@ -4,6 +4,4 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQr9C/0L7QvdC40Y8=
-vless://81f705b5-9039-4adf-8671-783095bba0e8@69.5.174.78:443?encryption=none&fp=firefox&path=/api/v1/sync&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&security=reality&sid=ae64c9b46bff174a&sni=www.shikoku-np.co.jp&type=xhttp#🇯🇵 Япония 1 Hydra Communications Ltd
-vless://81f705b5-9039-4adf-8671-783095bba0e8@69.5.174.78:443?encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=firefox&path=/api/v1/sync&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&security=reality&sid=ae64c9b46bff174a&sni=www.shikoku-np.co.jp&type=xhttp#🇯🇵 Япония 2 Hydra Communications Ltd
-vless://3b0c1876-2628-4407-b328-ec7d53a58436@103.117.103.58:17486?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-FG4W4Xws3r5fllP4n51UKg4CPoGe7KgCVLu4b_T02g&security=reality&sid=de7c6503&sni=aws.amazon.com&type=tcp#🇯🇵 Япония 3 DMIT Cloud Services
+vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#🇯🇵 Япония Oracle Corporation
