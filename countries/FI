@@ -5,6 +5,4 @@
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNC40L3Qu9GP0L3QtNC40Y8=
 vless://87bd811a-09d0-4eb8-a391-2d3b739ab4c3@89.167.80.209:443?encryption=none&fp=firefox&security=tls&sni=edge-test-01.arrowinout.com&type=tcp#🇫🇮 Финляндия 1 Hetzner Online GmbH
-vless://894bfb03-ccd6-46b8-bc62-42a081b3e539@65.109.197.143:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=cd6-46b8-b-fi-d.pclients.de&type=tcp#🇫🇮 Финляндия 2 Hetzner Online GmbH
-vless://3bb9bbf8-3972-4b85-8b8a-7cfa8ac6acb9@48.102.134.66:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kYtxYTRn2PIWTpinaHviHkvxrUzi_1kfVhNE3zMKugU&security=reality&sid=a4f8c2e9b1d703a6&sni=nuhaibeb.online&type=tcp#🇫🇮 Финляндия 3 DpkgSoft International Limited
-vless://81f705b5-9039-4adf-8671-783095bba0e8@144.31.150.140:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&security=reality&sid=ae64c9b46bff174a&sni=fl1.sky-vault.top&type=tcp#🇫🇮 Финляндия 4 Raul Ghita trading as Ghita Telekom
+vless://81f705b5-9039-4adf-8671-783095bba0e8@144.31.150.140:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&security=reality&sid=ae64c9b46bff174a&sni=fl1.sky-vault.top&type=tcp#🇫🇮 Финляндия 2 Raul Ghita trading as Ghita Telekom
