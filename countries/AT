@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkNCy0YHRgtGA0LjRjw==
+vless://3de54b98-fdfe-4a8d-ae72-f2458dd5e5f4@45.86.245.222:443?encryption=none&extra={"mode":"auto","xmux":{"hKeepAlivePeriod":30,"hMaxRequestTimes":"400-600","hMaxReusableSecs":"600-900","maxConcurrency":"16-32"}}&fp=firefox&host=bremen.gosgenarchive.com&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc&security=reality&sni=bremen.gosgenarchive.com&type=xhttp#🇦🇹 Австрия NetCrafters OU
