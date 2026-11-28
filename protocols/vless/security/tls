@@ -4,17 +4,15 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFRMUw==
-vless://af3631e1-b5ca-430c-8d1c-bf6ea25041f4@185.18.250.2:443?encryption=none&fp=firefox&host=worker3.fotatoc62553.workers.dev&path=/ZSwEHuFy9lC7zgDp&security=tls&sni=worker3.fotatoc62553.workers.dev&type=ws#🇩🇪 Германия 1 dataforest GmbH
-vless://940bc02a-cb4d-4320-82eb-fe79b8ba111a@2.31.173.62:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=static.107.217.233.167.clients.your-server.de&type=tcp#🇩🇪 Германия 2 Hetzner Online GmbH
-vless://39131eb6-88da-481d-8a38-bae3ecbbda7e@154.197.64.252:443?encryption=none&fp=firefox&host=worker3.keribe1542.workers.dev&path=/JVfQVSkS4J96MY2Y&security=tls&sni=worker3.keribe1542.workers.dev&type=ws#🇩🇪 Германия 3 Oracle Corporation
-vless://a3942a63-819f-4a68-bbbd-ffccedb0abd9@45.135.235.255:443?encryption=none&fp=firefox&path=/NxEvrDKOG7eWhZ20?ed=2560&security=tls&sni=worker3.wimat94374.workers.dev&type=ws#🇩🇪 Германия 4 The Constant Company, LLC
+vless://af3631e1-b5ca-430c-8d1c-bf6ea25041f4@185.18.250.2:443?encryption=none&fp=firefox&host=worker3.fotatoc62553.workers.dev&path=/ZSwEHuFy9lC7zgDp&security=tls&sni=worker3.fotatoc62553.workers.dev&type=ws#🇩🇪 Германия 1 Oracle Corporation
+vless://39131eb6-88da-481d-8a38-bae3ecbbda7e@154.197.64.252:443?encryption=none&fp=firefox&host=worker3.keribe1542.workers.dev&path=/JVfQVSkS4J96MY2Y&security=tls&sni=worker3.keribe1542.workers.dev&type=ws#🇩🇪 Германия 2 Oracle Corporation
+vless://be5fa620-fe55-4e34-87fb-c6b50c0b90c9@154.197.64.252:443?encryption=none&fp=firefox&host=worker3.fosexej7666.workers.dev&path=/LOGZPldfDGZEtuMh&security=tls&sni=worker3.fosexej7666.workers.dev&type=ws#🇩🇪 Германия 3 Oracle Corporation
+vless://68a0181c-8264-4e10-bccc-a4771036ad44@8.6.112.0:443?encryption=none&fp=firefox&host=worker3.fonep7558.workers.dev&path=/FVY1GD1e5FxKmN08&security=tls&sni=worker3.fonep7558.workers.dev&type=ws#🇩🇪 Германия 4 IONOS SE
+vless://68a0181c-8264-4e10-bccc-a4771036ad44@45.135.235.255:443?encryption=none&fp=firefox&host=worker3.fonep7558.workers.dev&path=/FVY1GD1e5FxKmN08&security=tls&sni=worker3.fonep7558.workers.dev&type=ws#🇩🇪 Германия 5 IONOS SE
+vless://a3942a63-819f-4a68-bbbd-ffccedb0abd9@45.135.235.255:443?encryption=none&fp=firefox&path=/NxEvrDKOG7eWhZ20?ed=2560&security=tls&sni=worker3.wimat94374.workers.dev&type=ws#🇩🇪 Германия 6 Amazon.com, Inc.
 vless://f121ffc8-f6dc-4728-a871-a05e3f9cf8c5@196.198.111.173:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=usr-6b09ce88-api-v3.alcors.net&type=tcp#🇪🇪 Эстония 1 Orion Network Limited
-vless://f121ffc8-f6dc-4728-a871-a05e3f9cf8c5@196.198.111.189:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=usr-6b09ce88-api-v3.alcors.net&type=tcp#🇪🇪 Эстония 2 Orion Network Limited
-vless://f121ffc8-f6dc-4728-a871-a05e3f9cf8c5@196.198.111.181:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=usr-6b09ce88-api-v3.alcors.net&type=tcp#🇪🇪 Эстония 3 Orion Network Limited
-vless://a7810e85-0ce5-41b8-9868-c9435618b85e@91.92.47.57:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=vmheaven-tor3.sdvgamma.top&type=tcp#🇳🇱 Нидерланды 1 TechTies Inc.
-vless://8548b395-5ddd-43b4-886a-9473e43605da@104.18.3.64:443?encryption=none&fp=firefox&security=tls&serviceName=4855af74b778699bbf6721ab2019229d280f1281&sni=a1257.kqpgfib.store&type=grpc#🇳🇱 Нидерланды 2 Vuedge Tech LLC
-vless://be5fa620-fe55-4e34-87fb-c6b50c0b90c9@154.197.64.252:443?encryption=none&fp=firefox&host=worker3.fosexej7666.workers.dev&path=/LOGZPldfDGZEtuMh&security=tls&sni=worker3.fosexej7666.workers.dev&type=ws#🇬🇧 Великобритания AEZA GROUP LLC
+vless://f121ffc8-f6dc-4728-a871-a05e3f9cf8c5@196.198.111.181:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=usr-6b09ce88-api-v3.alcors.net&type=tcp#🇪🇪 Эстония 2 Orion Network Limited
+vless://f121ffc8-f6dc-4728-a871-a05e3f9cf8c5@196.198.111.189:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=usr-6b09ce88-api-v3.alcors.net&type=tcp#🇪🇪 Эстония 3 Orion Network Limited
 vless://2cd32135-6d4d-498e-82f8-42d68ae12792@177.1.193.52:443?encryption=none&fp=firefox&host=pl.vitalbest.site&path=/xh&security=tls&sni=pl.vitalbest.site&type=xhttp#🇵🇱 Польша PowerRDP Network LTD
-vless://a7810e85-0ce5-41b8-9868-c9435618b85e@162.249.125.156:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=romania.gamma-kvn.com&type=tcp#🇷🇴 Румыния INTERKVM HOST SRL
 vless://131e581e-42c2-474d-a22f-91d19f5b4652@141.193.213.20:8443?encryption=none&fp=firefox&host=sg16.gigaray.store&path=/gigaray&security=tls&sni=sg16.gigaray.store&type=ws#🇸🇬 Сингапур Akamai Technologies, Inc.
-vless://87bd811a-09d0-4eb8-a391-2d3b739ab4c3@89.167.80.209:443?encryption=none&fp=firefox&security=tls&sni=edge-test-01.arrowinout.com&type=tcp#🇫🇮 Финляндия Hetzner Online GmbH
+vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#🇯🇵 Япония Oracle Corporation
