@@ -4,5 +4,4 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQr9C/0L7QvdC40Y8=
-vless://6800ee8a-ce82-4d5d-b9b4-692e0c5c8696@172.105.237.204:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qrq_MRn8v-Ak5Ig6352LpdgCC2J1_XGv2BVb03FpJCw&security=reality&sid=c6f6a1c50d04b966&sni=amp-api-edge.apps.apple.com&type=tcp#🇯🇵 Япония 1 Akamai Technologies, Inc.
-vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#🇯🇵 Япония 2 Oracle Corporation
+vless://81f705b5-9039-4adf-8671-783095bba0e8@69.5.174.78:443?encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=firefox&path=/api/v1/sync&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&security=reality&sid=ae64c9b46bff174a&sni=www.shikoku-np.co.jp&type=xhttp#🇯🇵 Япония Hydra Communications Ltd
