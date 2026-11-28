@@ -4,13 +4,11 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQpNC40L3Qu9GP0L3QtNC40Y8=
-vless://b82773ac-28c1-4b54-8de1-032233e1aa33@85.133.230.22:443?encryption=none&fp=firefox&security=tls&sni=fi-6.meepo1.com&type=tcp#🇫🇮 Финляндия 1 Hetzner Online GmbH
-vless://b82773ac-28c1-4b54-8de1-032233e1aa33@81.12.35.196:443?encryption=none&fp=firefox&security=tls&sni=fi.meepo1.com&type=tcp#🇫🇮 Финляндия 2 Hetzner Online GmbH
-vless://b82773ac-28c1-4b54-8de1-032233e1aa33@185.215.231.40:443?encryption=none&fp=firefox&security=tls&sni=fi-4-n2.meepo1.com&type=tcp#🇫🇮 Финляндия 3 Hetzner Online GmbH
-vless://b82773ac-28c1-4b54-8de1-032233e1aa33@185.215.231.42:443?encryption=none&fp=firefox&security=tls&sni=fi-5.meepo1.com&type=tcp#🇫🇮 Финляндия 4 Hetzner Online GmbH
-vless://87bd811a-09d0-4eb8-a391-2d3b739ab4c3@89.167.80.209:443?encryption=none&fp=firefox&security=tls&sni=edge-test-01.arrowinout.com&type=tcp#🇫🇮 Финляндия 5 Hetzner Online GmbH
-hysteria2://8d2c3bee-d3eb-499e-9db3-287d01571d86@185.41.161.215:21?sni=fin3.zazadayy.online#🇫🇮 Финляндия 6 Atomidata Oy
-hysteria2://8d2c3bee-d3eb-499e-9db3-287d01571d86@185.41.161.215:777?sni=fin1.zazadayy.online#🇫🇮 Финляндия 7 Atomidata Oy
-hysteria2://8d2c3bee-d3eb-499e-9db3-287d01571d86@185.41.161.215:888?sni=fin4.zazadayy.online#🇫🇮 Финляндия 8 Atomidata Oy
-vless://b7639778-26eb-46a0-b979-c03f5beb4ebc@178.214.125.3:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZxCwJxbsZWJYYCPzeWj7_fxJMVhwh4XGfpvjmEIQjHY&security=reality&sid=6172ba9cffe9c22f&sni=cdn.tbank.ru&type=tcp#🇫🇮 Финляндия 9 Datacamp Limited
-vless://72c35867-7ed6-487f-904c-9e07597e0f20@8.6.112.0:443?encryption=none&fp=firefox&host=2.mxhammet.online&path=/s?ed=2048&security=tls&sni=2.mxhammet.online&type=ws#🇫🇮 Финляндия 10 PLAY2GO - FZCO
+hysteria2://8d2c3bee-d3eb-499e-9db3-287d01571d86@185.41.161.215:21?sni=fin3.zazadayy.online#🇫🇮 Финляндия 1 Atomidata Oy
+hysteria2://8d2c3bee-d3eb-499e-9db3-287d01571d86@185.41.161.215:888?sni=fin4.zazadayy.online#🇫🇮 Финляндия 2 Atomidata Oy
+hysteria2://8d2c3bee-d3eb-499e-9db3-287d01571d86@185.41.161.215:777?sni=fin1.zazadayy.online#🇫🇮 Финляндия 3 Atomidata Oy
+hysteria2://8d2c3bee-d3eb-499e-9db3-287d01571d86@185.41.161.215:23?sni=fin5.zazadayy.online#🇫🇮 Финляндия 4 Atomidata Oy
+vless://b7639778-26eb-46a0-b979-c03f5beb4ebc@178.214.125.3:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZxCwJxbsZWJYYCPzeWj7_fxJMVhwh4XGfpvjmEIQjHY&security=reality&sid=6172ba9cffe9c22f&sni=cdn.tbank.ru&type=tcp#🇫🇮 Финляндия 5 Datacamp Limited
+vless://018cc321-b683-400c-84df-9f94fc14e44f@45.15.161.5:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IPe3TKJ84tWTMFnJH2ZtO93O_F548wzGKcs2Q00aCn4&security=reality&sid=aaf5efcafe9a1b1e&sni=c3f5cb9e.fi23.h1clayd.shop&type=tcp#🇫🇮 Финляндия 6 GLOBAL CONNECTIVITY SOLUTIONS LLP
+vless://87bd811a-09d0-4eb8-a391-2d3b739ab4c3@89.167.80.209:443?encryption=none&fp=firefox&security=tls&sni=edge-test-01.arrowinout.com&type=tcp#🇫🇮 Финляндия 7 Hetzner Online GmbH
+vless://72c35867-7ed6-487f-904c-9e07597e0f20@8.6.112.0:443?encryption=none&fp=firefox&host=2.mxhammet.online&path=/s?ed=2048&security=tls&sni=2.mxhammet.online&type=ws#🇫🇮 Финляндия 8 PLAY2GO - FZCO

@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: AkresVPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/AkresMC
+#profile-web-page-url: https://vpn.akres.fun
+#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQmNGC0LDQu9C40Y8=
+vless://d6f86ea2-e932-4ee8-aa54-e5203d42c173@217.60.57.76:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=17-fqcIIoH1zjdxdokN-V7uOGx4aHzggiApZKyLXqQM&security=reality&sid=c41e35299956dfb4&sni=glyphs.larchstatic.com&type=tcp#🇮🇹 Италия GSL Networks Pty LTD
