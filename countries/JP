@@ -4,4 +4,5 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQr9C/0L7QvdC40Y8=
-vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#🇯🇵 Япония Oracle Corporation
+vless://260be9a8-e665-4f13-b180-caf977572046@104.105.144.69:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xdvQERmJc1kdE8EXsHLvcSMjVHREfW-8QiSzzFUmeCg&security=reality&sid=e59a78b559428a2b&sni=amp-api-edge.apps.apple.com&type=tcp#🇯🇵 Япония 1 Akamai Technologies, Inc.
+vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#🇯🇵 Япония 2 Oracle Corporation

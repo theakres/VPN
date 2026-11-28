@@ -4,8 +4,11 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQqNCy0LXRhtC40Y8=
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@147.45.73.182:443?sni=accountentry.comparecarprices.org#🇸🇪 Швеция 1 AEZA GROUP LLC
-vless://b1490307-d693-4392-8f32-a3f7cc139202@147.45.73.182:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=accountentry.comparecarprices.org&type=ws#🇸🇪 Швеция 2 AEZA GROUP LLC
+vless://47cd0aca-3ed8-4ddd-86c6-4d3f6a7670b4@187.54.11.143:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Ah92GPz7DePQhzVy1wMpB2i7I-ONOHmFI8tmgs9Bvzw&security=reality&sid=4ed692757445e6ab&sni=se01.static-s3.org&type=tcp#🇸🇪 Швеция 1 AdaptGroup LLC
+vless://47cd0aca-3ed8-4ddd-86c6-4d3f6a7670b4@187.54.11.145:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Ah92GPz7DePQhzVy1wMpB2i7I-ONOHmFI8tmgs9Bvzw&security=reality&sid=4ed692757445e6ab&sni=se01.static-s3.org&type=tcp#🇸🇪 Швеция 2 AdaptGroup LLC
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.240.41:443?sni=clustertoken.comparecarprices.org#🇸🇪 Швеция 3 SERV.HOST GROUP LTD
 vless://b1490307-d693-4392-8f32-a3f7cc139202@144.31.240.41:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=clustertoken.comparecarprices.org&type=ws#🇸🇪 Швеция 4 SERV.HOST GROUP LTD
-vless://ba373a70-295f-482d-a471-8bc17b54e23b@79.141.174.144:443?encryption=none&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&serviceName=neurex&sid=27350908de933e09&sni=seb.899themes.pro&type=grpc#🇸🇪 Швеция 5 HZ Hosting Ltd
+hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@147.45.73.182:443?sni=accountentry.comparecarprices.org#🇸🇪 Швеция 5 AEZA GROUP LLC
+vless://70bd7e36-518b-4ff7-a185-9085d220bdda@172.67.188.75:8443?encryption=none&fp=firefox&host=dry-snow-82af.xncncnxnnsnz.workers.dev&path=/?ed=2560&security=tls&sni=dry-snow-82af.xncncnxnnsnz.workers.dev&type=ws#🇸🇪 Швеция 6 Angelnet Limited
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@79.141.174.144:443?encryption=none&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&serviceName=neurex&sid=27350908de933e09&sni=seb.899themes.pro&type=grpc#🇸🇪 Швеция 7 HZ Hosting Ltd
+vless://70bd7e36-518b-4ff7-a185-9085d220bdda@104.21.32.240:8443?encryption=none&fp=firefox&host=dry-snow-82af.xncncnxnnsnz.workers.dev&path=/?ed=2560&security=tls&sni=dry-snow-82af.xncncnxnnsnz.workers.dev&type=ws#🇸🇪 Швеция 8 UAB Cherry Servers
