@@ -4,5 +4,11 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQr9C/0L7QvdC40Y8=
-vless://260be9a8-e665-4f13-b180-caf977572046@104.105.144.69:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xdvQERmJc1kdE8EXsHLvcSMjVHREfW-8QiSzzFUmeCg&security=reality&sid=e59a78b559428a2b&sni=amp-api-edge.apps.apple.com&type=tcp#🇯🇵 Япония 1 Akamai Technologies, Inc.
-vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#🇯🇵 Япония 2 Oracle Corporation
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@8.47.69.0:443?encryption=none&fp=firefox&host=jp.bbusxxxh.top&path=/images&security=tls&sni=jp.bbusxxxh.top&type=ws#🇯🇵 Япония 1 Datacamp Limited
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@104.26.14.56:443?encryption=none&fp=firefox&host=33333.bpjp2027.top&path=/images&security=tls&sni=33333.bpjp2027.top&type=ws#🇯🇵 Япония 2 Datacamp Limited
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@104.18.37.162:443?encryption=none&fp=firefox&host=33333.bpjp2027.top&path=/images&security=tls&sni=33333.bpjp2027.top&type=ws#🇯🇵 Япония 3 Datacamp Limited
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@104.17.240.55:443?encryption=none&fp=firefox&host=33333.bpjp2027.top&path=/images&security=tls&sni=33333.bpjp2027.top&type=ws#🇯🇵 Япония 4 Datacamp Limited
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@162.159.139.16:443?encryption=none&fp=firefox&host=33333.bpjp2027.top&path=/images&security=tls&sni=33333.bpjp2027.top&type=ws#🇯🇵 Япония 5 Datacamp Limited
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@162.159.132.174:443?encryption=none&fp=firefox&host=33333.bpjp2027.top&path=/images&security=tls&sni=33333.bpjp2027.top&type=ws#🇯🇵 Япония 6 Datacamp Limited
+vless://260be9a8-e665-4f13-b180-caf977572046@104.105.144.69:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xdvQERmJc1kdE8EXsHLvcSMjVHREfW-8QiSzzFUmeCg&security=reality&sid=e59a78b559428a2b&sni=amp-api-edge.apps.apple.com&type=tcp#🇯🇵 Япония 7 Akamai Technologies, Inc.
+vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#🇯🇵 Япония 8 Oracle Corporation

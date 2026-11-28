@@ -4,8 +4,9 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQk9C+0L3QutC+0L3Qsw==
-vless://e9923122-5d88-43f1-8548-5771d7750ef5@216.236.51.44:1891?encryption=none&fp=firefox&host=senflarelink-node-71i.pages.dev&security=tls&sni=senflarelink-node-71i.pages.dev&type=ws#🇭🇰 Гонконг 1 Cloudflare, Inc.
-vless://e9923122-5d88-43f1-8548-5771d7750ef5@216.236.51.44:1891?encryption=none&fp=firefox&host=senflarelink-node-71i.pages.dev&path=/flow=&security=tls&sni=senflarelink-node-71i.pages.dev&type=ws#🇭🇰 Гонконг 2 Cloudflare, Inc.
-hysteria2://5ec96249-b753-317a-b065-b67ad66b8185@14.137.237.98:60001?sni=hk01.kfc-520.com#🇭🇰 Гонконг 3 PCCW IMS Limited
-vless://f09b4bbe-a817-48aa-b698-1c537f7c4cb0@46.8.101.232:8443?encryption=none&fp=firefox&host=next-8zs.pages.dev&path=/f09b4bbe-a817-48aa-b698-1c537f7c4cb0?ed=2048&security=tls&sni=next-8zs.pages.dev&type=ws#🇭🇰 Гонконг 4 PCCW IMS Limited
-vless://3bfaf855-a05a-482a-93d3-d66388c5506c@204.115.18.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=l2LZUHHMVVbZwaIhBlMr-Vdpfo7I6_oFyOQdgZywOjI&security=reality&sid=2fa9b0474b689aff&sni=hk01.static-s3.org&type=tcp#🇭🇰 Гонконг 5 AdaptGroup LLC
+hysteria2://5ec96249-b753-317a-b065-b67ad66b8185@14.137.237.98:60001?sni=hk01.kfc-520.com#🇭🇰 Гонконг 1 PCCW IMS Limited
+vless://f09b4bbe-a817-48aa-b698-1c537f7c4cb0@46.8.101.232:8443?encryption=none&fp=firefox&host=next-8zs.pages.dev&path=/f09b4bbe-a817-48aa-b698-1c537f7c4cb0?ed=2048&security=tls&sni=next-8zs.pages.dev&type=ws#🇭🇰 Гонконг 2 PCCW IMS Limited
+hysteria2://c12f73f6-e8c7-11ed-9246-f23c9164ca5d@203.198.86.142:443?sni=193d0c41-tm96o0-tnggms-6gn6.nw4.hyhuawei.com#🇭🇰 Гонконг 3 PCCW IMS Limited
+vless://e9923122-5d88-43f1-8548-5771d7750ef5@216.236.51.44:1891?encryption=none&fp=firefox&host=senflarelink-node-71i.pages.dev&security=tls&sni=senflarelink-node-71i.pages.dev&type=ws#🇭🇰 Гонконг 4 Cloudflare, Inc.
+vless://e9923122-5d88-43f1-8548-5771d7750ef5@216.236.51.44:1891?encryption=none&fp=firefox&host=senflarelink-node-71i.pages.dev&path=/flow=&security=tls&sni=senflarelink-node-71i.pages.dev&type=ws#🇭🇰 Гонконг 5 Cloudflare, Inc.
+vless://3bfaf855-a05a-482a-93d3-d66388c5506c@204.115.18.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=l2LZUHHMVVbZwaIhBlMr-Vdpfo7I6_oFyOQdgZywOjI&security=reality&sid=2fa9b0474b689aff&sni=hk01.static-s3.org&type=tcp#🇭🇰 Гонконг 6 AdaptGroup LLC

@@ -1,7 +1,0 @@
-#profile-update-interval: 1
-#profile-title: AkresVPN
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#support-url: https://t.me/AkresMC
-#profile-web-page-url: https://vpn.akres.fun
-#announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQkNCy0YHRgtGA0LjRjw==
-vless://e2b2b2bb-1f26-45ab-9a7d-ca6bbcdcd4d2@67.159.17.151:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=txmBYPHsg2BXg1J9-HokrNNO_sZh_Zl3N_cU46Ck5gs&security=reality&sid=0d44312db16a14db&sni=stream.comp-mir.party&type=tcp#🇦🇹 Австрия FDCservers.net
