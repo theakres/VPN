@@ -4,8 +4,6 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiDQodCo0JA=
-vless://b7cf7b5d-6959-49ef-be31-abf51476eeea@87.120.106.95:443?encryption=none&fp=firefox&host=lockheart.info&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&security=reality&sni=lockheart.info&type=xhttp#🇺🇸 США 1 Unredacted Inc
-vless://c9c52e8d-1866-4dee-8f54-fa8c625c3ac1@146.75.117.242:443?encryption=none&fp=firefox&host=barbered-mattocks.video-streams.org&path=/ws&security=tls&sni=barbered-mattocks.video-streams.org&type=ws#🇺🇸 США 2 Unredacted Inc
-vless://05ccecfa-d93b-4281-83f9-18ac893287e5@104.67.77.206:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=67JbqmoyFec0bD_RZKj6EDBSALuJZRHp1XJF9SYv3SM&security=reality&sid=45ab505fba424a23&sni=amp-api-edge.apps.apple.com&type=tcp#🇺🇸 США 3 Akamai Technologies, Inc.
-vless://1f917a51-84e3-4ce9-8681-6980ae9d38d2@152.232.82.196:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videobereg.cc&type=tcp#🇺🇸 США 4 B2 Net Solutions Inc.
-vless://9ec5a6c1-5f9e-45ec-94f0-07fa5969745c@153.52.155.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hafTz4tDrS5Dxzr6qQ10LIpKGF7b_8gTlysz10ObLk4&security=reality&sid=4c543db4a2a7b913&sni=mirror.pixelhosting.nl&type=tcp#🇺🇸 США 5 OC NETWORKS LIMITED
+vless://05ccecfa-d93b-4281-83f9-18ac893287e5@104.67.77.206:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=67JbqmoyFec0bD_RZKj6EDBSALuJZRHp1XJF9SYv3SM&security=reality&sid=45ab505fba424a23&sni=amp-api-edge.apps.apple.com&type=tcp#🇺🇸 США 1 Akamai Technologies, Inc.
+vless://9ec5a6c1-5f9e-45ec-94f0-07fa5969745c@153.52.155.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hafTz4tDrS5Dxzr6qQ10LIpKGF7b_8gTlysz10ObLk4&security=reality&sid=4c543db4a2a7b913&sni=mirror.pixelhosting.nl&type=tcp#🇺🇸 США 2 OC NETWORKS LIMITED
+vless://b7cf7b5d-6959-49ef-be31-abf51476eeea@87.120.106.95:443?encryption=none&fp=firefox&host=lockheart.info&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&security=reality&sni=lockheart.info&type=xhttp#🇺🇸 США 3 Unredacted Inc
