@@ -4,9 +4,5 @@
 #support-url: https://t.me/AkresMC
 #profile-web-page-url: https://vpn.akres.fun
 #announce: base64:0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8gVlBOINC/0L7QtNC/0LjRgdC60LAuCtCk0LjQu9GM0YLRgNCw0YbQuNGPOiBWTEVTUyA+IFdlYlNvY2tldA==
-vless://5b20b66b-5e7e-4c00-a3b0-ce5de8611c4d@185.18.250.2:443?encryption=none&fp=firefox&path=/6q9UJmS2CckAEFb1?ed=2560&security=tls&sni=worker3.simax49258.workers.dev&type=ws#🇩🇪 Германия 1 AEZA GROUP LLC
-vless://cbfdab46-e183-4cc3-bab9-df954c8c601e@104.21.68.231:8443?encryption=none&fp=firefox&host=cdn.memepunk.ir&path=/vless-ws&security=tls&sni=cdn.memepunk.ir&type=ws#🇩🇪 Германия 2 Hetzner Online GmbH
-vless://af51de25-32ab-49d1-b3b1-8e22ae93b2a2@154.197.64.252:443?encryption=none&fp=firefox&host=worker3.yeliko7287.workers.dev&path=/6q9UJmS2CckAEFb1&security=tls&sni=worker3.yeliko7287.workers.dev&type=ws#🇫🇮 Финляндия 1 ACEVILLE PTE.LTD.
-vless://af51de25-32ab-49d1-b3b1-8e22ae93b2a2@5.175.141.15:443?ech=https://dns.digitalsize.net/dns-query&encryption=none&fp=firefox&path=/6q9UJmS2CckAEFb1?ed=2560&security=tls&sni=worker3.yeliko7287.workers.dev&type=ws#🇫🇮 Финляндия 2 ACEVILLE PTE.LTD.
+vless://fc45503f-8403-4f7e-b510-92fe2ede8ffa@185.131.64.125:443?encryption=mlkem768x25519plus.native.0rtt._Iw_26TmwEm4IqWRegt0H8MUykosG7DGizsl0o4Jcxg&fp=firefox&host=Liber1.b-cdn.net&security=tls&sni=Liber1.b-cdn.net&type=ws#🇳🇱 Нидерланды Clouvider Limited
 vless://bc0f9e3a-6dad-42d5-b09f-dff4cdf57437@170.114.45.6:443?encryption=none&fp=firefox&host=googleapis.hmacreation.eu.cc&security=tls&sni=googleapis.hmacreation.eu.cc&type=ws#🇸🇬 Сингапур Akamai Technologies, Inc.
-vless://8fcbb453-717d-4b29-8645-7e195c8daa26@38.47.116.125:443?encryption=none&fp=firefox&host=xzf.wzs.cs.do&path=/video/Q0QXGxJRFwkPQ0RFCg8YQFpWXkxYVVhIFV8TCwVbFlNTTwMOAUhRUlQWGRFdWENDRhcHVgUBUA==&security=tls&sni=xzf.wzs.cs.do&type=ws#🇺🇸 США Voxology Carrier Services, Inc.
